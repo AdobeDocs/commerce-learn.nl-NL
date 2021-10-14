@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video's en Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source.
-source-git-commit: 84481eda6064560e7aeedef3899f07a8d3a75fd4
+source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Adobe Commerce-video&#39;s en -Tutorials {#tutorials}
 
-+ [[!DNL Commerce] Video&#39;s en Tutorials](overview.md) {#overview}
++ [[!DNL Commerce] Video&#39;s en Tutorials](overview.md)
 
 + Aan de slag {#getting-started}
    + [!DNL Commerce] over cloudinfrastructuur  {#cloud}
@@ -74,7 +74,7 @@ ht-degree: 0%
    + [Een pagina maken](developer/create-new-page.md)
 
 + PWA Studio {#pwa-studio}
-   + Inleiding tot PWA Studio {#introduction}s
+   + Inleiding tot PWA Studio {#introduction}
       + [1 - Overzicht](./pwa/introduction/1-overview.md)
       + [2 - Gereedschappen voor PWA Studio&#39;s](./pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Starten](pwa/introduction/3-launch.md)
