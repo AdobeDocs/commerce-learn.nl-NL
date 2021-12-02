@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video's en Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source.
-source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
+source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 0%
 + [[!DNL Commerce] Video&#39;s en Tutorials](overview.md)
 
 + Aan de slag {#getting-started}
-   + [!DNL Commerce] over cloudinfrastructuur  {#cloud}
+   + [!DNL Commerce] over cloudinfrastructuur {#cloud}
       + [1 - Overzicht](./cloud/1-overview.md)
       + [2 - Gehoste accounts](./cloud/2-accounts.md)
       + [3 - Cloud-projecten](./cloud/3-projects.md)
       + [4 - Implementatie](./cloud/4-deployment.md)
       + [5 - Ontwikkeling](./cloud/5-dev-config.md)
       + [6 - Services en DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] voor ontwikkelaars  {#development}
+   + [!DNL Commerce] voor ontwikkelaars {#development}
       + [1.1 - Overzicht](./developer/backend-1-1-overview.md)
       + [1.2. Ontwikkelingswerkstroom](./developer/backend-1-2-workflow.md)
       + [2 - Installatie](./developer/backend-2-install.md)
@@ -30,9 +30,9 @@ ht-degree: 0%
       + [5.1 - Grondbeginselen van ontwikkeling](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Declaratief schema](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - het Verpletteren](./developer/backend-5-3-routing.md)
-      + [5.4 - een [!DNL Admin] pagina maken](./developer/backend-5-4-admin-page.md)
+      + [5.4 - Maak een [!DNL Admin] page](./developer/backend-5-4-admin-page.md)
       + [6 - Uitoefening](./developer/backend-6-practice.md)
-   + [!DNL Commerce] voor zakelijke gebruikers  {#merchants}
+   + [!DNL Commerce] voor zakelijke gebruikers {#merchants}
       + [1.1 - [!DNL Admin] menu&#39;s](./merchant/introduction/1-1-menus.md)
       + [1.2 - Gegevensrasters](./merchant/introduction/1-2-data-grids.md)
       + [1.3 - Segmenten, sites en winkels](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -55,8 +55,21 @@ ht-degree: 0%
       + [5.1 - Winkelervaring](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Klantenbeheer](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - E-mailcommunicatie](./merchant/introduction/5-3-store-communications.md)
+   + [!DNL Business Intelligence] {#business-intelligence}
+      + [1 - Overzicht](./merchant/business-intelligence/1-overview.md)
+      + [2 - Gegevensopslag](./merchant/business-intelligence/2-data-warehousing.md)
+      + [3 - Rapporten samenstellen](./merchant/business-intelligence/3-build-reports.md)
+      + [4 - Metriek](./merchant/business-intelligence/4-metrics.md)
+      + [5 - Standaardrapporten](./merchant/business-intelligence/5-standard-reports.md)
+      + [6 - Samenvatting](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [7 - Orders-dashboard](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [8 - Klantgerichte dashboards](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [9 - Categorieanalyse](./merchant/business-intelligence/9-category-analysis.md)
+      + [10 - Rendement van investeringen bijhouden](./merchant/business-intelligence/10-roi-tracking.md)
+      + [11 - Resultaten en exportgegevens delen](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [12 - succesverhalen van klanten](./merchant/business-intelligence/12-customer-success.md)
 
-+ Ontwikkeling van back-ups {#backend-development}
++ Ontwikkeling van achtergronden {#backend-development}
    + [Een nieuwe tabel toevoegen aan een database](./developer/add-new-db-table.md)
    + [Een module maken](developer/create-module.md)
    + [Een nieuw productkenmerk toevoegen](./developer/add-product-attribute.md)
