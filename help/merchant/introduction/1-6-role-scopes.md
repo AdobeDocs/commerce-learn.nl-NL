@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: cc755b9b630a382fa3703416588dfed0724452c9
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -28,11 +28,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versienota&#39;s.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Gebruikers toevoegen - [!DNL Commerce] user ](https://docs.magento.com/user-guide/system/permissions-users-all.html)
-[guideUser rollen - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Gebruikers toevoegen - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+
+[Gebruikersrollen - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/system/permissions-user-roles.html)

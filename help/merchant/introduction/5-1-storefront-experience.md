@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: aab81d4383df3a077a67aec3f73341af9f08c028
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -31,11 +31,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versienota&#39;s.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Klantenaccounts -  [!DNL Commerce] gebruikershandleiding ](https://docs.magento.com/user-guide/customers/customer-account.html)
-[Mijn verlanglijst -  [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)
+[Klantenaccounts - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/customers/customer-account.html)
+
+[Mijn verlanglijst - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/customers/account-dashboard-my-wish-list.html)

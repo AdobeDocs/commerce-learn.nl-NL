@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 0342ad31cbae1dd5af211ea90784a08e7568e9ca
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -29,11 +29,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versienota&#39;s.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Email - [!DNL Commerce] user ](https://docs.magento.com/user-guide/marketing/email-templates.html)
-[guideUsing variables - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/marketing/variables.html)
+[E-mail - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/marketing/email-templates.html)
+
+[Variabelen gebruiken - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/marketing/variables.html)

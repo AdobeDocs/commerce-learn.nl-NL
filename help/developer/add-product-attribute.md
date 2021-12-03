@@ -6,7 +6,7 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c672d2685a9f1cd3412435912508891df5b8bd87
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Een productkenmerk maken
 
-Het toevoegen van een productkenmerk is een van de populairste bewerkingen in [!DNL Commerce]. Kenmerken zijn een krachtige manier om veel praktische taken met betrekking tot een product op te lossen. Er is een eenvoudig proces om een dropdown-type attribuut aan een product toe te voegen.
+Het toevoegen van een productkenmerk is een van de meest gebruikte bewerkingen in [!DNL Commerce]. Kenmerken zijn een krachtige manier om veel praktische taken met betrekking tot een product op te lossen. Er is een eenvoudig proces om een dropdown-type attribuut aan een product toe te voegen.
 
 In deze video:
 
@@ -34,5 +34,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Kenmerken Nieuw ](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
-[productkenmerkAangepast toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[Een nieuw productkenmerk toevoegen](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+
+[Aangepaste kenmerken](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
