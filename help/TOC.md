@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video's en Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source.
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,15 @@ ht-degree: 0%
       + [10 - Rendement van investeringen bijhouden](./merchant/business-intelligence/10-roi-tracking.md)
       + [11 - Resultaten en exportgegevens delen](./merchant/business-intelligence/11-share-results-export-data.md)
       + [12 - succesverhalen van klanten](./merchant/business-intelligence/12-customer-success.md)
+
++ Werken in de beheerder {#admin}
+   + [Gebruikers, rollen en machtigingen](./merchant/users-roles-permissions.md)
+   + [Twee-factor authentificatie](./merchant/two-factor-authentication.md)
+   + [Websites en winkels toevoegen en weergaven opslaan](./merchant/add-websites-stores-views.md)
+   + [URL van winkel wijzigen](./merchant/change-store-url.md)
+   + [Site-overzicht opslaan](./merchant/site-map-setup.md)
+   + [Promotieprijsregels](./merchant/promotions-price-rules.md)
+   + [Overzicht van Page Builder](./merchant/page-builder-overview.md)
 
 + Ontwikkeling van achtergronden {#backend-development}
    + [Een nieuwe tabel toevoegen aan een database](./developer/add-new-db-table.md)
