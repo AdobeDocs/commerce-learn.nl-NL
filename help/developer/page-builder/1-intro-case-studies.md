@@ -1,14 +1,15 @@
 ---
 title: Page Builder voor ontwikkelaars - Inleiding
 description: Introductie van Page Builder, mogelijkheden van Page Builder begrijpen
+landing-page-description: Bekijk deze videoreeks om te leren over de Bouwer van de Pagina en hoe u het kunt uitbreiden om optimaal tot stand te brengen [!DNL Commerce] storefront experience.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 4f50dfb3ab23fcc9212e7810210b15840b634c2c
+source-git-commit: 74301d48821db74c67167096ba01699181feed8a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -35,6 +36,5 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Documentatie voor ontwikkelaars van Page Builder](https://devdocs.magento.com/page-builder/docs/index.html)
-
-[Gebruikersdocumentatie voor Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
+- [Documentatie voor ontwikkelaars van Page Builder](https://devdocs.magento.com/page-builder/docs/index.html)
+- [Gebruikersdocumentatie voor Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)

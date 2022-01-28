@@ -1,14 +1,16 @@
 ---
 title: Workshop Adobe Commerce 2.4-upgrade
-description: Bekijk dit geregistreerde webinar om !DNL Commerce] verbeteringsstappen en beste praktijken voor 2.4.4 of hoger te leren.
+description: Bekijk dit geregistreerde webinar om de verbeteringsstappen van Adobe Commerce en beste praktijken voor 2.4.4 of hoger te leren.
+landing-page-description: Bekijk deze geregistreerde webinar om over Adobe Commerce 2.4 verbeteringsstappen en beste praktijken te leren.
 kt: 9620
 doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
-source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
+exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
+source-git-commit: 7b29026613fc14ba1f2db1bbd21d3ebff51d4377
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
