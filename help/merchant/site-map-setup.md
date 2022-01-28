@@ -5,7 +5,7 @@ kt: 5592
 doc-type: feature video
 audience: all
 activity: use
-source-git-commit: fbafe35c45ff36d847d4db05cc29aea115ba1125
+source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -33,3 +33,4 @@ Een site-overzicht verbetert de manier waarop uw winkel wordt geïndexeerd door 
 
 - [Site-overzicht gebruiken](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
 - [XML Sitemap](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+

@@ -5,7 +5,7 @@ kt: 5607
 doc-type: feature video
 audience: all
 activity: use
-source-git-commit: fbafe35c45ff36d847d4db05cc29aea115ba1125
+source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -39,3 +39,4 @@ In Admin, opstelling productverhoudingen en gebruik prijsregels om kortingen op 
 - [Aanbiedingen](https://docs.magento.com/user-guide/marketing/promotions.html)
 - [Catalogusprijsregels](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html)
 - [Lijnen met winkelprijzen](https://docs.magento.com/user-guide/marketing/price-rules-cart.html)
+
