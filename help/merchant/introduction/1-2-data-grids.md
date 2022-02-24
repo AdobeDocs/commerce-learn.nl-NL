@@ -1,13 +1,13 @@
 ---
-title: '[!DNL Commerce] voor zakelijke gebruikers - Gegevensrasters'
-description: Leer hoe te met gegevensnetten in  [!DNL Commerce Admin] te werken.
+title: '"[!DNL Commerce] voor zakelijke gebruikers - Gegevensrasters"'
+description: Leer hoe u met gegevensrasters werkt in het dialoogvenster [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 9834d448-2907-4c7a-8eed-e5c36b96c9c9
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -28,10 +28,10 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versienota&#39;s.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Rasterbesturingselementen -  [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/stores/admin-grid-controls.html)
+[Rasterbesturingselementen - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/stores/admin-grid-controls.html)

@@ -1,12 +1,12 @@
 ---
 title: Een tabel toevoegen aan een database
-description: '[!DNL Commerce] heeft een speciaal mechanisme dat u toelaat om gegevensbestandlijsten tot stand te brengen, bestaande degenen te wijzigen, en zelfs sommige gegevens in hen toe te voegen.'
+description: '"[!DNL Commerce] heeft een speciaal mechanisme dat u toelaat om gegevensbestandlijsten tot stand te brengen, bestaande degenen te wijzigen, en zelfs sommige gegevens in hen toe te voegen."'
 topic: Development
 kt: 5613
 doc-type: video
 activity: use
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

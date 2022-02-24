@@ -1,5 +1,5 @@
 ---
-title: '[!DNL [!DNL Commerce]] voor zakelijke gebruikers - Openingspagina''s'
+title: '"[!DNL Commerce] voor zakelijke gebruikers - Openingspagina''s"'
 description: Leer hoe u een landingspagina voor categorieën instelt en de vormgeving regelt.
 topic: Commerce
 kt: 5766
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: 6bde407baafa262a5f82d7780e993c90463e62c5
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

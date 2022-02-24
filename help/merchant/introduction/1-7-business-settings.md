@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] voor zakelijke gebruikers - Opslaginstellingen'
+title: '"[!DNL Commerce] voor zakelijke gebruikers - Opslaginstellingen"'
 description: Leer meer over landinstellingen, opslaginformatie, beveiligde en onveilige URL's, websitetitel, logo, copyrightinformatie, communicatie-e-maillogo's, e-mailadressen van winkels, valutaopties en valutatarieven.
 topic: Commerce
 kt: 5764
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -36,10 +36,10 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versienota&#39;s.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Winkelgegevens -  [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/stores/store-details.html)
+[Winkeldetails - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/stores/store-details.html)

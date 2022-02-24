@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] voor ontwikkelaars - Installatie'
+title: '"[!DNL Commerce] voor ontwikkelaars - Installatie"'
 description: Meer informatie over de installatie van Composer en voorbeeldgegevens.
 kt: 5692
 doc-type: video
@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36194.jpeg
 activity: use
 exl-id: 070fe7d2-77f9-40d9-86e8-f2c8dccb2548
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---

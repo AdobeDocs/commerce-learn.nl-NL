@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] voor ontwikkelaars - Workflow voor ontwikkeling'
+title: '"[!DNL Commerce] voor ontwikkelaars - Werkschema voor ontwikkeling"'
 description: Leer over de typische ontwikkelingswerkschema voor Handel.
 kt: 5691
 doc-type: video
@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ In deze video:
 
 >[!IMPORTANT]
 >
->De Commerce Marketplace bevat niet langer de knop **Downloaden**. U moet de opdrachtregel gebruiken om extensies te installeren of bij te werken. Verwijs naar [Algemene CLI installatie](https://devdocs.magento.com/extensions/install/) onderwerp in de ontwikkelaardocumentatie voor meer informatie.
+>De Commerce Marketplace bevat niet langer de **Downloaden** knop. U moet de opdrachtregel gebruiken om extensies te installeren of bij te werken. Zie de [Algemene CLI-installatie](https://devdocs.magento.com/extensions/install/) onderwerp in de ontwikkelaarsdocumentatie voor meer informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

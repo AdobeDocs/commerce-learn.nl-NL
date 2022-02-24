@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] voor zakelijke gebruikers - Eenvoudige producten'
+title: '"[!DNL Commerce] voor zakelijke gebruikers - Eenvoudige producten"'
 description: Leer hoe u een eenvoudig product maakt met behulp van productkenmerksets.
 topic: Commerce
 kt: 5771
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 104bcabe-87c0-44ea-9bdb-6189b01ba6c7
-source-git-commit: 56770cb046e8ebef91475cee027baf880075c57e
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] voor ontwikkelaars - Grondbeginselen van ontwikkeling'
+title: '"[!DNL Commerce] voor ontwikkelaars - Grondbeginselen van ontwikkeling"'
 description: Leer over ontwikkelingsgrondbeginselen, met inbegrip van het creëren van een module, het vormen van uw opslag, de verrichtingen van DI, en een voorcontrolemechanismevoorbeeld.
 kt: 5695
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36197.jpeg
 activity: use
 exl-id: f27b31b7-6226-4e58-b2c0-6dafcc677940
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) versienota&#39;s.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36197?quality=12&learn=on)
 
