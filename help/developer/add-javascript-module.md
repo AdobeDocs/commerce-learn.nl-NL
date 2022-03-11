@@ -24,7 +24,7 @@ Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module 
 ## Stappen
 
 - Een module maken
-- Een `requirejs-config.js`- en een JavaScript-modulebestand maken
+- Een `requirejs-config.js` en een JavaScript-modulebestand
 - Lay-outupdate maken voor het toevoegen van een sjabloon die de JS-module inschakelt
 - Sjabloonbestand maken
 - Voeg de module toe en test het

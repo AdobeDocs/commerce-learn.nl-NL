@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Een module maken
 
-De module is een structureel element van [!DNL Commerce] - het volledige systeem wordt voortgebouwd op modules. De eerste stap bij het maken van een aanpassing is meestal het bouwen van een module.
+Module is een structuurelement van [!DNL Commerce] - het hele systeem is gebaseerd op modules. De eerste stap bij het maken van een aanpassing is meestal het bouwen van een module.
 
 ## Voor wie is deze video?
 

@@ -1,18 +1,18 @@
 ---
-title: '"[!DNL Page Builder] overzicht"'
+title: '''[!DNL Page Builder] overzicht'''
 description: Leer hoe u pagina's maakt [!DNL Commerce] Sla pagina's op in de beheerder met [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 role: Admin, Leader, User
 audience: all
 activity: use
-source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
+exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
+source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # [!DNL Page Builder] overzicht
 
@@ -46,4 +46,3 @@ Leer in deze video hoe u:
 
 - [Gebruikershandleiding voor Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
 - [Page Builder Developer Guide](https://devdocs.magento.com/page-builder/docs/index.html)
-
