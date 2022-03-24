@@ -3,13 +3,13 @@ title: Business Intelligence - Rapporten samenstellen
 description: Meer informatie over de opties voor het samenstellen van rapporten die beschikbaar zijn in de Business Intelligence.
 kt: 5726
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
