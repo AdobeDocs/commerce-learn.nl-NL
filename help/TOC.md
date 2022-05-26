@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video's en Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source.
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -82,6 +82,14 @@ ht-degree: 0%
    + [Filtersets](./merchant/business-intelligence/filter-sets.md)
    + [Cohort Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
    + [SQL Report Builder](./merchant/business-intelligence/sql-report-builder.md)
+   + [Voorbereiden op de toekomst](./merchant/business-intelligence/prepare-for-future.md)
+   + Webinars {#webinars}
+      + [Aan de slag met Business Intelligence](merchant/business-intelligence/webinars/getting-started.md)
+      + [Gegevenssets beheren](merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [Uw Data Warehouse optimaliseren](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [Gereedheid voor feestdagen](merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [Vraag het een expert, sessie 1](merchant/business-intelligence/webinars/ask-expert-1.md)
+      + [Vraag het een expert, sessie 2](merchant/business-intelligence/webinars/ask-expert-2.md)
 
 + Upgrades {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](./upgrade/2.4-upgrade-workshop.md)
