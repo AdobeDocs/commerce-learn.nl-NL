@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Rapporten samenstellen
-description: Meer informatie over de opties voor het samenstellen van rapporten die beschikbaar zijn in de Business Intelligence.
+title: MBI - Build-rapporten
+description: Meer informatie over de opties voor het samenstellen van rapporten die beschikbaar zijn in MBI.
 kt: 5726
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Rapporten samenstellen
+# MBI - Build-rapporten
 
-Er zijn twee opties voor het samenstellen van rapporten en analyse in de Business Intelligence: de visuele rapportbouwer en de SQL rapportbouwer.
+Er zijn twee opties voor het opstellen van rapporten en analyse in MBI: de visuele rapportbouwer en de SQL rapportbouwer.
 
 ## Voor wie is deze video?
 
@@ -27,7 +27,7 @@ Er zijn twee opties voor het samenstellen van rapporten en analyse in de Busines
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.2. Zie de [Gebruikershandleiding voor Business Intelligence](https://docs.magento.com/mbi/) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://docs.magento.com/mbi/) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 

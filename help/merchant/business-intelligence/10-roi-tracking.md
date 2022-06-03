@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Rendement van investeringscontrole
-description: Leer over de inzichten van de Business Intelligence die helpen uw rendement van investering volgen.
+title: MBI - Rendement van investeringen
+description: Meer informatie over de MBI-inzichten die helpen uw rendement van uw investering op te sporen.
 kt: 5737
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Rendement van investeringscontrole
+# MBI - Rendement van investeringen
 
-Business Intelligence biedt inzichten die u helpen uw investeringsrendement te bewaken en te beheren. Als u bijvoorbeeld investeert in onlinereclame, wilt u uw rendement op de uitgaven bijhouden om gegevensgestuurde beslissingen over verdere investeringen te nemen.
+MBI biedt inzichten die u helpen uw rendement van uw investering te bewaken en te beheren. Als u bijvoorbeeld investeert in onlinereclame, wilt u uw rendement op de uitgaven bijhouden om gegevensgestuurde beslissingen over verdere investeringen te nemen.
 
 ## Voor wie is deze video?
 
@@ -27,7 +27,7 @@ Business Intelligence biedt inzichten die u helpen uw investeringsrendement te b
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.2. Zie de [Gebruikershandleiding voor Business Intelligence](https://docs.magento.com/mbi/) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://docs.magento.com/mbi/) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35991?quality=12&learn=on)
 

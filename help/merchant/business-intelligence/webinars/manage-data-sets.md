@@ -1,28 +1,29 @@
 ---
-title: Business Intelligence - Gegevenssets beheren
-description: Bekijk dit webinar om over enkele krachtige eigenschappen van de Manager van de Data Warehouse van de Business Intelligence te leren.
-landing-page-description: Bekijk dit webinar om over enkele krachtige eigenschappen van de Manager van de Data Warehouse van de Business Intelligence te leren.
+title: Gegevenssets beheren in MBI
+description: Bekijk dit webinar om over enkele krachtige eigenschappen van de Manager van de Data Warehouse te leren MBI.
+landing-page-description: Bekijk dit webinar om over enkele krachtige eigenschappen van de Manager van de Data Warehouse te leren MBI.
 kt: 10410
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Gegevenssets beheren
+# Gegevenssets beheren in MBI
 
-Lees rechtstreeks vanuit het Adobe Commerce-productteam meer over de krachtige functies van de Business Intelligence Data Warehouse Manager. Ga verder dan het samenstellen van basisrapporten en leer hoe u meer kunt doen met uw gegevens.
+Of u nu beschikt over de krachtige functies van MBI Data Warehouse Manager, rechtstreeks bij het Adobe Commerce Product-team. Ga verder dan het samenstellen van basisrapporten en leer hoe u meer kunt doen met uw gegevens.
 
 Tijdens dit geregistreerde webinar, leert u hoe te om het rendement op investering van uw advertentiecampagnes te berekenen, door zich bij gegevens van Adobe Commerce, Google Ecommerce, en Google AdWords aan te sluiten.
 
 >[!TIP]
 >
->Als u nog geen ervaring hebt met Business Intelligence, [Aan de slag met videoreeks](./../1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](./../1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 

@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - succesverhalen van klanten
-description: Meer informatie over succesverhalen van klanten met Business Intelligence.
+title: MBI - succesverhalen van klanten
+description: Meer informatie over succesverhalen van klanten met MBI.
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - succesverhalen van klanten
+# MBI - succesverhalen van klanten
 
-Wanneer u met sommige van de nuttigste types van analysehandelaars in Business Intelligence vertrouwd bent, herzie sommige klanten succesverhalen en hoe zij hun analyse gebruikten om echte resultaten te krijgen.
+Wanneer u met sommige van de nuttigste types van analysehandelaars in MBI vertrouwd bent, herzie sommige klanten succesverhalen en hoe zij hun analyse gebruikten om echte resultaten te krijgen.
 
 ## Voor wie is deze video?
 

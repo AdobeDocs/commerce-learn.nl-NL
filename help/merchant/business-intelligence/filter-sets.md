@@ -1,22 +1,23 @@
 ---
-title: Business Intelligence - Filtersets
-description: Leer hoe u de functie Business Intelligence filtersets kunt gebruiken om de rapportage van bedrijfsgegevens voor Adobe Commerce en Magento Open Source te vereenvoudigen.
-landing-page-description: Bekijk deze video om te leren hoe u de functie Business Intelligence filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
+title: MBI - Filtersets
+description: Leer hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens voor Adobe Commerce en Magento Open Source te vereenvoudigen.
+landing-page-description: Bekijk deze video om te leren hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Filtersets
+# MBI - Filtersets
 
-Wilt u alleen bepaalde gegevens van uw bedrijf analyseren? Wilt u een handmatige opruiming doen? In Business Intelligence, kunt u de eigenschap van filterreeksen gebruiken om dit proces te vereenvoudigen.
+Wilt u alleen bepaalde gegevens van uw bedrijf analyseren? Wilt u een handmatige opruiming doen? In MBI, kunt u de eigenschap van filterreeksen gebruiken om dit proces te vereenvoudigen.
 
 In deze video:
 
@@ -27,7 +28,7 @@ In deze video:
 
 >[!TIP]
 >
->Als u nog geen ervaring hebt met Business Intelligence, [Aan de slag met videoreeks](1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 

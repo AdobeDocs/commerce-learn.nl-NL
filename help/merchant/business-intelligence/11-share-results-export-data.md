@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Resultaten delen en gegevens exporteren
-description: Leer hoe u de resultaten van uw Business Intelligence deelt en gegevens exporteert voor integratie met andere zakelijke tools.
+title: MBI - Resultaten en exportgegevens delen
+description: Leer over het delen van uw MBI resultaten en het uitvoeren van gegevens voor integratie met andere bedrijfshulpmiddelen.
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Resultaten delen en gegevens exporteren
+# MBI - Resultaten en exportgegevens delen
 
-De gebruikers van de Business Intelligence kunnen read-only, standaard, of admin toestemmingsniveaus worden verleend om te controleren wie specifieke delen van de bedrijfsgegevens ziet. En de voordelen zijn niet beperkt tot Business Intelligence gebruikers-programma en verzend e-mailsamenvattingen aan zo vele e-mailadressen zoals nodig. De gegevens van het gegevenspakhuis kunnen worden uitgevoerd gebruikend de Uitvoer API.
+MBI kunnen de gebruikers read-only, standaard, of admin toestemmingsniveaus worden verleend om te controleren wie specifieke delen van de bedrijfsgegevens ziet. En de voordelen zijn niet beperkt tot gebruikers-programma MBI en verzend e-mailsamenvattingen aan zo veel e-mailadressen zoals nodig. De gegevens van het gegevenspakhuis kunnen worden uitgevoerd gebruikend de Uitvoer API.
 
 ## Voor wie is deze video?
 
@@ -27,7 +27,7 @@ De gebruikers van de Business Intelligence kunnen read-only, standaard, of admin
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.2. Zie de [Gebruikershandleiding voor Business Intelligence](https://docs.magento.com/mbi/) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://docs.magento.com/mbi/) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 

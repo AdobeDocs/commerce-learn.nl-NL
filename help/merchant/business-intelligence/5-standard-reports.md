@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Standaardrapporten
-description: Meer informatie over de standaard rapporten van de Business Intelligence, die u kunt vinden.
+title: MBI - standaardrapporten
+description: Meer informatie over de standaard MBI-rapporten, die u kunt raadplegen.
 kt: 5733
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Standaardrapporten
+# MBI - standaardrapporten
 
-De standaard, out-of-the-box dashboards van de Business Intelligence bevatten vooraf bepaalde rapporten die e-commerce KPI melden die de meeste handelaren vereisen. De handelaren kunnen deze rapporten automatiseren om hun ondernemingen efficiënter in werking te stellen, en de handanalyse elimineren zij met SQL vragen of in Excel kunnen hand doen.
+De standaard, out-of-the-box MBI dashboards bevatten vooraf bepaalde rapporten die e-commerce KPI rapportering behandelen die de meeste handelaars nodig hebben. De handelaren kunnen deze rapporten automatiseren om hun ondernemingen efficiënter in werking te stellen, en de handanalyse elimineren zij met SQL vragen of in Excel kunnen hand doen.
 
 ## Voor wie is deze video?
 
@@ -27,7 +27,7 @@ De standaard, out-of-the-box dashboards van de Business Intelligence bevatten vo
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.2. Zie de [Gebruikershandleiding voor Business Intelligence](https://docs.magento.com/mbi/) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://docs.magento.com/mbi/) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 

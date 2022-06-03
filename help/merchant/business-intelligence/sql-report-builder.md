@@ -1,20 +1,21 @@
 ---
-title: Business Intelligence - SQL Report Builder
-description: Leer hoe te om de Business Intelligence SQL Report Builder te gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
-landing-page-description: Bekijk deze video om te leren hoe u de Business Intelligence SQL-Report Builder gebruikt om uw gegevenspakhuis rechtstreeks te vragen, de resultaten te bekijken en deze snel om te zetten in een grafiek.
+title: MBI - SQL Report Builder
+description: Leer hoe te om de Report Builder te gebruiken MBI SQL om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
+landing-page-description: Bekijk deze video om te leren hoe de SQL Report Builder van MBI gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - SQL Report Builder
+# MBI - SQL Report Builder
 
 SQL Report Builder staat u toe om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek. Het beste deel over het gebruiken van SQL om rapporten te bouwen is dat u niet op updatecycli moet wachten om op kolommen te herhalen u creeert. Als de resultaten niet goed kijken, kunt u de vraag snel uitgeven en opnieuw uitvoeren tot de dingen uw verwachtingen aanpassen.
 
@@ -30,7 +31,7 @@ In deze video:
 
 >[!TIP]
 >
->Als u nog geen ervaring hebt met Business Intelligence, [Aan de slag met videoreeks](1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 

@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Uitvoerend overzichtdashboard
-description: Bekijk een demonstratie van het dashboard van het Uitvoerend Overzicht dat door Business Intelligence wordt verstrekt.
+title: MBI - dashboard met overzicht van uitvoering
+description: Bekijk een demonstratie van het dashboard voor het Executive Overview (Uitvoerend Overzicht) van MBI.
 kt: 5731
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Uitvoerend overzichtdashboard
+# MBI - dashboard met overzicht van uitvoering
 
 Het dashboard van het Overzicht van de Uitvoering verstrekt high-level inzicht in opbrengst, orden, en gemiddelde ordewaarden. De rapporten worden uitgesplitst als statische waarden, en in tijd. U kunt dit dashboard met andere leden van uw team delen, die hen geven toegang uit om met u samen te werken, of mening-slechts toegang.
 
@@ -27,7 +27,7 @@ Het dashboard van het Overzicht van de Uitvoering verstrekt high-level inzicht i
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.2. Zie de [Gebruikershandleiding voor Business Intelligence](https://docs.magento.com/mbi/) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://docs.magento.com/mbi/) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 

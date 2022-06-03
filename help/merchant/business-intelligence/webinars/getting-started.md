@@ -1,28 +1,29 @@
 ---
-title: Aan de slag met Business Intelligence
-description: Kijk naar dit webinar voor meer informatie over de kernfunctionaliteit van Business Intelligence voor je Adobe Commerce of Magento Open Source-winkel.
-landing-page-description: Bekijk dit geregistreerde webinar om over de kernfunctionaliteit van Business Intelligence voor uw Adobe Commerce of opslag van Magento Open Source te leren.
+title: Aan de slag met MBI
+description: Bekijk deze webinar voor meer informatie over de kernfunctionaliteit van MBI voor je Adobe Commerce of Magento Open Source-winkel.
+landing-page-description: Bekijk deze geregistreerde webinar voor meer informatie over de kernfunctionaliteit van MBI voor je Adobe Commerce of Magento Open Source-winkel.
 kt: 10408
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: bf28c64dd61bbf53210ca9aa17ab20d1a2a1dac5
+exl-id: 4f029625-8c53-4066-ac33-b95883177df5
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-# Aan de slag met Business Intelligence
+# Aan de slag met MBI
 
-Leer rechtstreeks van het team van het Product van de Handel van de Business Intelligence (BI) over de kernfunctionaliteit van de Uitwisseling met een diepe duik in pre-gevormde dashboards en beschikbare aanpassingsopties.
+Leer rechtstreeks over de kernfunctionaliteit van MBI van het team van het Product van de Handel met een diepe duik in pre-gevormde dashboards en beschikbare aanpassingsopties.
 
 De gevallen van het gebruik worden overal gedeeld, die illustratieve voorbeelden van verstrekken hoe de handelaars meer inzicht en het drijven van meer groei in hun winkels met BI krijgen, beginnend dag één.
 
 >[!TIP]
 >
->Als u nog geen ervaring hebt met Business Intelligence, [Aan de slag met videoreeks](./../1-overview.md) verstrekt ook een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](./../1-overview.md) verstrekt ook een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 
@@ -35,5 +36,5 @@ De gevallen van het gebruik worden overal gedeeld, die illustratieve voorbeelden
 
 ## Nuttige bronnen
 
-[Inleiding Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html)
-[Ondersteuning voor Businessen Intelligence](https://support.magento.com/hc/en-us/articles/360016730811)
+[MBI Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html)
+[MBI-ondersteuning](https://support.magento.com/hc/en-us/articles/360016730811)
