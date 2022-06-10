@@ -1,14 +1,14 @@
 ---
-title: Gebruikers, rollen en machtigingen
+title: Gebruikersrollen en -machtigingen beheren
 description: Meer informatie over gebruikersaccounts en machtigingen voor het beheren van toegang tot [!DNL Commerce] website en sla gegevens op in de beheerder.
 kt: 5610
 doc-type: feature video
 audience: all
 activity: use
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: b1ba5497d30326e4355a6da81f33d8451362b896
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ Als er anderen op uw team of dienstverleners zijn die toegang nodig hebben, kunt
 
 ## Video-inhoud
 
->[!NOTE]
->
->De inhoud in de video weerspiegelt de release 2.0. Voor informatie over updates in recentere versies, zie [2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
-
->[!VIDEO](https://video.tv.adobe.com/v/35788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## Aanvullende bronnen
 

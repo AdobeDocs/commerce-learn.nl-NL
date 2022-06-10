@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video's en Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source.
-source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
+source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 + [[!DNL Commerce] Video&#39;s en Tutorials](overview.md)
 
 + Aan de slag {#getting-started}
-   + [!DNL Commerce] over cloudinfrastructuur {#cloud}
+   + [!DNL Commerce] over Cloud-infrastructuur {#cloud}
       + [1 - Overzicht](./cloud/1-overview.md)
       + [2 - Gehoste accounts](./cloud/2-accounts.md)
       + [3 - Cloud-projecten](./cloud/3-projects.md)
@@ -23,47 +23,67 @@ ht-degree: 0%
       + [6 - Services en DNS](./cloud/6-launch.md)
    + [!DNL Commerce] voor ontwikkelaars {#development}
       + [1.1 - Overzicht](./developer/backend-1-1-overview.md)
-      + [1.2. Ontwikkelingswerkstroom](./developer/backend-1-2-workflow.md)
+      + [1.2 - Ontwikkelingsworkflow](./developer/backend-1-2-workflow.md)
       + [2 - Installatie](./developer/backend-2-install.md)
       + [3 - Na installatie](./developer/backend-3-post-install.md)
       + [4 - Codebasis](./developer/backend-4-code-base.md)
       + [5.1 - Grondbeginselen van ontwikkeling](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Declaratief schema](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - het Verpletteren](./developer/backend-5-3-routing.md)
-      + [5.4 - Maak een [!DNL Admin] page](./developer/backend-5-4-admin-page.md)
+      + [5.4 - Maak een [!DNL Admin] Pagina](./developer/backend-5-4-admin-page.md)
       + [6 - Uitoefening](./developer/backend-6-practice.md)
    + [!DNL Commerce] voor zakelijke gebruikers {#merchants}
-      + [1.1 - [!DNL Admin] menu&#39;s](./merchant/introduction/1-1-menus.md)
+      + [1.1 - [!DNL Admin] Menu&#39;s](./merchant/introduction/1-1-menus.md)
       + [1.2 - Gegevensrasters](./merchant/introduction/1-2-data-grids.md)
-      + [1.3 - Segmenten, sites en winkels](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
-      + [1.4 - Weergaven en cache opslaan](./merchant/introduction/1-4-store-views-cache.md)
+      + [1.3 - Scènes, Sites en winkels](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
+      + [1.4 - Winkelweergaven en -bussen](./merchant/introduction/1-4-store-views-cache.md)
       + [1.5 - Beheerdersaccounts en -rollen](./merchant/introduction/1-5-users-roles.md)
-      + [1.6 - Rol](./merchant/introduction/1-6-role-scopes.md)
+      + [1.6 - Rolbereiken](./merchant/introduction/1-6-role-scopes.md)
       + [1.7 - Bedrijfsinstellingen](./merchant/introduction/1-7-business-settings.md)
       + [2.1 - Categorieën](./merchant/introduction/2-1-categories.md)
-      + [2.2. Categorie-openingspagina&#39;s](./merchant/introduction/2-2-category-landing-page.md)
+      + [2.2 - Categorie Landingspagina&#39;s](./merchant/introduction/2-2-category-landing-page.md)
       + [3.1 - Producttypen en -opties](./merchant/introduction/3-1-product-types-options.md)
       + [3.2 - Productinstellingen](./merchant/introduction/3-2-product-settings.md)
-      + [3.3. Productkenmerken](./merchant/introduction/3-3-product-attributes.md)
-      + [3.4 - Productkenmerkensets](./merchant/introduction/3-4-product-attribute-sets.md)
+      + [3.3 - Productkenmerken](./merchant/introduction/3-3-product-attributes.md)
+      + [3.4 - Productkenmerksets](./merchant/introduction/3-4-product-attribute-sets.md)
       + [3.5 - Een eenvoudig product maken](./merchant/introduction/3-5-create-simple-product.md)
       + [3.6 - Configureerbare kenmerken](./merchant/introduction/3-6-configurable-attributes.md)
-      + [3.7. Invoer- en uitvoerproducten](./merchant/introduction/3-7-import-export-products.md)
-      + [3.8 - Cadeaukaarten](./merchant/introduction/3-8-gift-cards.md)
+      + [3.7. Invoer-/uitvoerproducten](./merchant/introduction/3-7-import-export-products.md)
+      + [3.8 - Cadeautjes](./merchant/introduction/3-8-gift-cards.md)
       + [4.1 - Gelaagde navigatie](./merchant/introduction/4-1-layered-navigation.md)
       + [4.2 - Productcategorieën rangschikken](./merchant/introduction/4-2-arrange-product-categories.md)
-      + [5.1 - Winkelervaring](./merchant/introduction/5-1-storefront-experience.md)
+      + [5.1 - Storefront Experience](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Klantenbeheer](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - E-mailcommunicatie](./merchant/introduction/5-3-store-communications.md)
 
-+ Werken in de beheerder {#admin}
-   + [Gebruikers, rollen en machtigingen](./merchant/users-roles-permissions.md)
-   + [Twee-factor authentificatie](./merchant/two-factor-authentication.md)
-   + [Websites en winkels toevoegen en weergaven opslaan](./merchant/add-websites-stores-views.md)
++ Winkelbeheer {#admin}
+   + [Gebruikersrollen en -machtigingen beheren](./merchant/users-roles-permissions.md)
+   + [Verificatie met twee factoren](./merchant/two-factor-authentication.md)
+   + [Valuta- en belastingregels beheren](./merchant/currency-tax-rules.md)
+   + [Verzendmethoden en leveringsmethoden](./merchant/shipping-delivery.md)
+   + [Websites, winkels en winkelweergaven toevoegen](./merchant/add-websites-stores-views.md)
    + [URL van winkel wijzigen](./merchant/change-store-url.md)
    + [Site-overzicht opslaan](./merchant/site-map-setup.md)
-   + [Promotieprijsregels](./merchant/promotions-price-rules.md)
+
++ Klantenbeheer {#customers}
+   + [Klantsegmenten maken](./merchant/customer-segments.md)
+   + [Klantengroepen maken](./merchant/customer-groups.md)
+   + [Klantkenmerken maken](./merchant/customer-attributes.md)
+   + [Winkelen via verkopers](./merchant/seller-assisted-shopping.md)
+
++ Catalogusbeheer {#catalog}
+   + [Een categorie maken](./merchant/category-create.md)
+   + [Producten in een categorie beheren](./merchant/category-products.md)
+   + [Inventory management](./merchant/inventory-management.md)
+   + [Productkenmerken maken](./merchant/product-attributes-create.md)
+   + [SEO-metagegevens beheren](./merchant/seo-metadata.md)
+   + [URL-herschriften beheren voor SEO](./merchant/seo-url-rewrites.md)
+
++ Inhoudsbeheer {#content}
    + [Overzicht van Page Builder](./merchant/page-builder-overview.md)
+
++ Marketingtools {#marketing}
+   + [Regels voor speciale prijzen](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
    + [Filtersets](./merchant/business-intelligence/filter-sets.md)
@@ -91,19 +111,19 @@ ht-degree: 0%
       + [Resultaten delen en gegevens exporteren](./merchant/business-intelligence/11-share-results-export-data.md)
       + [Succesverhalen van klanten](./merchant/business-intelligence/12-customer-success.md)
 
-+ Upgrades {#upgrade}
++ Oplossingen voor handel {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](./upgrade/2.4-upgrade-workshop.md)
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](./upgrade/upgrade-compatibility-tool-overview.md)
    + [Het gereedschap Compatibiliteit bijwerken gebruiken in PHP Storm](./upgrade/uct-phpstorm.md)
 
-+ Ontwikkeling van achtergronden {#backend-development}
++ Ontwikkeling van back-ups {#backend-development}
    + [Een nieuwe tabel toevoegen aan een database](./developer/add-new-db-table.md)
    + [Een module maken](developer/create-module.md)
    + [Een nieuw productkenmerk toevoegen](./developer/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](./developer/dependency-injection.md)
 
 + Frontendement {#frontend-development}
-   + Page Builder {#page-builder}
+   + Page Builder voor ontwikkelaars {#page-builder}
       + [1 - Inleiding](./developer/page-builder/1-intro-case-studies.md)
       + [2 - Configuratie en inhoud](./developer/page-builder/2-config-create-content.md)
       + [3 - Thema&#39;s](./developer/page-builder/3-themes.md)
