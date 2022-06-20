@@ -1,9 +1,9 @@
 ---
 user-guide-title: Video's en Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source.
-source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
+source-git-commit: 11a59c534f1907d63073bc2a1541d39f02428da1
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,11 @@ ht-degree: 0%
    + [Gebruikersrollen en -machtigingen beheren](./merchant/users-roles-permissions.md)
    + [Verificatie met twee factoren](./merchant/two-factor-authentication.md)
    + [Valuta- en belastingregels beheren](./merchant/currency-tax-rules.md)
-   + [Verzendmethoden en leveringsmethoden](./merchant/shipping-delivery.md)
    + [Websites, winkels en winkelweergaven toevoegen](./merchant/add-websites-stores-views.md)
    + [URL van winkel wijzigen](./merchant/change-store-url.md)
    + [Site-overzicht opslaan](./merchant/site-map-setup.md)
+   + [Verzendmethoden en leveringsmethoden](./merchant/shipping-delivery.md)
+   + [Betalingsservices gebruiken](./merchant/payment-services.md)
 
 + Klantenbeheer {#customers}
    + [Klantsegmenten maken](./merchant/customer-segments.md)
@@ -76,14 +77,33 @@ ht-degree: 0%
    + [Producten in een categorie beheren](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
    + [Productkenmerken maken](./merchant/product-attributes-create.md)
+   + [Productkenmerken gebruiken met PWA Studio](./merchant/product-attributes-pwa.md)
    + [SEO-metagegevens beheren](./merchant/seo-metadata.md)
    + [URL-herschriften beheren voor SEO](./merchant/seo-url-rewrites.md)
 
 + Inhoudsbeheer {#content}
    + [Overzicht van Page Builder](./merchant/page-builder-overview.md)
+   + [Statische en dynamische blokken maken](./merchant/static-dynamic-blocks.md)
+   + [Widgets maken](./merchant/widgets.md)
+   + [Inhoudssjablonen gebruiken](./merchant/content-templates.md)
+   + [Inhoud stapelen](./merchant/content-staging.md)
+   + [De medialerie beheren](./merchant/media-gallery.md)
 
 + Marketingtools {#marketing}
    + [Regels voor speciale prijzen](./merchant/promotions-price-rules.md)
+   + [Catalogusprijsregels maken](./merchant/catalog-price-rules.md)
+   + [Lijnen met winkelprijzen maken](./merchant/cart-price-rules.md)
+   + [Regels voor verwante producten beheren](./merchant/related-product-rules.md)
+   + [Product Recommendations instellen](./merchant/product-recommendations.md)
+   + [Live zoeken gebruiken](./merchant/live-search.md)
+
++ Bestellingen en uitvoering {#orders}
+   + [Overzicht van winkeluitvoering](./merchant/store-fulfillment.md)
+   + [Status van bestelling beheren](./merchant/order-status.md)
+
++ Systeemgereedschappen {#tools}
+   + [Dashboard voor het gereedschap Analyse voor de hele site](./tools/site-wide-analysis-tool.md)
+   + [Het gereedschap Kwaliteitspatch gebruiken](./tools/quality-patch-tool.md)
 
 + MBI {#mbi}
    + [Filtersets](./merchant/business-intelligence/filter-sets.md)
@@ -111,15 +131,15 @@ ht-degree: 0%
       + [Resultaten delen en gegevens exporteren](./merchant/business-intelligence/11-share-results-export-data.md)
       + [Succesverhalen van klanten](./merchant/business-intelligence/12-customer-success.md)
 
-+ Oplossingen voor handel {#upgrade}
++ Handelsupgrades en systeemtools {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](./upgrade/2.4-upgrade-workshop.md)
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](./upgrade/upgrade-compatibility-tool-overview.md)
-   + [Het gereedschap Compatibiliteit bijwerken gebruiken in PHP Storm](./upgrade/uct-phpstorm.md)
+   + [Upgrade Compatibility Tool gebruiken in PHP Storm](./upgrade/uct-phpstorm.md)
 
 + Ontwikkeling van back-ups {#backend-development}
-   + [Een nieuwe tabel toevoegen aan een database](./developer/add-new-db-table.md)
+   + [Een tabel toevoegen aan een database](./developer/add-new-db-table.md)
    + [Een module maken](developer/create-module.md)
-   + [Een nieuw productkenmerk toevoegen](./developer/add-product-attribute.md)
+   + [Een productkenmerk toevoegen](./developer/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](./developer/dependency-injection.md)
 
 + Frontendement {#frontend-development}

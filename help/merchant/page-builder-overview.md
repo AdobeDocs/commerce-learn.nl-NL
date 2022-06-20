@@ -7,9 +7,9 @@ role: Admin, Leader, User
 audience: all
 activity: use
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: 672acee56080593ed6bae62ab7f22ddd02108e6b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,7 @@ Leer in deze video hoe u:
 
 ## Video-inhoud
 
->[!NOTE]
->
->De inhoud in de video weerspiegelt de Adobe Commerce 2.3.1-release. Voor informatie over updates in recentere versies, zie [Opmerkingen bij de release van Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
-
->[!VIDEO](https://video.tv.adobe.com/v/35783?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
