@@ -5,9 +5,10 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
+source-git-commit: 957eb8c6d7d429fc5579a5700fef2194662201cb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-Voor bedrijven die _[!UICONTROL Payment on Account]_en beschikken over bedrijfskrediet, kunnen zij aankopen op hun rekening doen tot het toegestane kredietbedrag. Wanneer deze optie is ingeschakeld, kunnen klanten de status van hun bedrijfskrediet controleren via het dashboard voor hun account.
+Voor bedrijven die _[!UICONTROL Payment on Account]_en beschikken over bedrijfskrediet, kunnen zij aankopen op hun rekening doen tot het toegestane kredietbedrag. Met deze functie kunnen klanten de status van hun bedrijfskrediet controleren vanaf het dashboard van hun account.
 
 U kunt de volgende kredietgerelateerde parameters instellen voor elk bedrijfsprofiel:
 
