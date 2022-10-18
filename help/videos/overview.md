@@ -1,10 +1,10 @@
 ---
-title: '"[!DNL Commerce] Video''s en Tutorials"'
+title: "[!DNL Commerce] Video's en Tutorials"
 description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 867c5dbfdf5c2701d59655363e8ac3d94e97ece6
+source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,10 @@ Ontdek de nieuwste toevoegingen en updates:
 | Bestellingen en uitvoering | [Overzicht van winkeluitvoering](./merchant/store-fulfillment.md) <br>[Status van bestelling beheren](./merchant/order-status.md) |
 | B2B voor Adobe Commerce | [Bedrijfsaccounts beheren](./merchant/b2b/company-accounts.md)  <br>[Gedeelde catalogi beheren](./merchant/b2b/shared-catalogs.md) <br>[Bedrijfskrediet beheren](./merchant/b2b/company-credit.md) <br>[Aankooporders en goedkeuringen](./merchant/b2b/purchase-orders.md) |
 | Systeemgereedschappen | [Dashboard voor het gereedschap Analyse voor de hele site](./tools/site-wide-analysis-tool.md) <br>[Waarneming voor Adobe Commerce](./tools/observation-tool.md) <br>[Het gereedschap Kwaliteitspatch gebruiken](./tools/quality-patch-tool.md) |
-| MBI | [Aan de slag met MBI](./merchant/business-intelligence/webinars/getting-started.md) <br>[Gegevenssets beheren in MBI](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[Uw MBI-Data Warehouse optimaliseren](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[MBI-dashboards diep duiken](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[Gereedheid voor feestdagen met MBI](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[Voorbereiden op de toekomst](./merchant/business-intelligence/prepare-for-future.md) <br>[MBI - Vraag het een expert](./merchant/business-intelligence/webinars/ask-expert.md) |
+
+>[!TIP]
+>
+>De [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) ruimte biedt toegang tot opgenomen inhoud van gebeurtenissen die u op verzoek kunt bekijken.
 
 ## Aanvullende bronnen
 
