@@ -6,7 +6,7 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 70056db15bcae20171fb152ab69d54d5a0d298e9
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -33,4 +33,4 @@ In deze video leert u hoe u productaanbevelingen kunt instellen.
 ## Aanvullende bronnen
 
 - [Recommendations-gids voor producten](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

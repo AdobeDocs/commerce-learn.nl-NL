@@ -6,7 +6,7 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 70056db15bcae20171fb152ab69d54d5a0d298e9
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Live zoeken vanuit Adobe Commerce biedt een snelle, superrelevante en intuïtiev
 ## Aanvullende bronnen
 
 - [Live zoeken](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
