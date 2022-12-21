@@ -1,16 +1,16 @@
 ---
 title: "[!DNL Commerce] Video's en Tutorials"
 description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source
-source-git-commit: 05ae885ea050043f9d719bc20321b09aa18e88e4
+source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # <!-- use banner as heading -->![Video&#39;s en zelfstudies over handel](../assets/banner-videos-home.png) {#videos}
 
-Welkom bij de [!DNL Commerce] video&#39;s, cursussen en zelfstudies verzamelen. Deze bronnen samen met de [documentatie](https://experienceleague.adobe.com/docs/commerce.html)leert u hoe u Adobe Commerce en Magento Open Source kunt gebruiken om uw e-commercezaken te ondersteunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
+Welkom bij de [!DNL Commerce] video&#39;s en zelfstudies. Deze bronnen samen met de [documentatie](https://experienceleague.adobe.com/docs/commerce.html)leert u hoe u Adobe Commerce en Magento Open Source kunt gebruiken om uw e-commercezaken te ondersteunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
 
 <div id="whats-new-section">
 
