@@ -6,9 +6,10 @@ audience: all
 role: Developer, Admin
 last-substantial-update: 2022-09-19T00:00:00Z
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+hidefromtoc: true
+source-git-commit: 9147597cc4d25d0d4b47df353d891601efc46e70
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,6 @@ ht-degree: 0%
 # Catalogusservice voor Adobe Commerce
 
 Catalogusservice voor Adobe Commerce is een SaaS-functie voor meerdere huurders die alleen-lezen catalogusgegevens levert voor een betere winkelervaring. Verbruikbaar via GraphQL API&#39;s, biedt deze API-query&#39;s voor nieuwe API-query&#39;s om de prestaties te verbeteren en de schaalbaarheid van het ophalen van catalogusgegevens te verbeteren.
-
->[!IMPORTANT]
->
->Catalogusservice voor Adobe Commerce is momenteel alleen beschikbaar voor bètadeelnemers. [Aan boord gaan en installeren](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/installation.html) beschrijft hoe u zich bij het bètaprogramma kunt aansluiten.
 
 In deze video:
 
