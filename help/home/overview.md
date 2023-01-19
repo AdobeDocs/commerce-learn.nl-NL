@@ -1,29 +1,27 @@
 ---
-title: "[!DNL Commerce] Video's en Tutorials"
+title: '''[!DNL Commerce] Video''s en Tutorials'
 description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+last-substantial-update: 2023-01-19T00:00:00Z
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# <!-- use banner as heading -->![Video&#39;s en zelfstudies over handel](../assets/banner-videos-home.png) {#videos}
+# Handelszelfstudies {#videos}
 
-Welkom bij de [!DNL Commerce] video&#39;s en zelfstudies. Deze bronnen samen met de [documentatie](https://experienceleague.adobe.com/docs/commerce.html)leert u hoe u Adobe Commerce en Magento Open Source kunt gebruiken om uw e-commercezaken te ondersteunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
+Welkom bij de [!DNL Commerce] video&#39;s en zelfstudies. Deze bronnen samen met de [documentatie](https://experienceleague.adobe.com/docs/commerce.html), biedt u de gelegenheid om te leren hoe u Adobe Commerce en Magento Open Source kunt gebruiken om uw e-commercehandel te ondersteunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
 
 <div id="whats-new-section">
 
 ## Nieuwe functies
 
-</div>
+- [Inleiding tot GraphQL](../graphql-rest/intro-graphql.md)
+- [Een kwaadaardig IP-bestand zoeken](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+</div>
 
 >[!TIP]
 >
