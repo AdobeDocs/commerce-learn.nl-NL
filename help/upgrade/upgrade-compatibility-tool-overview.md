@@ -8,9 +8,9 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -40,5 +40,5 @@ Voor meer informatie over het gereedschap raadpleegt u de [Upgrade van compatibi
 
 - [Upgrade van compatibiliteitsdocumentatie](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [Upgradehandleiding](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [Uitgebrachte versies](https://devdocs.magento.com/release/released-versions.html)
-- [Volgende releases](https://devdocs.magento.com/release/)
+- [Uitgebrachte versies](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Releaseplanning](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

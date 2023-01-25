@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -31,5 +31,5 @@ De segmenten van de klant staan u toe om inhoud en bevorderingen aan specifieke 
 
 ## Aanvullende bronnen
 
-- [Klantsegmenten](https://docs.magento.com/user-guide/marketing/customer-segments.html)
-- [Segmenten van klanten in prijsregels](https://docs.magento.com/user-guide/marketing/customer-segment-price-rule.html)
+- [Klantsegmenten - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [Segmenten van klanten in prijsregels - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

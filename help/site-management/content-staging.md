@@ -6,9 +6,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,5 @@ Met Inhoud stapelen kan uw bedrijfsteam eenvoudig een groot aantal inhoudsupdate
 
 ## Aanvullende bronnen
 
-- [Inhoud stapelen](https://docs.magento.com/user-guide/cms/content-staging.html)
-- [Een voorvertoning van een campagne weergeven](https://docs.magento.com/user-guide/cms/content-staging-preview.html)
+- [Inhoud stapelen - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
+- [Een voorvertoning van een campagne weergeven - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)

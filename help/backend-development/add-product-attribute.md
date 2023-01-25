@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Een nieuw productkenmerk toevoegen](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+[Een productkenmerk maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Aangepaste kenmerken](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[Een aangepast tekstveldkenmerk toevoegen](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

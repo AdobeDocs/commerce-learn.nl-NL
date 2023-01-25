@@ -7,9 +7,9 @@ role: Admin, Leader, User
 audience: all
 activity: use
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -40,5 +40,5 @@ Leer in deze video hoe u:
 
 ## Aanvullende bronnen
 
-- [Gebruikershandleiding voor Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
-- [Page Builder Developer Guide](https://devdocs.magento.com/page-builder/docs/index.html)
+- [Gebruikershandleiding voor Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [Page Builder Developer Guide](https://developer.adobe.com/commerce/frontend-core/page-builder/)

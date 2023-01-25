@@ -5,9 +5,9 @@ kt: 5652
 doc-type: video
 activity: use
 exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -29,12 +29,12 @@ In deze video:
 
 >[!NOTE]
 >
->Deze inhoud komt overeen met de release van Page Builder 1.0.0 voor Adobe Commerce 2.3.1. Voor informatie over updates in recentere versies, zie [Opmerkingen bij de release Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
+>Deze inhoud komt overeen met de release van Page Builder 1.0.0 voor Adobe Commerce 2.3.1. Voor informatie over updates in recentere versies, zie [Opmerkingen bij de release Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
 ## Nuttige bronnen
 
-[Documentatie voor ontwikkelaars van Page Builder](https://devdocs.magento.com/page-builder/docs/index.html)
+[Documentatie voor ontwikkelaars van Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Gebruikersdocumentatie voor Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
+[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

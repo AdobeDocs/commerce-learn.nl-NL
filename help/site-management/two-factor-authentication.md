@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Om ongeoorloofde toegang tot uw gegevens te voorkomen, moeten alle gebruikers di
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release van 2.4.0. Voor informatie over updates in recentere versies, zie [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
+>De inhoud in de video weerspiegelt de release van 2.4.0. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [Verificatie met twee factoren - Gebruikershandleiding](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
-- [Verificatie met twee factoren - Handleiding voor ontwikkelaars](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
+- [Tweevoudige verificatie (2FA) - Handleiding voor beheersystemen](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Configureren van tweefelige verificatie (2FA) - documentatie voor ontwikkelaars](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

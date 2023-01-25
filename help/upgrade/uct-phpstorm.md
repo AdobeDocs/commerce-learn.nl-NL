@@ -8,9 +8,9 @@ role: Developer
 audience: all
 activity: use
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -37,4 +37,4 @@ In deze video:
 
 - [Compatibiliteit upgraden](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
 - [Magento PHP Storm-plug-in](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [Uitgebrachte versies](https://devdocs.magento.com/release/released-versions.html)
+- [Uitgebrachte versies](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

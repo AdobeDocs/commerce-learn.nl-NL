@@ -6,9 +6,9 @@ role: Developer, Admin
 audience: all
 activity: use
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ Het hulpprogramma voor analyse van de hele site is een proactief zelfbedieningsh
 ## Aanvullende bronnen
 
 - [Analyse voor de hele site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Logbestanden weergeven en beheren](https://devdocs.magento.com/cloud/project/log-locations.html)
+- [Logbestanden weergeven en beheren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

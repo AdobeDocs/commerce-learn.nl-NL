@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Klanten hebben soms hulp nodig om een aankoop te voltooien. Sommige klanten will
 
 ## Aanvullende bronnen
 
-- [Hulp aan de shopper](https://docs.magento.com/user-guide/customers/login-as-customer.html)
-- [Hulp bij winkelen](https://docs.magento.com/user-guide/sales/shopping-assistance.html)
+- [Hulp bieden aan klanten - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [Hulp bij winkelen - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

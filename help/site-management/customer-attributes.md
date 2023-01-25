@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ De attributen van de klant verstrekken de informatie die wordt vereist om de ord
 
 ## Aanvullende bronnen
 
-- [Klantkenmerken](https://docs.magento.com/user-guide/stores/attributes-customer.html)
-- [Een persoonlijke klantaccount maken](https://docs.magento.com/user-guide/customers/account-create.html)
+- [Eigenschappen van klantkenmerken - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Een individuele klantaccount maken - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

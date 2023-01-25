@@ -7,9 +7,9 @@ role: Admin, Leader
 audience: all
 activity: use
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Elke website in een Adobe Commerce- of Magento Open Source-installatie heeft een
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie [2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
+>De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [URL&#39;s opslaan](https://docs.magento.com/user-guide/stores/store-urls.html)
-- [Een aangepaste Admin URL gebruiken](https://docs.magento.com/user-guide/stores/store-urls-custom-admin.html)
+- [URL&#39;s opslaan - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [Een aangepaste Admin URL gebruiken - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

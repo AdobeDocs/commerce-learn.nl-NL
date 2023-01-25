@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,10 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Winkeldetails - [!DNL Commerce] gebruikershandleiding](https://docs.magento.com/user-guide/stores/store-details.html)
+[Winkeldetails - [!DNL Commerce] Aan de slag](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

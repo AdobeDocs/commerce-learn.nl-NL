@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ MBI kunnen de gebruikers read-only, standaard, of admin toestemmingsniveaus word
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://docs.magento.com/mbi/) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [Grafiekgegevens exporteren](https://docs.magento.com/mbi/data-user/export-data/exp-chart-dash.html)
-- [Geautomatiseerde e-mailoverzichten maken](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)
+- [Gegevens exportdiagram - MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [Geautomatiseerde e-mailoverzichten maken - Handboek MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

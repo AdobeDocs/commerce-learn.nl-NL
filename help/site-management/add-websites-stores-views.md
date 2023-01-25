@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Elke Adobe Commerce- en Magento Open Source-installatie ondersteunt een hiërarc
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie [2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
+>De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [Websites, winkels en weergaven](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
-- [Basiscategorieën](https://docs.magento.com/user-guide/catalog/category-root.html)
+- [Websites, winkels en weergaven - [!DNL Commerce] Aan de slag](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Hoofdcategorie en hiërarchie - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

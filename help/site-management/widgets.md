@@ -7,9 +7,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Widgets zijn herbruikbare componenten die u kunt maken en eenvoudig aanpassen om
 
 ## Aanvullende bronnen
 
-- [Widgets](https://docs.magento.com/user-guide/cms/widgets.html)
-- [Widgets maken en beheren](https://docs.magento.com/user-guide/cms/widget-create.html)
+- [Widgets - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Widgets maken en beheren - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

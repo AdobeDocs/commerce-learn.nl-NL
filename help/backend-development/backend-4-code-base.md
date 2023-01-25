@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36196.jpeg
 activity: use
 exl-id: f0c7b27d-7071-4454-9fbc-622d7d248188
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [ 2,3 x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) en [2,4 x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) opmerkingen bij de release.
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [Componentbestandsstructuur](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
-- [Componentontwikkeling](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
-- [Uitbreidbaarheid en modulariteit](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-- [[!DNL Commerce] naslaggids voor modules](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
+- [Componentbestandsstructuur](https://developer.adobe.com/commerce/php/development/prepare/component-file-structure/)
+- [Componentontwikkeling](https://developer.adobe.com/commerce/php/development/components/)
+- [Uitbreidbaarheid en modulariteit](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [[!DNL Commerce] naslaggids voor modules](https://developer.adobe.com/commerce/php/module-reference/)

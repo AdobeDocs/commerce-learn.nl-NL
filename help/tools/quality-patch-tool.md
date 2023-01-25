@@ -6,9 +6,9 @@ role: Developer
 audience: all
 activity: use
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,5 @@ Het Adobe Commerce-ondersteuningsteam en de Magento Open Source-gemeenschap ontw
 
 ## Aanvullende bronnen
 
-- [Gereedschap Kwaliteitspatroon](https://devdocs.magento.com/quality-patches/tool.html)
+- [Gereedschap Kwaliteitspatroon](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 - [Het flardhulpmiddel van de kwaliteit op GitHub](https://github.com/magento/quality-patches)

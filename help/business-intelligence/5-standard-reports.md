@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ De standaard, out-of-the-box MBI dashboards bevatten vooraf bepaalde rapporten d
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://docs.magento.com/mbi/) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [Out-of-the-Box Dashboards](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html)
-- [Dashboardgroepen gebruiken](https://docs.magento.com/mbi/data-user/dashboards/using-dashboard-groups.html)
+- [Out-of-the-Box dashboards - MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
+- [Dashboardgroepen gebruiken - MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)

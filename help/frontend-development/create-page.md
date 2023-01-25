@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -41,5 +41,4 @@ Maak een pagina waarop één parameter wordt geretourneerd.
 
 ## Nuttige bronnen
 
-- [Hulplijn voor ontwikkelaars voorzijde](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html)
-- [Een nieuwe pagina maken](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/)
+[Hulplijn voor ontwikkelaars voorzijde](https://developer.adobe.com/commerce/frontend-core/guide/)
