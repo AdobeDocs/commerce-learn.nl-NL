@@ -1,14 +1,14 @@
 ---
 title: Uitbreidbaarheid buiten proces voor Adobe Commerce
 description: Meer informatie over Adobe App Builder en waarom dit een belangrijk aspect is van de uitbreidbaarheid zonder processen.
-landing-page-description: Leer wat app builder is en hoe het kan helpen met Adobe Commerce-ontwikkelingsstrategieën.
+landing-page-description: Leer wat App Builder is en hoe deze kan helpen met ontwikkelingsstrategieën voor Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11T00:00:00Z
-source-git-commit: ef0fa95e776b97ddbaf30e0acd1340e30f12738f
+last-substantial-update: 2023-01-24T00:00:00Z
+source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 # Buiten-de-procesrekbaarheid
 
-Adobe Commerce is historisch ontwikkeld met dezelfde opslagplaats als de hoofdtoepassing.  Dit wordt tijdens het proces genoemd.  Deze techniek is zeer goed en biedt de ontwikkelaar een verwacht mechanisme voor het uitbreiden van de toepassing.  Dat is echter een prijskaartje.  Telkens wanneer u nieuwe code aan codebase toevoegt moet het met om het even welke verbeteringen compatibel zijn.  U moet ook compatibel zijn met de servers PHP versie evenals vele andere servertoepassingen en de diensten die de handel zal gebruiken.  Adobe Developer App Builder voldoet aan dezelfde vereisten voor het uitbreiden van de functionaliteit, maar verplaatst deze van de site.  De code en de logica zijn volledig extern en deze methode wordt bedoeld als out-of-process.
+Historisch, heeft de ontwikkeling van Adobe Commerce in-proces rekbaarheid, een krachtige eigenschap gebruikt, maar het in-proces model vereist om het even welke nieuwe code compatibel te zijn met verbeteringen, de PHP versie van de server, en vele andere essentiële servertoepassingen en de diensten die de Handel gebruikt. Adobe Developer App Builder maakt gebruik van externe uitbreidbaarheid om deze compatibiliteitsproblemen te voorkomen.
 
 ## App Builder voor Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder biedt ontwikkelaars een uitbreidbaarheidskader om [!DNL Adobe Commerce] om uit-van-procesrekbaarheid te verstrekken.
+Adobe Developer App Builder is een serverloos uitbreidbaarheidsplatform voor het integreren en maken van aangepaste ervaringen voor het uitbreiden van Adobe-oplossingen. Het is nu beschikbaar voor Adobe Commerce. Met App Builder kunt u veilige en schaalbare apps maken die de eigen functies voor handel uitbreiden en integreren met oplossingen van derden. Als ontwikkelaar kunt u nu de uitbreidbaarheid buiten het proces gebruiken met Adobe Commerce en dat biedt op zijn beurt directe en langetermijnvoordelen.
 
-App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste toepassingen die een uitbreiding vormen [!DNL Adobe Commerce]. Aangezien dit uitbreidbaarheidskader op Adobe infrastructuur wordt gebouwd, kunnen de ontwikkelaars douanemicrodiensten bouwen evenals uitbreiden en integreren [!DNL Adobe Commerce] voor Adobe-oplossingen en andere integratie van derden.
+App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste toepassingen die een uitbreiding vormen [!DNL Adobe Commerce]. Aangezien dit uitbreidbaarheidskader op Adobe infrastructuur wordt gebouwd, kunnen de ontwikkelaars de microdiensten van de douane bouwen en uitbreiden en integreren [!DNL Adobe Commerce] voor andere Adobe-oplossingen en integratie van derden.
 
 App Builder biedt klanten een manier om de app uit te breiden [!DNL Adobe Commerce] in verschillende gebruiksgevallen:
 
@@ -36,13 +36,13 @@ App Builder (voorheen bekend als Project Firefly) is een cloudgebaseerde oplossi
 
 ## Waarom moet u meer weten over App Builder
 
-Aangezien Adobe Commerce geen volledig SAAS is, kan de code die u ontwikkelt of installeert complexiteit toevoegen en upgradeproblemen veroorzaken. Door gebruik te maken van externe uitbreidbaarheid, zoals App Builder, kunt u uw Adobe Commerce-winkel aangepaste, unieke functionaliteit bieden zonder dat procesmethoden vereist zijn.
+Aangezien Adobe Commerce geen volledig SAAS-product is, kan de code die u ontwikkelt, complexiteit en upgradeproblemen toevoegen. Door uit-van-procesrekbaarheid, zoals App Builder te gebruiken, kunt u douane, unieke functionaliteit aan uw opslag van Adobe Commerce verstrekken zonder in-proces methodes te vereisen.
 
 Andere voordelen zijn:
 
 * Dankzij de ontkoppelde functies is het sneller om te starten.
-* Upgrades zijn nu eenvoudiger. De douanefuncties zijn buiten de handelscodebase, die verenigbaarheidskwesties wanneer bevordering verhindert.
-* Als u functies en logica buiten de handel verplaatst, maakt u bronnen die normaal worden gebruikt door ontwikkelingsmethoden in processen.
+* Upgrades zijn nu eenvoudiger. De aangepaste functies bevinden zich buiten de handelsbalans, waardoor compatibiliteitsproblemen tijdens de upgrade worden voorkomen.
+* Door functies en logica buiten de handel te verplaatsen, worden bronnen vrijgemaakt die normaal worden gebruikt door ontwikkelingsmethoden in processen.
 
 ## Architectuur {#architecture}
 
@@ -58,6 +58,14 @@ Het volgende diagram illustreert hoe een standaardtoepassing die op App Builder 
 ![Architectuur](/help/assets/app-builder/firefly-architecture.jpeg)
 
 Voor meer details over de architectuur van App Builder, zie [Overzicht van architectuur](https://developer.adobe.com/app-builder/docs/guides/).
+
+## Amazon Sales Channel-extensie {#amazon-sales-channel-extension}
+
+De volgende zelfstudies tonen hoe u Adobe Commerce met een App Builder-extensie kunt verbinden met Amazon Sales Channel.
+
+* [technisch overzicht App Builder](../app-builder/app-builder-technical-overview.md)
+* [uitbreidbaarheidskader](../app-builder/extensibility-framework-commerce-eventing.md)
+* [functionele demonstratie App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Aan de slag met App Builder {#additional-resources}
 
@@ -81,4 +89,3 @@ Klaar om te beginnen met ontwikkelen? De volgende koppeling bevat voorbeeldtoepa
 ## Ondersteuning {#support}
 
 Voor verzoeken om ontwikkelaarsondersteuning gebruikt u de [Forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) voor hulp.
-
