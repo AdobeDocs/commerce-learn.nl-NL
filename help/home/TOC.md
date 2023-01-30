@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: b07b6cfa1b979f8900b154e8f0d2f9ddc2651e90
+source-git-commit: acd5985b189eec564964c3329befe92149f2ee0e
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,9 @@ ht-degree: 0%
 
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Inleiding tot App Builder](../app-builder/introduction-to-app-builder.md)
+   + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+   + [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
+   + [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
 
 + Winkelbeheer {#admin}
    + [Gebruikersrollen en -machtigingen beheren](../site-management/users-roles-permissions.md)
@@ -122,7 +125,7 @@ ht-degree: 0%
    + [Dashboard voor het gereedschap Analyse voor de hele site](../tools/site-wide-analysis-tool.md)
    + [Waarneming voor Adobe Commerce](../tools/observation-tool.md)
    + [Gereedschap Kwaliteitspatroon](../tools/quality-patch-tool.md)
-   + Nieuw bericht {#new-relic}
+   + New Relic {#new-relic}
       + [Een kwaadaardig IP-bestand zoeken](../new-relic/malicious-ip.md)
 
 + MBI {#mbi}
