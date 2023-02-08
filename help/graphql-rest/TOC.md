@@ -2,9 +2,9 @@
 user-guide-title: Een inleiding met GraphQL voor Adobe Commerce en Magento Open Source
 user-guide-description: Meer weten over GraphQL voor gebruik met Adobe Commerce en Magento Open Source?
 breadcrumb-title: GraphQL Introduction
-source-git-commit: 68b7ce377c694152793e1533706df024cba5a0f6
+source-git-commit: a3c826aaa25bafa0589fef48b95c58115c1c433d
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 + [Zoekopdrachten](./graphql-queries.md)
 + [Mutaties](./graphql-mutations.md)
 + [Schema](./graphql-schema.md)
-+ [Terug naar video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
++ [Terug naar zelfstudies over handel](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html)
