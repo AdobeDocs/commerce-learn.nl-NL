@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: f3b9d1b0a8de9dbd5b2f5b7dd57959a9328c747a
+source-git-commit: 0423baa9babf6b74d95e7ba066624b0f0842f98c
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,6 @@ ht-degree: 0%
    + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
-   + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
 
 + API-net {#api-mesh}
    + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
