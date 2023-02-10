@@ -3,9 +3,9 @@ title: '''[!DNL Commerce] Video''s en Tutorials'
 description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ Welkom bij de [!DNL Commerce] video&#39;s en zelfstudies. Deze bronnen samen met
 
 ## Nieuwe functies
 
+- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
+- [Aan de slag met API-net](../api-mesh/getting-started-api-mesh.md)
 - [Inleiding tot GraphQL](../graphql-rest/intro-graphql.md)
 - [Een kwaadaardig IP-bestand zoeken](../new-relic/malicious-ip.md)
 

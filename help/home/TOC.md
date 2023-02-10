@@ -2,7 +2,7 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: 10f2a00922ccb9582081852885ef63e5cf297482
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -67,10 +67,10 @@ ht-degree: 0%
    + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
-   + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+   + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + API-net {#api-mesh}
-   + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+   + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + Winkelbeheer {#admin}
    + [Gebruikersrollen en -machtigingen beheren](../site-management/users-roles-permissions.md)
