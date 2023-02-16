@@ -1,39 +1,48 @@
 ---
-title: Adobe Developer IO opdrachtregelinterface en API Mesh-plug-in installeren
-description: Ontdek hoe u de Adobe Developer IO opdrachtregelinterface en de API Mesh-insteekmodule installeert
-landing-page-description: Ontdek hoe u Adobe App Builder kunt gebruiken en de Adobe Developer IO met de API Mesh-plug-in kunt installeren.
+title: Adobe I/O Runtime-opdrachtregelinterface en API Mesh-insteekmodule installeren
+description: Ontdek hoe u de Adobe I/O Runtime opdrachtregelinterface en de API Mesh-plug-in installeert
+landing-page-description: Ontdek hoe u Adobe App Builder kunt gebruiken en de Adobe I/O Runtime met de API Mesh-plug-in kunt installeren.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Developer IO- en netplug-in installeren
+# Adobe I/O Runtime CLI- en netplug-in installeren
 
-Voordat u begint, moet u een aantal zaken instellen. Eerst, de bevel-lijn van Adobe Developer IO interface opstelling. Controleer vervolgens of de API Mesh-insteekmodule in elke omgeving is geconfigureerd.
-Ga voor instructies over het instellen van de lokale omgeving voor het uitvoeren van Node, nvm en het installeren van de Adobe Developer IO naar [Aan de slag met GraphQL Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/).
+Voordat u begint met het gebruik van API Mesh voor Adobe Developer App Builder, moet u de `aio` CLI en de API-netplug-in.
+Ga voor installatie-instructies en -voorwaarden naar het API-net [Aan de slag](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) pagina.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog niet bekend zijn met Adobe App Builder of [!DNL Magento Open Source] met beperkte ervaring met Adobe Developer IO en API Mesh.
+* Ontwikkelaars die nog niet bekend zijn met API Mesh of [!DNL Adobe Commerce] met beperkte ervaring [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) en API-net.
 
 ## Video-inhoud
 
 * Inleiding tot API-net
-* Adobe Developer IO opdrachtregelinterface installeren
-* De API Mesh-insteekmodule toevoegen aan de AIO-opdrachtregel
+* Adobe I/O Runtime CLI installeren (opdrachtregelinterface)
+* De API Mesh-insteekmodule installeren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 
-## Voorbeeldopdrachten met NPM en AIO
+## De installatie van de `aio` CLI- en API-netplug-in
 
-De Adobe Developer-opdrachtregelinterface installeren is heel eenvoudig. Voer deze opdracht uit nadat u Node hebt geïnstalleerd `npm install -g @adobe/aio-cli`
-Nadat de Adobe Developer-clip is geïnstalleerd, is het mogelijk om de netplug-in te installeren. U doet dit door deze opdracht uit te voeren `aio plugins:install @adobe/aio-cli-plugin-api-mesh`
+Na installatie `node` en `npm`voert u de volgende opdracht uit om de `aio` CLI:
+
+```bash
+npm install -g @adobe/aio-cli
+```
+
+Nadat de Adobe I/O Runtime CLI is geïnstalleerd, gebruikt u de volgende opdracht om de API-netplug-in te installeren:
+
+```bash
+aio plugins:install @adobe/aio-cli-plugin-api-mesh
+```
 
 {{$include /help/_includes/api-mesh-related-links.md}}

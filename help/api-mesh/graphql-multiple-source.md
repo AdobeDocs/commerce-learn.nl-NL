@@ -1,42 +1,38 @@
 ---
 title: Een GraphQL met meerdere bronnen maken voor gebruik in API-net
 description: Ontdek hoe u meerdere bronnen kunt gebruiken voor API Mesh op Adobe Commerce en [!DNL Adobe App Builder]. Meer informatie over enkele algemene fouten en hoe u deze kunt oplossen.
-landing-page-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Leer over het creëren van een verzoek dat veelvoudige bronnen heeft en hoe te om sommige gemeenschappelijke fouten op te lossen.
+landing-page-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Meerdere GraphQL API-bronnetten maken
+# Een net maken met meerdere bronnen
 
-De video helpt een ontwikkelaar begrijpen hoe een GraphQL reverse-proxy met meerdere bronnen kan worden gemaakt. In deze video ziet u hoe u verschillende bronnen kunt aansluiten, fouten kunt identificeren en wijzigingen in de it kunt opslaan. Voor basiscodevoorbeelden die in de video zijn gebruikt, gaat u naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh voor Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Ga voor meer informatie en codevoorbeelden naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
 
 ## Voor wie is deze video?
 
 * Iedereen die nieuw is voor het API-net
-* Ontwikkelaars die meerdere grafische bronnen willen gebruiken
-* Iedereen die moet weten hoe te om het netwerklusje en filter door grafisch te filtreren
+* Ontwikkelaars die meerdere API- en GraphQL-bronnen willen combineren
 
 ## Video-inhoud
 
-* Hoe het complexe schema van de Attributen API van de Douane van een tweede bron het standaardbronschema kan met voeten treden
-* De configuratie van het api-net aanpassen om rekening te houden met het tweede overschrijvende schema
-* Hoe te om fouten problemen op te lossen die in het proces zoals noemend conflict, schemabeschikbaarheid en andere syntaxis zouden kunnen voorkomen SDL
-* Voorbeeld van veelvoorkomende fouten na pogingen om schema&#39;s aan te sluiten
-* Het api-net na bewerkingen opnieuw samenstellen
-* Wijzigingen opslaan in it na wijziging van API-netconfiguratie
+* Hoe wordt het gebruikt [transformaties](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) om het standaardbronschema te wijzigen
+* Hoe te om fouten, zoals naamconflicten, schemabeschikbaarheid, en andere kwesties van de schemasyntaxis problemen op te lossen
+* Het net bijwerken met een gewijzigde configuratie
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125)
 
 ## Het JSON-configuratiebestand maken
 
-Voor Adobe App Builder om informatie over al uw bronnen te krijgen, definieert u deze in een JSON-configuratie. Elke bron is een element in een array en u kunt een of meer elementen hebben. Hier ziet u een voorbeeld van een meervoudige bronaanvraag die samen worden samengevoegd om een enkele reactie te vormen.
+API Mesh gebruikt een JSON-configuratiebestand om uw bronhandlers te definiëren. Het JSON-bestand bevat een `sources` array die de bronnen voor het net bevat. Hier is een voorbeeld van een net met meerdere bronnen.
 
 ```json
 {
@@ -51,7 +47,7 @@ Voor Adobe App Builder om informatie over al uw bronnen te krijgen, definieert u
         }
       },
       {
-        "name": "ERP",
+        "name": "Example",
         "handler": {
           "graphql": {
             "endpoint": "https://www.example.com/graphql/"

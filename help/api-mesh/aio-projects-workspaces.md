@@ -6,9 +6,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -16,30 +16,31 @@ ht-degree: 0%
 
 # Werken met projecten en werkruimten
 
-Sommige basisinformatie om met het concept te helpen van het creëren van een project en een werkruimte. De meeste gebruikersinterfacewerkzaamheden vinden plaats in [Adobe Developer-console](https://developer.adobe.com/console).
+In deze zelfstudie worden het maken van een project en een werkruimte besproken die uw net moeten bevatten. Dit werk gebeurt voornamelijk in de [Adobe Developer-console](https://developer.adobe.com/console) UI.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die één enkel API eindpunt met Adobe App Builder bouwen door een werkruimte te gebruiken die veelvoudige bronnen of eenvoudig volmachten in een bron samenstelt
+* Ontwikkelaars die toegang hebben tot een Adobe Developer Console-account en een project en werkruimte willen maken.
 
 ## Video-inhoud
 
-* Werken met projecten en werkruimten in Adobe Developer Console
-* Het API-net toevoegen aan de werkruimte in de Adobe Developer-console
-* Aanmelden met de Adobe Developer-console
-* Project en werkruimte weergeven via de opdrachtregel van Adobe Developer
-* Organisatie wijzigen als u bent aangemeld bij de verkeerde
-* Een Adobe Developer-project en -werkruimte selecteren en er verbinding mee maken via de Adobe Developer-opdrachtregel
-* Basisopdrachten van API-netten testen
+* Werken met projecten en werkruimten in de Adobe Developer-console
+* API-net toevoegen aan de werkruimte in de Adobe Developer-console
+* Aanmelden bij de Adobe Developer-console in de CLI
+* Bekijk het geselecteerde project en de werkruimte in CLI
+* Het veranderen van de geselecteerde Organisatie, het project, of de werkruimte in CLI
+* Eenvoudige opdrachten voor API-net testen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
-## Meer informatie over Adobe Developer Console
+## Meer informatie over de Adobe Developer Console
 
-Er zijn verscheidene aspecten aan de Console van Adobe Developer die u van zoals Projecten, Werkruimten, en organisaties zou moeten bewust zijn. Om wat diepere informatie rond Adobe App Builder te krijgen, hoe te login aan de console en wat basisoplossen van problemen te krijgen, gelieve te bezoeken [Uw eerste App Builder-toepassing maken](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+In de Adobe Developer-console wordt in de volgende hiërarchie aangegeven hoe uw API&#39;s in uw organisatie passen: `Organization > Project > Workspace > [API]`. Ga voor meer informatie over Adobe App Builder, het aanmelden bij de console en het basisprobleem naar [Uw eerste App Builder-toepassing maken](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
 
-## Inleiding tot projecten in Adobe Developer Console
+## Inleiding tot projecten in de Adobe Developer-console
 
-Alle ontwikkelingswerkzaamheden in Adobe Developer Console worden uitgevoerd als onderdeel van een project. Een project kan een of meerdere producten en een combinatie van API&#39;s, gebeurtenissen, runtime en plug-ins bevatten. Ga voor meer informatie over projecten in de Adobe Developer-console naar [Overzicht van projecten](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Alle ontwikkelingswerkzaamheden in Adobe Developer Console worden uitgevoerd als onderdeel van een project. Een project kan een of meerdere producten en een combinatie van API&#39;s, gebeurtenissen, runtimes en plug-ins bevatten. Ga voor meer informatie over projecten in de Adobe Developer-console naar [Projecten](https://developer.adobe.com/developer-console/docs/guides/projects/).
+
+Voor meer informatie bij het gebruiken van projecten en werkruimten in de context van API Netwerk, zie [Projecten en werkruimten wijzigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
 
 {{$include /help/_includes/api-mesh-related-links.md}}
