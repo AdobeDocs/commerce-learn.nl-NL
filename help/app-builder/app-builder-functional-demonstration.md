@@ -5,10 +5,10 @@ landing-page-description: Meer informatie over Adobe Developer App Builder in Ad
 kt: 11762
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: 28c8fe6b1b2d948cf16de6e53eef0a7cdeb93ace
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,10 @@ ht-degree: 0%
 
 # Functionele demonstratie voor App Builder
 
-Als u meer wilt weten over het gebruik van Adobe Commerce met App Builder, bekijkt u de onderstaande video waarin wordt getoond hoe u Adobe Commerce met Amazon Sales Channel kunt verbinden. Deze demonstratie gebruikt een Adobe Commerce-gebeurtenis en Adobe App Builder-gebeurteniswaarnemer. Deze functionele demonstratie beschrijft hoe deze integratie werkt en verkent het potentieel van Adobe App Builder.
+Als u meer wilt weten over het gebruik van Adobe Commerce met App Builder, bekijkt u de onderstaande video waarin wordt getoond hoe u Adobe Commerce kunt verbinden met Amazon Seller Central. Deze demonstratie gebruikt gebeurtenissen van Adobe Commerce die door App Builder worden verbruikt om ononderbroken integratie met de markt van Amazon toe te laten. Deze functionele demonstratie beschrijft hoe deze integratie werkt en verkent het potentieel van Adobe App Builder.
 
 ## App Builder voor Adobe Commerce {#app-builder-functional-demonstration}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413502)
 
-
-## Aanvullende verwante zelfstudies
-
-- [inleiding tot App Builder](../app-builder/introduction-to-app-builder.md)
-- [technisch overzicht App Builder](../app-builder/app-builder-technical-overview.md)
-- [uitbreidbaarheidskader](../app-builder/extensibility-framework-commerce-eventing.md)
+{{$include /help/_includes/app-builder-related-links.md}}

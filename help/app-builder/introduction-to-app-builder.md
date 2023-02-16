@@ -5,10 +5,10 @@ landing-page-description: Leer wat App Builder is en hoe deze kan helpen met ont
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -89,3 +89,5 @@ Klaar om te beginnen met ontwikkelen? De volgende koppeling bevat voorbeeldtoepa
 ## Ondersteuning {#support}
 
 Voor verzoeken om ontwikkelaarsondersteuning gebruikt u de [Forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) voor hulp.
+
+{{$include /help/_includes/app-builder-related-links.md}}
