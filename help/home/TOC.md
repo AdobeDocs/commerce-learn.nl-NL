@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
+source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -67,10 +67,13 @@ ht-degree: 0%
    + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
-   + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + API-net {#api-mesh}
-   + [Zelfstudies voor API-net](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
+   + [Aan de slag met API-net](../api-mesh/getting-started-api-mesh.md)
+   + [Adobe-IO en netplug-in installeren](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Werken met projecten en werkruimten](../api-mesh/aio-projects-workspaces.md)
+   + [GraphQL API-net met één bron maken](../api-mesh/graphql-single-source.md)
+   + [Meerdere GraphQL API-bronnetten maken](../api-mesh/graphql-multiple-source.md)
 
 + Winkelbeheer {#admin}
    + [Gebruikersrollen en -machtigingen beheren](../site-management/users-roles-permissions.md)
