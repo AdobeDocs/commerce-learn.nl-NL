@@ -6,9 +6,9 @@ kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 28c8fe6b1b2d948cf16de6e53eef0a7cdeb93ace
+source-git-commit: 488b1f7a8633b35ec1a113c1dd25f4efeefa3234
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Functionele demonstratie voor App Builder
 
-Als u meer wilt weten over het gebruik van Adobe Commerce met App Builder, bekijkt u de onderstaande video waarin wordt getoond hoe u Adobe Commerce kunt verbinden met Amazon Seller Central. Deze demonstratie gebruikt gebeurtenissen van Adobe Commerce die door App Builder worden verbruikt om ononderbroken integratie met de markt van Amazon toe te laten. Deze functionele demonstratie beschrijft hoe deze integratie werkt en verkent het potentieel van Adobe App Builder.
+Als u meer wilt weten over het gebruik van Adobe Commerce met App Builder, bekijkt u de onderstaande video waarin wordt getoond hoe u Adobe Commerce kunt verbinden met Amazon Seller Central. Deze demonstratie gebruikt gebeurtenissen van Adobe Commerce die door App Builder worden verbruikt om ononderbroken integratie met Amazon Marketplace toe te laten. Deze functionele demonstratie beschrijft hoe deze integratie werkt en verkent het potentieel van Adobe App Builder.
 
 ## App Builder voor Adobe Commerce {#app-builder-functional-demonstration}
 
