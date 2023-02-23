@@ -2,7 +2,7 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: a4863c70ed9b0b0daee82c569b284f98163e5769
+source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - Declaratief schema](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - het Verpletteren](../backend-development/backend-5-3-routing.md)
       + [5.4 - Maak een [!DNL Admin] Pagina](../backend-development/backend-5-4-admin-page.md)
-   + [6 - Uitoefening](../backend-development/backend-6-practice.md)
+      + [6 - Uitoefening](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] voor zakelijke gebruikers {#merchants}
       + [1.1 - [!DNL Admin] Menu&#39;s](../site-management/introduction/1-1-menus.md)
       + [1.2 - Gegevensrasters](../site-management/introduction/1-2-data-grids.md)
@@ -57,7 +57,11 @@ ht-degree: 0%
       + [5.3 - E-mailcommunicatie](../site-management/introduction/5-3-store-communications.md)
       + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL en REST {#graphql-rest}
-   + [Inleiding tot GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
+   + [Aan de slag met GraphQL](../graphql-rest/getting-started-graphql.md)
+   + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
+   + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
+   + [Mutaties](../graphql-rest/graphql-mutations.md)
+   + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Inleiding tot App Builder](../app-builder/introduction-to-app-builder.md)
    + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
