@@ -6,17 +6,17 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
-
 # Schema
 
-De vragen en de mutaties wij met hebben gewerkt baseren zich op een specifieke gegevensgrafiek die bij de server wordt uitgevoerd, die runtime van GraphQL gebruikt om de vraag op te lossen. De GraphQL-specificatie definieert een agnostische taal voor het uitdrukken van de typen en relaties van de gegevensgrafiek.
+De gebruikte query&#39;s en mutaties zijn afhankelijk van een specifieke gegevensgrafiek die op de server wordt geïmplementeerd. De GraphQL-runtime gebruikt deze grafiek om de query op te lossen. De GraphQL-specificatie definieert een agnostische taal voor het uitdrukken van de typen en relaties van de gegevensgrafiek.
 
 Hier is een afgekort typeschema dat de vragen en de mutaties steunt u tot dusver hebt bekeken:
 
@@ -90,7 +90,7 @@ type Mutation {
 }
 ```
 
-U kunt delven in [de GraphQL-documentatie](https://graphql.org/learn/schema/) om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren hier niet wordt vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de boom, tot u aan eenvoudige scalaire types zoals krijgt `String`.
+U kunt delven in [de GraphQL-documentatie](https://graphql.org/learn/schema/){target="_blank"} om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren hier niet wordt vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de boom, tot u aan eenvoudige scalaire types zoals krijgt `String`.
 
 De `input` verklaring is in alle opzichten een `type` maar definieert een type dat als invoer voor een argument kan worden gebruikt. Let ook op het `interface` verklaring. Dit dient een functie min of meer dezelfde als interfaces in PHP. Andere types erven van deze interface.
 
@@ -98,6 +98,6 @@ De syntaxis `[CartItemInput!]!` ziet er lastig uit, maar is uiteindelijk redelij
 
 >[!NOTE]
 >
->De logica voor hoe gegevens worden opgehaald en volgens een schema worden opgemaakt, en hoe dergelijke logica aan bepaalde types in kaart wordt gebracht, is tot de runtime van GraphQL implementatie. De implementatie moet echter een conceptuele doorstroming volgen die zinvol is in het licht van ons begrip van geneste gebieden: Een bewerking voor het oplossen van het basisbestand `Query` of `Mutation` type wordt uitgevoerd, dat elk gebied onderzoekt dat in het verzoek wordt gespecificeerd. Voor elk gebied dat aan een complex type oplost, wordt een gelijkaardige oplossing gedaan voor dat type, etc., tot alles in scalaire waarden heeft opgelost.
+>De logica voor hoe gegevens worden opgehaald en volgens een schema worden opgemaakt, en hoe dergelijke logica aan bepaalde types in kaart wordt gebracht, is tot de runtime van GraphQL implementatie. De implementaties moeten echter een conceptuele doorloop volgen die zinvol is in het licht van een inzicht in geneste gebieden: Een bewerking voor het oplossen van het basisbestand `Query` of `Mutation` type wordt uitgevoerd, dat elk gebied onderzoekt dat in het verzoek wordt gespecificeerd. Voor elk gebied dat aan een complex type oplost, wordt een gelijkaardige oplossing gedaan voor dat type, etc., tot alles in scalaire waarden heeft opgelost.
 
-
+{{$include /help/_includes/graphql-rest-related-links.md}}

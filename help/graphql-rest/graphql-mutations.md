@@ -6,7 +6,8 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -83,7 +84,7 @@ Het belangrijkste om op te merken dat in het bovenstaande voorbeeld, behalve het
 * Een beginveld (`addProductsToCart`) met argumenten (bijvoorbeeld `cartId`, ingesteld op de waarde van `$cartId`) tussen haakjes
 * Een subselectie van velden tussen accolades
 
-Met de subselectie van velden kunt u op flexibele wijze de velden definiëren die u wilt retourneren (van het type dat is toegewezen als de geretourneerde waarde van `addProductsToCart` - `AddProductsToCartOutput`) nadat de mutatie is voltooid.
+Met de subselectie voor velden kunt u op flexibele wijze de velden definiëren die u wilt retourneren (van het type dat is toegewezen als de geretourneerde waarde van `addProductsToCart` - `AddProductsToCartOutput`) nadat de mutatie is voltooid.
 
 Zoals eerder is uitgelegd, beginnen velden die in een GraphQL-schema zijn gedefinieerd, op een hoofdtype voor query&#39;s (doorgaans aangeduid als een `Query`). Op dezelfde manier bestaat er een ander worteltype voor mutaties (die typisch als worden bedoeld `Mutation`). `addProductsToCart` is een veld op dat basistype.
 
@@ -91,3 +92,5 @@ Een paar andere opmerkingen over het bovenstaande voorbeeld:
 
 * De `!` achtervoegsel teken `String` en `CartItemInput` Hiermee wordt aangegeven dat de variabele verplicht is.
 * De vierkante haakjes (`[]`) rond de `CartItemInput` type opgegeven voor `$cartItems` Geef een lijst van dat type op in plaats van één waarde.
+
+{{$include /help/_includes/graphql-rest-related-links.md}}
