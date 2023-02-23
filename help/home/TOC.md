@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
+source-git-commit: a4863c70ed9b0b0daee82c569b284f98163e5769
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - Declaratief schema](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - het Verpletteren](../backend-development/backend-5-3-routing.md)
       + [5.4 - Maak een [!DNL Admin] Pagina](../backend-development/backend-5-4-admin-page.md)
-      + [6 - Uitoefening](../backend-development/backend-6-practice.md)
+   + [6 - Uitoefening](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] voor zakelijke gebruikers {#merchants}
       + [1.1 - [!DNL Admin] Menu&#39;s](../site-management/introduction/1-1-menus.md)
       + [1.2 - Gegevensrasters](../site-management/introduction/1-2-data-grids.md)
@@ -56,25 +56,26 @@ ht-degree: 0%
       + [5.2 - Klantenbeheer](../site-management/introduction/5-2-customer-management.md)
       + [5.3 - E-mailcommunicatie](../site-management/introduction/5-3-store-communications.md)
       + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
-
-
-
 + GraphQL en REST {#graphql-rest}
    + [Inleiding tot GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
-
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Inleiding tot App Builder](../app-builder/introduction-to-app-builder.md)
    + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
-
-+ API-net {#api-mesh}
-   + [Aan de slag met API-net](../api-mesh/getting-started-api-mesh.md)
-   + [Adobe-IO en netplug-in installeren](../api-mesh/installing-aio-mesh-plugin.md)
-   + [Werken met projecten en werkruimten](../api-mesh/aio-projects-workspaces.md)
-   + [GraphQL API-net met één bron maken](../api-mesh/graphql-single-source.md)
-   + [Meerdere GraphQL API-bronnetten maken](../api-mesh/graphql-multiple-source.md)
-
+   + IO-gebeurtenissen voor Adobe Commerce {#io-events}
+      + [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Installatie van Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Een App Builder-project maken](../io-events/create-app-builder-project.md)
+      + [Adobe Commerce configureren](../io-events/configure-commerce.md)
+      + [Ontwikkeling Adobe Commerce-module](../io-events/commerce-module-development.md)
+      + [Voorwaardelijke Adobe Commerce-gebeurtenissen](../io-events/conditional-events.md)
+   + API-net {#api-mesh}
+      + [Aan de slag met API-net](../api-mesh/getting-started-api-mesh.md)
+      + [Adobe-IO en netplug-in installeren](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Werken met projecten en werkruimten](../api-mesh/aio-projects-workspaces.md)
+      + [GraphQL API-net met één bron maken](../api-mesh/graphql-single-source.md)
+      + [Meerdere GraphQL API-bronnetten maken](../api-mesh/graphql-multiple-source.md)
 + Winkelbeheer {#admin}
    + [Gebruikersrollen en -machtigingen beheren](../site-management/users-roles-permissions.md)
    + [Verificatie met twee factoren](../site-management/two-factor-authentication.md)
@@ -84,14 +85,11 @@ ht-degree: 0%
    + [Site-overzicht opslaan](../site-management/site-map-setup.md)
    + [Verzendmethoden en leveringsmethoden](../site-management/shipping-delivery.md)
    + [Betalingsservices gebruiken](../site-management/payment-services.md)
-
-
 + Klantenbeheer {#customers}
    + [Klantsegmenten maken](../site-management/customer-segments.md)
    + [Klantengroepen maken](../site-management/customer-groups.md)
    + [Klantkenmerken maken](../site-management/customer-attributes.md)
    + [Winkelen via verkopers](../site-management/seller-assisted-shopping.md)
-
 + Catalogusbeheer {#catalog}
    + [Catalogusservice voor Adobe Commerce](../site-management/catalog-service.md)
    + [Een categorie maken](../site-management/category-create.md)
@@ -101,7 +99,6 @@ ht-degree: 0%
    + [Productkenmerken gebruiken met PWA Studio](../site-management/product-attributes-pwa.md)
    + [SEO-metagegevens beheren](../site-management/seo-metadata.md)
    + [URL-herschriften beheren voor SEO](../site-management/seo-url-rewrites.md)
-
 + Inhoudsbeheer {#content}
    + [Overzicht van Page Builder](../site-management/page-builder-overview.md)
    + [Statische en dynamische blokken maken](../site-management/static-dynamic-blocks.md)
@@ -109,7 +106,6 @@ ht-degree: 0%
    + [Inhoudssjablonen gebruiken](../site-management/content-templates.md)
    + [Inhoud stapelen](../site-management/content-staging.md)
    + [De medialerie beheren](../site-management/media-gallery.md)
-
 + Marketingtools {#marketing}
    + [Catalogusprijsregels maken](../site-management/catalog-price-rules.md)
    + [Lijnen met winkelprijzen maken](../site-management/cart-price-rules.md)
@@ -117,24 +113,20 @@ ht-degree: 0%
    + [Product Recommendations instellen](../site-management/product-recommendations.md)
    + [Inleiding tot Live zoeken](../site-management/live-search.md)
    + [Live zoeken naar aanbevelingen](../site-management/live-search-recommendations.md)
-
 + Bestellingen en uitvoering {#orders}
    + [Overzicht van winkeluitvoering](../site-management/store-fulfillment.md)
    + [Status van bestelling beheren](../site-management/order-status.md)
-
 + B2B voor Adobe Commerce {#b2b}
    + [Bedrijfsaccounts beheren](../b2b/company-accounts.md)
    + [Gedeelde catalogi beheren](../b2b/shared-catalogs.md)
    + [Bedrijfskrediet beheren](../b2b/company-credit.md)
    + [Aankooporders en goedkeuringen](../b2b/purchase-orders.md)
-
 + Hulpmiddelen en externe diensten {#tools}
    + [Dashboard voor het gereedschap Analyse voor de hele site](../tools/site-wide-analysis-tool.md)
    + [Waarneming voor Adobe Commerce](../tools/observation-tool.md)
    + [Gereedschap Kwaliteitspatroon](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Een kwaadaardig IP-bestand zoeken](../new-relic/malicious-ip.md)
-
 + MBI {#mbi}
    + [Filtersets](../business-intelligence/filter-sets.md)
    + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
@@ -160,19 +152,16 @@ ht-degree: 0%
       + [Rendement van investeringen](../business-intelligence/10-roi-tracking.md)
       + [Resultaten delen en gegevens exporteren](../business-intelligence/11-share-results-export-data.md)
       + [Succesverhalen van klanten](../business-intelligence/12-customer-success.md)
-
 + Oplossingen voor handel {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2.4-upgrade-workshop.md)
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
-
 + Ontwikkeling van back-ups {#backend-development}
    + [Aanbevolen procedures voor het wijzigen van databasetabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Een tabel toevoegen aan een database](../backend-development/new-db-table.md)
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
-
 + Frontendement {#frontend-development}
    + Page Builder voor ontwikkelaars {#page-builder}
       + [1 - Inleiding](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -183,7 +172,6 @@ ht-degree: 0%
       + [6 - Aangepaste inhoudstypen](../frontend-development/page-builder/6-custom-content-types.md)
    + [Een JavaScript-module toevoegen](../frontend-development/add-javascript-module.md)
    + [Een pagina maken](../frontend-development/create-page.md)
-
 + PWA Studio {#pwa-studio}
    + Inleiding tot PWA Studio {#introduction}
       + [1 - Overzicht](../pwa/introduction/1-overview.md)
