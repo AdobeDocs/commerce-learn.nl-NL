@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B voor Adobe Commerce" type="Positief"
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: 7e09ceadf377bf5ed15988cf0db493af1c0ead0a
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,5 +32,5 @@ Voor B2B-handelaren: _[!UICONTROL Companies]_op de pagina worden alle huidige be
 
 ## Aanvullende bronnen
 
-- [Bedrijfsrekeningen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html)
-- [Bedrijfsaccounts beheren](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html)
+- [Bedrijfsrekeningen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
+- [Bedrijfsaccounts beheren](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
