@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Een net maken met meerdere bronnen
 
-Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh voor Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Ga voor meer informatie en codevoorbeelden naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh voor Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Ga voor meer informatie en codevoorbeelden naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -24,7 +24,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen 
 
 ## Video-inhoud
 
-* Hoe wordt het gebruikt [transformaties](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) om het standaardbronschema te wijzigen
+* Hoe wordt het gebruikt [transformaties](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} om het standaardbronschema te wijzigen
 * Hoe te om fouten, zoals naamconflicten, schemabeschikbaarheid, en andere kwesties van de schemasyntaxis problemen op te lossen
 * Het net bijwerken met een gewijzigde configuratie
 

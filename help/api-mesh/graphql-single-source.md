@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: fba55cd605c4b17d87af5e8e2919bd400e6ebf55
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Een net met één bron maken
 
-Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen maken in API Mesh voor Adobe Developer App Builder. Voor dit basisvoorbeeld om te werken zoals verwacht, hebt u een openbaar toegankelijke API of het eindpunt van GraphQL nodig. In de video wordt ook uitgelegd hoe u een eenvoudig `mesh.json` bestand voor gebruik met uw instantie Commerce. Ga voor meer informatie en codevoorbeelden naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen maken in API Mesh voor Adobe Developer App Builder. Voor dit basisvoorbeeld om te werken zoals verwacht, hebt u een openbaar toegankelijke API of het eindpunt van GraphQL nodig. In de video wordt ook uitgelegd hoe u een eenvoudig `mesh.json` bestand voor gebruik met uw instantie Commerce. Ga voor meer informatie en codevoorbeelden naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Voor wie is deze video?
 

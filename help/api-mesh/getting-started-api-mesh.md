@@ -6,7 +6,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Als u nog geen ervaring hebt met API Mesh voor Adobe Developer App Builder, raad
 
 API-net combineert meerdere gegevensbronnen voor één antwoord dat uw toepassing kan gebruiken.
 
-[De volledige documentatie van het API-net weergeven](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
+[De volledige documentatie van het API-net weergeven](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Voorbeelden van gebruiksgevallen
 
@@ -31,7 +31,7 @@ Uw toepassing van de Handel heeft REST API en een eindpunt van GraphQL. U kunt b
 
 Als ontwikkelaar die Adobe App Builder en API Mesh gebruikt, is het niet nodig om te begrijpen wat een reverse-proxy is. Nochtans, als u in de algemene functionaliteit geinteresseerd bent aangezien het in Adobe App Builder betrekking heeft, gebruik de volgende middelen:
 
-* [Wat is een reverse-proxy](https://www.imperva.com/learn/performance/reverse-proxy/)
-* [Wat is een reverse-proxy en waarom maakt het uit](https://blog.hubspot.com/website/reverse-proxy)
+* [Wat is een reverse-proxy](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Wat is een reverse-proxy en waarom maakt het uit](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

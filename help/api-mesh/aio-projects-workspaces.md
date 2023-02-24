@@ -6,7 +6,7 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: 48d96994571ced0b8219ace9178d068481a39573
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Werken met projecten en werkruimten
 
-In deze zelfstudie worden het maken van een project en een werkruimte besproken die uw net moeten bevatten. Dit werk gebeurt voornamelijk in de [Adobe Developer-console](https://developer.adobe.com/console) UI.
+In deze zelfstudie worden het maken van een project en een werkruimte besproken die uw net moeten bevatten. Dit werk gebeurt voornamelijk in de [Adobe Developer-console](https://developer.adobe.com/console){target="_blank"} UI.
 
 ## Voor wie is deze video?
 
@@ -35,12 +35,12 @@ In deze zelfstudie worden het maken van een project en een werkruimte besproken 
 
 ## Meer informatie over de Adobe Developer Console
 
-In de Adobe Developer-console wordt in de volgende hiërarchie aangegeven hoe uw API&#39;s in uw organisatie passen: `Organization > Project > Workspace > [API]`. Ga voor meer informatie over Adobe App Builder, het aanmelden bij de console en het basisprobleem naar [Uw eerste App Builder-toepassing maken](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+In de Adobe Developer-console wordt in de volgende hiërarchie aangegeven hoe uw API&#39;s in uw organisatie passen: `Organization > Project > Workspace > [API]`. Ga voor meer informatie over Adobe App Builder, het aanmelden bij de console en het basisprobleem naar [Uw eerste App Builder-toepassing maken](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Inleiding tot projecten in de Adobe Developer-console
 
-Alle ontwikkelingswerkzaamheden in Adobe Developer Console worden uitgevoerd als onderdeel van een project. Een project kan een of meerdere producten en een combinatie van API&#39;s, gebeurtenissen, runtimes en plug-ins bevatten. Ga voor meer informatie over projecten in de Adobe Developer-console naar [Projecten](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Alle ontwikkelingswerkzaamheden in Adobe Developer Console worden uitgevoerd als onderdeel van een project. Een project kan een of meerdere producten en een combinatie van API&#39;s, gebeurtenissen, runtimes en plug-ins bevatten. Ga voor meer informatie over projecten in de Adobe Developer-console naar [Projecten](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-Voor meer informatie bij het gebruiken van projecten en werkruimten in de context van API Netwerk, zie [Projecten en werkruimten wijzigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
+Voor meer informatie bij het gebruiken van projecten en werkruimten in de context van API Netwerk, zie [Projecten en werkruimten wijzigen](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}
