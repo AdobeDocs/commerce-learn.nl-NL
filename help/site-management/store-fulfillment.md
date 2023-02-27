@@ -3,11 +3,11 @@ title: Overzicht van winkeluitvoering
 description: Meer informatie over winkelafhandeling voor Adobe Commerce via Walmart Commerce Technologies, een geavanceerde omnichannel afhandeling die een einde maakt aan Online kopen, Ophalen in-Store (BOPIS)-ervaring.
 landing-page-description: Bekijk deze video om te leren hoe de Oplossing van de Afhandeling van de Opslag klanten het gemak van in-store en curbside ophaaldienst aanbiedt en werknemers efficiënter, mobiel-klaar uitvoeringswerkschema's opslaat om, stadium, en handbestellingen van de opslagbestellingen aan klanten te selecteren.
 doc-type: feature video
-solution: Adobe Commerce
+solution: Commerce
 audience: all
 activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
