@@ -1,9 +1,9 @@
 ---
 title: Aan IO-gebeurtenissen gerelateerde pagina's
 description: Koppelingen naar verwante pagina's in IO-gebeurtenissen
-source-git-commit: 9402acdf9dbb8236da720ef0c0a2738e7498fade
+source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -12,12 +12,12 @@ ht-degree: 0%
 
 ## Aanvullende verwante zelfstudies
 
-* [Installatie van Adobe Commerce 2.4.5](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-5-installation.md)
-* [Installatie van Adobe Commerce 2.4.6](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-6-installation.md)
-* [Een App Builder-project maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/create-app-builder-project.md)
-* [Adobe Commerce-configuratie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/configure-commerce.md)
-* [Ontwikkeling Adobe Commerce-module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/commerce-module-development.md)
-* [Voorwaardelijke Adobe Commerce-gebeurtenissen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/conditional-events.md)
+* [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+* [Installatie van Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+* [Een App Builder-project maken](../io-events/create-app-builder-project.md)
+* [Adobe Commerce-configuratie](../io-events/configure-commerce.md)
+* [Ontwikkeling Adobe Commerce-module](../io-events/commerce-module-development.md)
+* [Voorwaardelijke Adobe Commerce-gebeurtenissen](../io-events/conditional-events.md)
 
 ## Adobe Developer-documentatie
 

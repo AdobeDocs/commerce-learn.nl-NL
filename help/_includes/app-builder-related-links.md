@@ -1,9 +1,9 @@
 ---
 title: API Netgerelateerde pagina's
 description: Koppelingen naar verwante pagina's in App Builder
-source-git-commit: 4e5538c925e449552ba2d9ac5f4c7a63b632e595
+source-git-commit: a12b90b62e83a3c1b5668dbf31a2609b731d292f
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## Aanvullende verwante zelfstudies
 
-* [Inleiding tot App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.md)
-* [Uitbreidbaarheidskader voor App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/extensibility-framework-commerce-eventing.md)
-* [Functionele demonstratie voor App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.md)
-* [Technisch overzicht voor App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.md)
+* [Inleiding tot App Builder](../app-builder/introduction-to-app-builder.md)
+* [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+* [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
+* [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
