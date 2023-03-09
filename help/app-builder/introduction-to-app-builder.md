@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
+source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Het volgende diagram illustreert hoe een standaardtoepassing die op App Builder 
 
 ![Architectuur](/help/assets/app-builder/firefly-architecture.jpeg)
 
-Voor meer details over de architectuur van App Builder, zie [Overzicht van architectuur](https://developer.adobe.com/app-builder/docs/guides/).
+Voor meer details over de architectuur van App Builder, zie [Overzicht van architectuur](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Amazon Sales Channel-extensie {#amazon-sales-channel-extension}
 
@@ -75,27 +75,27 @@ De volgende zelfstudies tonen hoe u Adobe Commerce met een App Builder-extensie 
 
 Een overzicht van de composable commerce strategie, die de aanvankelijke opstelling omvat, kan door het volgende blogbericht te lezen worden gevonden:
 
-[Hoe de Hulp van de Bouwer van de App zaken behendigheid voor uw handelsplatform drijft](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+[Hoe de Hulp van de Bouwer van de App zaken behendigheid voor uw handelsplatform drijft](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 Adobe heeft de volgende documentatie gemaakt om u te helpen aan de slag te gaan met App Builder:
 
-* [Aan de slag met App Builder](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [Aan de slag met App Builder](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## Doorgaan met leren met documentatie {#appbuilder-documentation}
 
 App Builder biedt video&#39;s en documentatie voor ontwikkelaars, inclusief hulplijnen en documentatie voor naslagwerken om uw eigen aangepaste toepassingen te helpen ontwikkelen:
 
-* [Documentatie voor App Builder](https://developer.adobe.com/app-builder/docs/overview/)
-* [Video&#39;s over App Builder](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [Documentatie voor App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Video&#39;s over App Builder](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Een van de voorbeeldtoepassingen uitproberen {#appbuilder-codesamples}
 
 Klaar om te beginnen met ontwikkelen? De volgende koppeling bevat voorbeeldtoepassingen waarmee u aan de slag kunt gaan:
 
-* [Code-labels voor App Builder op de Adobe Developer-website](https://developer.adobe.com/app-builder/docs/resources/)
+* [Code-labels voor App Builder op de Adobe Developer-website](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## Ondersteuning {#support}
 
-Voor verzoeken om ontwikkelaarsondersteuning gebruikt u de [Forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) voor hulp.
+Voor verzoeken om ontwikkelaarsondersteuning gebruikt u de [Forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} voor hulp.
 
 {{$include /help/_includes/app-builder-related-links.md}}
