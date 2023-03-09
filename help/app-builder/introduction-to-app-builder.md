@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
+source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -72,6 +72,10 @@ De volgende zelfstudies tonen hoe u Adobe Commerce met een App Builder-extensie 
 * [functionele demonstratie App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Aan de slag met App Builder {#additional-resources}
+
+Een overzicht van de composable commerce strategie, die de aanvankelijke opstelling omvat, kan door het volgende blogbericht te lezen worden gevonden:
+
+[Hoe de Hulp van de Bouwer van de App zaken behendigheid voor uw handelsplatform drijft](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
 
 Adobe heeft de volgende documentatie gemaakt om u te helpen aan de slag te gaan met App Builder:
 
