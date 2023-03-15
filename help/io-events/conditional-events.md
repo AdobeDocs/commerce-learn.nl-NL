@@ -2,11 +2,12 @@
 title: Meer informatie over het gebruik van voorwaardelijke gebeurtenissen in Adobe Commerce
 description: Leer hoe u voorwaardelijke gebeurtenissen kunt gebruiken in Adobe Developer App Builder.
 landing-page-description: Leer hoe u voorwaardelijke Adobe Commerce-gebeurtenissen kunt gebruiken.
+short-description: Learn how to use Adobe Commerce conditional events.
 kt: 11890
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: f5de9191315c7df2eaca4ee51d03b30e2a2fac99
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

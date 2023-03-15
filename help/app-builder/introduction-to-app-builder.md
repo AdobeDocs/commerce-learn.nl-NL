@@ -2,11 +2,12 @@
 title: Uitbreidbaarheid buiten proces voor Adobe Commerce
 description: Meer informatie over Adobe App Builder en waarom dit een belangrijk aspect is van de uitbreidbaarheid zonder processen.
 landing-page-description: Leer wat App Builder is en hoe deze kan helpen met ontwikkelingsstrategieën voor Adobe Commerce.
+short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
 kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 021df5e5f98341204e9cc486c249dcd87fab2aa3
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%

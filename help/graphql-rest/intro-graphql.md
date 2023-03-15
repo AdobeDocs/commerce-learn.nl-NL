@@ -2,12 +2,13 @@
 title: Inleiding GraphQL
 description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL-oproepen voor GET en POSTEN voor Adobe Commerce en [!DNL Magento Open Source].
 landing-page-description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL-oproepen voor GET en POSTEN voor Adobe Commerce en [!DNL Magento Open Source].
+short-description: Learn how to use GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Use GraphQL GET and POST calls for Adobe Commerce and [!DNL Magento Open Source].
 kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%

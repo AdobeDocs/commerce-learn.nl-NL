@@ -2,13 +2,14 @@
 title: Het gereedschap Compatibiliteit bijwerken gebruiken op de PHP-Storm
 description: Bekijk deze technische video om te leren hoe u Upgrade Compatibility Tool kunt gebruiken met de PHP Storm-plug-in.
 landing-page-description: Meer informatie over het gebruik van het gereedschap Compatibiliteit bijwerken met de PHP Storm-plug-in, zodat incompatibiliteiten gemakkelijk kunnen worden geïdentificeerd en verholpen.
+short-description: Learn about using the Upgrade Compatibility Tool with the PHP Storm plugin that makes it easy to identify and address incompatibilities.
 kt: 9651
 doc-type: technical video
 role: Developer
 audience: all
 activity: use
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%

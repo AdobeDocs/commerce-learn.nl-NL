@@ -2,12 +2,13 @@
 title: Adobe Commerce over cloud-infrastructuur - Overzicht
 description: Identificeer de belangrijkste technologieën binnen de ​ van de wolkenstapel. Beschrijf de strategie voor het leveren van inhoud voor Adobe Commerce. Begrijp de waarde van het read-only dossiersysteem.
 landing-page-description: Bekijk deze videoreeks om aan de slag te gaan met de cloudinfrastructuur die wordt gebruikt voor de implementatie en het beheer van Adobe Commerce.
+short-description: Watch this video series to get started on the cloud infrastructure used for deploying and managing Adobe Commerce.
 kt: 5656
 doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
