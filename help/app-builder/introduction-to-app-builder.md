@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
+source-git-commit: 021df5e5f98341204e9cc486c249dcd87fab2aa3
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Adobe Commerce-ontwikkeling heeft altijd gebruikgemaakt van procesrekbaarheid. Het in-proces model vereist om het even welke nieuwe code om met verbeteringen, de PHP versie van de server, en vele andere essentiële servertoepassingen en de diensten compatibel te zijn die de Handel gebruikt. Adobe Developer App Builder maakt gebruik van externe uitbreidbaarheid om deze compatibiliteitsproblemen te voorkomen.
 
-## App Builder voor Adobe Commerce {#project-firefly}
+## App Builder voor Adobe Commerce {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
@@ -32,7 +32,7 @@ App Builder biedt klanten een manier om de app uit te breiden [!DNL Adobe Commer
 * de uitbreidbaarheid van de kerndiensten - breid kerntoepassingsmogelijkheden door het standaardgedrag met douaneeigenschappen en bedrijfslogica uit te breiden.
 * uitbreidbaarheid van gebruikerservaring - breid kernervaring uit om bedrijfsvereisten te steunen of klant-specifieke digitale eigenschappen, opslagronts, en achterkantoortoepassingen te bouwen.
 
-App Builder (voorheen bekend als Project Firefly) is een cloudgebaseerde oplossing, wat betekent dat deze automatisch wordt geschaald. Deze service wordt ook wereldwijd gedistribueerd zodat u de beste prestaties kunt leveren, ongeacht uw geografische locatie.
+Adobe Developer App Builder is een cloudgebaseerde oplossing, wat betekent dat deze automatisch wordt geschaald. Deze service wordt ook wereldwijd gedistribueerd zodat u de beste prestaties kunt leveren, ongeacht uw geografische locatie.
 
 ## Waarom moet u meer weten over App Builder
 
@@ -55,7 +55,7 @@ In plaats van een out-of-the-box oplossing biedt Adobe Developer App Builder een
 
 Het volgende diagram illustreert hoe een standaardtoepassing die op App Builder wordt gebouwd deze functionaliteit gebruikt:
 
-![Architectuur](/help/assets/app-builder/firefly-architecture.jpeg)
+![Architectuur](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Voor meer details over de architectuur van App Builder, zie [Overzicht van architectuur](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
