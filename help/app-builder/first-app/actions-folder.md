@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` map {#actions-folder}
+# Meer informatie over de map Handelingen {#actions-folder}
 
 De `actions` de map voor deze voorbeeldapp bevat enkele JavaScript-bestanden en een map met de naam `commerce`. Het weergegeven JavaScript is een uitstekend voorbeeldbestand dat opnieuw kan worden gebruikt als dit van belang is voor uw werk. Deze map kan u tijd besparen bij de ontwikkeling wanneer u verbinding maakt met de Adobe Commerce-toepassing met OAuth en REST.
 

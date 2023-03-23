@@ -6,15 +6,15 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
-# `test` map {#test-folder}
+# Meer informatie over de testmap {#test-folder}
 
 De `test` voor deze voorbeeldtoepassing bevat één JavaScript-bestand dat wordt gebruikt bij het uitvoeren van eenheidstests op de toepassing.
 
