@@ -1,7 +1,7 @@
 ---
-source-git-commit: b89fe908caa88a154481d21ff6170234dde794c1
+source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -44,10 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [Namen van toegepaste standaarden]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)).
-- [ ] Komt TOC en H1 voor elke pagina die of wordt gecreeerd bij?
-- [ ] Beschikt de inhoudsopgave en H1 over een voorbeeld van een handeling: Leer hoe u een PR maakt
+- [ ] [Namen van toegepaste standaarden]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] De inhoudsopgave en de H1-overeenkomst voor elke pagina die wordt gemaakt of bijgewerkt.
+- [ ] Aan de inhoudsopgave en de H1 is bijvoorbeeld een handeling gekoppeld: Leer hoe te om een trekkingsverzoek van GutHub tot stand te brengen
 - [ ] Niets zou monospaced in H1 moeten zijn
-- [ ] Elke paginatitel moet beginnen met een hoofdletter
-- [ ] Video&#39;s hebben hoofdstukken
-- [ ] Er is een poster toegewezen voor het correct weergeven van de video
+- [ ] Elke paginatitel moet beginnen met een ***C***hoofdletter
+- [ ] Ik heb gecontroleerd of bepaalde video&#39;s hoofdstukken moesten hebben
+- [ ] Alle video&#39;s beschikken over een poster die de video correct weergeeft
+- [ ] Heeft u [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
