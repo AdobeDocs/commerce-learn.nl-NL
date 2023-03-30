@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ Als u nog geen ervaring hebt met API Mesh voor Adobe Developer App Builder, raad
 API-net combineert meerdere gegevensbronnen voor één antwoord dat uw toepassing kan gebruiken.
 
 [De volledige documentatie van het API-net weergeven](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## Voor wie is deze video?
+
+* Ontwikkelaars die nog niet bekend zijn met API Mesh of [!DNL Adobe Commerce] met beperkte ervaring [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} en API-net.
+
+## Video-inhoud
+
+* Overzicht naar API-net
+* Koppelingen naar de documentatie van de leverancier
+* Gebruik hoofdletters/kleine letters voor het uitvoeren van een voorraadcontrole in real time bij het afrekenen
+* Ontwikkeling en hulpbronnengebruik verplaatsen naar een andere plaats dan uw handelstoepassing
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## Voorbeelden van gebruiksgevallen
 
