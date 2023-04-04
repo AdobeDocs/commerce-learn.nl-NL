@@ -6,9 +6,9 @@ kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Dit bestand bepaalt de configuratie voor de toepassing.
 * De `app.config.yaml` besproken bestand
 * Hoe zijn definities gekoppeld aan andere definities `.js` bestanden
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
 ## Codevoorbeeld
 

@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Categorieanalyse is bedoeld om een overzicht op hoog niveau van bepaalde product
 >
 >De inhoud in de video weerspiegelt de release 2.2. Zie de [MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) voor de meest actuele informatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37904?quality=12&learn=on)
 
 ## Aanvullende bronnen
 

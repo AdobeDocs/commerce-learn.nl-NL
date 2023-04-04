@@ -7,7 +7,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Adobe Commerce-ontwikkeling heeft altijd gebruikgemaakt van procesrekbaarheid. H
 
 ## App Builder voor Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
 
 Adobe Developer App Builder is een serverloos uitbreidbaarheidsplatform voor het integreren en maken van aangepaste ervaringen voor het uitbreiden van Adobe-oplossingen. Het is nu beschikbaar voor Adobe Commerce. Met App Builder kunt u veilige en schaalbare apps maken die de eigen functies voor handel uitbreiden en integreren met oplossingen van derden. Als ontwikkelaar kunt u nu profiteren van de uitbreidbaarheid buiten het proces met Adobe Commerce en die op zijn beurt directe en langetermijnvoordelen biedt.
 

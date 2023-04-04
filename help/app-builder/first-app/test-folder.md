@@ -6,9 +6,9 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Dit is een eenvoudig voorbeeld dat u kunt uitbreiden om uitgebreide tests voor u
 * Een korte uitleg van het testbestand voor de eenheid en de onderdelen ervan
 * Inleiding tot end-to-end testen
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
 ## Codevoorbeelden
 

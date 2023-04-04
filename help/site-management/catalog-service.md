@@ -8,9 +8,9 @@ last-substantial-update: 2022-09-19T00:00:00Z
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 hidefromtoc: true
 hide: true
-source-git-commit: 2054ce9c2b8cde0ff7ce2c8b95a270b3dc0abe77
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,11 +33,11 @@ In deze video:
 
 Deel 1:
 
->[!VIDEO](https://video.tv.adobe.com/v/3415599)
+>[!VIDEO](https://video.tv.adobe.com/v/3415599?quality=12&learn=on)
 
 Deel 2:
 
->[!VIDEO](https://video.tv.adobe.com/v/3415600)
+>[!VIDEO](https://video.tv.adobe.com/v/3415600?quality=12&learn=on)
 
 ## Aanvullende bronnen
 

@@ -7,7 +7,7 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Ga voor installatie-instructies en -voorwaarden naar het API-net [Aan de slag](h
 * Adobe I/O Runtime CLI installeren (opdrachtregelinterface)
 * De API Mesh-insteekmodule installeren
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122/)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## De installatie van de `aio` CLI- en API-netplug-in
 

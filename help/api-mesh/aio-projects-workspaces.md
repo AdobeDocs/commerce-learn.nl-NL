@@ -7,9 +7,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ In deze zelfstudie worden het maken van een project en een werkruimte besproken 
 * Het veranderen van de geselecteerde Organisatie, het project, of de werkruimte in CLI
 * Eenvoudige opdrachten voor API-net testen
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123/)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## Meer informatie over de Adobe Developer Console
 

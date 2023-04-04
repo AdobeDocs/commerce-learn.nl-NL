@@ -6,9 +6,9 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ De `.env` is een speciaal bestand dat geen deel uitmaakt van de voorbeeldmodule,
 * Hoe te om het dossier toe te voegen om nieuwe geheimen toe te voegen
 * Maak geen gebruik van dit bestand omdat het vertrouwelijke informatie bevat
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
 ## Codevoorbeeld
 

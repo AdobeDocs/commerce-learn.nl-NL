@@ -6,9 +6,9 @@ kt: 12427
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,6 @@ Leer hoe u uw nieuwe Adobe Developer App Builder-toepassing test met de URL van 
 * Hoe te om de toepassing op te stellen
 * Waar kan de URL na implementatie worden gevonden?
 
->[!VIDEO](https://video.tv.adobe.com/v/3416664)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
