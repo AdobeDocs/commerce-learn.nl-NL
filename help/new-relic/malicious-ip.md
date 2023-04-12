@@ -2,7 +2,7 @@
 title: Leer hoe te om New Relic te gebruiken om IP te identificeren die moet worden geblokkeerd
 description: Gebruikend New Relic, identificeer een ip adres dat kwaadwillig van aard kan zijn.  Zodra IP wordt bepaald wordt dit gebruikt in Fastly om het van de toegang tot van de toepassing te blokkeren
 landing-page-description: Deze video instrueert een gebruiker van New Relic om potentiële IP adressen te vinden die kunnen moeten worden geblokkeerd om tot de plaats toegang te hebben.
-short-description: This video instructs a user of New Relic to find potential IP addresses that may need to be blocked form accessing the site.
+short-description: Deze video instrueert een gebruiker van New Relic om potentiële IP adressen te vinden die kunnen moeten worden geblokkeerd om tot de plaats toegang te hebben.
 kt: 11566
 doc-type: video
 audience: all
@@ -11,7 +11,7 @@ last-substantial-update: 2022-12-9
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
 source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---

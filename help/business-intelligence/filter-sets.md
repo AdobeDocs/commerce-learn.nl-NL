@@ -2,7 +2,7 @@
 title: MBI - Filtersets
 description: Leer hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens voor Adobe Commerce en Magento Open Source te vereenvoudigen.
 landing-page-description: Bekijk deze video om te leren hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
-short-description: Watch this video to learn how use the MBI filter sets feature to simplify business data reporting.
+short-description: Bekijk deze video om te leren hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

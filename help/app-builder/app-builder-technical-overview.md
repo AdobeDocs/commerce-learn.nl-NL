@@ -2,18 +2,18 @@
 title: Technisch overzicht van App Builder
 description: Meer informatie over Adobe Developer App Builder die in Adobe Commerce wordt gebruikt, vindt u in een technisch overzicht
 landing-page-description: Meer informatie over Adobe Developer App Builder die in Adobe Commerce wordt gebruikt, vindt u in een technisch overzicht
-short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical overview
+short-description: Meer informatie over Adobe Developer App Builder die in Adobe Commerce wordt gebruikt, vindt u in een technisch overzicht
 kt: 11763
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # Technisch overzicht voor App Builder
 

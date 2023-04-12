@@ -2,18 +2,18 @@
 title: Werken met projecten en werkruimten
 description: Ontdek hoe u de Adobe Developer-console kunt gebruiken voor projecten en werkruimten.
 landing-page-description: Ontdek hoe u de Adobe Developer-console kunt gebruiken. Leer over projecten en werkruimten die met API Net moeten worden gebruikt.
-short-description: Discover how to use Adobe Developer console. Learn about projects and workspaces to be used with API Mesh.
+short-description: Ontdek hoe u de Adobe Developer-console kunt gebruiken. Leer over projecten en werkruimten die met API Net moeten worden gebruikt.
 kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Werken met projecten en werkruimten
 

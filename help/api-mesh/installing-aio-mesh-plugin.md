@@ -2,18 +2,18 @@
 title: Adobe I/O Runtime-opdrachtregelinterface en API Mesh-insteekmodule installeren
 description: Ontdek hoe u de Adobe I/O Runtime opdrachtregelinterface en de API Mesh-plug-in installeert
 landing-page-description: Ontdek hoe u Adobe App Builder kunt gebruiken en de Adobe I/O Runtime met de API Mesh-plug-in kunt installeren.
-short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
+short-description: Ontdek hoe u Adobe App Builder kunt gebruiken en de Adobe I/O Runtime met de API Mesh-plug-in kunt installeren.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
-
 
 # Adobe I/O Runtime CLI- en netplug-in installeren
 

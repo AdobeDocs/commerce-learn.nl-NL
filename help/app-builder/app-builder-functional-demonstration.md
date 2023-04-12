@@ -2,18 +2,18 @@
 title: Functionele demonstratie van App Builder
 description: Meer informatie over Adobe Developer App Builder in Adobe Commerce met een technische demonstratie
 landing-page-description: Meer informatie over Adobe Developer App Builder in Adobe Commerce met een technische demonstratie
-short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
+short-description: Meer informatie over Adobe Developer App Builder in Adobe Commerce met een technische demonstratie
 kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Functionele demonstratie voor App Builder
 

@@ -2,14 +2,15 @@
 title: Aan de slag met API-net
 description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Meer informatie over het installeren van Adobe App Builder, het werken met projecten, het maken van een grafische reverse-proxy en nog veel meer.
 landing-page-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Leer over het installeren van Adobe IO, het werken met projecten, het creëren van een grafisch omgekeerde volmacht en veel meer.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
+short-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Leer over het installeren van Adobe IO, het werken met projecten, het creëren van een grafisch omgekeerde volmacht en veel meer.
 kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
