@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
+source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,7 @@ ht-degree: 0%
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
-+ Frontendement {#frontend-development}
++ Geïntegreerde ontwikkeling van Luminantiemateriaal aan voorzijde {#frontend-development}
    + Page Builder voor ontwikkelaars {#page-builder}
       + [1 - Inleiding](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuratie en inhoud](../frontend-development/page-builder/2-config-create-content.md)
@@ -187,7 +187,10 @@ ht-degree: 0%
       + [6 - Aangepaste inhoudstypen](../frontend-development/page-builder/6-custom-content-types.md)
    + [Een JavaScript-module toevoegen](../frontend-development/add-javascript-module.md)
    + [Een pagina maken](../frontend-development/create-page.md)
-+ PWA Studio {#pwa-studio}
+
++ Hoofdloze architectuur {#headless-architecture}
+   + Inleiding tot headless {#introduction-to-headless}
+      + [Hoofdloze architectuur - sessie 1](../headless/session-1.md)
    + Inleiding tot PWA Studio {#introduction}
       + [1 - Overzicht](../pwa/introduction/1-overview.md)
       + [2 - Gereedschappen voor PWA Studio&#39;s](../pwa/introduction/2-pwa-studio-tools.md)
