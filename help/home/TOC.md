@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
+source-git-commit: 8d183d343c6aca85d8bf490df051372ab76f77a0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -128,6 +128,7 @@ ht-degree: 0%
    + [Product Recommendations instellen](../site-management/product-recommendations.md)
    + [Inleiding tot Live zoeken](../site-management/live-search.md)
    + [Live zoeken naar aanbevelingen](../site-management/live-search-recommendations.md)
+   + [Volledige demonstratie van Live Search](../site-management/live-search-full-demonstration.md)
 + Bestellingen en uitvoering {#orders}
    + [Overzicht van winkeluitvoering](../site-management/store-fulfillment.md)
    + [Status van bestelling beheren](../site-management/order-status.md)
