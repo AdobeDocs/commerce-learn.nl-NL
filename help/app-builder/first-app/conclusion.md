@@ -6,13 +6,13 @@ kt: 12428
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Conclusie {#conclusion}
 

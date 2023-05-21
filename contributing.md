@@ -14,28 +14,20 @@ Hieronder volgt een reeks richtlijnen die moeten worden gevolgd wanneer u een bi
 
 ## Gedragscode
 
-Dit project voldoet aan de Adobe [gedragscode](code-of-conduct.md). Door deelname,
-u wordt verwacht deze code te handhaven. Geef een onacceptabel gedrag aan
+Dit project voldoet aan de Adobe [gedragscode](code-of-conduct.md). Door deel te nemen, wordt u verwacht deze code te handhaven. Geef een onacceptabel gedrag aan
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Heb je een vraag?
 
-Begin met het indienen van een probleem. De bestaande commissies voor dit project werken eraan
-consensus over de richting van projecten en het uitwerken van oplossingen binnen de verschillende onderwerpen
-(indien van toepassing).
+Begin met het indienen van een probleem. De bestaande comités voor dit project werken aan consensus over de richting van het project en leveren oplossingen aan binnen de thema&#39;s (indien van toepassing).
 
 ## Licentieovereenkomst voor contribuant
 
-Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende contribuant
-licentieovereenkomst. Dit geeft Adobe toestemming om uw bijdragen opnieuw te verdelen
-als onderdeel van het project. [Onderteken onze CLA](https://opensource.adobe.com/cla.html). U
-slechts één keer een Adobe CLA moet voorleggen, zodat als u eerder hebt voorgelegd,
-je bent klaar om te gaan !
+Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende contributieovereenkomst. Dit geeft Adobe toestemming om uw bijdragen als deel van het project te herverdelen. [CLA ondertekenen](https://opensource.adobe.com/cla.html). U hoeft slechts één keer een Adobe CLA in te dienen, dus als u eerder een CLA hebt verzonden, kunt u het beste gaan!
 
 ## Codebeoordelingen
 
-Alle opmerkingen moeten in de vorm van een &quot;pull&quot;-verzoek worden ingediend en moeten worden herzien
-door projectbevrachters. Lees [documentatie van het trekpleverzoek van GitHub](https://help.github.com/articles/about-pull-requests/)
+Alle inzendingen moeten de vorm aannemen van een &quot;pull&quot;-verzoek en moeten door projectbevrachters worden herzien. Lezen [De documentatie van het trektrekkingsverzoek van GitHub](https://help.github.com/articles/about-pull-requests/)
 voor meer informatie over het verzenden van trekkingsverzoeken.
 
 <!--
@@ -45,13 +37,8 @@ submitting a pull request!
 
 ## Van contribuant aan vastleggingen
 
-We houden van bijdragen van onze gemeenschap! Als u een stap verder wilt gaan dan contribuant
-en wordt een commissie met volledige schrijftoegang en een inspraak in het project, moet u
-worden uitgenodigd voor het project. De bestaande comités hanteren een interne voordracht
-proces dat een luie consensus moet bereiken (stilte is goedkeuring) vóór uitnodigingen
-worden afgegeven. Als u zich gekwalificeerd voelt en meer betrokken wilt worden,
-het is vrij om contact op te nemen met bestaande toezeggingen om hierover te praten .
+We houden van bijdragen van onze gemeenschap! Als u een stap verder wilt gaan dan contribuant en een medeplichtige met volledige schrijftoegang en een mening in het project wilt worden, moet u aan het project worden uitgenodigd. De bestaande commissies maken gebruik van een intern benoemingsproces dat een luie consensus moet bereiken (stilte is goedkeuring) voordat uitnodigingen worden gedaan. Als u vindt dat u gekwalificeerd bent en dieper betrokken wilt worden, voelt u vrij om bestaande toezeggingen te bereiken om daarover een gesprek te voeren.
 
 ## Beveiligingsproblemen
 
-Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. [dient in plaats daarvan een probleem in bij onze beveiligingsexperts](https://helpx.adobe.com/security/alertus.html)
+Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. In plaats daarvan, [een probleem indienen bij onze beveiligingsexperts](https://helpx.adobe.com/security/alertus.html)

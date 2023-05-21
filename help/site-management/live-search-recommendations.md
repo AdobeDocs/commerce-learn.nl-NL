@@ -1,11 +1,12 @@
 ---
-title: "[!DNL Live Search] voor aanbevelingen"
-description: "Leer hoe u kunt toevoegen [!DNL Live Search] voor productaanbevelingen aan uw winkel en om zeer boeiende, relevante en gepersonaliseerde boodschappenervaringen te produceren."
+title: '''[!DNL Live Search] voor aanbevelingen"'
+description: Meer informatie over toevoegen [!DNL Live Search] voor productaanbevelingen aan uw winkel en om zeer boeiende, relevante en gepersonaliseerde boodschappenervaringen te produceren.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: ff258421026c389aa516ef4d168a820a00b8111b
+exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

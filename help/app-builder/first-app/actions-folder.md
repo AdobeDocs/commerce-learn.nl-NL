@@ -6,13 +6,13 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # Meer informatie over de map Handelingen {#actions-folder}
 

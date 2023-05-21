@@ -1,6 +1,6 @@
 ---
-title: Meer informatie over het gebruik van voorwaardelijke gebeurtenissen in Adobe Commerce
-description: Leer hoe u voorwaardelijke gebeurtenissen kunt gebruiken in Adobe Developer App Builder.
+title: Leer hoe u voorwaardelijke gebeurtenissen kunt gebruiken in Adobe Commerce
+description: Leer hoe u voorwaardelijke gebeurtenissen kunt gebruiken voor gebruik in Adobe Developer App Builder.
 landing-page-description: Leer hoe u voorwaardelijke Adobe Commerce-gebeurtenissen kunt gebruiken.
 short-description: Leer hoe u voorwaardelijke Adobe Commerce-gebeurtenissen kunt gebruiken.
 kt: 11890
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ---
 
-# Voorwaardelijke Adobe Commerce-gebeurtenissen
+# Voorwaardelijke gebeurtenissen in Adobe Commerce
 
 Meer informatie over voorwaardelijke gebeurtenissen in Adobe Commerce die kunnen worden gebruikt in Adobe Developer App Builder. Aanvullende documentatie gevonden op [Adobe I/O-gebeurtenissen installeren voor Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog niet bekend zijn met Adobe Commerce en Adobe Developer App Builder, gebruiken I/O-gebeurtenissen en moeten een Adobe App Builder-project maken.
+* Ontwikkelaars die geen ervaring hebben met Adobe Commerce en Adobe Developer App Builder, gebruiken I/O-gebeurtenissen en moeten een Adobe App Builder-project maken.
 
 ## Video-inhoud {#video-content}
 
 * Meer informatie over voorwaardelijke gebeurtenissen
 * Meer informatie over het juiste gebruik van het nieuwe XML-bestand io_events.xml
-* Leer hoe u voorwaardelijke gebeurtenissen configureert
+* Leer hoe u voorwaardelijke gebeurtenissen kunt configureren
 * Regels definiëren voor gebruik in voorwaardelijke gebeurtenissen
 * Leer hoe u gebeurtenissen kunt registreren in de instanties Commerce `app/etc/config.php`
 

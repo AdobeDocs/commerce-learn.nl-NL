@@ -1,6 +1,6 @@
 ---
 title: Een JavaScript-module toevoegen
-description: Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module die de begroeting "Hello World" biedt.
+description: Deze video biedt een leid voor het ontwikkelen van een eenvoudige JS-module die de begroeting "Hello World" biedt.
 topic: Development
 kt: 5612
 doc-type: video
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 # Een JavaScript-module toevoegen
 
-Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module die de begroeting &quot;Hello World&quot; biedt.
+Deze video biedt een leid voor het ontwikkelen van een eenvoudige JS-module die de begroeting &quot;Hello World&quot; biedt.
 
-## Voor wie is deze video?
+## Voor wie is deze video voor?
 
-- Ontwikkelaars
+- Hebben
 
-## Stappen
+## Activiteiten
 
 - Een module maken
-- Een `requirejs-config.js` en een JavaScript-modulebestand
-- Lay-outupdate maken voor het toevoegen van een sjabloon die de JS-module inschakelt
+- Een `requirejs-config.js` JavaScript-modulebestand maken
+- Lay-outupdate maken voor het toevoegen van een sjabloon voor het inschakelen van de module JS
 - Sjabloonbestand maken
-- Voeg de module toe en test het
+- Voeg de module toe en test deze
 
 ## Video-inhoud
 
@@ -35,5 +35,5 @@ Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module 
 
 ## Nuttige bronnen
 
-- [JavaScript-ontwikkelaarshandleiding](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [JavaScript-ontwikkelaarsgids](https://developer.adobe.com/commerce/frontend-core/javascript/)
 - [JavaScript aanroepen en initialiseren](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

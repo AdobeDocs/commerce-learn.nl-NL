@@ -6,13 +6,13 @@ kt: 12421
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht {#overview}
 
@@ -51,4 +51,3 @@ Deze zelfstudie is ontworpen om de volgorde van pagina&#39;s in de linkernavigat
 {{avoid-400-error}}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
-

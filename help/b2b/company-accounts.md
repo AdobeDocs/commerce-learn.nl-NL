@@ -9,7 +9,7 @@ badge: label="B2B voor Adobe Commerce" type="Positief"
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 source-git-commit: 7e09ceadf377bf5ed15988cf0db493af1c0ead0a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

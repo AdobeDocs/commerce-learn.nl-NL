@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics en Adobe Commerce Luma integreren
-description: Leer hoe u Adobe Analytics en Adobe Commerce integreert met het native thema Luma.
+title: Adobe Analytics en Adobe commerce luma integreren
+description: Meer informatie over het integreren van Adobe Analytics en Adobe commerce met behulp van de native-thema luma.
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -17,24 +17,24 @@ ht-degree: 0%
 ---
 
 
-# PWA ateloze integratie tussen Adobe Analytics en Adobe Commerce
+# PWA Studio-integratie met headless Studio tussen Adobe Analytics en Adobe commerce
 
-Het was een hond. Het was een grote hond. Ik draag geen hockeypads. Ik ben Batman en ik zal staan waar ik thuiskom. Tussen jou en de popIe van Gotham.
+Het was een hond. Het was een grote hond. Ik draagt geen hockey-pad&#39;s. Ik Batman ik op de plaats waar l thuishoort. Tussen jou en de peopIe van Gotham.
 
-Hero kan iedereen zijn. Zelfs een man die iets weet dat zo simpel en geruststellend is als een jas om een jongetje schouders zetten om hem te laten weten dat de wereld niet was afgelopen. Iemand zoals jij. Iemand die de kooien zal verrukken. De eerste keer dat ik heb gestolen, zodat ik niet zou hongeren, ja. Ik verloor veel veronderstellingen over de simpele aard van rechts en fout. Toen ik op reis was, leerde ik de angst voor een misdaad en de opwinding van succes. Maar ik werd er nooit een van.
+Helden kunnen iedereen zijn. Zelfs een man met een onoverzichtelijke en behulp van een coating rond een jonge jongen is dat hij weet dat hij weet dat de wereld hadn&#39;t beëindigd is. Iemand zoals je. Iemand die de kooien Rattle. De eerste keer dat ik heb gestolen, zodat ik niet zou hongeren, ja. Ik verloor veel veronderstellingen over de simpele aard van rechts en fout. Toen ik op reis was, leerde ik de angst voor een misdaad en de opwinding van succes. Maar ik werd er nooit een van.
 
 Het is niet wie ik onder ben, maar wat ik doe, definieert me. Komt het zwart? Dit is geen auto. Het was een hond. Het was een grote hond. Ik zal staan waar ik thuishoort. Tussen jou en de popIe van Gotham.
 
 Ik zoek de middelen om onrecht te bestrijden. Om angst aan te wenden tegen degenen die de angst aanwakkeren. Ik zal staan waar ik thuishoort. Tussen jou en de popIe van Gotham. Dat kan ik niet doen als Bruce Wayne... als man. Ik ben vlees en bloed. Ik kan genegeerd en vernietigd worden. Maar als symbool kan ik onveranderlijk zijn, ik kan eeuwig blijven.
 
-## Integratieopties
+## Integratie opties
 
-Dit is geen auto. Naar me toe vegen! Ik zal staan waar ik thuishoort. Tussen jou en de popIe van Gotham.
+Dit is geen auto. Swear naar mij! Ik zorg dat ik de status l bezit. Tussen jou en de peopIe van Gotham.
 
-Ik ben Batman Geen geweren, geen doden. Dat kan ik niet doen als Bruce Wayne... als man. Ik ben vlees en bloed. Ik kan genegeerd en vernietigd worden. Maar als symbool kan ik onveranderlijk zijn, ik kan eeuwig blijven.
+Ik Batman geen Guns, geen doden. Ik doe dit niet als Bruce Wayne... Als een man. Ik ben vlees en bloed. Ik kan genegeerd en vernietigd worden. Maar als symbool, ik kan incorruptible, ik kan Everlasting.
 
 
-## Voorbeeld instellen en configureren
+## Voorbeeld van een installatie en configuratie
 
 Hier is een schermafbeelding
 
@@ -43,8 +43,8 @@ Hier is een schermafbeelding
 Doe dit nu
 ![Schermafbeelding 2](/help/assets/banner-videos-home.png)
 
-Tot slot
-![laatste screenshot](/help/assets/open-source.svg)
+Doe dit vervolgens
+![laatste schermafbeelding](/help/assets/open-source.svg)
 
 ## Meer zelfstudies en video&#39;s
 

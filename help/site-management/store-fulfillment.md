@@ -1,8 +1,8 @@
 ---
-title: Overzicht van winkeluitvoering
-description: Meer informatie over winkelafhandeling voor Adobe Commerce via Walmart Commerce Technologies, een geavanceerde omnichannel afhandeling die een einde maakt aan Online kopen, Ophalen in-Store (BOPIS)-ervaring.
-landing-page-description: Bekijk deze video om te leren hoe de Oplossing van de Afhandeling van de Opslag klanten het gemak van in-store en curbside ophaaldienst aanbiedt en werknemers efficiënter, mobiel-klaar uitvoeringswerkschema's opslaat om, stadium, en handbestellingen van de opslagbestellingen aan klanten te selecteren.
-short-description: Bekijk deze video om te leren hoe de Oplossing van de Afhandeling van de Opslag klanten het gemak van in-store en curbside ophaaldienst aanbiedt en werknemers efficiënter, mobiel-klaar uitvoeringswerkschema's opslaat om, stadium, en handbestellingen van de opslagbestellingen aan klanten te selecteren.
+title: Overzicht van opslagtegoeden
+description: Lees meer over Store Fulfillment voor Adobe Commerce door Walmart Commerce Technologies, een geavanceerde omni-channel fulfillment-oplossing die een end-to-end Buy Online, Pick up In-Store (BOPIS)-ervaring biedt.
+landing-page-description: Bekijk deze video om te zien hoe de oplossing Store Fulfillment klanten het gemak biedt van in-store en krullend ophalen en winkelmedewerkers efficiëntere, voor mobiele apparaten geschikte fulfillment-workflows om bestellingen in winkels te selecteren, te podium en af te leveren aan klanten.
+short-description: Bekijk deze video om te zien hoe de oplossing Store Fulfillment klanten het gemak biedt van in-store en krullend ophalen en winkelmedewerkers efficiëntere, voor mobiele apparaten geschikte fulfillment-workflows om bestellingen in winkels te selecteren, te podium en af te leveren aan klanten.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 ---
 
-# Overzicht van winkeluitvoering
+# Overzicht van opslagtegoeden
 
-Winkeltegoed voor Adobe Commerce door Walmart Commerce Technologies biedt een geavanceerde online-aankoop, een ophaalservice voor klanten (BOPIS). Het maximaliseert de productiviteit van de opslagwerknemers door een naadloze, volledige omnichannel uitvoeringsworkflow te verstrekken die door een mobiel apparaat wordt toegelaten.
+Store Fulfillment voor Adobe Commerce van Walmart Commerce Technologies levert een geavanceerde aankoop online, oppikken in-store (BOPIS) klantervaring. Het maximaliseert de productiviteit van winkelwerknemers door een naadloze, end-to-end omni-channel fulfillment workflow te bieden die via een mobiel apparaat wordt ingeschakeld.
 
-Deze video biedt een snel overzicht van de end-to-end BOPIS-ervaring van de Uitvoering van de Opslag met opties voor het in-store en curbside ophalen.
+Deze video biedt een kort overzicht van de totaalervaring van de Store Fulfillment BOPIS met opties voor het ophalen in de winkel en voor het inpakken op de achtergrond.
 
-- Kijk of een klant een bestelling voor het ophalen van een winkel verzendt:
+- Bekijk een klant die een bestelbon voor de winkel indient:
    - Blader door de onlinewinkelcatalogus.
    - Selecteer items voor ophalen in de winkel.
    - Zoek en selecteer een opslaglocatie met beschikbare voorraad.
-   - De opties voor het ophalen van de winkel uitchecken en aanpassen.
+   - Bekijk de opties voor het ophalen van winkels en pas deze aan.
    - Plaats de bestelling.
-- Kijk hoe een medewerker en klant van de winkel het volledige bestelproces doorlopen met de mobiele app die beschikbaar is bij de oplossing Afhandeling van winkel.
+- Bekijk hoe een medewerker en klant van de winkel het volledige proces voor orderuitvoering doorlopen met de mobiele app die beschikbaar is met de Store Fulfillment-oplossing.
 
 ## Voor wie is deze video?
 
 - eCommerce-managers
-- Beheerders van opslagbewerkingen en beheerders
+- Operationele managers en beheerders opslaan
 
 ## Video-inhoud
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release van Store Fulfillment Solution 1.0 die is geïnstalleerd op een winkel met Adobe Commerce 2.4. Zie de [Gebruikershandleiding voor opslag](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) voor de meest actuele informatie.
+>De inhoud in de video weerspiegelt de Store Fulfillment Solution 1.0-release die is geïnstalleerd op een winkel met Adobe Commerce 2.4. Zie de [Handboek voor Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) voor de meest actuele informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Gebruikershandleiding voor opslag](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[Handboek voor Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

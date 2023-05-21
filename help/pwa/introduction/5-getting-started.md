@@ -1,6 +1,6 @@
 ---
-title: PWA Studio voor ontwikkelaars - Projectopstelling
-description: Ga aan de slag met een nieuw PWA Studio-project, inclusief het genereren van een lokaal SSL-certificaat en de CLI-opdrachten van het buildpakket.
+title: PWA Studio voor ontwikkelaars-project instellingen
+description: Ga aan de slag met een nieuw PWA Studio-project, inclusief het genereren van een lokaal SSL-certificaat en de opdrachten samen met pakket CLI.
 topic: Development
 kt: 5648
 doc-type: video
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio voor ontwikkelaars - Projectopstelling
+# PWA Studio voor ontwikkelaars-project instellingen
 
 In deze video:
 
 - Aan de slag met PWA Studio
-- Eerste projectinstelling
+- Aanvankelijke projectinstellingen
 - Lokaal SSL-certificaat genereren
 - [!DNL Buildpack] CLI-opdrachten
 
-## Voor wie is deze video?
+## Voor wie is deze video voor?
 
-- Voor-eindontwikkelaars
-- Projectmanagers
+- Frontend-ontwikkelaars
+- Project managers
 
 ## Video-inhoud:
 

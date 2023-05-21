@@ -5,7 +5,8 @@ kt: 13168
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
-source-git-commit: eda066240960ae7c0b36bd7c22f8598e613a2d73
+exl-id: 92f57e62-5a60-484f-9b79-27c824708619
+source-git-commit: d284364b8132db6864483d3bd6c49f8c953a2144
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

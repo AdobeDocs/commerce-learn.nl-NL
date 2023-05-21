@@ -6,13 +6,13 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Het .env-bestand genereren en configureren {#env-file}
 

@@ -1,8 +1,8 @@
 ---
 title: Aan de slag met GraphQL
-description: Ontdek hoe u GraphQL kunt gebruiken op Adobe Commerce en [!DNL Magento Open Source]. Leer over het gebruiken van vragen, mutaties, en schema's.
-landing-page-description: Ontdek hoe u GraphQL kunt gebruiken op Adobe Commerce en [!DNL Magento Open Source]. Leer over het gebruiken van vragen, mutaties, en schema's.
-short-description: Ontdek hoe u GraphQL kunt gebruiken op Adobe Commerce en [!DNL Magento Open Source]. Leer over het gebruiken van vragen, mutaties, en schema's.
+description: Ontdek hoe u GraphQL gebruikt op Adobe commerce en  [!DNL Magento Open Source] . Meer informatie over het gebruik van query's, mutaties en schema's.
+landing-page-description: Ontdek hoe u GraphQL gebruikt op Adobe commerce en  [!DNL Magento Open Source] . Meer informatie over het gebruik van query's, mutaties en schema's.
+short-description: Ontdek hoe u GraphQL gebruikt op Adobe commerce en  [!DNL Magento Open Source] . Meer informatie over het gebruik van query's, mutaties en schema's.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 ---
 
-# Aan de slag met GraphQL voor Adobe Commerce
+# Aan de slag met GraphQL voor Adobe commerce
 
-Als u nog geen ervaring hebt met GraphQL, raadt Adobe u aan om te beginnen met deze inleidende video voordat u gaat ingraven in de bijbehorende zelfstudie.
+Als u GraphQL nog niet eerder hebt gebruikt, raadt Adobe aan om te beginnen met deze inleidende video voordat Digging in de bijbehorende zelfstudie wordt geadviseerd.
 
-## Voor wie is deze video?
+## Voor wie is deze video voor?
 
-* Ontwikkelaars met Adobe Commerce of [!DNL Magento Open Source] met beperkte ervaring met GraphQL.
+* Ontwikkelaars zijn nieuw voor Adobe commerce of [!DNL Magento Open Source] met een beperkte ervaring met GraphQL.
 
 ## Video-inhoud
 
 * Inleiding tot GraphQL
-* De Altair-plug-in gebruiken
-* GraphQL-query&#39;s
-* GraphQL Mutations
-* GraphQL Schema
+* De Altair-insteekmodule gebruiken
+* GraphQL-Query&#39;s
+* GraphQL mutaties
+* GraphQL-schema
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412302?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce over cloudinfrastructuur - Implementatie
-description: Meer informatie over implementatiefasen en scripts. Begrijp hoe het plaatsingsproces van de infrastructuurkant ​ werkt.
+description: Meer informatie over implementatiefasen en -scripts. Begrijp hoe het implementatieproces werkt vanuit de ​.
 kt: 5659
 doc-type: video
 audience: all
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 In deze video:
 
-- Meer informatie over implementatiefasen en scripts
-- Begrijp hoe het plaatsingsproces van de infrastructuurkant werkt &#x200B;
+- Meer informatie over implementatiefasen en -scripts
+- Begrijp hoe het implementatieproces werkt vanuit de &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Implementatieproces van cloud - [!DNL Commerce] over de infrastructuurgids voor cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+[Implementatieproces in de cloud - [!DNL Commerce] over Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

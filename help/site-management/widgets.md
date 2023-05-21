@@ -1,6 +1,6 @@
 ---
 title: Widgets maken
-description: Leer hoe u widgets kunt maken en bestaande widgets kunt wijzigen om inhoud automatisch bij te werken in uw winkel.
+description: Leer hoe je widgets maakt en bestaande widgets wijzigt om automatisch content in je winkel bij te werken.
 kt: null
 doc-type: feature video
 role: Admin, User
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Widgets maken
 
-Widgets zijn herbruikbare componenten die u kunt maken en eenvoudig aanpassen om inhoud in uw winkel automatisch bij te werken. Leer in deze video hoe u widgets kunt maken en beheren.
+Widgets zijn herbruikbare componenten die u eenvoudig kunt maken en wijzigen om automatisch inhoud in uw winkel bij te werken. Leer in deze video hoe u widgets kunt maken en beheren.
 
 ## Voor wie is deze video?
 
-- Webmanagers
-- Ontwerpers van inhoud
+- Websitebeheerders
+- Contentontwerpers
 
 ## Video-inhoud
 
@@ -29,5 +29,5 @@ Widgets zijn herbruikbare componenten die u kunt maken en eenvoudig aanpassen om
 
 ## Aanvullende bronnen
 
-- [Widgets - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [Widgets maken en beheren - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Widgets - [!DNL Commerce] Inhoud- en ontwerpgids](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Widgets maken en beheren - [!DNL Commerce] Inhoud- en ontwerpgids](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
