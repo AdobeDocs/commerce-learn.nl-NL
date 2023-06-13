@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="B2B voor Adobe Commerce" type="Positief"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 1e174ef57da1bf00e6f323c3de0d790563c2a54b
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ Leer hoe u de korting op regelobjecten gebruikt en bekijk de waarden met GraphQL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420419?learn=on)
 
-## Aanvullende bronnen
-
-- [Overzicht van aanhalingstekens](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Aanhalingstekens configureren](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Aanvraag voor offerte](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Onderhandelingen over een aanhalingsteken](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Mijn aanhalingstekens](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}
