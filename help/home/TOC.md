@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [Gedeelde catalogi beheren](../b2b/shared-catalogs.md)
    + [Bedrijfskrediet beheren](../b2b/company-credit.md)
    + [Aankooporders en goedkeuringen](../b2b/purchase-orders.md)
+   + Offerte {#b2b-quote}
+      + [Verkoopvertegenwoordiger initieert prijsopgave](../b2b/sales-rep-initiates-quote.md)
+      + [Offertevalidatie door beheerder](../b2b/quote-validation-admin-panel.md)
+      + [Verkoopvertegenwoordiger start de REST-API voor aanhalingstekens](../b2b/sales-rep-initiates-quote-api.md)
+      + [Korting op aanhalingstekens van prijslijstitems](../b2b/quote-line-item-discount.md)
+      + [Opmerkingen bij itemregels van prijsopgave](../b2b/quote-line-item-notes.md)
+      + [Afkorting van prijsopgave voor object GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [REST API voor aanhalingstekenregelitemkorting](../b2b/quote-rest-api-line-item-notes.md)
 + Hulpmiddelen en externe diensten {#tools}
    + [Dashboard voor het gereedschap Analyse voor de hele site](../tools/site-wide-analysis-tool.md)
    + [Waarneming voor Adobe Commerce](../tools/observation-tool.md)
