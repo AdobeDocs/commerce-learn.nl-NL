@@ -1,5 +1,5 @@
 ---
-title: MBI - Prepping for the Future
+title: Intelligente handel - Preventie voor de toekomst
 description: Bekijk deze video's om u te informeren over de ongekende veranderingen die de toekomst van de digitale handel bepalen.
 landing-page-description: Bekijk deze video's om u te informeren over de ongekende veranderingen die de toekomst van de digitale handel bepalen.
 short-description: Bekijk deze video's om u te informeren over de ongekende veranderingen die de toekomst van de digitale handel bepalen.
@@ -9,24 +9,24 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-# MBI - Prepping for the Future
+# Intelligente handel - Preventie voor de toekomst
 
 Terwijl Covid-19 de wereld omcirkelt, vertrouwen miljoenen op de digitale handel om aan hun belangrijkste behoeften te voldoen. Naarmate bedrijven overwerk verrichten om tegemoet te komen aan de historische vraag van de consument, is het nooit belangrijker geweest de toekomst in de schijnwerpers te zetten.
 
-In deze driedelige videoreeks, benadrukt het MBI analyst team fundamentele, gegeven-gedreven eCommerce praktijken om uw zaken te helpen in deze uitdagende tijden bloeien, gesteund door samengevoegde statistieken die zich over veelvoudige commerciële industrieën uitstrekken.
+In deze driedelige videoreeks, benadrukt het de onderzoeksteam van de Intelligentie van de Handel fundamentele, gegeven-gedreven eCommerce praktijken om uw zaken te helpen in deze uitdagende tijden bloeien, gesteund door samengevoegde statistieken die zich over veelvoudige commerciële industrieën uitstrekken.
 
 Bekijk deze video&#39;s om u te informeren over de ongekende veranderingen die de toekomst van de digitale handel bepalen - en hoe u zich kunt voorbereiden op wat er in de toekomst ligt.
 
 >[!TIP]
 >
->Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als je nog geen ervaring hebt met de Commerce Intelligence, [Adobe Commerce Intelligence-gebruikersgids](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 

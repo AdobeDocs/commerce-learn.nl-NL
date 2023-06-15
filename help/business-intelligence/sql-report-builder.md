@@ -1,17 +1,17 @@
 ---
-title: MBI - SQL Report Builder
-description: Leer hoe te om de Report Builder te gebruiken MBI SQL om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
-landing-page-description: Bekijk deze video om te leren hoe de SQL Report Builder van MBI gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
-short-description: Bekijk deze video om te leren hoe de SQL Report Builder van MBI gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
+title: Commerce Intelligence - SQL Report Builder
+description: Leer hoe te om de SQL Report Builder van de Intelligentie van de Handel te gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
+landing-page-description: Bekijk deze video om te leren hoe de SQL Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
+short-description: Bekijk deze video om te leren hoe de SQL Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ In deze video:
 
 >[!TIP]
 >
->Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als je nog geen ervaring hebt met de Commerce Intelligence, [Adobe Commerce Intelligence-gebruikersgids](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 
@@ -45,6 +45,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[De SQL-handleiding Report Builder - MBI gebruiken](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Gebruikend SQL Report Builder - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Het creëren van Visualisaties van SQL Vragen - MBI Gids van de Gebruiker](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[Creërend Visualisaties van SQL Vragen - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

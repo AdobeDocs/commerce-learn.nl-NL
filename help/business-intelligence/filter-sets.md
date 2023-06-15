@@ -1,24 +1,24 @@
 ---
-title: MBI - Filtersets
-description: Leer hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens voor Adobe Commerce en Magento Open Source te vereenvoudigen.
-landing-page-description: Bekijk deze video om te leren hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
-short-description: Bekijk deze video om te leren hoe u de functie MBI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
+title: Commerciële inlichtingen - Filtersets
+description: Leer hoe u de functie Commerce Intelligence-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens voor Adobe Commerce en Magento Open Source te vereenvoudigen.
+landing-page-description: Bekijk deze video om te leren hoe u de functie van de het filterreeksen van de Intelligentie van de Handel gebruikt om bedrijfsgegevensrapportering te vereenvoudigen.
+short-description: Bekijk deze video om te leren hoe u de functie van de MBCommerce IntelligenceI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-# MBI - Filtersets
+# Commerciële inlichtingen - Filtersets
 
-Wilt u alleen bepaalde gegevens van uw bedrijf analyseren? Wilt u een handmatige opruiming doen? In MBI, kunt u de eigenschap van filterreeksen gebruiken om dit proces te vereenvoudigen.
+Wilt u alleen bepaalde gegevens van uw bedrijf analyseren? Wilt u een handmatige opruiming doen? In de Intelligentie van de Handel, kunt u de eigenschap van filterreeksen gebruiken om dit proces te vereenvoudigen.
 
 In deze video:
 
@@ -29,7 +29,7 @@ In deze video:
 
 >[!TIP]
 >
->Als u nog geen ervaring hebt met MBI, kunt u [Aan de slag met videoreeks](1-overview.md) verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als je nog geen ervaring hebt met de Commerce Intelligence, [Adobe Commerce Intelligence-gebruikersgids](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 
@@ -42,6 +42,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Filtersets maken - MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Filtersets maken - Handleiding voor de handels-informatie](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Aanbevolen Dimension voor gegevens voor segmentering en filteren - MBI-gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Aanbevolen Dimension van Gegevens voor Segmentering en Filtering - Handleiding van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
