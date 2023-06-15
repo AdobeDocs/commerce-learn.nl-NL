@@ -2,9 +2,9 @@
 user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
+source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
@@ -21,30 +21,6 @@ ht-degree: 0%
       + [4 - Implementatie](../cloud/4-deployment.md)
       + [5 - Ontwikkeling](../cloud/5-dev-config.md)
       + [6 - Services en DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] voor zakelijke gebruikers {#merchants}
-      + [1.1 - [!DNL Admin] Menu&#39;s](../site-management/introduction/1-1-menus.md)
-      + [1.2 - Gegevensrasters](../site-management/introduction/1-2-data-grids.md)
-      + [1.3 - Scènes, Sites en winkels](../site-management/introduction/1-3-apps-scopes-sites-stores.md)
-      + [1.4 - Winkelweergaven en -bussen](../site-management/introduction/1-4-store-views-cache.md)
-      + [1.5 - Beheerdersaccounts en -rollen](../site-management/introduction/1-5-users-roles.md)
-      + [1.6 - Rolbereiken](../site-management/introduction/1-6-role-scopes.md)
-      + [1.7 - Bedrijfsinstellingen](../site-management/introduction/1-7-business-settings.md)
-      + [2.1 - Categorieën](../site-management/introduction/2-1-categories.md)
-      + [2.2 - Categorie Landingspagina&#39;s](../site-management/introduction/2-2-category-landing-page.md)
-      + [3.1 - Producttypen en -opties](../site-management/introduction/3-1-product-types-options.md)
-      + [3.2 - Productinstellingen](../site-management/introduction/3-2-product-settings.md)
-      + [3.3 - Productkenmerken](../site-management/introduction/3-3-product-attributes.md)
-      + [3.4 - Productkenmerksets](../site-management/introduction/3-4-product-attribute-sets.md)
-      + [3.5 - Een eenvoudig product maken](../site-management/introduction/3-5-create-simple-product.md)
-      + [3.6 - Configureerbare kenmerken](../site-management/introduction/3-6-configurable-attributes.md)
-      + [3.7. Invoer-/uitvoerproducten](../site-management/introduction/3-7-import-export-products.md)
-      + [3.8 - Cadeautjes](../site-management/introduction/3-8-gift-cards.md)
-      + [4.1 - Gelaagde navigatie](../site-management/introduction/4-1-layered-navigation.md)
-      + [4.2 - Productcategorieën rangschikken](../site-management/introduction/4-2-arrange-product-categories.md)
-      + [5.1 - Storefront Experience](../site-management/introduction/5-1-storefront-experience.md)
-      + [5.2 - Klantenbeheer](../site-management/introduction/5-2-customer-management.md)
-      + [5.3 - E-mailcommunicatie](../site-management/introduction/5-3-store-communications.md)
-      + [5.4 - Global Reference Architecture](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL en REST {#graphql-rest}
    + [Aan de slag met GraphQL](../graphql-rest/getting-started-graphql.md)
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
