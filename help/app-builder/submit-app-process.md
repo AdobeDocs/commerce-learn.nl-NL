@@ -1,14 +1,15 @@
 ---
-title: Een app indienen bij de Marketplace
-description: Leer meer over de procedure voor het indienen van een toepassing bij Marketplace.
-landing-page-description: Meer informatie over Adobe Developer App Builder en hoe u een app naar Marketplace kunt verzenden.
+title: Een app indienen bij de Adobe Commerce Marketplace
+description: Leer hoe u een toepassing bij de Commerce Marketplace indient.
+landing-page-description: Leer meer over Adobe Developer App Builder en hoe u een app naar de Commerce Marketplace verzendt.
 kt: 13436
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-06-08T00:00:00Z
-source-git-commit: 88e30e9424f40c18a5d67b32d6546e56091978f5
+last-substantial-update: 2023-6-19
+exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
+source-git-commit: 0932a1715cccafc0795e6932ab8888a1c53b5b49
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
