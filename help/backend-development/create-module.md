@@ -1,13 +1,13 @@
 ---
 title: Een module maken
-description: Maak een pagina waarop één parameter wordt geretourneerd.
+description: Creeer een module die aan de logger PSR registreert
 topic: Development
 kt: 5614
 doc-type: video
 activity: use
 last-substantial-update: 2023-6-2
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: d13796a10bee364db6ebcf441af4b73c37b446d7
+source-git-commit: 36f53fab217d114e1d80ada6dda94873356ee421
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
