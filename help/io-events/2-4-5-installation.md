@@ -8,8 +8,12 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.5
+feature: App Builder, Eventing
+topic: Commerce, Architecture
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

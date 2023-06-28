@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] voor zakelijke gebruikers - Openingspagina's"
 description: Leer hoe u een landingspagina voor categorieën instelt en de vormgeving regelt.
-topic: Commerce
 kt: 5766
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Customers
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

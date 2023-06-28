@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] voor zakelijke gebruikers - Sites, winkels en weergaven"
 description: Leer de basisbeginselen van de [!DNL Commerce] -architectuur, waaronder de verschillen tussen websites, winkels, winkelweergaven en toepassingsbereik. Indexering en caching begrijpen.
-topic: Commerce
 kt: 5760
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

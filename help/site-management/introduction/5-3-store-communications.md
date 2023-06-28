@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] voor zakelijke gebruikers - E-mailcommunicatie"
 description: Communiceer met uw klanten door middel van transactie-e-mails die worden geactiveerd door hun acties in de winkel. Pas en vorm de e-mailmalplaatjes voor uw opslag aan.
-topic: Commerce
 kt: 5780
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Customers, Personalization
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%

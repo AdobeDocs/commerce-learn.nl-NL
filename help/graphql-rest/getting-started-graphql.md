@@ -1,35 +1,39 @@
 ---
 title: Aan de slag met GraphQL
-description: Ontdek hoe u GraphQL gebruikt op Adobe commerce en  [!DNL Magento Open Source] . Meer informatie over het gebruik van query's, mutaties en schema's.
-landing-page-description: Ontdek hoe u GraphQL gebruikt op Adobe commerce en  [!DNL Magento Open Source] . Meer informatie over het gebruik van query's, mutaties en schema's.
-short-description: Ontdek hoe u GraphQL gebruikt op Adobe commerce en  [!DNL Magento Open Source] . Meer informatie over het gebruik van query's, mutaties en schema's.
+description: Ontdek hoe u GraphQL kunt gebruiken op Adobe Commerce en [!DNL Magento Open Source]. Leer over het gebruiken van vragen, mutaties, en schema's.
+landing-page-description: Ontdek hoe u GraphQL kunt gebruiken op Adobe Commerce en [!DNL Magento Open Source]. Leer over het gebruiken van vragen, mutaties, en schema's.
+short-description: Ontdek hoe u GraphQL kunt gebruiken op Adobe Commerce en [!DNL Magento Open Source]. Leer over het gebruiken van vragen, mutaties, en schema's.
 kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
+feature: GraphQL
+topic: Commerce, Architecture, Headless
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Aan de slag met GraphQL voor Adobe commerce
+# Aan de slag met GraphQL voor Adobe Commerce
 
-Als u GraphQL nog niet eerder hebt gebruikt, raadt Adobe aan om te beginnen met deze inleidende video voordat Digging in de bijbehorende zelfstudie wordt geadviseerd.
+Als u nog geen ervaring hebt met GraphQL, raadt Adobe u aan om te beginnen met deze inleidende video voordat u gaat ingraven in de bijbehorende zelfstudie.
 
-## Voor wie is deze video voor?
+## Voor wie is deze video?
 
-* Ontwikkelaars zijn nieuw voor Adobe commerce of [!DNL Magento Open Source] met een beperkte ervaring met GraphQL.
+* Ontwikkelaars met Adobe Commerce of [!DNL Magento Open Source] met beperkte ervaring met GraphQL.
 
 ## Video-inhoud
 
 * Inleiding tot GraphQL
-* De Altair-insteekmodule gebruiken
-* GraphQL-Query&#39;s
-* GraphQL mutaties
-* GraphQL-schema
+* De Altair-plug-in gebruiken
+* GraphQL-query&#39;s
+* GraphQL Mutations
+* GraphQL Schema
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412302?quality=12&learn=on)
 
