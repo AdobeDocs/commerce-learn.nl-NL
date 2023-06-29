@@ -3,12 +3,15 @@ title: Page Builder voor ontwikkelaars - Inleiding
 description: Introductie van Page Builder, mogelijkheden van Page Builder begrijpen
 landing-page-description: Bekijk deze videoreeks om te leren over de Bouwer van de Pagina en hoe u het kunt uitbreiden om optimaal tot stand te brengen [!DNL Commerce] storefront experience.
 short-description: Bekijk deze videoreeks om te leren over de Bouwer van de Pagina en hoe u het kunt uitbreiden om optimaal tot stand te brengen [!DNL Commerce] storefront experience.
-topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
