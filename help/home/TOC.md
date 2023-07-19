@@ -3,9 +3,9 @@ user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
 solution: Commerce
-source-git-commit: 280129eff96d1d4528b53081219bce2a8fb5baf8
+source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -132,6 +132,7 @@ ht-degree: 0%
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
+   + [Trage replicatie van Galera Cluster](../backend-development/galera-db-slow-replication.md)
 + Geïntegreerde ontwikkeling van Luminantiemateriaal aan voorzijde {#frontend-development}
    + Page Builder voor ontwikkelaars {#page-builder}
       + [1 - Inleiding](../frontend-development/page-builder/1-intro-case-studies.md)
