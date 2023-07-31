@@ -3,9 +3,9 @@ user-guide-title: Video's en Tutorials
 user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
 solution: Commerce
-source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
+source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
    + [Verificatie met twee factoren](../site-management/two-factor-authentication.md)
    + [Valuta- en belastingregels beheren](../site-management/currency-tax-rules.md)
    + [Websites, winkels en winkelweergaven toevoegen](../site-management/add-websites-stores-views.md)
-   + [URL van winkel wijzigen](../site-management/change-store-url.md)
+   + [Een winkel-URL wijzigen](../site-management/change-store-url.md)
    + [Verzendmethoden en leveringsmethoden](../site-management/shipping-delivery.md)
    + [Betalingsservices gebruiken](../site-management/payment-services.md)
 + Klantenbeheer {#customers}
@@ -80,7 +80,7 @@ ht-degree: 0%
    + [Productkenmerken gebruiken met PWA Studio](../site-management/product-attributes-pwa.md)
    + [SEO-metagegevens beheren](../site-management/seo-metadata.md)
    + [URL-herschriften beheren voor SEO](../site-management/seo-url-rewrites.md)
-+ Inhoudsbeheer {#content}
++ Inhoud beheren {#content}
    + [Overzicht van Page Builder](../site-management/page-builder-overview.md)
    + [Statische en dynamische blokken maken](../site-management/static-dynamic-blocks.md)
    + [Widgets maken](../site-management/widgets.md)
@@ -88,7 +88,7 @@ ht-degree: 0%
    + [Inhoud stapelen](../site-management/content-staging.md)
    + [De medialerie beheren](../site-management/media-gallery.md)
 + Marketingtools {#marketing}
-   + [Catalogusprijsregels maken](../site-management/catalog-price-rules.md)
+   + [Regels voor catalogusprijzen maken](../site-management/catalog-price-rules.md)
    + [Lijnen met winkelprijzen maken](../site-management/cart-price-rules.md)
    + [Regels voor verwante producten beheren](../site-management/related-product-rules.md)
    + [Product Recommendations instellen](../site-management/product-recommendations.md)
@@ -106,8 +106,8 @@ ht-degree: 0%
    + Offerte {#b2b-quote}
       + [Verkoopvertegenwoordiger initieert prijsopgave](../b2b/sales-rep-initiates-quote.md)
       + [Offertevalidatie door beheerder](../b2b/quote-validation-admin-panel.md)
-      + [Verkoopvertegenwoordiger start de REST-API voor aanhalingstekens](../b2b/sales-rep-initiates-quote-api.md)
-      + [Korting op aanhalingstekens van prijslijstitems](../b2b/quote-line-item-discount.md)
+      + [Verkoopvertegenwoordiger start de REST-API](../b2b/sales-rep-initiates-quote-api.md)
+      + [Korting op aanhalingstekens van prijsregelitems](../b2b/quote-line-item-discount.md)
       + [Opmerkingen bij itemregels van prijsopgave](../b2b/quote-line-item-notes.md)
       + [Afkorting van prijsopgave voor object GraphQL](../b2b/quote-graphql-line-item-discount.md)
       + [REST API voor aanhalingstekenregelitemkorting](../b2b/quote-rest-api-line-item-notes.md)
@@ -120,7 +120,7 @@ ht-degree: 0%
 + Commerce Intelligence {#mbi}
    + [Filtersets](../business-intelligence/filter-sets.md)
    + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
-   + [SQL Report Builder](../business-intelligence/sql-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Voorbereiden op de toekomst](../business-intelligence/prepare-for-future.md)
 + Oplossingen voor handel {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2.4-upgrade-workshop.md)
@@ -133,6 +133,7 @@ ht-degree: 0%
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
    + [Trage replicatie van Galera Cluster](../backend-development/galera-db-slow-replication.md)
+   + [MySQL-querycache](../backend-development/mysql-query-cache.md)
 + Geïntegreerde ontwikkeling van Luminantiemateriaal aan voorzijde {#frontend-development}
    + Page Builder voor ontwikkelaars {#page-builder}
       + [1 - Inleiding](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -143,7 +144,6 @@ ht-degree: 0%
       + [6 - Aangepaste inhoudstypen](../frontend-development/page-builder/6-custom-content-types.md)
    + [Een JavaScript-module toevoegen](../frontend-development/add-javascript-module.md)
    + [Een pagina maken](../frontend-development/create-page.md)
-
 + Hoofdloze architectuur {#headless-architecture}
    + Inleiding tot headless {#introduction-to-headless}
       + [Hoofdloze architectuur - sessie 1](../headless/session-1.md)
