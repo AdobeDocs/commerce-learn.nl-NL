@@ -4,16 +4,17 @@ description: Klik hier als je wilt weten hoe je productaanbevelingen in je Adobe
 doc-type: feature video
 audience: all
 activity: use
-badge: label="Alleen in Adobe Commerce" type="Positief"
+kt: 13790
+badge: label="Alleen in Adobe Commerce" type="Positive"
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: c95d8c7e67c68fe12b245210bc3e2244d9bb9529
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
