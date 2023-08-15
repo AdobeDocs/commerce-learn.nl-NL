@@ -1,11 +1,10 @@
 ---
 user-guide-title: Video's en Tutorials
-user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source via video's en zelfstudies.
+user-guide-description: Meer informatie over Adobe Commerce en Magento Open Source vindt u in video's en zelfstudies.
 breadcrumb-title: Video's en Tutorials
-solution: Commerce
-source-git-commit: 2aa87ee8b350fd134afd44409d5bbc6e514dd4d7
+source-git-commit: 9dcbee360b0c25b83116ff5b1379052cf9b8fa62
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -80,6 +79,7 @@ ht-degree: 0%
    + [SEO-metagegevens beheren](../site-management/seo-metadata.md)
    + [URL-herschriften beheren voor SEO](../site-management/seo-url-rewrites.md)
    + [AR Viewer](../site-management/augmented-reality.md)
+   + [Catalogus importeren en bijwerken](../site-management/catalog-import.md)
 + Inhoud beheren {#content}
    + [Overzicht van Page Builder](../site-management/page-builder-overview.md)
    + [Statische en dynamische blokken maken](../site-management/static-dynamic-blocks.md)
@@ -119,8 +119,8 @@ ht-degree: 0%
       + [Een kwaadaardig IP-bestand zoeken](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
    + [Filtersets](../business-intelligence/filter-sets.md)
-   + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
-   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
+   + [Cohort-Report Builder](../business-intelligence/cohort-report-builder.md)
+   + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
    + [Voorbereiden op de toekomst](../business-intelligence/prepare-for-future.md)
 + Oplossingen voor handel {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2.4-upgrade-workshop.md)

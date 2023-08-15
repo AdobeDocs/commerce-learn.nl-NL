@@ -7,7 +7,8 @@ index: y
 type: Tutorial
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+product: Magento
+source-git-commit: 757e7746c6000dbe46b3e2b343a65815e87d3ab1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -26,8 +27,8 @@ Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven
 | oplossingspictogram | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
 | aan de slag-url | Aan de slag met Help-pagina koppelen |
 | zelfstudies-url | Koppeling maken naar videozelfstudies: helpx-zelfstudies of KT-zelfstudies |
-| mini-toc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrails. default is 2 |
-| git-repo | Hiermee wordt de locatie van het master repo voor intern gebruik opgegeven |
+| minitoc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrails. default is 2 |
+| git-repo | Hiermee geeft u de locatie op van het hoofdrepo voor intern gebruik |
 
 In bestand TOC.md
 
