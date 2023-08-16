@@ -35,7 +35,7 @@ Leer wat er zonder kop is en hoe Adobe Commerce volledig ontelbare architectuur 
 * Wat is een API?
 * Meerdere benaderingen zonder kop
 * Toelichting op de samenstellbare handel
-* Adobe Commerce is eerst API maar niet alleen API
+* Adobe Commerce is eerst API, maar niet alleen API
 * Kwalificaties die in overweging moeten worden genomen alvorens met headless commerce te gaan
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418862?learn=on)

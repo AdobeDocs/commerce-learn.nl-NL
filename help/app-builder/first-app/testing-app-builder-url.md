@@ -24,11 +24,11 @@ Leer hoe u uw nieuwe Adobe Developer App Builder-toepassing test met de URL van 
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken met Adobe App Builder die klaar zijn om hun eerste Adobe Developer App Builder-app te testen.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, kunnen hun eerste Adobe Developer App Builder-app testen met Adobe App Builder.
 
 ## Video-inhoud
 
-* Hoe te om de toepassing op te stellen
+* De toepassing implementeren
 * Waar kan de URL na implementatie worden gevonden?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)

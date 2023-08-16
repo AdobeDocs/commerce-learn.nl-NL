@@ -41,5 +41,5 @@ In deze video:
 ## Aanvullende bronnen
 
 - [Compatibiliteit upgraden](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Magento PHP Storm-plug-in](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [Magento PHP Storm-insteekmodule](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
 - [Uitgebrachte versies](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

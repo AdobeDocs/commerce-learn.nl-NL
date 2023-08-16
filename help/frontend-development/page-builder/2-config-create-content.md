@@ -1,6 +1,6 @@
 ---
 title: Page Builder voor ontwikkelaars - Configuratie en aanpassing van inhoud
-description: Configureer en stel ​ Page Builder in. Begrijp de ​ van de werkruimte van de Bouwer van de Pagina. Begrijp en gebruik inhoudstypes - Lay-out, Elementen, Media, en andere inhoudstypes ​. Inhoud van catalogus toevoegen met Page Builder.
+description: Configureer en stel ​ Page Builder in. Begrijp de ​ van de werkruimte van de Bouwer van de Pagina. Begrijp en gebruik inhoudstypes - Lay-out, Elementen, Media, en andere ​. Inhoud van catalogus toevoegen met Page Builder.
 kt: 5651
 doc-type: video
 activity: use
@@ -28,7 +28,7 @@ In deze video:
 
 ## Voor wie is deze video?
 
-- Inhoudsmakers
+- Inhoud maken
 - Voor-eindontwikkelaars
 
 ## Video-inhoud

@@ -13,7 +13,7 @@ exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -32,5 +32,5 @@ Met sjablonen bespaart u tijd en moeite bij het maken van inhoud (of het vervang
 
 ## Aanvullende bronnen
 
-- [[!DNL Page Builder] Templates - [!DNL Page Builder] Handboek](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] Templates - [!DNL Page Builder] Gebruikershandleiding](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
 - [Sjablonen toevoegen - [!DNL Page Builder] Handleiding voor ontwikkelaars](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

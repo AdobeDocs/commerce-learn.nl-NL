@@ -1,8 +1,8 @@
 ---
 title: Inleiding GraphQL
-description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL-oproepen voor GET en POSTEN voor Adobe Commerce en [!DNL Magento Open Source].
-landing-page-description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL-oproepen voor GET en POSTEN voor Adobe Commerce en [!DNL Magento Open Source].
-short-description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL-oproepen voor GET en POSTEN voor Adobe Commerce en [!DNL Magento Open Source].
+description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL GET en POST oproepen voor Adobe Commerce en [!DNL Magento Open Source].
+landing-page-description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL GET en POST oproepen voor Adobe Commerce en [!DNL Magento Open Source].
+short-description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL GET en POST oproepen voor Adobe Commerce en [!DNL Magento Open Source].
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -42,12 +42,12 @@ De runtime die de GraphQL-specificatie implementeert, kan in elke taal worden sa
 
 U hebt een GUI GraphQL-client nodig om codevoorbeelden en zelfstudies uit te testen. Er zijn verschillende opties:
 
-* [Altair](https://altairgraphql.dev/){target="_blank"} is een uitstekende en volledig uitgeruste client die speciaal voor GraphQL is gebouwd. Adobe gebruikt Altair in doorlopende video&#39;s.
+* [Altair](https://altairgraphql.dev/){target="_blank"} is een uitstekende en volledig uitgeruste client die speciaal voor GraphQL is gebouwd. Adobe gebruikt Altair in doorloopvideo&#39;s.
 * Als u de bureaubladtoepassing niet wilt installeren, zijn er ook Altair-extensies die direct in de toepassing worden uitgevoerd
   [Chroom](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} browser.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} is een implementatie van de GraphQL IDE van de GraphQL Foundation. Dit is geen installatieprogramma, maar een pakket dat u kunt gebruiken om de interface zelf te maken.
 * Als u al vertrouwd bent met [Postman](https://www.postman.com/){target="_blank"}, heeft het behoorlijke steun voor GraphQL query&#39;s, hoewel het niet zo volledig is uitgerust als een speciale GraphQL client.
 
-In uw GraphQL-client moet u uw aanvragen verzenden naar het URL-pad `/graphql` op je Adobe Commerce of [!DNL Magento Open Source] -instantie. Als u liever een bestaande instantie voor uw tests wilt gebruiken, kunt u de demo van het thema Venia (de voorbeeldimplementatie van PWA Studio) gebruiken: `https://venia.magento.com/graphql`
+In uw GraphQL-client moet u uw aanvragen naar het URL-pad verzenden `/graphql` op je Adobe Commerce of [!DNL Magento Open Source] -instantie. Als u liever een bestaande instantie voor uw tests wilt gebruiken, kunt u de demo van het thema Venia (de voorbeeldimplementatie van PWA Studio) gebruiken: `https://venia.magento.com/graphql`
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

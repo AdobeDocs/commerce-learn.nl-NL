@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Het gereedschap Kwaliteitspatch gebruiken
 
-Het gereedschap Kwaliteitspatch is een opdrachtregelprogramma waarmee u kwaliteitspatches voor Adobe Commerce en Magento Open Source kunt gebruiken. Zo kunt u:
+Het gereedschap Kwaliteitspatch is een opdrachtregelprogramma dat kwalitatief hoogstaande patches voor Adobe Commerce en Magento Open Source biedt. Zo kunt u:
 
 - Algemene informatie weergeven over de nieuwste kwaliteitspatches
 - Kwaliteitspatches toepassen

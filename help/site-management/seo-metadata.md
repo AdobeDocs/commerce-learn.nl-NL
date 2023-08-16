@@ -34,4 +34,4 @@ Uw winkel wordt geladen met plaatsen waar u trefwoordrijke metagegevens kunt inv
 
 ## Aanvullende bronnen
 
-[Metagegevens - [!DNL Commerce] Handleiding voor het verhandelen en promoten van objecten](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Metagegevens - [!DNL Commerce] Handleiding Handelsbemiddeling en speciale acties](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

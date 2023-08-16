@@ -21,7 +21,7 @@ ht-degree: 0%
 
 In deze video:
 
-- Bekijken van Go live, DNS, TLS en Fastly
+- Bekijken van Go live, DNS, TLS en Fast
 - Hoe te om DNS te vormen om aan het productiedomein voor de instantie van Adobe Commerce te richten
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)

@@ -18,21 +18,18 @@ Een overzicht van de 1-2 zin van het product waarop deze gebruikershandleiding i
 ## Nieuwe functies
 
 * **[Een nieuwe functievideo (video)](README.md)**
-
-   <br>
-   *Meer weten over deze coole nieuwe functie?*
+  <br>
+  *Meer weten over deze coole, nieuwe functie?*
 
 * **[Een nieuwe functievideo (video)](README.md)**
-
-   <br>
-   *Meer weten over deze coole nieuwe functie?*
+  <br>
+  *Meer weten over deze coole, nieuwe functie?*
 
 * **[Een nieuw artikel (artikel)](README.md)**
+  <br>
+  *Klik hier voor meer informatie over functie xyz!*
 
-   <br>
-   *Klik hier voor meer informatie over functie xyz!*
-
-## Personeelspictogrammen
+## Personeelspikkels
 
 <table>
 <tr>

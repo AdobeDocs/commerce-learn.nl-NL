@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # GraphQL-query&#39;s
 
-Laten we naar de GraphQL query syntaxis duiken met een volledig voorbeeld. (Herinner me, kunt u dit tegen https://venia.magento.com/graphql proberen.)
+Laten we meteen naar de GraphQL-querysyntaxis duiken met een volledig voorbeeld. (Herinner me, kunt u dit tegen https://venia.magento.com/graphql proberen.)
 
 Bekijk de volgende GraphQL-query, die stuk voor stuk wordt opgesplitst:
 
@@ -136,11 +136,11 @@ U geeft een `id` argument naar `country`, en een `filters` argument voor `catego
 
 ## Velden helemaal omlaag
 
-Terwijl u zou kunnen neigen aan te denken `country` en `categories` als afzonderlijke vragen of entiteiten, bestaat de volledige boom die in uw vraag wordt uitgedrukt eigenlijk uit niets behalve gebieden. De expressie van `products` verschilt syntactisch niet van die van `categories`. Beide zijn velden, en er is geen verschil tussen hun constructie.
+Terwijl u zou kunnen neigen om te denken over `country` en `categories` als afzonderlijke vragen of entiteiten, bestaat de volledige boom die in uw vraag wordt uitgedrukt eigenlijk uit niets behalve gebieden. De expressie van `products` verschilt syntactisch van `categories`. Beide zijn velden, en er is geen verschil tussen hun constructie.
 
 Elke GraphQL-gegevensgrafiek heeft een enkel &quot;root&quot;-type (gewoonlijk aangeduid als `Query`) om de structuur te starten en de typen die vaak als entiteiten worden beschouwd, worden toegewezen aan velden in deze hoofdmap. De voorbeeldvraag maakt eigenlijk één generische vraag voor het worteltype en het selecteren van de gebieden `country` en `categories`. Vervolgens selecteert u subvelden van die velden enzovoort, mogelijk verschillende niveaus diep. Wanneer het retourneringstype van een veld een complex type is (bijvoorbeeld een type met eigen velden in plaats van een scalair type), blijft u de gewenste velden selecteren.
 
-Dit concept van geneste velden is ook de reden waarom u argumenten kunt doorgeven voor `products` (`pageSize` en `currentPage`) op dezelfde manier als voor de top `categories` veld.
+Met dit concept van geneste velden kunt u ook argumenten doorgeven voor `products` (`pageSize` en `currentPage`) op dezelfde manier als voor de top `categories` veld.
 
 ![GraphQL-veldstructuur](../assets/graphql-field-tree.png)
 
@@ -170,7 +170,7 @@ fragment productDetails on ProductInterface {
 }
 ```
 
-Het eerste wat u wilt opmerken is het toegevoegde trefwoord `query` vóór de openingsaccolade van de query, samen met een bewerkingsnaam (`getProducts`). Deze handelsnaam is willekeurig; het komt niet overeen met iets in het serverschema. Deze syntaxis is toegevoegd ter ondersteuning van de introductie van variabelen.
+Het eerste wat u wilt opmerken is het toegevoegde trefwoord `query` vóór de openingsaccolade van de query, samen met een bewerkingsnaam (`getProducts`). Deze naam van de bewerking is willekeurig en komt niet overeen met iets in het serverschema. Deze syntaxis is toegevoegd ter ondersteuning van de introductie van variabelen.
 
 In de vorige vraag, hebt u hard-gecodeerde waarden voor de argumenten van uw gebieden direct, als koorden of gehelen. De GraphQL-specificatie biedt echter ondersteuning van de eerste klasse voor het scheiden van gebruikersinvoer van de hoofdquery met behulp van variabelen.
 
@@ -190,7 +190,7 @@ Wanneer een query variabelen bevat, wordt verwacht dat het GraphQL-verzoek een a
 
 In om het even welke GraphQL-bewuste cliënt die u voor het testen (zoals Altair en GraphiQL) gebruikt, steunt UI het ingaan van de variabelen JSON afzonderlijk van de vraag.
 
-Net zoals u zag dat de feitelijke HTTP-aanvraag voor een GraphQL-query &#39;query&#39; bevat: `{string}`&quot; in zijn hoofdgedeelte bevat elk verzoek met een variabelenwoordenboek slechts een extra &quot;variabele&quot;: `{json}`&quot; in dezelfde instantie `{json}` is de JSON-tekenreeks met de variabelewaarden.
+Net zoals u hebt gezien dat de feitelijke HTTP-aanvraag voor een GraphQL-query &#39;query&#39; bevat: `{string}`&quot; in zijn hoofdgedeelte bevat elk verzoek met een variabelenwoordenboek slechts een extra &quot;variabele&quot;: `{json}`&quot; in dezelfde instantie `{json}` is de JSON-tekenreeks met de variabelewaarden.
 
 De nieuwe query gebruikt ook een _fragment_ (`productDetails`) om dezelfde veldselectie op meerdere plaatsen te hergebruiken. [Meer informatie over fragmenten](https://graphql.org/learn/queries/#fragments){target="_blank"} in de documentatie van GraphQL.
 

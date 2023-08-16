@@ -38,14 +38,14 @@ Bekijk deze video&#39;s om u te informeren over de ongekende veranderingen die d
 - Zakelijke gebruikers
 - Gegevensanalisten
 
-## Deel 1: Toename in digitaal handelsverkeer
+## Deel 1: Toename van het verkeer van digitale handel
 
 >[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
 
-## Deel 2: Segmentering van de verkeersstroom door de industrie
+## Deel 2: Segmentering van de verkeersopstoppingen door de industrie
 
 >[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
 
-## Deel 3: Gevolgen voor het kopersgedrag van de Klant
+## Deel 3: Gevolgen voor het aankoopgedrag van klanten
 
 >[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)

@@ -15,11 +15,11 @@ exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
-# [!DNL Commerce] voor zakelijke gebruikers - [!DNL Admin] menu&#39;s
+# [!DNL Commerce] voor zakelijke gebruikers - [!DNL Admin] menu
 
 De [!DNL Commerce Admin] is het wachtwoord-beschermde achterbureau waar u opstellingsproducten en bevorderingen kunt, klantenorden vervullen en uw vormen [!DNL Commerce] aan uw bedrijfsbehoeften.
 
@@ -41,4 +41,4 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[[!DNL Commerce] Bedrijfsdocumentatie](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+[[!DNL Commerce] Handelsdocumenten](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)

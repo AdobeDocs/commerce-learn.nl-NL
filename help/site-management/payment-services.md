@@ -25,7 +25,7 @@ Voor kleine ondernemingen, middelgroot marktleider, of grote onderneming, helpen
 - Ontworpen om uw winst te maximaliseren
 - Veilig en veilig
 - Ontworpen om aan al uw betalingsbehoeften te voldoen
-- Zelfstandig binnen de beheerder
+- Zelfstandig binnen de Admin
 
 ## Voor wie is deze video?
 

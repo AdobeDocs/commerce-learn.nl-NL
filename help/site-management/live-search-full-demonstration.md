@@ -23,7 +23,7 @@ Een volledige demonstratie van Adobe Live Search.
 
 ## Wat te verwachten van het bekijken van deze video
 
-Leer hoe u Adobe Live Search-configuraties en -instellingen gebruikt. Meer inzicht in facetten, rapporten en synoniemen.
+Leer hoe u Adobe Live Search-configuraties en -instellingen gebruikt. Krijg een beter inzicht in facetten, rapportering, en synoniemen.
 
 ## Voor wie is deze video?
 
@@ -34,10 +34,10 @@ Leer hoe u Adobe Live Search-configuraties en -instellingen gebruikt. Meer inzic
 * Meer informatie over facetten van klanten
 * Wat is een API?
 * Live Search-rapportage
-* Meer informatie over de back-office configuratie van facetten en over het gebruik ervan
+* Meer informatie over de configuratie van back-office voor facetten en over de manier waarop deze worden gebruikt
 * Meer informatie over synoniemen
 * Intelligente handel
-* Op regels gebaseerde rangordetypen uitgelegd
+* Op regels gebaseerde rangordetypen worden uitgelegd
 * GraphQL API Introspection
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

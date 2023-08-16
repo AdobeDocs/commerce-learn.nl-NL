@@ -4,7 +4,7 @@ description: Leer hoe de Adobe Commerce-toepassing strikte validatieprocessen he
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B voor Adobe Commerce" type="Positief"
+badge: label="B2B voor Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
 source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

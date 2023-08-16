@@ -24,7 +24,7 @@ Leer hoe u uw nieuwe Adobe Developer App Builder-toepassing lokaal kunt testen.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken met Adobe App Builder die klaar zijn om hun eerste Adobe Developer App Builder-app te testen.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, kunnen hun eerste Adobe Developer App Builder-app testen met Adobe App Builder.
 
 ## Video-inhoud
 

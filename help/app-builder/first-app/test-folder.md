@@ -26,7 +26,7 @@ Dit is een eenvoudig voorbeeld dat u kunt uitbreiden om uitgebreide tests voor u
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken met Adobe App Builder die meer wilt weten over de `test` map.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken de Adobe App Builder die meer willen weten over de `test` map.
 
 ## Video-inhoud
 

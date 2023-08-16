@@ -41,14 +41,14 @@ Deze zelfstudie is ontworpen om de volgorde van pagina&#39;s in de linkernavigat
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken Adobe App Builder.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken de Adobe App Builder.
 
 ## Video-inhoud
 
 * Inleiding tot App Builder en de voorbeeldmodule
 * Vereisten
 * Verwachtingen voor gebruik van de voorbeeldmodule
-* Herbruikbare onderdelen van de module
+* Herbruikbare onderdelen van de module Monster
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 In deze video:
 
-- Werken met gegevensrasters in de [!DNL Commerce Admin]
+- Werken met gegevensrasters in het dialoogvenster [!DNL Commerce Admin]
 
 ## Voor wie is deze video?
 
@@ -37,4 +37,4 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[Besturingselementen beheerraster - [!DNL Commerce] Aan de slag](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[Besturingselementen voor beheerdersraster - [!DNL Commerce] Aan de slag](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

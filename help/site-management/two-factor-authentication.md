@@ -1,6 +1,6 @@
 ---
 title: Twee-factor authentificatie
-description: Adobe Commerce en Magento Open Source ondersteunen tweevoudige verificatie (2FA)-methoden van meerdere providers. Leer hoe functies voor verificatie met twee factoren de beheerder van uw winkel helpen beveiligen.
+description: Adobe Commerce en Magento Open Source ondersteunen tweevoudige verificatiemethoden (2FA) van meerdere providers. Leer hoe functies voor verificatie met twee factoren de beheerder van uw winkel helpen beveiligen.
 kt: 9443
 doc-type: feature video
 audience: all
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Twee-factor authentificatie
 
-Om ongeoorloofde toegang tot uw gegevens te voorkomen, moeten alle gebruikers die zich aanmelden bij de beheerder een verificatieproces voltooien om hun identiteit te verifiëren. Adobe Commerce en Magento Open Source ondersteunen tweevoudige verificatie (2FA)-methoden van meerdere providers.
+Om ongeoorloofde toegang tot uw gegevens te voorkomen, moeten alle gebruikers die zich aanmelden bij de beheerder een verificatieproces voltooien om hun identiteit te verifiëren. Adobe Commerce en Magento Open Source ondersteunen tweevoudige verificatiemethoden (2FA) van meerdere providers.
 
 ## Voor wie is deze video?
 

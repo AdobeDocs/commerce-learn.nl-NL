@@ -28,4 +28,4 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[Implementatieproces van cloud - [!DNL Commerce] over de infrastructuurgids voor cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+[Implementatieproces in de cloud - [!DNL Commerce] over de infrastructuurgids voor cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

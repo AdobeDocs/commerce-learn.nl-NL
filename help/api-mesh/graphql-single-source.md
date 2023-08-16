@@ -1,8 +1,8 @@
 ---
 title: Eén GraphQL-bronnet maken in API-net
-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
-landing-page-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
-short-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
+description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
+landing-page-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
+short-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

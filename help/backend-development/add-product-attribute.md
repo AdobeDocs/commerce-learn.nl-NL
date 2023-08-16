@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Een productkenmerk maken
 
-Het toevoegen van een productkenmerk is een van de meest gebruikte bewerkingen in [!DNL Commerce]. Kenmerken zijn een krachtige manier om veel praktische taken met betrekking tot een product op te lossen. Er is een eenvoudig proces om een dropdown-type attribuut aan een product toe te voegen.
+Het toevoegen van een productkenmerk is een van de populairste bewerkingen in [!DNL Commerce]. Kenmerken zijn een krachtige manier om veel praktische taken met betrekking tot een product op te lossen. Er is een eenvoudig proces om een dropdown-type attribuut aan een product toe te voegen.
 
 In deze video:
 
-- Voeg een attribuut genaamd kleding_material met de mogelijke waarden toe: Katoen, Leder, Zijde, Jeans, Kleur en Wol
+- Voeg een attribuut met de naam kleding_material met de mogelijke waarden toe: Katoen, Leer, Zijde, Jeans, Fur en Wol
 - Dit kenmerk zichtbaar maken op de pagina met productweergave, in vetgedrukte tekst
 - Wijs het toe aan de Standaardkenmerkenreeks en voeg een beperking toe
 - Het nieuwe kenmerk toevoegen

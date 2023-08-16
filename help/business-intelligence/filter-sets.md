@@ -49,4 +49,4 @@ In deze video:
 
 [Filtersets maken - Handleiding voor de handels-informatie](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Aanbevolen Dimension van Gegevens voor Segmentering en Filtering - Handleiding van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Aanbevolen Dimensionen van Gegevens voor Segmentatie en Filtreren - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

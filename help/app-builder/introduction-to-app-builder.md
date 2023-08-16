@@ -1,8 +1,8 @@
 ---
 title: Uitbreidbaarheid buiten proces voor Adobe Commerce
-description: Meer informatie over Adobe App Builder en waarom dit een belangrijk aspect is van de uitbreidbaarheid zonder processen.
-landing-page-description: Leer wat App Builder is en hoe deze kan helpen met ontwikkelingsstrategieën voor Adobe Commerce.
-short-description: Leer wat App Builder is en hoe deze kan helpen met ontwikkelingsstrategieën voor Adobe Commerce.
+description: Leer over Adobe App Builder en waarom dit een belangrijk aspect is van uitbreidbaarheid zonder processen.
+landing-page-description: Leer wat App Builder is en hoe het kan helpen met ontwikkelingsstrategieën voor Adobe Commerce.
+short-description: Leer wat App Builder is en hoe het kan helpen met ontwikkelingsstrategieën voor Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -15,21 +15,21 @@ exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Inleiding tot App Builder
 
-Adobe Commerce-ontwikkeling heeft altijd gebruikgemaakt van procesrekbaarheid. Het in-proces model vereist om het even welke nieuwe code om met verbeteringen, de PHP versie van de server, en vele andere essentiële servertoepassingen en de diensten compatibel te zijn die de Handel gebruikt. Adobe Developer App Builder maakt gebruik van externe uitbreidbaarheid om deze compatibiliteitsproblemen te voorkomen.
+Adobe Commerce-ontwikkeling heeft in het verleden gebruikgemaakt van procesrekbaarheid. Het in-proces model vereist om het even welke nieuwe code om met verbeteringen, de PHP versie van de server, en vele andere essentiële servertoepassingen en de diensten compatibel te zijn die de Handel gebruikt. Adobe Developer App Builder maakt gebruik van externe uitbreidbaarheid om deze compatibiliteitsproblemen te voorkomen.
 
 ## App Builder voor Adobe Commerce {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
 
-Adobe Developer App Builder is een serverloos uitbreidbaarheidsplatform voor het integreren en maken van aangepaste ervaringen voor het uitbreiden van Adobe-oplossingen. Het is nu beschikbaar voor Adobe Commerce. Met App Builder kunt u veilige en schaalbare apps maken die de eigen functies voor handel uitbreiden en integreren met oplossingen van derden. Als ontwikkelaar kunt u nu profiteren van de uitbreidbaarheid buiten het proces met Adobe Commerce en die op zijn beurt directe en langetermijnvoordelen biedt.
+Adobe Developer App Builder is een serverloos uitbreidbaarheidsplatform voor het integreren en creëren van douaneervaringen om Adobe oplossingen uit te breiden, en het is nu beschikbaar voor Adobe Commerce. Met App Builder kunt u veilige en schaalbare apps maken die de eigen functies voor handel uitbreiden en integreren met oplossingen van derden. Als ontwikkelaar kunt u nu profiteren van de uitbreidbaarheid buiten het proces met Adobe Commerce en die op zijn beurt directe en langetermijnvoordelen biedt.
 
-App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste toepassingen die een uitbreiding vormen [!DNL Adobe Commerce]. Aangezien dit uitbreidbaarheidskader op Adobe infrastructuur wordt gebouwd, kunnen de ontwikkelaars de microdiensten van de douane bouwen en uitbreiden en integreren [!DNL Adobe Commerce] voor andere Adobe-oplossingen en integratie van derden.
+App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste toepassingen die een uitbreiding vormen [!DNL Adobe Commerce]. Aangezien dit uitbreidbaarheidskader is gebaseerd op de infrastructuur van de Adobe, kunnen ontwikkelaars aangepaste microservices bouwen en uitbreiden en integreren [!DNL Adobe Commerce] voor andere Adobe-oplossingen en integratie van derden.
 
 App Builder biedt klanten een manier om de app uit te breiden [!DNL Adobe Commerce] in verschillende gebruiksgevallen:
 
@@ -39,7 +39,7 @@ App Builder biedt klanten een manier om de app uit te breiden [!DNL Adobe Commer
 
 Adobe Developer App Builder is een cloudgebaseerde oplossing, wat betekent dat deze automatisch wordt geschaald. Deze service wordt ook wereldwijd gedistribueerd zodat u de beste prestaties kunt leveren, ongeacht uw geografische locatie.
 
-## Waarom moet u meer weten over App Builder
+## Waarom moet u meer weten over App Builder?
 
 Aangezien Adobe Commerce geen volledig SAAS-product is, kan de code die u ontwikkelt, complexiteit en upgradeproblemen toevoegen. Door uit-van-procesrekbaarheid, zoals App Builder te gebruiken, kunt u douane, unieke functionaliteit aan uw opslag van Adobe Commerce verstrekken zonder in-proces methodes te vereisen.
 
@@ -54,8 +54,8 @@ Andere voordelen zijn:
 In plaats van een out-of-the-box oplossing biedt Adobe Developer App Builder een algemeen, consistent en gestandaardiseerd ontwikkelingsplatform voor het uitbreiden van Adobe Cloud-oplossingen zoals Adobe Commerce, met inbegrip van:
 
 * Adobe Developer Console wordt gebruikt voor de ontwikkeling van aangepaste microservices en extensies. Ontwikkel en beheer projecten terwijl de toegang tot van alle hulpmiddelen en APIs nodig om stoppen en integratie tot stand te brengen.
-* Open-source-gereedschappen, SDK&#39;s en bibliotheken om aangepaste extensies en integratie te maken. Gebruik Spectrum Reageren (Adobe UI toolkit) om één gemeenschappelijke UI voor alle Adobe te hebben apps.
-* services zoals I/O-runtime voor het hosten van infrastructuur op platformloze Adobe en I/O-gebeurtenissen voor op gebeurtenissen gebaseerde integratie. Adobe biedt ook out-of-the-box ondersteuning voor het opslaan van gegevens en bestanden.
+* Open-source-gereedschappen, SDK&#39;s en bibliotheken om aangepaste extensies en integratie te maken. Gebruik React Spectrum (UI toolkit van Adobe) om één gemeenschappelijke UI voor alle Adobe apps te hebben.
+* services zoals I/O-runtime voor het hosten van infrastructuren op het serverplatform van de Adobe en I/O-gebeurtenissen voor op gebeurtenissen gebaseerde integratie. Adobe biedt ook out-of-the-box ondersteuning voor het opslaan van gegevens en bestanden.
 * Adobe Experience Cloud waar u extensies en integratie verzendt die u wilt publiceren in uw Experience Cloud Org. Systeembeheerders kunnen deze extensies controleren, beheren en goedkeuren. Nadat u de aangepaste App Builder-extensies en -gereedschappen hebt gepubliceerd, zijn deze beschikbaar naast andere Adobe Experience Cloud-apps.
 
 Het volgende diagram illustreert hoe een standaardtoepassing die op App Builder wordt gebouwd deze functionaliteit gebruikt:
@@ -68,9 +68,9 @@ Voor meer details over de architectuur van App Builder, zie [Overzicht van archi
 
 >[!IMPORTANT]
 >
->De verlenging van de Amazon-Sales Channel is nog in ontwikkeling en is nog niet officieel vrijgegeven.  Deze video&#39;s en zelfstudies zijn bedoeld om u te laten zien hoe u Adobe Developer App Builder kunt gebruiken voor een praktijkvoorbeeld.
+>De verlenging van de Sales Channel van Amazon is nog in ontwikkeling en is nog niet officieel vrijgegeven.  Deze video&#39;s en zelfstudies zijn bedoeld om u te laten zien hoe u Adobe Developer App Builder kunt gebruiken voor een praktijkvoorbeeld.
 
-De volgende zelfstudies tonen hoe u Adobe Commerce met een App Builder-extensie kunt verbinden met Amazon Sales Channel.
+De volgende zelfstudies tonen hoe u Adobe Commerce kunt verbinden met een Amazon-Sales Channel met een App Builder-extensie.
 
 * [technisch overzicht App Builder](../app-builder/app-builder-technical-overview.md)
 * [uitbreidbaarheidskader](../app-builder/extensibility-framework-commerce-eventing.md)

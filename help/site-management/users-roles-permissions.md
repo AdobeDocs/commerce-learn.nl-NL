@@ -1,6 +1,6 @@
 ---
 title: Gebruikersrollen en -machtigingen beheren
-description: Meer informatie over gebruikersaccounts en machtigingen voor het beheren van toegang tot [!DNL Commerce] website en sla gegevens op in de beheerder.
+description: Meer informatie over gebruikersaccounts en machtigingen voor het beheren van toegang tot [!DNL Commerce] website en sla gegevens op in de Admin.
 kt: 5610
 doc-type: feature video
 audience: all

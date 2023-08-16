@@ -24,13 +24,13 @@ De `.env` is een speciaal bestand dat geen deel uitmaakt van de voorbeeldmodule,
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken met Adobe App Builder die meer wilt weten over de `.env` bestand.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken de Adobe App Builder die meer willen weten over de `.env` bestand.
 
 ## Video-inhoud
 
 * Inleiding tot het .env-bestand en het doel ervan
 * Het .env-bestand genereren
-* Hoe te om het dossier toe te voegen om nieuwe geheimen toe te voegen
+* Hoe kan ik het bestand toevoegen om nieuwe geheimen toe te voegen
 * Maak geen gebruik van dit bestand omdat het vertrouwelijke informatie bevat
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)

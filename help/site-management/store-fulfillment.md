@@ -30,7 +30,7 @@ Deze video biedt een snel overzicht van de end-to-end BOPIS-ervaring van de Uitv
    - Blader door de onlinewinkelcatalogus.
    - Selecteer items voor ophalen in de winkel.
    - Zoek en selecteer een opslaglocatie met beschikbare voorraad.
-   - De opties voor het ophalen van de winkel uitchecken en aanpassen.
+   - Schakel de opties voor het ophalen van de winkel uit en pas deze aan.
    - Plaats de bestelling.
 - Kijk hoe een medewerker en klant van de winkel het volledige bestelproces doorlopen met de mobiele app die beschikbaar is bij de oplossing Afhandeling van winkel.
 

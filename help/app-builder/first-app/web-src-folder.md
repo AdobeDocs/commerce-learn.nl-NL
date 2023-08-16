@@ -30,7 +30,7 @@ De map web-src voor deze voorbeeldapp bevat veel JavaScript-bestanden en -mappen
 
 * Wat is het belangrijkste doel van de `web-src` map?
 * Meestal opgenomen bestanden en mappen
-* Hoe `web-src` de map en de inhoud binnen de map worden gebruikt in de voorbeeldtoepassing
+* Hoe `web-src` de map en de inhoud in de voorbeeldtoepassing worden gebruikt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 

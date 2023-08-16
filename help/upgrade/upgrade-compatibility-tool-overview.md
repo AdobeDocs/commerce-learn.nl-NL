@@ -1,8 +1,8 @@
 ---
 title: Overzicht van het hulpprogramma Compatibiliteit bijwerken
-description: Bekijk deze technische video om te leren hoe de Upgrade Compatibility Tool uw volgende upgrade gemakkelijker, goedkoper en sneller kan maken.
-landing-page-description: Bekijk deze technische video om te leren hoe de Upgrade Compatibility Tool uw volgende upgrade gemakkelijker, goedkoper en sneller kan maken.
-short-description: Bekijk deze technische video om te leren hoe de Upgrade Compatibility Tool uw volgende upgrade gemakkelijker, goedkoper en sneller kan maken.
+description: Bekijk deze technische video voor informatie over hoe de compatibiliteitstool voor upgrades uw volgende upgrade eenvoudiger, goedkoper en sneller kan maken.
+landing-page-description: Bekijk deze technische video voor informatie over hoe de compatibiliteitstool voor upgrades uw volgende upgrade eenvoudiger, goedkoper en sneller kan maken.
+short-description: Bekijk deze technische video voor informatie over hoe de compatibiliteitstool voor upgrades uw volgende upgrade eenvoudiger, goedkoper en sneller kan maken.
 kt: 9983
 doc-type: technical video
 audience: all
@@ -16,7 +16,7 @@ exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 

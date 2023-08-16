@@ -103,6 +103,6 @@ De syntaxis `[CartItemInput!]!` ziet er lastig uit, maar is uiteindelijk redelij
 
 >[!NOTE]
 >
->De logica voor hoe gegevens worden opgehaald en volgens een schema worden opgemaakt, en hoe dergelijke logica aan bepaalde types in kaart wordt gebracht, is tot de runtime van GraphQL implementatie. De implementaties moeten echter een conceptuele doorloop volgen die zinvol is in het licht van een inzicht in geneste gebieden: Een bewerking voor het oplossen van het basisbestand `Query` of `Mutation` type wordt uitgevoerd, dat elk gebied onderzoekt dat in het verzoek wordt gespecificeerd. Voor elk gebied dat aan een complex type oplost, wordt een gelijkaardige oplossing gedaan voor dat type, etc., tot alles in scalaire waarden heeft opgelost.
+>De logica voor hoe gegevens worden opgehaald en volgens een schema worden opgemaakt, en hoe dergelijke logica aan bepaalde types in kaart wordt gebracht, is tot de runtime van GraphQL implementatie. De implementaties, echter, zouden een conceptuele stroom moeten volgen die in het licht van een begrip rond genestelde gebieden zinvol is: Een resolutieverrichting verbonden aan de wortel `Query` of `Mutation` type wordt uitgevoerd, dat elk gebied onderzoekt dat in het verzoek wordt gespecificeerd. Voor elk gebied dat aan een complex type oplost, wordt een gelijkaardige oplossing gedaan voor dat type, etc., tot alles in scalaire waarden heeft opgelost.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

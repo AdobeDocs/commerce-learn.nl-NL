@@ -1,8 +1,8 @@
 ---
 title: Page Builder voor ontwikkelaars - Inleiding
 description: Introductie van Page Builder, mogelijkheden van Page Builder begrijpen
-landing-page-description: Bekijk deze videoreeks om te leren over de Bouwer van de Pagina en hoe u het kunt uitbreiden om optimaal tot stand te brengen [!DNL Commerce] storefront experience.
-short-description: Bekijk deze videoreeks om te leren over de Bouwer van de Pagina en hoe u het kunt uitbreiden om optimaal tot stand te brengen [!DNL Commerce] storefront experience.
+landing-page-description: Bekijk deze videoreeks om te leren over de Bouwer van de Pagina en hoe u het kunt uitbreiden om optimaal te creëren [!DNL Commerce] storefront experience.
+short-description: Bekijk deze videoreeks om te leren over de Bouwer van de Pagina en hoe u het kunt uitbreiden om optimaal te creëren [!DNL Commerce] storefront experience.
 kt: 5650
 doc-type: video
 activity: use
@@ -28,7 +28,7 @@ In deze video:
 ## Voor wie is deze video?
 
 - Voor-eindontwikkelaars
-- Inhoudsmakers
+- Inhoud maken
 
 ## Video-inhoud
 

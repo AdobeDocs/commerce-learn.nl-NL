@@ -26,7 +26,7 @@ In deze video:
 
 ## Voor wie is deze video?
 
-- Inhoudsmakers
+- Inhoud maken
 - Voor-eindontwikkelaars
 
 ## Video-inhoud

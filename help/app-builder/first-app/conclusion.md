@@ -24,7 +24,7 @@ Nu u uw eerste Adobe Developer App Builder-app hebt gemaakt, leert u meer over a
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken Adobe App Builder die hun eerste Adobe Developer App Builder-app hebben voltooid en die klaar zijn voor meer informatie.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken de Adobe App Builder die hun eerste Adobe Developer App Builder-app hebben voltooid en die klaar zijn voor meer informatie.
 
 ## Video-inhoud
 

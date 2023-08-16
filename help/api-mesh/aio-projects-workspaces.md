@@ -40,7 +40,7 @@ In deze zelfstudie worden het maken van een project en een werkruimte besproken 
 
 ## Meer informatie over de Adobe Developer Console
 
-In de Adobe Developer-console wordt in de volgende hiërarchie aangegeven hoe uw API&#39;s in uw organisatie passen: `Organization > Project > Workspace > [API]`. Ga voor meer informatie over Adobe App Builder, het aanmelden bij de console en het basisprobleem naar [Uw eerste App Builder-toepassing maken](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+In de Adobe Developer-console wordt in de volgende hiërarchie aangegeven hoe uw API&#39;s in uw organisatie passen: `Organization > Project > Workspace > [API]`. Ga voor meer informatie over Adobe App Builder, het aanmelden bij de console en het basisoplossen van problemen naar [Uw eerste App Builder-toepassing maken](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Inleiding tot projecten in de Adobe Developer-console
 

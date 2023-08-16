@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence - Cohort Report Builder
-description: Leer hoe u de Commerce Intelligence Cohort Report Builder kunt gebruiken om geoptimaliseerde rapporten en analyses te maken die relevant zijn voor uw bedrijf.
-landing-page-description: Bekijk deze video om te leren hoe u de Commerce Intelligence Cohort Report Builder kunt gebruiken om geoptimaliseerde rapporten en analyses te maken die relevant zijn voor uw bedrijf.
-short-description: Bekijk deze video om te leren hoe u de Commerce Intelligence Cohort Report Builder kunt gebruiken om geoptimaliseerde rapporten en analyses te maken die relevant zijn voor uw bedrijf.
+title: Commerce Intelligence - Cohort-Report Builder
+description: Leer hoe u de Report Builder Commerce Intelligence Cohort kunt gebruiken om geoptimaliseerde rapporten en analyses te maken die relevant zijn voor uw bedrijf.
+landing-page-description: Bekijk deze video om te leren hoe u de Report Builder Commerce Intelligence Cohort kunt gebruiken om geoptimaliseerde rapporten en analyses te maken die relevant zijn voor uw bedrijf.
+short-description: Bekijk deze video om te leren hoe u de Report Builder Commerce Intelligence Cohort kunt gebruiken om geoptimaliseerde rapporten en analyses te maken die relevant zijn voor uw bedrijf.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ---
 
-# Commerce Intelligence - Cohort Report Builder
+# Commerce Intelligence - Cohort-Report Builder
 
-Hebt u ooit willen onderzoeken hoe verschillende subsets van uw gebruikers zich in de loop der tijd gedragen? Bijvoorbeeld, vroeg ooit zich af of de gebruikers die tijdens een bevorderingsperiode registreren een hogere gemiddelde levenopbrengst hebben dan gebruikers die niet? Als het antwoord _Ja_ Dan is de Cohort Report Builder het perfecte hulpmiddel voor je. De Intelligentie van de Handel is geoptimaliseerd om deze analyse uit te voeren en het relevant voor uw zaken te maken.
+Hebt u ooit willen onderzoeken hoe verschillende subsets van uw gebruikers zich in de loop der tijd gedragen? Bijvoorbeeld, vroeg ooit zich af of de gebruikers die tijdens een bevorderingsperiode registreren een hogere gemiddelde levenopbrengst hebben dan gebruikers die niet? Als het antwoord _Ja_ En dan is de Report Builder Cohort het perfecte hulpmiddel voor u. De Intelligentie van de Handel is geoptimaliseerd om deze analyse uit te voeren en het relevant voor uw zaken te maken.
 
 In deze video:
 
-- Wat is de cohortanalyse?
+- Wat is de cohortanalyse
 - Waarom het belangrijk is
 - Uw eigen cohortanalyse maken
 
@@ -46,6 +46,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Gebruikend de Gids van de Gebruiker van de Intelligentie van de Handel van Cohort Report Builder -](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[Gebruikend de Report Builder van de Cohort - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
 [Een kwalitatieve cohortanalyse maken - Handleiding voor de handelsinformatie](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

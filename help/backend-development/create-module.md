@@ -76,7 +76,7 @@ De volgende stap is wat functionaliteit aan onze basismodule toe te voegen. Een 
 - disabled en sortOrder zijn optioneel
 - Bereik van de plug-in wordt ingesteld door de map waarin deze zich bevindt
 - Plugins kunnen worden uitgevoerd voordat, nadat of beide (rond) de methode wordt aangeroepen
-- Vermijd het gebruik `around` plug-ins. Ze zijn verleidelijk om te gebruiken, maar zijn vaak de verkeerde keuze en leiden tot prestatieproblemen.
+- Vermijd gebruik `around` plug-ins. Ze zijn verleidelijk om te gebruiken, maar zijn vaak de verkeerde keuze en leiden tot prestatieproblemen.
 
 ### Codevoorbeelden van insteekmodules
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Websites en winkels toevoegen en weergaven opslaan
 
-Elke Adobe Commerce- en Magento Open Source-installatie ondersteunt een hiërarchie van websites, winkels en winkelweergaven. Bouw en breid deze hiërarchie overeenkomstig de behoeften van uw zaken uit.
+Elke installatie van Adobe Commerce en Magento Open Source ondersteunt een hiërarchie van websites, winkels en winkelweergaven. Bouw en breid deze hiërarchie overeenkomstig de behoeften van uw zaken uit.
 
 ## Voor wie is deze video?
 

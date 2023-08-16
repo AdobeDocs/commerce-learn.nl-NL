@@ -34,4 +34,4 @@ De verwante productregels geven u de capaciteit om de selectie van producten te 
 
 ## Aanvullende bronnen
 
-[Regels voor verwante producten - [!DNL Commerce] Handleiding voor het verhandelen en promoten van objecten](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Regels voor verwante producten - [!DNL Commerce] Handleiding Handelsbemiddeling en speciale acties](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

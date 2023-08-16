@@ -1,8 +1,8 @@
 ---
 title: Een GraphQL met meerdere bronnen maken voor gebruik in API-net
 description: Ontdek hoe u meerdere bronnen kunt gebruiken voor API Mesh op Adobe Commerce en [!DNL Adobe App Builder]. Meer informatie over enkele algemene fouten en hoe u deze kunt oplossen.
-landing-page-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
-short-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en [!DNL Adobe App Builder]. Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
+landing-page-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
+short-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

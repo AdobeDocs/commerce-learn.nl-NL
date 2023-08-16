@@ -36,7 +36,7 @@ Er zijn sommige unieke scenario&#39;s die elk lijnpunt vereisen om hun verstrekt
 
 >[!BEGINSHADEBOX]
 
-Regel voor winkelwagenprijs = 10% korting toegepast op 2 producten in de winkelwagentje, zodat de prijsregel van kracht wordt: totaal aantal objecten in winkelwagentje is 2 Acties passen procent van de korting op de productprijs toe en dat kortingsbedrag is 10
+Regel voor winkelwagenprijs = 10% korting toegepast op 2 producten in de winkelwagentje om de prijsregel van kracht te laten worden: totale objecten in winkelwagentje zijn 2 Acties passen procent van de productprijskorting toe en dat kortingsbedrag is 10
 
 Er worden 2 objecten aan het winkelwagentje toegevoegd, elk $19,95
 
@@ -44,7 +44,7 @@ Om het kortingsbedrag te krijgen vermenigvuldig de de prijstijden van het produc
 
 19,95 x 0,1 = 1,995
 
-Dit is de kwestie, we hebben 3 decimalen, in plaats van 2. Het omzetten van deze naar dollars is nu een probleem
+Dit is de kwestie, we hebben 3 decimalen, in plaats van 2. Het omzetten van dit naar dollars is nu een probleem
 
 >[!ENDSHADEBOX]
 
@@ -62,7 +62,7 @@ In totaal wordt 3,99 euro als korting aan de klant verstrekt
 
 Wanneer het tonen van de lijnpunten aan de opslageigenaar in admin, moeten wij het eerste punt aanpassen en het rond tot 2.000. De tweede punten wij drukken derde decimaal Product 1 = 2.00 Product 2 = 1.99
 
-De totale korting op de twee producten die nu bij elkaar worden opgeteld, komt overeen met de werkelijke korting die aan een klant wordt gegeven.
+De totale korting van de twee producten nu wanneer samengeteld komt overeen met de werkelijke korting die aan een klant is verstrekt.
 >[!ENDSHADEBOX]
 
 Hier is een schermafbeelding zoals deze in de beheerder zou worden weergegeven voor een volgorde met dit scenario:
@@ -93,11 +93,11 @@ Vergelijkbare kwestie als de derde decimaal voor alle punten werd gelaten vallen
 
 Dezelfde korting van 10% als boven de regel voor het winkelwagentje in feite Twee producten aan het winkelwagentje toevoegen die 19,95 zijn
 
-Elk product zou $1.995 in kortingen moeten krijgen, echter als wij enkel de derde decimaal laten vallen, gebeurt dit: Product 1 - 19,95 x 0,1 = 1,995 Product 2 - 19,95 x 0,1 = 1,995
+Elk product zou $1.995 in kortingen moeten krijgen, echter als wij enkel de derde decimaal laten vallen, gebeurt dit: Product 1 - 19.95 x 0.1 = 1.995 Product 2 - 19.95 x 0.1 = 1.995
 
 Omzetten in een derde decimaal voor alle items Product 1 Nieuwe waarde is 1,99 Product 2 Nieuwe waarde is 1,99
 
-In totaal werd 3,99 dollar per stuk als een korting aan de klant verstrekt, maar als we de derde decimaal laten vallen, zou dat aantonen dat er $3,98 is gegeven, en dat is onjuist.
+Een totaal van 3,99 euro is eigenlijk als korting aan de klant verstrekt, maar als we het derde decimaalteken laten vallen, zou het aantonen dat $3,98 is gegeven, en dat is onjuist.
 
 1.99 + 1.99 = $3.98
 
@@ -106,5 +106,5 @@ In totaal werd 3,99 dollar per stuk als een korting aan de klant verstrekt, maar
 
 ## Aanvullende bronnen
 
-- [Een regel voor winkelprijzen maken - [!DNL Commerce] Handleiding voor het verhandelen en promoten van objecten](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [Couponcodes - [!DNL Commerce] Handleiding voor het verhandelen en promoten van objecten](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [Een regel voor winkelprijzen maken - [!DNL Commerce] Handleiding Handelsbemiddeling en speciale acties](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [Couponcodes - [!DNL Commerce] Handleiding Handelsbemiddeling en speciale acties](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

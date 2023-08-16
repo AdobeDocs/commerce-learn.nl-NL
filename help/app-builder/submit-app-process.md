@@ -1,6 +1,6 @@
 ---
 title: Een app indienen bij de Adobe Commerce Marketplace
-description: Leer hoe u een toepassing bij de Commerce Marketplace indient.
+description: Leer meer over het proces voor het indienen van een toepassing bij de Commerce Marketplace.
 landing-page-description: Leer meer over Adobe Developer App Builder en hoe u een app naar de Commerce Marketplace verzendt.
 kt: 13436
 doc-type: tutorial
@@ -30,7 +30,7 @@ De Adobe Commerce Marketplace accepteert nu verzendingen voor het weergeven van 
 
 * Inleiding tot het indienen van apps bij de Commerce Marketplace
 * De verzendcyclus van de app
-* Technische en marketingsecties voor de indiening van apps
+* Technische en marketingsecties voor de indiening van de app
 * Voorbeeld-e-mail die u ontvangt nadat de app de revisie heeft voltooid.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420313)

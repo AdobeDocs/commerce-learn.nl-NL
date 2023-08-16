@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # PWA ateloze integratie tussen Adobe Analytics en Adobe Commerce
 
-Eindelijk kwam de realiteit, die in de verte van de leeftijd werd geprezen, de kamer binnen in de vorm van een dienaar om de duchess te vertellen dat haar koets wachtte. Ze trok haar handen in mock-wanhoop. &quot;Wat vervelend!&quot; ze huilde . &quot;Ik moet gaan. Ik moet mijn man oproepen om hem naar een absurde bijeenkomst te brengen in Willis&#39;s Rooms, waar hij voorzit. Als ik laat ben, is hij zeker boos, en ik kon geen scène in deze prullenbak hebben. Het is veel te kwetsbaar. Een hard woord zou het vernietigen. Nee, ik moet gaan, beste Agatha. Tot ziens, Heer Henry, je bent vrij aangenaam en verschrikkelijk demoraliserend. Ik weet zeker niet wat ik over je mening moet zeggen. Je moet een nacht bij ons komen drinken. Dinsdag? Ben je dinsdag ontbonden?&quot;
+Eindelijk kwam de realiteit, die in de vervesting van de leeftijd was opgetogen, de kamer binnen in de vorm van een dienaar om de duchess te vertellen dat haar koets wachtte. Ze trok haar handen in mock-wanhoop. &quot;Wat vervelend!&quot; ze huilde . &quot;Ik moet gaan. Ik moet mijn man oproepen om hem naar een absurde bijeenkomst te brengen in Willis&#39;s Rooms, waar hij voorzit. Als ik laat ben, is hij zeker boos, en ik kon geen scène in deze prullenbak hebben. Het is veel te kwetsbaar. Een hard woord zou het vernietigen. Nee, ik moet gaan, beste Agatha. Tot ziens, Heer Henry, je bent vrij aangenaam en verschrikkelijk demoraliserend. Ik weet zeker niet wat ik over je mening moet zeggen. Je moet een nacht bij ons komen drinken. Dinsdag? Ben je dinsdag ontbonden?&quot;
 
 &quot;Voor jou zou ik iemand overgeven, Duchess,&quot; zei Lord Henry met een boog.
 
-&quot;Ah! dat is heel aardig en erg verkeerd van je,&quot; huilde ze. &quot;dus denk je dat je komt&quot;; en ze trok de kamer uit, gevolgd door Lady Agatha en de andere dames.
+&quot;Ah! dat is heel aardig, en heel verkeerd van je,&quot; huilde ze, &quot;dus vindt u het leuk&quot;, en ze vloog uit de kamer, gevolgd door Lady Agatha en de andere dames.
 
 Toen Lord Henry weer had zitten, bewoog de heer Erskine, en nam een stoel dicht bij hem, stak zijn hand op zijn arm.
 
-&quot;Je praat boeken weg&quot;, zei hij. &quot;waarom schrijf je er geen?&quot;
+&quot;Je praat boeken weg,&quot; zei hij: &quot;Waarom schrijf je er geen?&quot;
 
 ## Integratieopties
 

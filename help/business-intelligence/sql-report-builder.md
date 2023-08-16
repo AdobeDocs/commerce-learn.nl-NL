@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence - SQL Report Builder
+title: Commerce Intelligence - SQL-Report Builder
 description: Leer hoe te om de SQL Report Builder van de Intelligentie van de Handel te gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
-landing-page-description: Bekijk deze video om te leren hoe de SQL Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
-short-description: Bekijk deze video om te leren hoe de SQL Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
+landing-page-description: Bekijk deze video om te leren hoe de SQL-Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis rechtstreeks te vragen, de resultaten te bekijken en deze snel om te zetten in een grafiek.
+short-description: Bekijk deze video om te leren hoe de SQL-Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis rechtstreeks te vragen, de resultaten te bekijken en deze snel om te zetten in een grafiek.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ---
 
-# MBI - SQL Report Builder
+# MBI - SQL-Report Builder
 
-SQL Report Builder staat u toe om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek. Het beste deel over het gebruiken van SQL om rapporten te bouwen is dat u niet op updatecycli moet wachten om op kolommen te herhalen u creeert. Als de resultaten niet goed kijken, kunt u de vraag snel uitgeven en opnieuw uitvoeren tot de dingen uw verwachtingen aanpassen.
+De SQL Report Builder staat u toe om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek. Het beste deel over het gebruiken van SQL om rapporten te bouwen is dat u niet op updatecycli moet wachten om op kolommen te herhalen u creeert. Als de resultaten niet goed kijken, kunt u de vraag snel uitgeven en opnieuw uitvoeren tot de dingen uw verwachtingen aanpassen.
 
 >[!IMPORTANT]
 >
->U moet beheerdersmachtigingen hebben om toegang te krijgen tot de SQL-Report Builder.
+>U moet beheerdersrechten hebben om toegang te krijgen tot de SQL-Report Builder.
 
 In deze video:
 
@@ -50,6 +50,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Gebruikend SQL Report Builder - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Gebruikend de SQL Report Builder - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
 [Creërend Visualisaties van SQL Vragen - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
