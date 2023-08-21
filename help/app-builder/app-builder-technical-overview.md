@@ -6,26 +6,22 @@ short-description: Meer informatie over Adobe Developer App Builder die in Adobe
 kt: 11763
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-8-21
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: d777e440ae1f85a8e67fb257680aeeba71626536
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # Technisch overzicht voor App Builder
 
-De volgende video biedt een technisch overzicht van het aansluiten van Adobe Commerce- en Amazon-Sales Channel. In deze zelfstudie wordt ook uitgelegd hoe u Adobe App Builder kunt gebruiken voor aangepaste functionaliteit en integratie.
-
->[!IMPORTANT]
->
->De verlenging van de Sales Channel van Amazon is nog in ontwikkeling en is nog niet officieel vrijgegeven.  Deze video&#39;s en zelfstudies zijn bedoeld om u te laten zien hoe u Adobe Developer App Builder kunt gebruiken voor een praktijkvoorbeeld.
+De volgende video biedt een technisch overzicht van een voorbeeldintegratiepatroon dat Adobe Commerce verbindt met Amazon Seller Central. In deze zelfstudie worden ook de verschillen onderzocht tussen het ontwikkelen van traditionele PHP-extensies en App Builder-apps.
 
 
 ## App Builder voor Adobe Commerce {#app-builder-technical-overview}
