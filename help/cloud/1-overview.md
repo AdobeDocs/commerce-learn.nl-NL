@@ -12,7 +12,7 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: bf8571af4d06b26fd038efea71b9f0890c780ae7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 59%
@@ -23,7 +23,7 @@ ht-degree: 59%
 
 In deze video:
 
-- Belangrijke technologieën in de &#x200B; van de cloud identificeren
+- Belangrijke technologieën in de cloudstapel identificeren
 - Beschrijf de strategie voor de levering van inhoud voor Adobe Commerce op cloudinfrastructuur
 - Begrijp de waarde van het alleen-lezen bestandssysteem
 
