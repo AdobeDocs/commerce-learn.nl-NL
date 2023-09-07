@@ -4,25 +4,24 @@ description: Leer hoe u uw B2B-bedrijfsaccounts beheert, inclusief eventuele han
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B voor Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 5721286d70d58c3dae979be837924234169b13e8
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # Bedrijfsaccounts beheren
 
-{{b2b-feature}}
-
 Voor B2B-handelaren: _[!UICONTROL Companies]_op de pagina worden alle huidige bedrijfsrekeningen en hun status weergegeven. U kunt hier uw bedrijfsaccounts beheren en eventuele aanvragen voor goedkeuring die in behandeling zijn, worden boven aan de lijst weergegeven. Met de standaardbesturingselementen op de werkplek kunt u de lijst filteren, de kolomlay-out wijzigen, weergaven opslaan en gegevens exporteren.
+
+{{b2b-feature}}
 
 ## Voor wie is deze video?
 

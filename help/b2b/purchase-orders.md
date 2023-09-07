@@ -4,23 +4,20 @@ description: Leer hoe u inkooporders en goedkeuringsregels inschakelt voor uw B2
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B voor Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
 
 # Aankooporders en goedkeuringen
-
-{{b2b-feature}}
 
 De meeste B2B-bedrijven hebben regels voor de goedkeuring van orders voor inkooporders. Bedrijven kunnen bepalen wie inkooporders kan maken en hoeveel ze kunnen uitgeven. Bijvoorbeeld:
 
@@ -30,6 +27,8 @@ De meeste B2B-bedrijven hebben regels voor de goedkeuring van orders voor inkoop
 - Een inkooporder die door iedereen op Director-niveau of hoger is gemaakt, wordt automatisch goedgekeurd.
 
 Met de vereiste toestemmingen voor hun rol, kunnen de klanten B2B opstelling goedkeuringsregels om bedrijfbeleid af te dwingen.
+
+{{b2b-feature}}
 
 ## Voor wie is deze video?
 

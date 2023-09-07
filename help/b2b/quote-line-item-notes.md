@@ -5,24 +5,24 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13799
-badge: label="B2B voor Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 4651c38f-6794-47bb-b90f-dd8736b44233
-source-git-commit: de527a0089b20af2729853ac7320d262ffb611c5
+source-git-commit: 45692e3172bee9645ed30d8f7e2d42a2dd7938d3
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # B2B-korting op verkoopprijsaanhalingstekst
 
-{{b2b-feature}}
 Leer hoe u de notities voor regelitems gebruikt voor een Adobe Commerce B2B-aanhalingsteken.
+
+{{b2b-feature}}
 
 ## Voor wie is deze video?
 
