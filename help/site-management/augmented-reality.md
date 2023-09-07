@@ -1,6 +1,6 @@
 ---
 title: AR Viewer voor Adobe Commerce
-description: Adobe heeft een module uitgebracht die beschikbaar is op de Commerce Marketplace ter ondersteuning van Augmented Reality viewing.
+description: Meer informatie over de Augmented Reality Viewing module beschikbaar op de Commerce Marketplace.
 kt: 13738
 doc-type: video
 activity: use
@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR Viewer beschikbaar in de Commerce Marketplace
-source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
+source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
