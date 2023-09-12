@@ -3,25 +3,35 @@ title: Schema taal met GraphQL
 description: Meer informatie over het schema dat bij GraphQL is betrokken. Lees een beschrijving van het schema, samen met enkele interessante patronen en manieren om het schema te lezen.
 landing-page-description: Dit is een inleiding op GraphQL. Inzicht krijgen in het schema en hoe sommige elementen worden geïnterpreteerd
 short-description: Dit is een inleiding op GraphQL. Inzicht krijgen in het schema en hoe sommige elementen worden geïnterpreteerd
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
 # Schema
 
-De gebruikte query&#39;s en mutaties zijn afhankelijk van een specifieke gegevensgrafiek die op de server wordt geïmplementeerd. De GraphQL-runtime gebruikt deze grafiek om de query op te lossen. De GraphQL-specificatie definieert een agnostische taal voor het uitdrukken van de typen en relaties van de gegevensgrafiek.
+Dit is deel 4 van de reeks voor GraphQL en Adobe Commerce. De gebruikte query&#39;s en mutaties zijn afhankelijk van een specifieke gegevensgrafiek die op de server wordt geïmplementeerd. De GraphQL-runtime gebruikt deze grafiek om de query op te lossen. De GraphQL-specificatie definieert een agnostische taal voor het uitdrukken van de typen en relaties van de gegevensgrafiek.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## Verwante video&#39;s en zelfstudies over GraphQL in deze serie
+
+* [Deel 1 GraphQL - Inleiding](../graphql-rest/intro-graphql.md)
+* [Deel 2 GraphQL - Vragen](../graphql-rest/graphql-queries.md)
+* [Deel 3 GraphQL - Mutaties](../graphql-rest/graphql-mutations.md)
+
+## Voorbeeldschema
 
 Hier is een afgekort typeschema dat de vragen en de mutaties steunt u tot dusver hebt bekeken:
 
