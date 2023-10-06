@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 1771ef7e11482fc663bedc162a48acd394bc0980
+source-git-commit: fae9666d2850afb5eb79ff174f376c324717d6c4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '555'
 ht-degree: 3%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 3%
       + [Wat is wereldwijde referentiearchitectuur](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Hoe kunt u gebruikmaken van wereldwijde referentiearchitectuur](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Hoe maakt u algemene referentiearchitectuur?](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [Hoe implementeert u de algemene referentiearchitectuur](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GraphQL en REST {#graphql-rest}
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
    + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
