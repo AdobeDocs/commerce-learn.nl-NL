@@ -3,7 +3,7 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: fae9666d2850afb5eb79ff174f376c324717d6c4
+source-git-commit: 5f86788f8bd8c0281571ed2cd45c89963be9e98e
 workflow-type: tm+mt
 source-wordcount: '555'
 ht-degree: 3%
@@ -131,7 +131,7 @@ ht-degree: 3%
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2.4-upgrade-workshop.md)
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
-+ Ontwikkeling van back-ups {#backend-development}
++ Achterwaartse ontwikkeling {#backend-development}
    + [Aanbevolen procedures voor het wijzigen van databasetabellen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Een tabel toevoegen aan een database](../backend-development/new-db-table.md)
    + [Een module maken](../backend-development/create-module.md)
@@ -140,7 +140,7 @@ ht-degree: 3%
    + [Trage replicatie van Galera Cluster](../backend-development/galera-db-slow-replication.md)
    + [MySQL-querycache](../backend-development/mysql-query-cache.md)
    + [Samenvatting van PT-query](../backend-development/pt-query-digest.md)
-+ Geïntegreerde ontwikkeling van Luminantiemateriaal aan voorzijde {#frontend-development}
++ Native Luma-ontwikkeling aan de voorzijde {#frontend-development}
    + Page Builder voor ontwikkelaars {#page-builder}
       + [1 - Inleiding](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuratie en inhoud](../frontend-development/page-builder/2-config-create-content.md)
