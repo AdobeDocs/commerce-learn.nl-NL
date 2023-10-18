@@ -1,7 +1,7 @@
 ---
 title: Inleiding GraphQL
-description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL GET en POST oproepen voor Adobe Commerce en [!DNL Magento Open Source].
-short-description: Leer hoe u GraphQL GET- en POST-oproepen voor Adobe Commerce en [!DNL Magento Open Source].
+description: Leer hoe u GraphQL in Adobe Commerce en  [!DNL Magento Open Source] gebruikt. Gebruik GraphQL GET- en POST-oproepen voor Adobe Commerce en [!DNL Magento Open Source].
+short-description: Leer hoe u GraphQL GET- en POST-oproepen voor Adobe Commerce en  [!DNL Magento Open Source] gebruikt.
 kt: 11524
 doc-type: video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
 source-git-commit: 750c8c9c5c6b3e01b9af8aacae31f3d521c4f7b7
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
