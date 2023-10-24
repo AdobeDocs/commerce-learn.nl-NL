@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 449445ba629f8db9d0e3535e6bcb5339fab99070
+exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
+source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe u de algemene referentiearchitectuur of GRA voor kort implementeert. Leer over vroege besluiten die helpen opstelling een succesvolle GRA. Bekijk ideeën voor het scheiden van uw websites, sleutels tot succes en enkele concepten voor het op georganiseerde wijze ontwikkelen van functies.
 
-## Voor wie is deze video?
+## Publiek
 
 * Iedereen die dit concept moet begrijpen.
 * Grote projecten met meerdere merken

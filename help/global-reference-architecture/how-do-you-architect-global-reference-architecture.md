@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: ded1cbba7c0fca0c2df4705b34b126857d1e9c76
+exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
+source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Globale referentiearchitectuur gebruiken
+# Architect voor GRA
 
 Leer hoe u de algemene referentiearchitectuur of GRA voor korte tijd kunt maken. Om een GRA beter voor te bereiden op een succesvolle uitvoering, bespreken de deskundigen van de Adobe wat wel en wat geen GRA is. Een diepgaande discussie over codebeheer met afzonderlijke pakketten, gesplitste git en monorepo. Andere onderwerpen rond documentatie, hulpmiddelen, en personeelsverwachtingen worden besproken om over hun delen voor een succesvolle implementatie van GRA uit te werken.
 
-## Voor wie is deze video?
+## Publiek
 
 * Iedereen die dit concept moet begrijpen.
 * Grote projecten met meerdere merken
