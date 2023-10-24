@@ -1,5 +1,5 @@
 ---
-title: Wat is wereldwijde referentiearchitectuur
+title: Inleiding tot het concept van wereldwijde referentiearchitectuur
 description: Leer over de techniek die voor het beheren van complexe handelsprojecten wordt gebruikt genoemd de Globale Architectuur van de Verwijzing
 landing-page-description: Meer informatie over Global Reference Architecture en hoe deze wordt gebruikt met Adobe Commerce
 kt: 14039
@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
+source-git-commit: d0a85c7d8300ab48e0b36ad66a2bf8cd23eb5b2b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Inleiding tot wereldwijde referentiearchitectuur
+# Algemene referentiearchitectuur
 
 Leer over de Globale Architectuur van de Verwijzing, sommige kernconcepten, en voordelen voor deze benadering.
 
-## Voor wie is deze video?
+## Publiek
 
 * Iedereen die dit concept moet begrijpen.
 * Grote projecten met meerdere merken

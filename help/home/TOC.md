@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: b2d93ce91f3268b4d6501941777a65c7ba8ff457
+source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '536'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 3%
       + [5 - Ontwikkeling](../cloud/5-dev-config.md)
       + [6 - Services en DNS](../cloud/6-launch.md)
    + Algemene referentiearchitectuur{#global-reference-architecture}
-      + [Wat is wereldwijde referentiearchitectuur](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [Hoe kunt u gebruikmaken van wereldwijde referentiearchitectuur](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [Hoe maakt u algemene referentiearchitectuur?](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [Hoe implementeert u de algemene referentiearchitectuur](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+      + [Algemene referentiearchitectuur](../global-reference-architecture/what-is-global-reference-architecture.md)
+      + [Globale referentiearchitectuur gebruiken](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+      + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [Globale referentiearchitectuur implementeren](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GraphQL en REST {#graphql-rest}
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
    + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
