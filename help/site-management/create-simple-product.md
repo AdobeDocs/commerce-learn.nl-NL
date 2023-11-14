@@ -1,37 +1,37 @@
 ---
 title: Een eenvoudig product maken
-description: Leer hoe u een eenvoudig product maakt met de REST API en de Commerce-beheerder.
+description: Leer hoe u een eenvoudig product maakt met de REST API en de Commerce Admin.
 kt: 14446
 doc-type: video
 audience: all
 activity: use
-last-substantial-update: 2023-11-13T00:00:00Z
+last-substantial-update: 2023-11-14T00:00:00Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 9f5d0e83995d12b5884c53fc8bcb0e9d1913768e
+source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # Een eenvoudig product maken
 
-Leer hoe u een eenvoudig product maakt met de REST API en de commercebeheerder.
+Leer hoe u een eenvoudig product maakt met de REST API en de Adobe Commerce Admin.
 
 ## Voor wie is deze video?
 
 - Webmanagers
 - Handelshandelaren
-- Nieuwe ontwikkelaars van Adobe Commerce die REST moeten leren gebruiken om een product te maken in Adobe Commerce
+- Nieuwe Adobe Commerce-ontwikkelaars die willen leren hoe u in Adobe Commerce producten kunt maken met de REST API.
 
 ## Video-inhoud
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Codevoorbeeld krullen om een product te maken
+## Een product maken met krullen
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -49,7 +49,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Codevoorbeeld krullen om een product te verkrijgen
+## Een product ophalen met krullen
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
