@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
+source-git-commit: 334659bda3b7889f28bacf6981da8e2091246ab1
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '544'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,8 @@ ht-degree: 3%
    + Handelsmogelijkheden {#capabilities}
       + [Gegevensverbinding](../capabilities/data-connection.md)
       + [Volledige demonstratie van Live Search](../capabilities/live-search-full-demonstration.md)
+   + Producten maken {#create-products}
+      + [Eenvoudig product](../site-management/create-simple-product.md)
 + GraphQL en REST {#graphql-rest}
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
    + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
