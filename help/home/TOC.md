@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 04936bd18dd2a34f8a1aa738594c7dd99cbeb37c
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '552'
 ht-degree: 3%
 
 ---
@@ -57,6 +57,7 @@ ht-degree: 3%
       + [Conclusie](../app-builder/first-app/conclusion.md)
       + [Broncode van module Monster](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
+      + [Aan de slag met IO-gebeurtenissen](../io-events/getting-started-io-events.md)
       + [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installatie van Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Een App Builder-project maken](../io-events/create-app-builder-project.md)

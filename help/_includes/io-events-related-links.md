@@ -1,9 +1,9 @@
 ---
 title: Aan IO-gebeurtenissen gerelateerde pagina's
 description: Koppelingen naar verwante pagina's in IO-gebeurtenissen
-source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 
 ## Aanvullende verwante zelfstudies
 
+* [Aan de slag met IO-gebeurtenissen](../io-events/getting-started-io-events.md)
 * [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
 * [Installatie van Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
 * [Een App Builder-project maken](../io-events/create-app-builder-project.md)
