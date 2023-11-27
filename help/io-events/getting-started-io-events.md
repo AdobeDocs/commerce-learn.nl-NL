@@ -11,27 +11,28 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 64bb65c1544d9cdbed3ef220cec4109b94358ff1
+source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Aan de slag met IO-gebeurtenissen voor Adobe Commerce
 
-Meer informatie over Adobe I/O-gebeurtenissen. In deze demonstratie wordt een gebeurtenis van Adobe Commerce verzonden naar een Slack-kanaal met behulp van Adobe App Builder en de gebeurtenis van Adobe Commerce.
+Meer informatie over Adobe I/O-gebeurtenissen. In deze demonstratie wordt een gebeurtenis van Adobe Commerce verzonden naar een Slack-kanaal met Adobe Developer App Builder en de gebeurtenis vanuit Adobe Commerce.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die geen ervaring hebben met Adobe Commerce en Adobe Developer App Builder, gebruiken I/O-gebeurtenissen en moeten een Adobe App Builder-project maken.
+* Ontwikkelaars die leren om gebeurtenisgedreven toepassingen met Adobe Commerce en Adobe IO Events te bouwen.
 
 ## Video-inhoud {#video-content}
 
-* Meer informatie over IO-gebeurtenissen
-* Mogelijkheid om gebeurtenissen naar Amazon Event Bridge te verzenden
-* Leer hoe te opstelling en de console van de Adobe te vormen
-* Basisopdrachten Adobe I/O
+* Meer informatie over Adobe-IO-gebeurtenissen
+* De verschillende eindpunten voor Adobe-IO-gebeurtenissen, waaronder Amazon EventBridge, begrijpen
+* Leer hoe te opstelling en een project te vormen App Builder
+* Het gebruiken van Adobe I/O bevelen in CLI
+* Een runtimeactie maken voor het afhandelen van gebeurtenissen
 * Een gebeurtenis vanuit Adobe Commerce naar een Slack-kanaal verzenden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425834?learn=on)
