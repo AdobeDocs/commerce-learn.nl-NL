@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # Een gegroepeerd product maken
 
-Een gegroepeerd product bestaat uit eenvoudige zelfstandige producten die als groep worden aangeboden. U kunt variaties van één enkel product aanbieden of hen groeperen door seizoen of thema. Voordat u een gegroepeerd product maakt, controleert u of alle eenvoudige producten die u in de groep wilt opnemen, beschikbaar zijn in Adobe Commerce en maakt u alle producten die niet bestaan. In deze zelfstudie leert u hoe u een gegroepeerd product kunt maken met de REST API en de Adobe Commerce Admin.
+Een gegroepeerd product bestaat uit eenvoudige zelfstandige producten die als groep worden aangeboden. U kunt variaties van één enkel product aanbieden of hen groeperen door seizoen of thema. Voordat u een gegroepeerd product maakt, controleert u of alle eenvoudige producten die u in de groep wilt opnemen, beschikbaar zijn in Adobe Commerce en maakt u alle producten die niet bestaan.
+
+In deze zelfstudie leert u hoe u een gegroepeerd product kunt maken met de REST API en de Adobe Commerce Admin.
 
 Gebruik de REST API om een groepsproduct te maken in de Admin:
 
@@ -29,9 +31,9 @@ Gebruik de REST API om een groepsproduct te maken in de Admin:
 1. Vul het lege gegroepeerde product met eenvoudige producten.
 1. Maak een leeg gegroepeerd product en koppel de eenvoudige producten.
 
-Bij het maken van gegroepeerde producten in Adobe Commerce Admin wordt aanbevolen eerst eenvoudige producten te maken. Wanneer u klaar bent om het gegroepeerde product te creëren, associeer de eenvoudige producten door hen aan het gegroepeerde product in één partij toe te wijzen.
+   Wanneer u eenvoudige producten aan het gegroepeerde product associeert, het soortordeattribuut (`position`) in de lading wordt gebruikt door de voorzijde om de bijbehorende producten in de gewenste volgorde weer te geven. Als de `position` -kenmerk niet is opgegeven, worden de producten weergegeven in de volgorde waarin ze aan het gegroepeerde product zijn toegevoegd.
 
-Het kenmerk voor de sorteervolgorde in de payload is vereist en wordt door de voorzijde gebruikt om de bijbehorende producten in de gewenste volgorde weer te geven.
+Maak eerst de eenvoudige producten wanneer u gegroepeerde producten maakt met Adobe Commerce Admin. Wanneer u klaar bent om het gegroepeerde product te creëren, associeer de eenvoudige producten door hen aan het gegroepeerde product in één partij toe te wijzen.
 
 ## Voor wie is deze video?
 
