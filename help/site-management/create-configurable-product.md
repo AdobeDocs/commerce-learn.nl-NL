@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de om
 - Wijzigen `"attribute_set_id": 10,` en vervangen `10` met de id van de kenmerkset in uw omgeving.
 - Wijzigen `"value": "14"` en vervangen `14` met de waarde van uw omgeving.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Het derde eenvoudige product maken met cURL
 
-Maak het derde eenvoudige product met behulp van de API om de volgende POST-aanvraag via cURL te verzenden.
+Maak het derde eenvoudige product door het volgende verzoek om POST via cURL te verzenden.
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Een leeg configureerbaar product maken met cURL
 
-Maak een leeg configureerbaar product door de API te gebruiken om de volgende POST-aanvraag via cURL te verzenden.
+Maak een leeg configureerbaar product door de volgende POST met cURL te verzenden.
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## De beschikbare opties voor het configureerbare product instellen
 
-Stel de beschikbare opties voor het configureerbare product in met behulp van de API om de volgende POST-aanvraag via cURL te verzenden.
+Stel de beschikbare opties voor het configureerbare product in door het volgende verzoek van de POST via cURL te verzenden.
 
 Voordat u de aanvraag verzendt, wijzigt u `"attribute_id": 93,` vervangen `93` met de kenmerk-id van uw omgeving.
 
@@ -289,7 +288,7 @@ U hebt nu drie eenvoudige producten gemaakt:
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Voeg deze eenvoudige producten als kinderen van het configureerbare product toe door API te gebruiken om het volgende verzoek van de POST voor elk product te verzenden. Voor elk product een afzonderlijk verzoek indienen.
+Voeg deze eenvoudige producten als kinderen van het configureerbare product toe door het volgende verzoek van de POST te verzenden. Voor elk product een afzonderlijk verzoek indienen.
 
 Werk voor elke aanvraag de `childSKU` waarde met de waarde voor het onderliggende product dat u toevoegt. In het volgende voorbeeld wordt het eenvoudige product toegewezen `kids-Hawaiian-Ukulele-red` aan het configureerbare product met SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Een configureerbaar product ophalen met cURL
 
-Nu u een configureerbaar product met drie toegewezen kind SKUs hebt gecreeerd. De gekoppelde id&#39;s voor de toegewezen producten worden door de API weergegeven om de volgende GET-aanvraag via cURL te verzenden. Dit verzoek keert gedetailleerde informatie over het configureerbare product terug.
+Nu u een configureerbaar product met drie toegewezen kind SKUs hebt gecreeerd. U kunt de gekoppelde id&#39;s voor de toegewezen producten zien door het volgende GET-verzoek via cURL te verzenden. Dit verzoek keert gedetailleerde informatie over het configureerbare product terug.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Krijg het kindproduct verbonden aan een configureerbaar product
 
-Dit verzoek keert slechts de kinderen verbonden aan het configureerbare product terug. Deze reactie heeft alle kenmerken van het onderliggende product, inclusief SKU en prijs.
+Keer slechts de kinderen verbonden aan het configureerbare product terug door het volgende verzoek van de GET te verzenden. Het antwoord zal alle kenmerken voor het kindproduct met inbegrip van SKU en prijs omvatten.
 
 Het volgende gebruikt de methode van de GET
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Een onderliggend product verwijderen of verwijderen uit het configureerbare bovenliggende product
 
-U kunt een onderliggend product uit een configureerbaar product verwijderen zonder het product uit de catalogus te verwijderen door de API te gebruiken om de volgende DELETE-aanvraag via cURL te verzenden.
-
-In het volgende voorbeeld wordt de methode DELETE gebruikt
+U kunt een onderliggend product uit een configureerbaar product verwijderen zonder het product uit de catalogus te verwijderen door het volgende DELETE-verzoek via cURL te verzenden.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
