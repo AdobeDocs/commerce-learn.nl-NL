@@ -1,6 +1,7 @@
 ---
 title: Adobe Commerce Services Connector configureren
 description: Leer hoe te om de Schakelaar van de Diensten van Adobe Commerce voor gebruik met de producten van de Handel te vormen SaaS en te leren hoe te om gemeenschappelijke kwesties op te lossen.
+kt: 14777
 doc-type: video
 audience: all
 activity: use
@@ -9,16 +10,18 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 6ee0e0f90864899dd717397a672e1ba4a1ba4351
+source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # De Adobe Commerce Services Connector configureren
 
-Als u de betalingsservices voor Adobe Commerce en Magento Open Source wilt gebruiken, moet u een aantal instapstappen uitvoeren. Bekijk de volgende video voor meer informatie over het configureren van Betalingsservices voor Adobe Commerce.
+De schakelaar van de Diensten van de Handel is een configuratie die door Adobe wordt ontwikkeld die diverse functionaliteit SaaS ontgrendelt. Als u de betalingsservices voor Adobe Commerce en Magento Open Source wilt gebruiken, moet u een verbinding tot stand brengen met de instantie Commerce via de API-sleutels voor productie en sandbox en de gegevensruimte opgeven in de configuratie voor de configuratie.
+
+Bekijk hoe u de video Adobe Commerce Services Connector kunt configureren om u te helpen bij het instellen van betalingsservices.
 
 ## Voor wie is deze video?
 
