@@ -10,18 +10,18 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
+source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 # De Adobe Commerce Services Connector configureren
 
-De schakelaar van de Diensten van de Handel is een configuratie die door Adobe wordt ontwikkeld die diverse functionaliteit SaaS ontgrendelt. Als u de betalingsservices voor Adobe Commerce en Magento Open Source wilt gebruiken, moet u een verbinding tot stand brengen met de instantie Commerce via de API-sleutels voor productie en sandbox en de gegevensruimte opgeven in de configuratie voor de configuratie.
+De schakelaar van de Diensten van de Handel is een configuratie die door Adobe wordt ontwikkeld die diverse functionaliteit SaaS ontgrendelt. Als u de betalingsservices voor Adobe Commerce en Magento Open Source wilt gebruiken, moet u een verbinding tot stand brengen met de instantie Commerce via de API-sleutels voor productie en sandbox en de gegevensruimte opgeven in de configuratie voor installatie.
 
-Bekijk hoe u de video Adobe Commerce Services Connector kunt configureren om u te helpen bij het instellen van betalingsservices.
+Kijk naar de _De Adobe Commerce Services Connector configureren_ video om u te helpen betalingsservices in te stellen.
 
 ## Voor wie is deze video?
 
