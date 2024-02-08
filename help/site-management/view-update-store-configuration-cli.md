@@ -1,6 +1,6 @@
 ---
-title: Leer hoe u beheerconfiguraties kunt weergeven en instellen met behulp van de opdrachtregel
-description: Een demo voor om configuratiewaarden te bekijken en te plaatsen gebruikend de bevellijn
+title: Beheerdersconfiguraties weergeven en instellen met de opdrachtregel
+description: Leer hoe te om admin configuraties te bekijken en te plaatsen gebruikend bevellijn.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Leer hoe te om admin configuraties te bekijken en te plaatsen gebruikend de bevellijn
+# Beheerdersconfiguraties weergeven en instellen met de opdrachtregel
 
 Een demonstratie voor hoe te om, config waarden met de Handel CLI te bekijken te plaatsen en te vinden. Begrijp waar de waarden worden opgeslagen en ook waar de standaardwaarden vandaan komen.
 
