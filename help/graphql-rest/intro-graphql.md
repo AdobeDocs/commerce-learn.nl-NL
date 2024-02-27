@@ -1,7 +1,7 @@
 ---
 title: Inleiding GraphQL
-description: Leer hoe u GraphQL in Adobe Commerce en  [!DNL Magento Open Source] gebruikt. Gebruik GraphQL GET- en POST-oproepen voor Adobe Commerce en [!DNL Magento Open Source].
-short-description: Leer hoe u GraphQL GET- en POST-oproepen voor Adobe Commerce en  [!DNL Magento Open Source] gebruikt.
+description: Meer informatie over het gebruik van GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Gebruik GraphQL GET en POST oproepen voor Adobe Commerce en [!DNL Magento Open Source].
+short-description: Leer hoe u GraphQL GET- en POST-oproepen voor Adobe Commerce en [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 audience: all
@@ -11,9 +11,9 @@ topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 750c8c9c5c6b3e01b9af8aacae31f3d521c4f7b7
+source-git-commit: b8b1e40a2f4d38954f0d21bc6f1a91b7ec0bd8c9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ U hebt een GUI GraphQL-client nodig om codevoorbeelden en zelfstudies uit te tes
 
 * [Altair](https://altairgraphql.dev/){target="_blank"} is een uitstekende en volledig uitgeruste client die speciaal voor GraphQL is gebouwd. Adobe gebruikt Altair in doorloopvideo&#39;s.
 * Als u de bureaubladtoepassing niet wilt installeren, zijn er ook Altair-extensies die direct in de toepassing worden uitgevoerd
-  [Chroom](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} browser.
+  [Chroom](https://chromewebstore.google.com/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} browser.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} is een implementatie van de GraphQL IDE van de GraphQL Foundation. Dit is geen installatieprogramma, maar een pakket dat u kunt gebruiken om de interface zelf te maken.
 * Als u al vertrouwd bent met [Postman](https://www.postman.com/){target="_blank"}, heeft het behoorlijke steun voor GraphQL query&#39;s, hoewel het niet zo volledig is uitgerust als een speciale GraphQL client.
 
