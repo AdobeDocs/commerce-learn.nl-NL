@@ -1,5 +1,5 @@
 ---
-title: Leer hoe u verbinding maakt met en query's uitvoert voor de Adobe Commerce-database
+title: Verbinding maken en query's uitvoeren met de database
 description: Leer verschillende methoden om verbinding te maken met een Adobe Commerce-cloud-project. Leer hoe u een tab weghaalt om offline te gebruiken. Leer enkele methoden om PII te maskeren en te verwijderen.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
-
-# Leer hoe u verbinding maakt met en query&#39;s uitvoert voor de Adobe Commerce-database
+# Verbinding maken en query&#39;s uitvoeren met de Adobe Commerce-database
 
 In deze zelfstudie leert u hoe u verbinding kunt maken met een Adobe Commerce-project in de cloud, een database kunt dumpen voor gebruik buiten de site en PII kunt maskeren en verwijderen.
-
 
 U kunt Adobe Commerce-gegevens vanuit uw cloudproject op een van de volgende manieren benaderen:
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [MySQL-service instellen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Een externe MySQL-databaseverbinding instellen](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Database-dump maken op Adobe Commerce op cloudinfrastructuur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
