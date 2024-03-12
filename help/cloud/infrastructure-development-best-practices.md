@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-04T00:00:00Z
 jira: KT-15017
 kt: 15017
-source-git-commit: d8c18fd7ae141739112bebe60edea348802684f9
+exl-id: 097561c7-5198-4544-985d-255c80a9648b
+source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
-# Technische instapcontrole en hardwareoverdracht van Adobe Commerce Cloud - Best practices op het gebied van infrastructuur en ontwikkeling
+# Technische controle aan boord - Beste praktijken op het gebied van infrastructuur en ontwikkeling
 
 Leer meer over de cloudinfrastructuur en enkele best practices voor ontwikkeling voor Adobe Commerce.
 

@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '623'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [Best practices op het gebied van infrastructuur en ontwikkeling](../cloud/infrastructure-development-best-practices.md)
       + [Snel](../cloud/fastly.md)
       + [Configuratie en foutopsporing](../cloud/configuration-and-debugging.md)
+      + [Inzet, testen, toezicht en beveiliging](../cloud/deployments-testing-monitoring-security.md)
 + Aan de slag {#getting-started}
    + [!DNL Commerce] Wolk{#cloud}
       + [1 - Overzicht](../cloud/1-overview.md)

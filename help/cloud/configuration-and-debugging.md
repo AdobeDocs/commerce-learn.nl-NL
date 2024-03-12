@@ -10,15 +10,15 @@ duration: 0
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
-source-git-commit: 3856060dd0c0e45c5e45e53e45a4a861d9723574
+source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
-# Technische instapweigering en hardwareoverdracht van Adobe Commerce Cloud - configuratie en foutopsporing
+# Technische onboarding - Configuratie en foutopsporing
 
 Leer hoe u de Adobe Commerce Cloud configureert en er fouten in opspoort.
 
@@ -32,7 +32,7 @@ Leer hoe u de Adobe Commerce Cloud configureert en er fouten in opspoort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
-## Documentatie voor Experiencen League en controle op Fastly Adobe Commerce vermeld in de video
+## Documentatie voor Experiencen League die in de video wordt vermeld
 
 - [Xdebug configureren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [Cloud Docker Xdebug configureren](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
