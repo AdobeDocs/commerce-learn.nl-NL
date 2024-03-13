@@ -1,5 +1,5 @@
 ---
-title: Adobe Commerce Cloud-implementatiestrategieën, -tests, -bewaking en -beveiliging
+title: Implementatiestrategieën, tests, bewaking en beveiliging voor Adobe Commerce Cloud
 description: Meer informatie over de Adobe Commerce Cloud-implementatiestrategieën, -tests, -bewaking en -beveiliging.
 feature: Cloud
 topic: Commerce, Architecture, Development
@@ -10,16 +10,16 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
+source-git-commit: 9be9bd9e00984fc7ba2721ad423b802520906934
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# Technisch aan boord nemen - Implementatie, testen, toezicht en beveiliging
+# Technisch aan boord nemen - Inzet, het testen, het toezicht, en veiligheid
 
-Meer informatie over de Adobe Commerce Cloud-implementatiestrategieën, het testen van best practices, bewakings- en beveiligingstools.
+Leer over de de plaatsingsstrategieën van Adobe Commerce Cloud, het testen beste praktijken, controle, en veiligheidshulpmiddelen.
 
 ## Voor wie is deze video?
 
