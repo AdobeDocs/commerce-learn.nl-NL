@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
+source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '614'
 ht-degree: 3%
 
 ---
@@ -23,13 +23,6 @@ ht-degree: 3%
       + [Inzet, testen, toezicht en beveiliging](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-aanbod, support en communicatie en volgende stappen](../cloud/saas-offerings-support-communications-next-steps.md)
 + Aan de slag {#getting-started}
-   + [!DNL Commerce] Wolk{#cloud}
-      + [1 - Overzicht](../cloud/1-overview.md)
-      + [2 - Gehoste accounts](../cloud/2-accounts.md)
-      + [3 - Cloud-projecten](../cloud/3-projects.md)
-      + [4 - Implementatie](../cloud/4-deployment.md)
-      + [5 - Ontwikkeling](../cloud/5-dev-config.md)
-      + [6 - Services en DNS](../cloud/6-launch.md)
    + Algemene referentiearchitectuur{#global-reference-architecture}
       + [Algemene referentiearchitectuur](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Globale referentiearchitectuur gebruiken](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
