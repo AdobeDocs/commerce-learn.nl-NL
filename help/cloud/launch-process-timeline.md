@@ -1,6 +1,6 @@
 ---
 title: Technische instapcontrole en hardwareoverdracht van Adobe Commerce Cloud - Tijdlijn van proces starten
-description: Meer informatie over de technische instapbaarheid van Adobe Commerce Cloud voor de tijdlijn van het startproces.
+description: Ontdek meer over de technische introductie van Adobe Commerce Cloud voor de tijdlijn van de lancering.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -15,13 +15,13 @@ exl-id: e68a8389-2cdc-495b-829b-24ea7502f66f
 source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 45%
 
 ---
 
 # Technisch aan boord nemen - Tijdlijn van proces starten
 
-Meer informatie over de technische instapbaarheid van Adobe Commerce Cloud voor de tijdlijn van het startproces.
+Ontdek meer over de technische introductie van Adobe Commerce Cloud voor de tijdlijn van de lancering.
 
 ## Voor wie is deze video?
 
