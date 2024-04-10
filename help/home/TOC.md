@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: aff1af0df1fbf6bd90c55483bfb7994ab4d983ef
+source-git-commit: 503ed9349ade7d5da47592fb60fbb7114dbbf899
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '622'
 ht-degree: 3%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 3%
 + Commerce Intelligence {#mbi}
    + [Aan de slag](../business-intelligence/getting-started.md)
    + [Integraties en configuraties](../business-intelligence/integrations-configurations.md)
+   + [Rapporten en dashboards](../business-intelligence/reports-and-dashboards.md)
    + [Filtersets](../business-intelligence/filter-sets.md)
    + [Cohort-Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
