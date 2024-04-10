@@ -11,9 +11,10 @@ duration: 518
 last-substantial-update: 2024-04-03T00:00:00Z
 jira: KT-15213
 kt: 15213
-source-git-commit: aff1af0df1fbf6bd90c55483bfb7994ab4d983ef
+exl-id: 56ee5ec9-803c-4ec3-a620-d4e5185ca707
+source-git-commit: 18f12a651192084caaa02ccd7cdeba1e3bafcfc2
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -29,6 +30,6 @@ Het document behandelt ook het proces van het synchroniseren van lijsten aan de 
 - Zakelijke gebruikers
 - Gegevensanalisten
 
-## Inleiding tot Adobe Commerce Intelligence
+## Integraties en configuraties
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
