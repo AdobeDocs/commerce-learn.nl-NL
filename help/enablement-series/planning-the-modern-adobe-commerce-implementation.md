@@ -9,14 +9,14 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: 8dc88a35e720390d60d7b1f6728430dd7e67fbaa
+source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
 
-# Inhoudsopgave voor Adobe Commerce-integratie verlagen
+# De moderne Adobe Commerce-implementatie plannen
 
 Dit webinar verstrekt een uitvoerig overzicht van diverse onderwerpen met betrekking tot Adobe Commerce, met inbegrip van catalogusdienst, begrip klantenarchitectuur, en Edge Delivery Services. &#x200B;De onderwerpen omvatten nieuwe of bestaande eigenschappen en voordelen van elke dienst, zoals levende onderzoek en productaanbevelingen in de Catalogus van Adobe Commerce als Dienst, het analyseren van APIs en gegevensstroom in het begrip van klantenarchitectuur, en de hoge prestaties en lage latentie van de Edge Delivery Services. Daarnaast wordt in het document gewezen op het belang van het hebben van standaarddocumenten en een lijst met vragen bij de interactie met klanten, alsook op het concept van Global Reference Architecture (GRA) voor een efficiënte projectopbouw.
 
