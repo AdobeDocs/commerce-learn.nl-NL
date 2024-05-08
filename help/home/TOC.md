@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '660'
 ht-degree: 2%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 2%
       + [Inhoudsopgave voor Commerce-integratie verlagen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [De moderne Adobe Commerce-implementatie plannen](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Starten, na starten, bewaken en oplossen van problemen](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
+      + [Edge Delivery Services met Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL en REST {#graphql-rest}
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
    + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
