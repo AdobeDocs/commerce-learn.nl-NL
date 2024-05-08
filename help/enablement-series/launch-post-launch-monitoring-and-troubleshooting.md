@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce starten, na introductie en doorlopende bewaking en probleemoplossing
-description: Deze zelfstudie biedt tips en trucs voor het voorbereiden en lanceren van een website. Het kiezen van de juiste het opvoeren omgeving, die relevante details in steunkaartjes verstrekt, en het gebruiken van het zelfde controlehulpmiddel zoals het ondersteuningsteam voor betere mededeling. Benadruk de behoefte om randsystemen, zoals betalingsbewerkers grondig te testen, en planning voor potentiële productiekwesties zoals prestatiesknelpunten en geheim voorgeheugenopwarming. Er wordt ook gewezen op effectieve communicatie, proactieve planning en inzicht in het model van gedeelde verantwoordelijkheid. Als u deze beste werkwijzen volgt, kunt u de lanceringen van websites vloeiender en succesvoller maken.
+description: Leer de beste werkwijzen en tips voor het voorbereiden en lanceren van een website. Leer hoe u de juiste testomgeving kiest, relevante details in ondersteuningstickets opgeeft en hetzelfde monitoringgereedschap gebruikt als het ondersteuningsteam voor betere communicatie.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 role: Architect, Data Architect, Leader
@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
+source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
