@@ -1,6 +1,6 @@
 ---
 title: Inhoudsopgave voor Adobe Commerce-integratie verlagen
-description: Dit webinar bespreekt beste praktijken voor het verminderen van de totale kosten van eigendom voor integratie met Adobe Commerce. Het benadrukt de uitdagingen van traditionele integratie en benadrukt het gebruik van uitbreidingspunten en native integratie met andere producten van de Experience Cloud om de kosten te verlagen en het rendement op investeringen te verhogen. Het doel is flexibiliteit te bieden bij het uitbreiden van het product zonder de kern aan te passen, waardoor het eenvoudiger wordt om het product te onderhouden en te upgraden.
+description: Leer de beste praktijken om de totale kosten van eigendom voor integratie met Adobe Commerce te verminderen.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Inhoudsopgave voor Adobe Commerce-integratie verlagen
 
-Dit webinar maakt methoden bekend om de eigendomskosten voor integratie met Adobe Commerce te verlagen. &#x200B; De sprekers in het webinar spreken over de uitdagingen en kosten van de integratie, het belang van het terugdringen van de technische schuldenlast en de voordelen van het gebruik van verlengingspunten van Adobe Commerce. Zij vermelden ook specifieke gebruiksgevallen waarbij een slanke-ordebeheersysteem wordt gebruikt met WhatsApp en een smart pet-strooisel dat gegevens verzendt voor gepersonaliseerde productaanbevelingen.  Het team bespreekt ook hoe te om de gegevensverbinding van de Adobe voor Commerce te gebruiken die de capaciteit verstrekt om gegevens tussen Adobe Commerce en andere producten van de Adobe te verzenden en te ontvangen.
+Dit webinar maakt methoden bekend om de eigendomskosten voor integratie met Adobe Commerce te verlagen.
+
+De sprekers in het webinar spreken over de uitdagingen en kosten van de integratie, het belang van het terugdringen van de technische schuldenlast en de voordelen van het gebruik van verlengingspunten van Adobe Commerce. Zij vermelden ook specifieke gebruiksgevallen waarbij een slanke-ordebeheersysteem wordt gebruikt met WhatsApp en een smart pet-strooisel dat gegevens verzendt voor gepersonaliseerde productaanbevelingen.  Het team bespreekt ook hoe te om de gegevensverbinding van de Adobe voor Commerce te gebruiken die de capaciteit verstrekt om gegevens tussen Adobe Commerce en andere producten van de Adobe te verzenden en te ontvangen.
 
 ## Publiek
 
