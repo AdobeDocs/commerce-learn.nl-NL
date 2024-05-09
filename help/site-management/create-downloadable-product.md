@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 043d873e9b649455202de9df137c7283d92a2a4a
+exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
+source-git-commit: 8ef4b0e0a0e4dfffdef8759e4ac7659ed854fae2
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -53,7 +54,7 @@ Wanneer dat voltooid is, `env.php` wordt gewijzigd binnen de _downloadbaar_domei
 
 Nu wordt het domein toegevoegd aan de `env.php`kunt u een downloadbaar product maken in de Adobe Commerce Admin of met de REST API.
 
-Zie [Configuratieverwijzing](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) voor meer informatie. Zie [CLI-referentie voor Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd voor meer informatie.
+Zie [Configuratieverwijzing](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) voor meer informatie.
 
 >[!IMPORTANT]
 >In sommige versies van Adobe Commerce kan de volgende fout optreden wanneer een product wordt bewerkt in Adobe Commerce Admin. Het product wordt gemaakt met de REST API, maar de gekoppelde download heeft een `null` prijs.
@@ -111,14 +112,14 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Een downloadbaar product maken met cURL (downloaden van de Commerce-toepassingsserver)
+## Een downloadbaar product maken met cURL (downloaden vanaf Commerce-toepassingsserver)
 
 In dit voorbeeld wordt getoond hoe u cURL gebruikt om een downloadbaar product te maken van de Adobe Commerce Admin wanneer het bestand wordt opgeslagen op dezelfde server als de Adobe Commerce-toepassing.
 
 In dit geval kiest de beheerder die de catalogus beheert `upload file`, wordt het bestand overgebracht naar de `pub/media/downloadable/files/links/` directory.  Met Automatisering worden de bestanden op basis van het volgende patroon gemaakt en verplaatst naar de respectievelijke locaties:
 
 - Elk geüpload bestand wordt opgeslagen in een map op basis van de eerste twee tekens van de bestandsnaam.
-- Wanneer het uploaden wordt geïnitieerd, leidt de toepassing van de Handel tot of gebruikt bestaande omslagen om het dossier over te brengen.
+- Wanneer het uploaden wordt gestart, maakt of gebruikt de Commerce-toepassing bestaande mappen om het bestand over te brengen.
 - Wanneer u het bestand downloadt, wordt `link_file` van het pad gebruikt het deel van het pad dat aan het pad is toegevoegd `pub/media/downloadable/files/links/` directory.
 
 Als het geüploade bestand bijvoorbeeld een naam heeft `download-example.zip`:
@@ -237,6 +238,5 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 - [Downloadbaar producttype](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [Configuratiegids voor downloadbare domeinen](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Toevoegen aan downloadbare domeinen in .env.php](https://experienceleague.adobe.com/docs/commerce-operations/reference/magento-open-source.html#downloadable%3Adomains%3Aadd){target="_blank}
 - [Adobe Developer REST-zelfstudies](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
