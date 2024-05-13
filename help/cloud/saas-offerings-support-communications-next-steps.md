@@ -10,22 +10,22 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-
-# Technisch aan boord nemen - Inzet, het testen, het toezicht, en veiligheid
+# Technisch instapniveau - SaaS-aanbod
 
 Meer informatie over het Adobe Commerce Cloud SaaS-aanbod, de ondersteuning en andere communicaties en enkele volgende stappen.
 
 ## Voor wie is deze video?
 
 - Webmanagers
-- Commerciële architecten
+- Commerce architecten
 - Eigenaars van e-commercewebsite
 
 ## Video-inhoud
@@ -81,9 +81,9 @@ Meer informatie over het Adobe Commerce Cloud SaaS-aanbod, de ondersteuning en a
 - [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [Gedeelde verantwoordelijkheid](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [Toegang tot en privacy van klantgegevens](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-- [Handelscertificaten](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
-- [Opleidingscursussen voor handel](https://learning.adobe.com/catalog.html?products=Commerce)
-- [Forum van de Commerce](https://community.magento.com/)
+- [Commerce-certificaten](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
+- [Commerce-cursussen](https://learning.adobe.com/catalog.html?products=Commerce)
+- [Commerce Community Forum](https://community.magento.com/)
 -= [Snel configureren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 - [Prestatietesten](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
 - [Site-brede analyse, gereedschap - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
