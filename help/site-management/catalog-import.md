@@ -10,9 +10,10 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
+exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
+source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ Kies een van de onderstaande opties voor meer informatie.
 
 ## De producten handmatig maken {#manual-import}
 
-Als u een beperkte catalogus hebt en updates niet vaak worden uitgevoerd, kunt u deze handmatig maken. Het vereist tijd om elk product en wat beperkte opleiding in te gaan hoe te om Admin van de Handel te gebruiken. Handmatig catalogusbeheer is niet de juiste optie voor de meeste winkels, maar in bepaalde situaties kan het zinvol zijn. Voor meer documentatie over dit proces gaat u naar [Een product maken](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Als u een beperkte catalogus hebt en updates niet vaak worden uitgevoerd, kunt u deze handmatig maken. Het kost tijd om elk product in te voeren en enige beperkte training voor het gebruik van de Commerce Admin. Handmatig catalogusbeheer is niet de juiste optie voor de meeste winkels, maar in bepaalde situaties kan het zinvol zijn. Voor meer documentatie over dit proces gaat u naar [Een product maken](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Vergeet niet dat u meerdere methoden kunt gebruiken om uw catalogus te beheren. Handmatige bewerkingen moeten echter beperkt blijven wanneer de catalogus eenmaal is geautomatiseerd. Geautomatiseerde updates hebben de mogelijkheid om wijzigingen die handmatig worden uitgevoerd, te overschrijven en veroorzaken daarom verwarring. Als de integratie met Adobe Commerce voor het beheer van de catalogus gebruikmaakt van automatisering en API&#39;s, wordt aangeraden het beheer van de catalogus door de beheerder te beperken tot [gebruikersrollen en machtigingen](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 
 
@@ -92,7 +93,7 @@ Cons:
 
 - Catalogus is elke grootte
 - Updates komen vaak voor, meer dan 1x per dag is acceptabel
-- Tijd om te importeren is belangrijk, maar niet belangrijk
+- De tijd om te importeren is belangrijk maar niet kritiek en een korte vertraging bij de verwerking van de invoergegevens is aanvaardbaar
 - De gegevens zijn niet gestructureerd in CSV-indeling en u kunt ze niet transformeren via automatisering
 
 
@@ -112,8 +113,6 @@ Pros:
 Cons:
 
 - GET-verzoek wordt niet ondersteund
-- U moet de id&#39;s van het optiekenmerk gebruiken in plaats van de labels
-
 
 ### Wanneer denkt u over deze aanpak
 
@@ -138,7 +137,6 @@ Pros:
 Cons:
 
 - De bijbehorende afbeeldingen en video&#39;s moeten afzonderlijk worden geüpload
-- U moet de id&#39;s van het optiekenmerk gebruiken en niet de labels
 - De gegevens moeten een CSV-indeling hebben
 
 ### Wanneer denkt u over deze aanpak
