@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Kies een van de onderstaande opties voor meer informatie.
 
 Als u een beperkte catalogus hebt en updates niet vaak worden uitgevoerd, kunt u deze handmatig maken. Het kost tijd om elk product in te voeren en enige beperkte training voor het gebruik van de Commerce Admin. Handmatig catalogusbeheer is niet de juiste optie voor de meeste winkels, maar in bepaalde situaties kan het zinvol zijn. Voor meer documentatie over dit proces gaat u naar [Een product maken](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Vergeet niet dat u meerdere methoden kunt gebruiken om uw catalogus te beheren. Handmatige bewerkingen moeten echter beperkt blijven wanneer de catalogus eenmaal is geautomatiseerd. Geautomatiseerde updates hebben de mogelijkheid om wijzigingen die handmatig worden uitgevoerd, te overschrijven en veroorzaken daarom verwarring. Als de integratie met Adobe Commerce voor het beheer van de catalogus gebruikmaakt van automatisering en API&#39;s, wordt aangeraden het beheer van de catalogus door de beheerder te beperken tot [gebruikersrollen en machtigingen](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### Wanneer denkt u over deze aanpak
 
 - Zeer kleine catalogus, bijvoorbeeld minder dan 50 producten
@@ -41,8 +39,6 @@ Als u een beperkte catalogus hebt en updates niet vaak worden uitgevoerd, kunt u
 - U hebt alle productdetails, afbeeldingen en video&#39;s en u wilt niet de tijd nemen om te leren hoe u de gegevens omzet in CSV
 - U wilt afbeeldingen en video&#39;s toevoegen wanneer u de producten maakt
 - Uw team is `not` bekend met API&#39;s en hoe OAUTH werkt
-
-
 
 >[!TAB CSV-beheer]
 
@@ -61,16 +57,12 @@ Cons:
 - De invoer van het programma wordt beperkt tot 1x per dag maximum
 - De bijbehorende afbeeldingen en video&#39;s moeten afzonderlijk worden geüpload
 
-
-
 ### Wanneer denkt u over deze aanpak
 
 - Grootte catalogus is matig
 - Updates worden niet meer dan eenmaal per dag uitgevoerd
 - u hebt toegang tot serverconfiguraties voor het geval dat u de maximale uploadgrootte van bestanden moet verhogen
 - Uw team is `not` bekend met API&#39;s en hoe OAUTH werkt
-
-
 
 >[!TAB Bulk REST API]
 
@@ -85,9 +77,6 @@ Cons:
 
 - De bijbehorende afbeeldingen en video&#39;s moeten afzonderlijk worden geüpload
 - Kan worden beperkt door bandbreedtebeperkingen voor de hostingprovider
-- U moet opties-kenmerk-id&#39;s gebruiken en niet de labels
-
-
 
 ### Wanneer denkt u over deze aanpak
 
@@ -95,8 +84,6 @@ Cons:
 - Updates komen vaak voor, meer dan 1x per dag is acceptabel
 - De tijd om te importeren is belangrijk maar niet kritiek en een korte vertraging bij de verwerking van de invoergegevens is aanvaardbaar
 - De gegevens zijn niet gestructureerd in CSV-indeling en u kunt ze niet transformeren via automatisering
-
-
 
 >[!TAB ASYNC REST API]
 
@@ -118,7 +105,6 @@ Cons:
 
 - Invoer komt vaak voor
 - Geen kwestie met een kleine vertraging vanaf de tijd zij via API worden voorgelegd en dan van de berichtrij worden verwerkt.
-
 
 
 >[!TAB CSV REST API]
@@ -145,8 +131,6 @@ Cons:
 - Updates komen vaak voor, meer dan 1x per dag is acceptabel
 - De totale importtijd is belangrijk
 - De gegevens hebben al de CSV-indeling of kunnen gemakkelijk worden getransformeerd via automatisering
-
-
 
 >[!ENDTABS]
 
