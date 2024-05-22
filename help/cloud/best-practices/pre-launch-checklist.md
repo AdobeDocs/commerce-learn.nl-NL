@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
-source-git-commit: 7cc6ee2906e5f223575d98f0f1b6f4bdf4c936d0
+exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
+source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
 workflow-type: tm+mt
-source-wordcount: '1578'
+source-wordcount: '1605'
 ht-degree: 0%
 
 ---
-
 
 # Controlelijst vóór starten Commerce Cloud
 
@@ -53,7 +53,7 @@ Als u een CTA/CSE aan de rekening toegewezen hebt, contacteer hen en de Manager 
 
 ## 3. Snelle configuraties
 
-1. [!BADGE Blocker]{type=caution tooltip="Potentiële blokkering"}[Cache van volledige pagina](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
+1. [!BADGE Blocker]{type=caution tooltip="Potentiële blokkering"}[Cache van volledige pagina](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} of [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Lees de [Gids snel instellen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
 2. Gebruik, indien van toepassing, de methode GET voor GraphQL-query&#39;s op PWA/Headless-websites.
 
    >[!NOTE]
@@ -94,9 +94,9 @@ Adobe Commerce Cloud gebruikt een MariaDB Galera-cluster als database voor zowel
 
 ## 6. Inzetposten
 
-1. Herzie de Static Content Deployment (SCD) ideale staat om onderhoudstijd tijdens plaatsingen op het productiemilieu te verminderen. Controleren [SCD-strategieën (Static Content Deployment)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} hulplijn.
+1. Herzie de Static Content Deployment (SCD) ideale staat om onderhoudstijd tijdens plaatsingen op het productiemilieu te verminderen. Controleren [SCD-strategieën (Static Content Deployment)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} en [Beheer van winkelconfiguratie](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} hulplijn.
 2. Controleer minificatie-instellingen voor HTML, JavaScript en CSS. (Dit geldt niet voor websites zonder PWA/koptekst).
-3. Bevestig dat het gebruik van de volgende wolkenvariabelen op hun voorgenomen doeleinden richt. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+3. Bevestig dat het gebruik van de volgende wolkenvariabelen op hun voorgenomen doeleinden richt. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} en [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
 ## 7. Testen en problemen oplossen
 
@@ -136,7 +136,7 @@ Adobe Commerce Cloud gebruikt een MariaDB Galera-cluster als database voor zowel
 5. Zorg ervoor dat XDebug is uitgeschakeld als deze tijdens de ontwikkeling is ingeschakeld (zie [Xdebug configureren](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
 6. Controleer of de op-cache en andere configuraties correct zijn bijgewerkt in het bestand php.ini ([verwijzen naar dit voorbeeld](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
 7. Abonneren op de [**Adobe Commerce-statuspagina**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
-8. Je abonneren op New Relic &quot;[Beheerde waarschuwingen voor Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
+8. Je abonneren op New Relic &quot;[Beheerde waarschuwingen voor Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}&quot; communicatiekanalen om de gegeven prestatiesmetriek te controleren ([meer lezen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
 
 ## 9. Veiligheid
 
@@ -182,7 +182,7 @@ Als u om het even welke problemen tegenkomt die u verhinderen te lanceren tijden
 Zodra de site live is, stuurt u een e-mail naar de toegewezen technische advies (Customer Technical Advisory), CSE (Customer Success Engineer) en AM (Account Manager). Nochtans, als u geen rekeningsmanager hebt die aan het project wordt toegewezen, kunt u een steunkaartje tot stand brengen vragend om de controle van Hoge SLA wordt toegelaten zodra de plaats live is gegaan. De CTA/CSE voert de volgende taken uit zodra de plaats wordt geverifieerd om met Fastly wordt toegelaten en caching:
 
 - Label de cluster als live en maak een ondersteuningsticket om High SLA (Service Level Agreements)-controle te activeren.
-- Activeer de controles van het VK voor uptime controle.
+- Activeer New Relic Synthetics voor uptime controle.
 
 >[!MORELIKETHIS]
 > 
