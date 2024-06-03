@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
+source-git-commit: 4b88c82052f8505cfe05255dd74bb2da5fa0f792
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '664'
 ht-degree: 2%
 
 ---
@@ -128,8 +128,9 @@ ht-degree: 2%
    + [Live zoeken naar aanbevelingen](../site-management/live-search-recommendations.md)
    + [Handel integreren met AJO](../site-management/integrate-commerce-ajo.md)
 + Bestellingen en uitvoering {#orders}
-   + [Overzicht van winkeluitvoering](../site-management/store-fulfillment.md)
-   + [Status van bestelling beheren](../site-management/order-status.md)
+   + [Overzicht van winkeluitvoering](../orders-and-fulfillment/store-fulfillment.md)
+   + [Status van bestelling beheren](../orders-and-fulfillment/order-status.md)
+   + [Status van voorraad controleren](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B voor Adobe Commerce {#b2b}
    + [Bedrijfsaccounts beheren](../b2b/company-accounts.md)
    + [Gedeelde catalogi beheren](../b2b/shared-catalogs.md)
