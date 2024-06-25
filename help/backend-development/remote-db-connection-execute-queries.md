@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # Verbinding maken en query&#39;s uitvoeren met de Adobe Commerce-database
 
-In deze zelfstudie leert u hoe u verbinding kunt maken met een Adobe Commerce-project in de cloud, een database kunt dumpen voor gebruik buiten de site en PII kunt maskeren en verwijderen.
+Leer hoe u verbinding maakt met een Adobe Commerce op een cloud-project, een databasedumpit maakt voor extern gebruik en PII (Personal Identified Information) afhandelt door deze te maskeren of te verwijderen. Leer hoe u Adobe Commerce-gegevens benadert met verschillende methoden, zoals lokale DB-dumps, externe DB-verbindingen met toepassingen zoals MySQL Workbench of TablesPlus, en directe verbindingen via het Magento Cloud CLI-gereedschap.
+
+## Video-inhoud
+
+* Leer hoe u snel verbinding maakt met een extern Adobe Commerce Cloud-project met een hulpprogramma zoals MysqlWorkbench of TablesPlus.
+* Leer hoe u snel verbinding kunt maken met het Adobe Commerce-project om SQL via de opdrachtregel uit te voeren
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Leer hoe u verbinding maakt met een Adobe Commerce op een cloud-project, een database dumpt voor gebruik buiten de site en PII maskeert en deze verwijdert.
 
 U kunt Adobe Commerce-gegevens vanuit uw cloudproject op een van de volgende manieren benaderen:
 
