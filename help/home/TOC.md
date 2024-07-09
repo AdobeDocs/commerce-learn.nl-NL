@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,10 @@ ht-degree: 2%
       + [Globale referentiearchitectuur gebruiken](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Globale referentiearchitectuur implementeren](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Handelsmogelijkheden {#capabilities}
+   + Commerce-mogelijkheden {#capabilities}
       + [Gegevensverbinding](../capabilities/data-connection.md)
       + [Volledige demonstratie van Live Search](../capabilities/live-search-full-demonstration.md)
+      + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
    + Producten maken {#create-products}
       + [Eenvoudig product](../site-management/create-simple-product.md)
       + [Virtueel product](../site-management/create-virtual-product.md)
@@ -68,7 +69,7 @@ ht-degree: 2%
       + [Meer informatie over de testmap](../app-builder/first-app/test-folder.md)
       + [Ontdek het doel van de web-src omslag](../app-builder/first-app/web-src-folder.md)
       + [Lokaal testen](../app-builder/first-app/testing-locally.md)
-      + [Testen met URL van App Builder](../app-builder/first-app/testing-app-builder-url.md)
+      + [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusie](../app-builder/first-app/conclusion.md)
       + [Broncode van module Monster](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
@@ -92,9 +93,9 @@ ht-degree: 2%
    + [Websites, winkels en winkelweergaven toevoegen](../site-management/add-websites-stores-views.md)
    + [Een winkel-URL wijzigen](../site-management/change-store-url.md)
    + [Verzendmethoden en leveringsmethoden](../site-management/shipping-delivery.md)
-   + [Koophandel](../site-management/view-update-store-configuration-cli.md)
+   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
    + Adobe Commerce Services {#adobe-commerce-services}
-      + [De Commerce Services-connector configureren](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Commerce Services Connector configureren](../site-management/configure-adobe-commerce-services-connector.md)
       + [Betalingsservices configureren](../site-management/configure-adobe-payment-services.md)
       + [Betalingsservices gebruiken](../site-management/payment-services.md)
 + Klantenbeheer {#customers}
@@ -126,7 +127,7 @@ ht-degree: 2%
    + [Product Recommendations instellen](../site-management/product-recommendations.md)
    + [Inleiding tot Live zoeken](../site-management/live-search.md)
    + [Live zoeken naar aanbevelingen](../site-management/live-search-recommendations.md)
-   + [Handel integreren met AJO](../site-management/integrate-commerce-ajo.md)
+   + [Commerce integreren met AJO](../site-management/integrate-commerce-ajo.md)
 + Bestellingen en uitvoering {#orders}
    + [Overzicht van winkeluitvoering](../orders-and-fulfillment/store-fulfillment.md)
    + [Status van bestelling beheren](../orders-and-fulfillment/order-status.md)
@@ -158,7 +159,7 @@ ht-degree: 2%
    + [Cohort-Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
    + [Voorbereiden op de toekomst](../business-intelligence/prepare-for-future.md)
-+ Oplossingen voor handel {#upgrade}
++ Commerce-upgrades {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2-4-upgrade-workshop.md)
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
