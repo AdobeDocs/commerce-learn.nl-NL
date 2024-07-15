@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # Een bundelproduct maken
 
 Een bundelproduct is een manier om verschillende producten onder een ouder product te groeperen. Deze kindproducten kunnen een bepaalde reeks producten zijn of een paar variaties aanbieden die flexibele configuratieopties voor klanten verstrekken. De de producttypes van de bundel nemen wat langer aan opstelling, en u moet wat planning doen alvorens u hen vormt. Het aanbieden van gebundelde producten verbetert echter de boodschapervaring doordat het voor klanten gemakkelijker wordt om hun productselecties aan te passen.
 
-U kunt bijvoorbeeld een productbundel aanbieden, genaamd `Learning to surf` in uw webwinkel. De bundel is het ouderproduct dat als container voor de toegewezen kindproducten dient die beschikbare opties specificeren:
+U kunt bijvoorbeeld een productbundel met de naam `Learning to surf` in uw webwinkel aanbieden. De bundel is het ouderproduct dat als container voor de toegewezen kindproducten dient die beschikbare opties specificeren:
 
 - Een standaard surfbord
 - Een typisch surfbordleash
@@ -69,7 +69,7 @@ Met de volgende opdrachten maakt u alle producten die nodig zijn om het bundelpr
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
-- Wijzigen `"attribute-set": 4` vervangen `4` met de id van de kenmerkset uit uw omgeving.
+- Wijzig `"attribute-set": 4` in het vervangen van `4` door de id van de kenmerkset in uw omgeving.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ Maak een bundelproduct door het volgende verzoek om POST te verzenden.
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
-- Wijzigen `"attribute_set_id": 4,` en vervangen `4` met de id van de kenmerkset uit uw omgeving.
+- Wijzig `"attribute_set_id": 4,` en vervang `4` door de id van de kenmerkset in uw omgeving.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 Wanneer u de opties voor bundelproducten bijwerkt, moet u alle opties opnemen die u aan dit product wilt koppelen. Als uw oorspronkelijke optieset drie producten bevatte en één werd verwijderd, omvat alle drie opties in het verzoek van de POST om ervoor te zorgen dat de productbundel alle opties specificeert. Als u alleen de optie hebt opgenomen die u hebt verwijderd, bevat de bijgewerkte productbundel alleen die optie.
 
-Zoek de optie-id door de reactie van de aanmaak voor het bundelproduct te bekijken. In dat antwoord worden de `option_id` is `35`.
+Zoek de optie-id door de reactie van de aanmaak voor het bundelproduct te bekijken. In dat antwoord is de waarde `option_id` `35` .
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Aanvullende bronnen
 
-- [Zelfstudie voor een bundelproduct maken](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Bundel](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
-- [Adobe Developer REST-zelfstudies](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [ creeer een leerprogramma van het bundelproduct ](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/) {target="_blank"}
+- [ Bundel Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html) {target="_blank"}
+- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/) {target="_blank"}
+- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products) {target="_blank"}

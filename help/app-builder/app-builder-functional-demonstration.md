@@ -1,5 +1,5 @@
 ---
-title: Functionele demonstratie van App Builder
+title: Functionele App Builder-demonstratie
 description: Meer informatie over Adobe Developer App Builder in Adobe Commerce met een technische demonstratie
 landing-page-description: Meer informatie over Adobe Developer App Builder in Adobe Commerce met een technische demonstratie
 short-description: Meer informatie over Adobe Developer App Builder in Adobe Commerce met een technische demonstratie
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Functionele demonstratie voor App Builder
 
-Als u meer wilt weten over het gebruik van Adobe Commerce met App Builder, bekijkt u de onderstaande video waarin wordt getoond hoe u Adobe Commerce kunt verbinden met Amazon Seller Central. Deze demonstratie gebruikt gebeurtenissen van Adobe Commerce die door App Builder worden verbruikt om ononderbroken integratie met Amazon Marketplace toe te laten. Deze functionele demonstratie beschrijft hoe deze integratie werkt en verkent het potentieel van Adobe App Builder.
+Als je meer wilt weten over het gebruik van Adobe Commerce met App Builder, bekijk je de onderstaande video waarin wordt getoond hoe je Adobe Commerce verbindt met Amazon Seller Central. Deze demonstratie maakt gebruik van gebeurtenissen uit Adobe Commerce die door App Builder worden verbruikt om voortdurende integratie met Amazon Marketplace mogelijk te maken. Deze functionele demonstratie beschrijft hoe deze integratie werkt en verkent het potentieel van Adobe App Builder.
 
 ## App Builder voor Adobe Commerce {#app-builder-functional-demonstration}
 

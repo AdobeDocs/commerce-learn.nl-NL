@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Leer hoe u uw nieuwe Adobe Developer App Builder-toepassing lokaal kunt testen.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, kunnen hun eerste Adobe Developer App Builder-app testen met Adobe App Builder.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken Adobe App Builder en die klaar zijn om hun eerste Adobe Developer App Builder-app te testen.
 
 ## Video-inhoud
 

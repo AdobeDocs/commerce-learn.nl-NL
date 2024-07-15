@@ -1,7 +1,7 @@
 ---
 source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -36,19 +36,19 @@ ht-degree: 0%
 
 - [ ] Opgeloste problemen (vaste wijziging die een probleem verhelpt)
 - [ ] Nieuwe functie (vaste wijziging die functionaliteit toevoegt)
-- [ ] Wijziging doorbreken (correctie of functie die wijzigingen in bestaande functionaliteit tot gevolg zou hebben)
+- [ ] Wijziging van einde (reparatie of functie die tot wijziging van bestaande functionaliteit zou leiden)
 
-## Controlelijst:
+## Checklist:
 
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Heb je de [Naamgevingsstandaarden](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
-- [ ] De inhoudsopgave en de H1-overeenkomst voor elke pagina die wordt gemaakt of bijgewerkt.
-- [ ] Aan de inhoudsopgave en de H1 is bijvoorbeeld een handeling gekoppeld: Leer hoe te om een trekkingsverzoek van GutHub tot stand te brengen
-- [ ] Niets zou monospaced in H1 moeten zijn
+- [ ] volgde u [ Naming Normen ](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] De inhoudsopgave en de H1-overeenkomst komen overeen voor elke pagina die wordt gemaakt of bijgewerkt.
+- [ ] TOC en H1 hebben een actie verbonden aan het, bijvoorbeeld: Leer hoe te om tot een trekkingsverzoek te leiden GutHub
+- [ ] Er mag geen vaste spatiëring worden toegepast in H1
 - [ ] Elke paginatitel moet beginnen met een ***C***hoofdletter
-- [ ] Ik heb gecontroleerd of bepaalde video&#39;s hoofdstukken moesten hebben
-- [ ] Alle video&#39;s beschikken over een poster die de video correct weergeeft
-- [ ] Heeft u [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
+- [ ] Ik heb gecontroleerd of bepaalde video&#39;s hoofdstukken moeten bevatten
+- [ ] Aan alle video&#39;s is een poster toegewezen die de video correct vertegenwoordigt
+- [ ] gebruikte u [ Acrolinx ](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

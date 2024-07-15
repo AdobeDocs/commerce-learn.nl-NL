@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Uitbreidbaarheidskader voor App Builder
 
-Deze functionele demonstratie beschrijft App Builder en de mogelijke gebruiksscenario&#39;s ervan voor Adobe Commerce. Deze video biedt een introductie van het uitbreidbaarheidsframework, belangrijke voordelen voor de klant en mogelijkheden.
+Deze functionele demonstratie beschrijft App Builder en de mogelijke gebruiksgevallen ervan voor Adobe Commerce. Deze video biedt een introductie van het uitbreidbaarheidsframework, belangrijke voordelen voor de klant en mogelijkheden.
 
 ## App Builder voor Adobe Commerce {#app-builder-extensibility}
 

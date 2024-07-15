@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Een module maken
 
-Module is een structuurelement van [!DNL Commerce] - het hele systeem is gebaseerd op modules. De eerste stap bij het maken van een aanpassing is meestal het bouwen van een module.
+De module is een structureel element van [!DNL Commerce] - het volledige systeem wordt voortgebouwd op modules. De eerste stap bij het maken van een aanpassing is meestal het bouwen van een module.
 
 ## Voor wie is deze video?
 
@@ -71,12 +71,12 @@ De volgende stap is wat functionaliteit aan onze basismodule toe te voegen. Een 
 
 ### Te onthouden handelingen voor plug-ins
 
-- Alle plug-ins worden gedeclareerd in `di.xml`.
+- Alle plug-ins worden gedeclareerd in `di.xml` .
 - Voor de insteekmodule is een unieke naam vereist
 - disabled en sortOrder zijn optioneel
 - Bereik van de plug-in wordt ingesteld door de map waarin deze zich bevindt
 - Plugins kunnen worden uitgevoerd voordat, nadat of beide (rond) de methode wordt aangeroepen
-- Vermijd gebruik `around` plug-ins. Ze zijn verleidelijk om te gebruiken, maar zijn vaak de verkeerde keuze en leiden tot prestatieproblemen.
+- Gebruik geen `around` -plug-ins. Ze zijn verleidelijk om te gebruiken, maar zijn vaak de verkeerde keuze en leiden tot prestatieproblemen.
 
 ### Codevoorbeelden van insteekmodules
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Nuttige bronnen
 
-- [Module naslaggids](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+- [ gids van de Verwijzing van de Module ](https://developer.adobe.com/commerce/php/module-reference/) {target="_blank"}
+- [ Insteekmodules ](https://developer.adobe.com/commerce/php/development/components/plugins/) {target="_blank"}

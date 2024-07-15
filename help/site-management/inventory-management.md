@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Handelaars met één winkel kunnen opslagplaatsen, winkels, ophaallocaties, verl
 
 ## Aanvullende bronnen
 
-- [Inventory management Guide](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
-- [Inventory management - documentatie voor REST voor ontwikkelaars](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+- [ Gids van Inventory management ](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [ Inventory management - de documentatie van het REST van de Ontwikkelaar ](https://developer.adobe.com/commerce/webapi/rest/inventory/)

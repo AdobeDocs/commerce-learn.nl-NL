@@ -1,8 +1,8 @@
 ---
 title: Een GraphQL met meerdere bronnen maken voor gebruik in API-net
-description: Ontdek hoe u meerdere bronnen kunt gebruiken voor API Mesh op Adobe Commerce en [!DNL Adobe App Builder]. Meer informatie over enkele algemene fouten en hoe u deze kunt oplossen.
-landing-page-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
-short-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
+description: Ontdek hoe te om veelvoudige bronnen voor API Net op Adobe Commerce en  [!DNL Adobe App Builder] te gebruiken. Meer informatie over enkele algemene fouten en hoe u deze kunt oplossen.
+landing-page-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en  [!DNL Adobe App Builder] . Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
+short-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en  [!DNL Adobe App Builder] . Leer hoe u een net maakt met meerdere bronnen en hoe u enkele algemene fouten oplost.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 8%
+source-wordcount: '234'
+ht-degree: 0%
 
 ---
 
 # Een net maken met meerdere bronnen
 
-Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh voor Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Ga voor meer informatie en codevoorbeelden naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh for Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Voor meer details en codesteekproeven, leidt het bezoek [ tot een netwerk ](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1) {target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -30,7 +30,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen 
 
 ## Video-inhoud
 
-* Hoe wordt het gebruikt [transformaties](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} om het standaardbronschema te wijzigen
+* Hoe te om [ transformaties ](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) {target="_blank"} te gebruiken om het standaardbronschema te wijzigen
 * Hoe te om fouten, zoals naamconflicten, schemabeschikbaarheid, en andere kwesties van de schemasyntaxis problemen op te lossen
 * Het net bijwerken met een gewijzigde configuratie
 
@@ -38,7 +38,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen 
 
 ## Het JSON-configuratiebestand maken
 
-API Mesh gebruikt een JSON-configuratiebestand om uw bronhandlers te definiëren. Het JSON-bestand bevat een `sources` array die de bronnen voor het net bevat. Hier is een voorbeeld van een net met meerdere bronnen.
+API Mesh gebruikt een JSON-configuratiebestand om uw bronhandlers te definiëren. Het JSON-bestand bevat een `sources` -array die de bronnen voor uw net bevat. Hier is een voorbeeld van een net met meerdere bronnen.
 
 ```json
 {

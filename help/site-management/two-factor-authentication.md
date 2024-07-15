@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Om ongeoorloofde toegang tot uw gegevens te voorkomen, moeten alle gebruikers di
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release van 2.4.0. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release van 2.4.0. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [Tweevoudige verificatie (2FA) - Handleiding voor beheersystemen](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
-- [Configureren van tweefelige verificatie (2FA) - documentatie voor ontwikkelaars](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
+- [ two-factor authentificatie (2FA) - de Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [ Vormend twee-factor authentificatie (2FA) - de documentatie van de Ontwikkelaar ](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

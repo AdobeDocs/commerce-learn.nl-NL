@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -105,14 +105,14 @@ type Mutation {
 }
 ```
 
-U kunt delven in [de GraphQL-documentatie](https://graphql.org/learn/schema/){target="_blank"} om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren hier niet wordt vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de boom, tot u aan eenvoudige scalaire types zoals krijgt `String`.
+U kunt in [ de documentatie van GraphQL ](https://graphql.org/learn/schema/) {target="_blank"} delven om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren hier niet vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de structuur heen, totdat u eenvoudige scalaire typen krijgt, zoals `String` .
 
-De `input` verklaring is in alle opzichten een `type` maar definieert een type dat als invoer voor een argument kan worden gebruikt. Let ook op het `interface` verklaring. Dit dient een functie min of meer dezelfde als interfaces in PHP. Andere types erven van deze interface.
+De declaratie `input` is in alle opzichten hetzelfde als een declaratie `type` , maar definieert een type dat kan worden gebruikt als invoer voor een argument. Noteer ook de declaratie `interface` . Dit dient een functie min of meer dezelfde als interfaces in PHP. Andere types erven van deze interface.
 
-De syntaxis `[CartItemInput!]!` ziet er lastig uit, maar is uiteindelijk redelijk intuïtief. De `!` _binnenkant_ het haakje declareert dat elke waarde in de array niet null moet zijn, terwijl de waarde _buiten_ declareert dat de arraywaarde zelf niet null moet zijn (bijvoorbeeld een lege array).
+De syntaxis `[CartItemInput!]!` ziet er lastig uit, maar is uiteindelijk redelijk intuïtief. `!` _binnen_ verklaart de steun dat elke waarde in de serie niet-krachteloos moet zijn, terwijl één _buiten_ verklaart dat de seriewaarde zelf niet-krachteloos (bijvoorbeeld, een lege serie) moet zijn.
 
 >[!NOTE]
 >
->De logica voor hoe gegevens worden opgehaald en volgens een schema worden opgemaakt, en hoe dergelijke logica aan bepaalde types in kaart wordt gebracht, is tot de runtime van GraphQL implementatie. De implementaties, echter, zouden een conceptuele stroom moeten volgen die in het licht van een begrip rond genestelde gebieden zinvol is: Een resolutieverrichting verbonden aan de wortel `Query` of `Mutation` type wordt uitgevoerd, dat elk gebied onderzoekt dat in het verzoek wordt gespecificeerd. Voor elk gebied dat aan een complex type oplost, wordt een gelijkaardige oplossing gedaan voor dat type, etc., tot alles in scalaire waarden heeft opgelost.
+>De logica voor hoe gegevens worden opgehaald en volgens een schema worden opgemaakt, en hoe dergelijke logica aan bepaalde types in kaart wordt gebracht, is tot de runtime van GraphQL implementatie. Implementaties moeten echter een conceptuele flow volgen die zinvol is in het licht van een begrip van geneste velden: er wordt een bewerking voor het oplossen van problemen uitgevoerd die aan het root `Query` - of `Mutation` -type is gekoppeld, die elk veld onderzoekt dat in de aanvraag is opgegeven. Voor elk gebied dat aan een complex type oplost, wordt een gelijkaardige oplossing gedaan voor dat type, etc., tot alles in scalaire waarden heeft opgelost.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

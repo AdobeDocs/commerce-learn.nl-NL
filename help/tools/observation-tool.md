@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ In deze video leert u meer over het observatieprogramma voor Adobe Commerce. Dit
 
 ## Aanvullende bronnen
 
-- [Waarneming voor Adobe Commerce - Ondersteuningsartikel](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [Observatie gebruiken voor Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [ Waarneming voor Adobe Commerce - artikel van de Steun ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+- [ Waarneming van het Gebruik voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

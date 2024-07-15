@@ -15,7 +15,7 @@ level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,6 @@ In deze video:
 
 ## Aanvullende bronnen
 
-- [Compatibiliteit upgraden](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Magento PHP Storm-insteekmodule](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [Uitgebrachte versies](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [ Hulpmiddel van de Verenigbaarheid van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [ Magento PHP Stamstop ](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [ Vrijgegeven versies ](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

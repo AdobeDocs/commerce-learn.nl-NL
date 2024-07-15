@@ -1,7 +1,7 @@
 ---
 title: De map web-src
 description: Leer meer over de bestandstypen in de map web-src en de geneste bestanden en mappen voor deze voorbeeldtoepassing.
-landing-page-description: Meer informatie over Adobe Developer App Builder die wordt gebruikt met Adobe Commerce en over de bestandstypen die zich in de map web-src bevinden.
+landing-page-description: In deze video ziet u hoe Adobe Developer App Builder wordt gebruikt met Adobe Commerce en welke bestandstypen zich in de map web-src bevinden.
 kt: 12425
 doc-type: tutorial
 audience: all
@@ -13,24 +13,24 @@ level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # Ontdek het doel van de web-src omslag {#web-src-folder}
 
-De map web-src voor deze voorbeeldapp bevat veel JavaScript-bestanden en -mappen. Deze map wordt gebruikt voor toepassingen met een gebruikersinterface. Deze functie wordt niet door alle toepassingen gebruikt. Een integratie van de Handel met een extern voorraadbeheersysteem vereist bijvoorbeeld mogelijk geen frontend interface en code.
+De map web-src voor deze voorbeeldapp bevat veel JavaScript-bestanden en -mappen. Deze map wordt gebruikt voor toepassingen met een gebruikersinterface. Deze functie wordt niet door alle toepassingen gebruikt. Een Commerce-integratie met een extern voorraadbeheersysteem vereist bijvoorbeeld mogelijk geen frontend interface en code.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken Adobe App Builder die meer weten over de `web-src` en de inhoud ervan.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken Adobe App Builder en leren meer over de map `web-src` en de inhoud ervan.
 
 ## Video-inhoud
 
-* Wat is het belangrijkste doel van de `web-src` map?
+* Wat is het belangrijkste doel voor de `web-src` omslag?
 * Meestal opgenomen bestanden en mappen
-* Hoe `web-src` de map en de inhoud in de voorbeeldtoepassing worden gebruikt
+* De manier waarop de map `web-src` en de inhoud daarin worden gebruikt in de voorbeeldtoepassing
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-In het onderstaande voorbeeld is het codevoorbeeld `not` het beperken van het verzoek. Als u een fout van 400 wilt voorkomen, verkleint u de grootte van de reactie met `searchCriteria`.
+In het onderstaande voorbeeld beperkt het codevoorbeeld `not` de aanvraag. Als u een fout van 400 wilt voorkomen, verkleint u de grootte van de reactie met `searchCriteria` .
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

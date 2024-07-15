@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce Services Connector configureren
-description: Leer hoe te om de Schakelaar van de Diensten van Adobe Commerce voor gebruik met de producten van de Handel te vormen SaaS en te leren hoe te om gemeenschappelijke kwesties op te lossen.
+description: Leer hoe u de Adobe Commerce Services Connector kunt configureren voor gebruik met Commerce SaaS-producten en hoe u algemene problemen kunt oplossen.
 kt: 14777
 doc-type: video
 audience: all
@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # De Adobe Commerce Services Connector configureren
 
-De schakelaar van de Diensten van de Handel is een configuratie die door Adobe wordt ontwikkeld die diverse functionaliteit SaaS ontgrendelt. Als u de betalingsservices voor Adobe Commerce en Magento Open Source wilt gebruiken, moet u een verbinding tot stand brengen met de instantie Commerce via de API-sleutels voor productie en sandbox en de gegevensruimte opgeven in de configuratie voor installatie.
+De schakelaar van de Diensten van Commerce is een configuratie die door Adobe wordt ontwikkeld die diverse functionaliteit SaaS ontgrendelt. Als u de betalingsservices voor Adobe Commerce en Magento Open Source wilt gebruiken, moet u een verbinding tot stand brengen met de Commerce-instantie met de API-sleutels voor productie en sandbox en de gegevensruimte opgeven in de configuratie voor installatie.
 
-Kijk naar de _De Adobe Commerce Services Connector configureren_ video om u te helpen betalingsservices in te stellen.
+Bekijk _vormt de 1} video van de Verbinding van de Diensten van Adobe Commerce {om u opstelling de Diensten van de Betaling te helpen._
 
 ## Voor wie is deze video?
 
@@ -34,18 +35,18 @@ Kijk naar de _De Adobe Commerce Services Connector configureren_ video om u te h
 
 ## Veelgestelde vragen over configuratie
 
-De schakelaar van de Diensten van de Handel is een configuratie die door Adobe wordt ontwikkeld die diverse functies SaaS ontgrendelt. Dit zijn een aantal van de vaakst gestelde vragen betreffende configuratie:
+De Commerce Services Connector is een configuratie die is ontwikkeld door Adobe en die verschillende SaaS-functies ontgrendelt. Dit zijn een aantal van de vaakst gestelde vragen betreffende configuratie:
 
 - Ongeldige of openbare sleutels corrigeren.
 - De API-sleutel van uw winkel roteren.
-- Navigeer de stap van het Herkenningsteken van SaaS van vestiging de Schakelaar van de Dienst van de Handel.
+- Navigeer de SaaS-id-stap van het instellen van de Commerce Service Connector.
 - Los de zandbakknoop problemen op wanneer het aan boord gaan van de Diensten van de Betaling.
-- De Schakelaar van de Dienst van de handel laadt niet in UI.
+- Commerce Service Connector wordt niet geladen in de gebruikersinterface.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425959?learn=on)
 
 ## Aanvullende bronnen
 
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
-- [Handleiding voor betalingsservices](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html) {target="_blank"}
+- [ Gids van de Diensten van de Betaling ](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html) {target="+blank"}
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html) {target="+blank"}

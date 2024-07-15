@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Openingspagina's"
+title: "[!DNL Commerce] voor zakelijke gebruikers - Landing pages"
 description: Leer hoe u een landingspagina voor categorieën instelt en de vormgeving regelt.
 kt: 5766
 doc-type: video
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,14 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Rubriekinhoud - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
+[ inhoud van de Categorie -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Weergave-instellingen - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
+[ montages van de Vertoning -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Ontwerpinstellingen - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)
+[ montages van het Ontwerp -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

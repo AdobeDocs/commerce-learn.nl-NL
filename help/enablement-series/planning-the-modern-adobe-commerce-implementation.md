@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # De moderne Adobe Commerce-implementatie plannen
 
-Dit webinar verstrekt een uitvoerig overzicht van diverse onderwerpen met betrekking tot Adobe Commerce, met inbegrip van catalogusdienst, begrip klantenarchitectuur, en Edge Delivery Services. &#x200B;De onderwerpen omvatten nieuwe of bestaande eigenschappen en voordelen van elke dienst, zoals levende onderzoek en productaanbevelingen in de Catalogus van Adobe Commerce als Dienst, het analyseren van APIs en gegevensstroom in het begrip van klantenarchitectuur, en de hoge prestaties en lage latentie van de Edge Delivery Services. Daarnaast wordt in het document gewezen op het belang van het hebben van standaarddocumenten en een lijst met vragen bij de interactie met klanten, alsook op het concept van Global Reference Architecture (GRA) voor een efficiënte projectopbouw.
+Dit webinar verstrekt een uitvoerig overzicht van diverse onderwerpen met betrekking tot Adobe Commerce, met inbegrip van catalogusdienst, begrip klantenarchitectuur, en Edge Delivery Services.
+&#x200B;De onderwerpen omvatten nieuwe of bestaande eigenschappen en voordelen van elke dienst, zoals levende onderzoek en productaanbevelingen in de Catalogus van Adobe Commerce als Dienst, het analyseren van APIs en gegevensstroom in het begrip van klantenarchitectuur, en de hoge prestaties en lage latentie van de Edge Delivery Services. Daarnaast wordt in het document gewezen op het belang van het hebben van standaarddocumenten en een lijst met vragen bij de interactie met klanten, alsook op het concept van Global Reference Architecture (GRA) voor een efficiënte projectopbouw.
 
 ## Publiek
 

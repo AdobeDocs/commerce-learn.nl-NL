@@ -1,7 +1,7 @@
 ---
 title: Een app indienen bij de Adobe Commerce Marketplace
 description: Leer meer over het proces voor het indienen van een toepassing bij de Commerce Marketplace.
-landing-page-description: Leer meer over Adobe Developer App Builder en hoe u een app naar de Commerce Marketplace verzendt.
+landing-page-description: Meer informatie over Adobe Developer App Builder en hoe u een app naar de Commerce Marketplace kunt verzenden.
 kt: 13436
 doc-type: tutorial
 audience: all
@@ -10,17 +10,17 @@ feature: API Mesh, App Builder, Extensibility, Tools and External Services
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
-exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+exl-id: 6a217ea6-8d6b-4ecb-bbc3-b5b27df3bde9
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 # Leer hoe u een app naar de Adobe Commerce Marketplace verzendt
 
-De Adobe Commerce Marketplace accepteert nu verzendingen voor het weergeven van App Builder-apps. App Builder is ons volgende generatie uitbreidbaarheidsplatform dat ontwikkelaars alle gereedschappen en services biedt die nodig zijn om veilige en schaalbare apps voor Adobe Commerce te maken. Ontwikkelaars kunnen hun apps nu publiceren naar de Adobe Commerce Marketplace, de betrouwbare bron voor bedrijven om apps van hoge kwaliteit te ontdekken en te kopen die aan hun behoeften voldoen. U kunt uw app ter controle verzenden door naar [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
+De Adobe Commerce Marketplace accepteert nu verzendingen voor het aanbieden van App Builder-apps. App Builder is ons platform van de volgende generatie voor uitbreidbaarheid dat ontwikkelaars alle gereedschappen en services biedt die nodig zijn om veilige en schaalbare toepassingen voor Adobe Commerce te maken. Ontwikkelaars kunnen hun apps nu publiceren naar de Adobe Commerce Marketplace, de betrouwbare bron voor bedrijven om apps van hoge kwaliteit te ontdekken en te kopen die aan hun behoeften voldoen. U kunt uw app voor overzicht voorleggen door [ https://commercedeveloper.adobe.com ](https://commercedeveloper.adobe.com/) te gaan {target="blank"}.
 
 ## Voor wie is deze video?
 

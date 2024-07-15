@@ -1,7 +1,7 @@
 ---
 title: De testmap
 description: Leer meer over de bestandstypen in de testmap voor deze voorbeeldtoepassing.
-landing-page-description: Meer informatie over de Adobe Developer App Builder die met Adobe Commerce wordt gebruikt en over de bestandstypen in de testmap.
+landing-page-description: Meer informatie over Adobe Developer App Builder die wordt gebruikt met Adobe Commerce en over de bestandstypen in de testmap.
 kt: 12424
 doc-type: tutorial
 audience: all
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Meer informatie over de testmap {#test-folder}
 
-De `test` voor deze voorbeeldtoepassing bevat één JavaScript-bestand dat wordt gebruikt bij het uitvoeren van eenheidstests op de toepassing.
+De map `test` voor deze voorbeeldapp bevat één JavaScript-bestand dat wordt gebruikt bij het uitvoeren van eenheidstests voor de toepassing.
 
 Dit is een eenvoudig voorbeeld dat u kunt uitbreiden om uitgebreide tests voor uw specifieke toepassingen te maken.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken de Adobe App Builder die meer willen weten over de `test` map.
+* Ontwikkelaars die nog niet bekend zijn met Adobe Commerce, maken gebruik van Adobe App Builder die meer informatie wil over de map `test` .
 
 ## Video-inhoud
 
-* Waarom de `test` map?
+* Waarom de map `test` gebruiken?
 * Een korte uitleg van het testbestand voor de eenheid en de onderdelen ervan
 * Inleiding tot end-to-end testen
 

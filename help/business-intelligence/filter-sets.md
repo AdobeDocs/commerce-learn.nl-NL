@@ -1,7 +1,7 @@
 ---
-title: Commerciële inlichtingen - Filtersets
-description: Leer hoe u de functie Commerce Intelligence-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens voor Adobe Commerce en Magento Open Source te vereenvoudigen.
-landing-page-description: Bekijk deze video om te leren hoe u de functie van de het filterreeksen van de Intelligentie van de Handel gebruikt om bedrijfsgegevensrapportering te vereenvoudigen.
+title: Commerce Intelligence - Filtersets
+description: Leer hoe u de functie Commerce Intelligence-filtersets kunt gebruiken om bedrijfsgegevensrapportage voor Adobe Commerce en Magento Open Source te vereenvoudigen.
+landing-page-description: Bekijk deze video om te leren hoe u de functie Commerce Intelligence-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
 short-description: Bekijk deze video om te leren hoe u de functie van de MBCommerce IntelligenceI-filtersets kunt gebruiken om de rapportage van bedrijfsgegevens te vereenvoudigen.
 kt: 10289
 doc-type: feature video
@@ -16,14 +16,14 @@ level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Commerciële inlichtingen - Filtersets
+# Commerce Intelligence - Filtersets
 
-Wilt u alleen bepaalde gegevens van uw bedrijf analyseren? Wilt u een handmatige opruiming doen? In de Intelligentie van de Handel, kunt u de eigenschap van filterreeksen gebruiken om dit proces te vereenvoudigen.
+Wilt u alleen bepaalde gegevens van uw bedrijf analyseren? Wilt u een handmatige opruiming doen? In Commerce Intelligence kunt u de functie Filtersets gebruiken om dit proces te vereenvoudigen.
 
 In deze video:
 
@@ -34,7 +34,7 @@ In deze video:
 
 >[!TIP]
 >
->Als je nog geen ervaring hebt met de Commerce Intelligence, [Adobe Commerce Intelligence-gebruikersgids](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u aan Commerce Intelligence nieuw bent, verstrekt de [ Gids van de Gebruiker van Adobe Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) {target="_blank"} een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 
@@ -47,6 +47,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Filtersets maken - Handleiding voor de handels-informatie](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[ creeer filterreeksen - de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Aanbevolen Dimensionen van Gegevens voor Segmentatie en Filtreren - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[ Aanbevolen Dimensionen van Gegevens voor Segmentatie en het Filtreren - de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

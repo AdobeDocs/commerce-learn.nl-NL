@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
+source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Technisch aan boord nemen - Inzet, het testen, het toezicht, en veiligheid
 
@@ -25,7 +25,7 @@ Leer over de de plaatsingsstrategieën van Adobe Commerce Cloud, het testen best
 ## Voor wie is deze video?
 
 - Webmanagers
-- Commerciële architecten
+- Commerce architecten
 - Eigenaars van e-commercewebsite
 
 ## Video-inhoud
@@ -34,11 +34,11 @@ Leer over de de plaatsingsstrategieën van Adobe Commerce Cloud, het testen best
 
 ## Documentatie voor Experiencen League die in de video wordt vermeld
 
-- [Implementatieproces](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [SWAT-hulpprogramma voor analyse op de hele site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Slimme wizard ECE-gereedschappen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [Beveiligingsscan](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Snelle WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [Overzicht van New Relic Service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [ proces van de Plaatsing ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+- [ SWAT plaats-brede het Hulpmiddel van de Analyse ](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [ ECE hulpmiddelen slimme tovenaar ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+- [ Scannen van de Veiligheid ](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+- ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html) de Snelle Firewall van de Toepassing van het Web van WAF [
+- [ overzicht van de Dienst van New Relic ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

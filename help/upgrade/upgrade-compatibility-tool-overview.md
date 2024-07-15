@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 24%
+source-wordcount: '206'
+ht-degree: 29%
 
 ---
 
@@ -30,7 +30,7 @@ In deze video:
 - Hoe u de fouten en correcties die nodig zijn voor een upgrade naar een nieuwere Adobe Commerce-versie, snel kunt identificeren
 - Hoe te om tot de resultaten van HTML toegang te hebben helpen modules door strengheid en aantal onverenigbaarheden visualiseren
 
-Voor meer informatie over het gereedschap raadpleegt u de [Upgrade van compatibiliteitsdocumentatie](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Als u meer wilt weten over het uitvoeren en vereenvoudigen van uw upgrades, raadpleegt u de [Upgradehandleiding](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+Meer over het hulpmiddel leren zie de [ documentatie van het Hulpmiddel van de Verenigbaarheid van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Als u meer over het uitvoeren van en het vereenvoudigen van uw verbeteringen wilt weten, zie de [ Gids van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Voor wie is deze video?
 
@@ -43,7 +43,7 @@ Voor meer informatie over het gereedschap raadpleegt u de [Upgrade van compatibi
 
 ## Aanvullende bronnen
 
-- [Upgrade van compatibiliteitsdocumentatie](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-- [Upgradehandleiding](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [Uitgebrachte versies](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-- [Releaseplanning](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+- [ documentatie van het Hulpmiddel van de Verenigbaarheid van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [ Gids van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [ Vrijgegeven versies ](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [ programma van de Versie ](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

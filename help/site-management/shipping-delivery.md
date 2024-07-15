@@ -1,6 +1,6 @@
 ---
 title: Verzending en leveringsmethoden beheren
-description: Leer hoe u de instellingen voor verzendoorsprong, meerdere verzendkosten en verzendkosten voor uw winkel configureert.
+description: In deze video ziet u hoe u de instellingen voor verzending, verzending voor meerdere verzendingen, verzendkosten en transportkosten voor uw Commerce-winkel configureert.
 kt: 10543
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ Het beheer van uw verzend- en leveringsmethodes is van essentieel belang om ervo
 
 ## Aanvullende bronnen
 
-- [Verzendinstellingen - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [Basisleveringsmethoden - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [Setup van transportbedrijf - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [ Verzendmontages -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [ Basis leveringsmethodes -  [!DNL Commerce]  Slaat en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods) op
+- [ Verzenddrager opstelling -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

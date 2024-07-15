@@ -1,7 +1,7 @@
 ---
 title: Het bestand app.config.yaml
 description: Leer meer over de bestandstypen in het bestand app.config.yaml voor deze voorbeeldtoepassing.
-landing-page-description: Meer informatie over de Adobe Developer App Builder die met Adobe Commerce wordt gebruikt en over de bestandstypen die in app.config.yaml worden gebruikt.
+landing-page-description: Meer informatie over Adobe Developer App Builder die wordt gebruikt met Adobe Commerce en over welke bestandstypen in app.config.yaml worden weergegeven.
 kt: 12929
 doc-type: tutorial
 audience: all
@@ -24,12 +24,12 @@ Dit bestand bepaalt de configuratie voor de toepassing.
 
 ## Voor wie is deze video?
 
-* Nieuwe Adobe Commerce-ontwikkelaars met beperkte ervaring met Adobe App Builder die meer weten over de `app.config.yaml` in de voorbeeldtoepassing.
+* Nieuwe Adobe Commerce-ontwikkelaars met beperkte ervaring met Adobe App Builder die meer leren over `app.config.yaml` in de voorbeeldtoepassing.
 
 ## Video-inhoud
 
-* De `app.config.yaml` besproken bestand
-* Hoe zijn definities gekoppeld aan andere `.js` bestanden
+* Het besproken bestand `app.config.yaml`
+* Hoe zijn definities gekoppeld aan andere `.js` -bestanden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 

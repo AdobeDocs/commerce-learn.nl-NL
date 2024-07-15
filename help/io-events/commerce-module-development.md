@@ -1,6 +1,6 @@
 ---
 title: Leer hoe u in Adobe Commerce een module maakt voor het gebruik van gebeurtenissen.
-description: Leer hoe te om de module van de Handel tot stand te brengen om gebeurtenissen te gebruiken.
+description: Leer hoe u een Commerce-module kunt maken voor het gebruik van gebeurtenissen.
 landing-page-description: Leer hoe u een Adobe Commerce-module kunt maken voor het gebruik van gebeurtenissen.
 short-description: Leer hoe u een Adobe Commerce-module kunt maken voor het gebruik van gebeurtenissen.
 kt: 11891
@@ -14,25 +14,25 @@ level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Ontwikkeling Adobe Commerce-module
 
-Leer hoe u gebeurtenissen kunt registreren, ondersteunde gebeurtenissen kunt zoeken en hoe u een nieuw XML-bestand kunt gebruiken `io_events.xml` in de ontwikkeling van aangepaste modules. De video laat ontwikkelaars ook zien hoe ze geregistreerde gebeurtenissen kunnen vinden die kunnen worden gebruikt en hoe ze het abonnement op gebeurtenissen die al gedefinieerd kunnen zijn, kunnen opzeggen. Aanvullende documentatie gevonden op [Adobe I/O-gebeurtenissen installeren voor Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Leer hoe u gebeurtenissen registreert, ondersteunde gebeurtenissen zoekt en hoe u een nieuw XML-bestand `io_events.xml` gebruikt in aangepaste moduleontwikkeling. De video laat ontwikkelaars ook zien hoe ze geregistreerde gebeurtenissen kunnen vinden die kunnen worden gebruikt en hoe ze het abonnement op gebeurtenissen die al gedefinieerd kunnen zijn, kunnen opzeggen. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/) {target="_blank"}.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce en Adobe Developer App Builder, gebruiken I/O-gebeurtenissen.
+* Ontwikkelaars die nog niet bekend zijn met Adobe Commerce en Adobe Developer App Builder gebruiken I/O-gebeurtenissen.
 
 ## Video-inhoud {#video-content}
 
-* Gebeurtenissen registreren bij Handel voor gebruik in Adobe Developer App Builder
+* Gebeurtenissen registreren in Commerce voor gebruik in Adobe Developer App Builder
 * Gebeurtenissen identificeren die kunnen worden geregistreerd
 * Leer hoe u gebeurtenissen kunt registreren in io_events.xml
-* Leer hoe u gebeurtenissen kunt registreren in de instanties Commerce `app/etc/config.php`
+* Leer hoe u gebeurtenissen kunt registreren in de Commerce-instanties `app/etc/config.php`
 * Leer hoe u uw abonnement op een gebeurtenis opzegt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)

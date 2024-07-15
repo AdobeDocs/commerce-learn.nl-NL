@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Elke installatie van Adobe Commerce en Magento Open Source ondersteunt een hiër
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [Websites, winkels en weergaven - [!DNL Commerce] Aan de slag](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
-- [Hoofdcategorie en hiërarchie - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)
+- [ Websites, Sporen, en Meningen -  [!DNL Commerce]  Begonnen Gids ](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html) krijgen
+- [ de categorie en hiërarchie van de Wortel -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

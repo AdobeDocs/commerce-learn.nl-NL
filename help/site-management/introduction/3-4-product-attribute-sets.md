@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers: kenmerksets"
+title: "[!DNL Commerce] voor zakelijke gebruikers - kenmerksets"
 description: Meer informatie over productkenmerksets en hoe u deze kunt gebruiken in de catalogus.
 kt: 5770
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c3cedc33-a5a5-489a-954b-a001a4ea2eb4
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] voor zakelijke gebruikers: kenmerksets
+# [!DNL Commerce] voor zakelijke gebruikers - kenmerksets
 
 In deze video:
 
@@ -31,10 +31,10 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Kenmerksets - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[ Reeksen van Attributen -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

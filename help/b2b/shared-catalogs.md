@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 source-git-commit: abde2b1e7d1fd1fd5387f2564e79b086fb808b2f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -36,5 +36,5 @@ Als de functie Gedeelde catalogus in de configuratie is ingeschakeld, blijft de 
 
 ## Aanvullende bronnen
 
-- [Werken met gedeelde catalogi](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-- [Een gedeelde catalogus maken](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+- [ Werkend met Gedeelde Catalogi ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html) {target="_blank"}
+- [ creeer een Gedeelde Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html) {target="_blank"}

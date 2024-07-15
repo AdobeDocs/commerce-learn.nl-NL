@@ -1,7 +1,7 @@
 ---
 title: App Builder maken uw eerste app
-description: Leer meer over Adobe Developer App Builder met Adobe Commerce en maak uw eerste app.
-landing-page-description: Meer informatie over de Adobe Developer App Builder die met Adobe Commerce wordt gebruikt en maak uw eerste app.
+description: Meer informatie over Adobe Developer App Builder met Adobe Commerce en het maken van uw eerste app.
+landing-page-description: Meer informatie over Adobe Developer App Builder die wordt gebruikt met Adobe Commerce en het maken van uw eerste app.
 kt: 12421
 doc-type: tutorial
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,25 @@ ht-degree: 0%
 Deze zelfstudie heeft de volgende voorwaarden:
 
 * Adobe Developer Console-toegang is voltooid
-* Volledige toegang of proeftoegang tot App Builder is verleend
-* [De Adobe Developer App Builder-toepassing is gemaakt](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [Het Adobe Developer App Builder-project is gemaakt](https://developer.adobe.com/console){target="_blank"}
-* [De Adobe Developer App Builder-werkruimten zijn gemaakt - stap 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
-* [De bevelen AIO CLI om het project te initialiseren en in werking te stellen zijn uitgevoerd](https://developer.adobe.com/runtime){target="_blank"}
+* Volledige toegang tot of toegang tot een proefversie van App Builder is verleend
+* [ de toepassing van Adobe Developer App Builder is gecreeerd ](https://developer.adobe.com/app-builder/docs/getting_started/first_app/) {target="_blank"}
+* [ het project van Adobe Developer App Builder is gecreeerd ](https://developer.adobe.com/console) {target="_blank"}
+* [ de werkruimten van Adobe Developer App Builder zijn gecreeerd - Stap 2.6 ](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console) {target="_blank"}
+* [ de AIO CLI bevelen om het project te initialiseren en in werking te stellen zijn uitgevoerd ](https://developer.adobe.com/runtime) {target="_blank"}
 
-Voor meer informatie over het maken van uw eerste App Builder-toepassing kunt u de volgende blogpost weergeven als hulp bij deze eerste configuratie [Hoe de Hulp van de Bouwer van de App zaken behendigheid voor uw handelsplatform drijft](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Voor meer informatie bij de bouw van uw eerste toepassing van App Builder, kunt u de volgende blogpost bekijken om met deze aanvankelijke opstelling en configuratie [ te helpen hoe de hulp van App Builder bedrijfsbehendigheid voor uw handelsplatform ](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy) {target="_blank"} drijft.
 
 ## Wat moet u verwachten van het lezen van deze zelfstudie
 
-Wanneer u deze zelfstudie hebt voltooid, hebt u een eenvoudige toepassing van één pagina die communiceert met Adobe Commerce om de geschiedenis en producten van uw bestelling te trekken. Deze onderwerpen behandelen functionaliteit App Builder met codesteekproeven en instructies. Hopelijk bespaart dit u na het bekijken van deze video&#39;s enige ontwikkelingstijd en inspireert het andere ideeën en stimuleert het de goedkeuring van de ontwikkeling buiten het proces.
+Wanneer u deze zelfstudie hebt voltooid, hebt u een eenvoudige toepassing van één pagina die communiceert met Adobe Commerce om de geschiedenis en producten van uw bestelling te trekken. Deze onderwerpen behandelen de functionaliteit van App Builder met codesteekproeven en instructies. Hopelijk bespaart dit u na het bekijken van deze video&#39;s enige ontwikkelingstijd en inspireert het andere ideeën en stimuleert het de goedkeuring van de ontwikkeling buiten het proces.
 
 ## Hoe moet ik deze zelfstudie volgen?
 
-Deze zelfstudie is ontworpen om de volgorde van pagina&#39;s in de linkernavigatie te volgen. Dit is echter geen vereiste. Elke pagina kan afzonderlijk worden weergegeven omdat hierin het algemene concept voor het maken van een initiële Adobe Developer App Builder-app wordt besproken.
+Deze zelfstudie is ontworpen om de volgorde van pagina&#39;s in de linkernavigatie te volgen. Dit is echter geen vereiste. Elke pagina kan afzonderlijk worden bekeken, omdat hierin het algemene concept voor het maken van een initiële Adobe Developer App Builder-app wordt besproken.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken de Adobe App Builder.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce met Adobe App Builder.
 
 ## Video-inhoud
 

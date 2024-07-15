@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: AR Viewer beschikbaar in de Commerce Marketplace
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Augmented Reality Viewer voor Adobe Commerce
 
@@ -24,7 +24,7 @@ AIR Viewer is een uitbreiding voor Adobe Commerce die een nieuwe functie biedt a
 
 AR Viewer fungeert als brug tussen de fysieke en digitale detailhandel, waardoor verkopers een rijke, interactieve klantenervaring kunnen bieden zonder uitgebreide technische kennis of intensief handmatig werk te vereisen. De gebruikersvriendelijke interface is naadloos geïntegreerd in de Adobe Commerce-beheerder, waardoor deze een handige aanvulling vormt op elke online winkel.
 
-AR Viewer dient om [!DNL bridge] de kloof tussen fysieke en digitale detailhandel, waardoor verkopers een rijke, interactieve klantenervaring kunnen bieden zonder dat hiervoor uitgebreide technische kennis of intensief handmatig werk vereist is. De gebruikersvriendelijke interface is naadloos geïntegreerd in de Adobe Commerce-beheerder, waardoor deze een handige aanvulling vormt op elke online winkel.
+AIR Viewer zorgt voor [!DNL bridge] de kloof tussen fysieke en digitale detailhandel, waardoor verkopers een rijke, interactieve klantenervaring kunnen bieden zonder dat uitgebreide technische kennis of intensief handmatig werk vereist is. De gebruikersvriendelijke interface is naadloos geïntegreerd in de Adobe Commerce-beheerder, waardoor deze een handige aanvulling vormt op elke online winkel.
 
 ## Functies
 
@@ -39,7 +39,7 @@ AR Viewer dient om [!DNL bridge] de kloof tussen fysieke en digitale detailhande
 ## Het 3D-model toevoegen aan een product
 
 Het toevoegen van een nieuw 3D-model aan het product is een eenvoudig proces nadat de module is geïnstalleerd op de Adobe Commerce-installatie.
-In de volgende video is er een nieuwe sectie die het uploaden van `.USDZ` bestanden uploaden.
+In de volgende video is er een nieuwe sectie die het uploaden van het bestand `.USDZ` ondersteunt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -57,10 +57,9 @@ Nadat de bezoeker de QR-code met het apparaat heeft gescand, wordt het item over
 
 ## Nuttige bronnen
 
-[AR Viewer voor Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[3D-modellen van producten beheren met de AIR Viewer voor Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[ AR Kijker voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html) {target="_blank"}
+[ beheer product 3D modellen met de AR Kijker voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html) {target="_blank"}
 
 ## Adobe Commerce Marketplace-extensie
 
-[AR-viewer](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-
+[ de kijker van AR ](https://commercemarketplace.adobe.com/magento-module-arviewer.html) {target="_blank"}

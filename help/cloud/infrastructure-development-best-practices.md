@@ -25,7 +25,7 @@ Leer meer over de cloudinfrastructuur en enkele best practices voor ontwikkeling
 ## Voor wie is deze video?
 
 - Webmanagers
-- Commerciële architecten
+- Commerce architecten
 - Eigenaars van e-commercewebsite
 
 ## Video-inhoud
@@ -34,11 +34,11 @@ Leer meer over de cloudinfrastructuur en enkele best practices voor ontwikkeling
 
 ## Documentatie voor Experiencen League die in de video wordt vermeld
 
-- [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
-- [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
-- [COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-  [Adobe Commerce upgraden en patches toepassen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
-- [Checklist Adobe Commerce voorafgaand aan de introductie](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
-- [Ondersteuningstickets maken](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
+- [ Rsync ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
+- [ SFTP ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
+- [ Commerce Cloud CLI ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+  [ de verbetering van Adobe Commerce en het toepassen van flarden ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
+- [ Adobe Commerce pre-lancerings checklist ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+- [ Creërend steunkaartjes ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

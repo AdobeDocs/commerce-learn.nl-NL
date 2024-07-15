@@ -1,7 +1,7 @@
 ---
-title: Testen met de URL van de Adobe Developer App Builder
-description: Leer hoe u uw eerste Adobe Developer App Builder-app test via de opgegeven URL voor App Builder voor uw project.
-landing-page-description: Leer hoe u uw eerste Adobe Developer App Builder-app test via de opgegeven URL vanuit uw project.
+title: Testen met de Adobe Developer App Builder URL
+description: Leer hoe u uw eerste Adobe Developer App Builder-app test via de opgegeven App Builder-URL voor uw project.
+landing-page-description: Leer hoe u uw eerste Adobe Developer App Builder-app test via de opgegeven URL van uw project.
 kt: 12427
 doc-type: tutorial
 audience: all
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Testen met URL van App Builder {#testing-app-builder-url}
+# Testen met App Builder URL {#testing-app-builder-url}
 
 Leer hoe u uw nieuwe Adobe Developer App Builder-toepassing test met de URL van uw project.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, kunnen hun eerste Adobe Developer App Builder-app testen met Adobe App Builder.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken Adobe App Builder en die klaar zijn om hun eerste Adobe Developer App Builder-app te testen.
 
 ## Video-inhoud
 

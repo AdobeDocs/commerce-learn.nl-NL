@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
 source-git-commit: 3eff251283f1a6c5dc2bff8d72bd494d7446db79
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ In deze video leert u hoe u productkenmerken kunt beheren wanneer u een winkel h
 
 ## Aanvullende bronnen
 
-- [Productkenmerken - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
-- [PWA Studio - documentatie voor ontwikkelaars](https://developer.adobe.com/commerce/pwa-studio/)
+- [ attributen van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [ PWA Studio - de documentatie van de Ontwikkelaar ](https://developer.adobe.com/commerce/pwa-studio/)

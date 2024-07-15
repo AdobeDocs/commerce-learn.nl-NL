@@ -1,8 +1,8 @@
 ---
 title: Een mutatie uitvoeren met GraphQL
-description: Ontvang een inleiding over het uitvoeren van een mutatie met GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
-landing-page-description: Ontvang een inleiding over het uitvoeren van een mutatie met GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
-short-description: Ontvang een inleiding over het uitvoeren van een mutatie met GraphQL op Adobe Commerce en [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
+description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
+landing-page-description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
+short-description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
 kt: 13938
 doc-type: video
 audience: all
@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
 source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -30,16 +30,18 @@ Dit is deel 3 van de reeks voor GraphQL en Adobe Commerce. Mutaties zijn de moge
 
 * [Deel 1 GraphQL - Inleiding](../graphql-rest/intro-graphql.md)
 * [Deel 2 GraphQL - Vragen](../graphql-rest/graphql-queries.md)
-* [Deel 4 GraphQL - Schema](../graphql-rest/graphql-schema.md)
+* [ Deel 4 GraphQL - Schema ](../graphql-rest/graphql-schema.md)
 
 ## Voorbeeldmutatie
 
 Elke volledige API-specificatie moet de mogelijkheid bieden om niet alleen query&#39;s uit te voeren, maar ook om gegevens te maken en bij te werken.
 
 REST maakt onderscheid tussen verzoeken die gegevens veranderen en die die niet met het verzoektype of &quot;werkwoord&quot; (GET vs. POST of PUT).
-Bij gebruik van GraphQL worden query&#39;s voor gegevenswijziging onderscheiden door de `mutation` trefwoord dat overeenkomt met een ander hoofdtype in het schema dat op de server is gedefinieerd.
+Bij het gebruik van GraphQL wordt onderscheid gemaakt tussen query&#39;s voor gegevenswijziging en het trefwoord `mutation` dat overeenkomt met een andere query
+hoofdtype in het schema dat op de server is gedefinieerd.
 
-Bekijk deze voorbeeldmutatie voor het toevoegen van een product aan de kar van een gebruiker. (Dit vereist een kartidentiteitskaart die voor de het programma geopende klantenzitting of gebruikend werd geproduceerd `createEmptyCart` mutatie.)
+Bekijk deze voorbeeldmutatie voor het toevoegen van een product aan de kar van een gebruiker. (Hiervoor is een kaart-id vereist die is gegenereerd
+voor de aangemelde klantensessie of met behulp van de `createEmptyCart` -mutatie.)
 
 ```graphql
 mutation doAddToCart(
@@ -95,20 +97,25 @@ Tot slot zou je een reactie als deze kunnen krijgen:
 }
 ```
 
-Het belangrijkste om op te merken dat in het bovenstaande voorbeeld, behalve het gebruik van de `mutation` trefwoord in plaats van `query`, is de syntaxis identiek aan een query. Net als query&#39;s omvat de mutatie:
+Het belangrijkste wat u moet weten over het bovenstaande voorbeeld is dat, afgezien van het gebruik van het trefwoord `mutation` in plaats van `query` ,
+de syntaxis is identiek aan een query. Net als query&#39;s omvat de mutatie:
 
-* De naam van een willekeurige bewerking (`doAddToCart`)
+* Een willekeurige bewerkingsnaam (`doAddToCart`)
 * Een lijst met variabelen (bijvoorbeeld `$cartId`)
-* Een beginveld (`addProductsToCart`) met argumenten (bijvoorbeeld `cartId`, ingesteld op de waarde van `$cartId`) tussen haakjes
+* Een beginveld (`addProductsToCart`) met argumenten (bijvoorbeeld `cartId` , ingesteld op de waarde `$cartId` ) tussen haakjes
 * Een subselectie van velden tussen accolades
 
-Met de subselectie voor velden kunt u op flexibele wijze de velden definiëren die u wilt retourneren (van het type dat is toegewezen als de geretourneerde waarde van `addProductsToCart` - `AddProductsToCartOutput`) nadat de mutatie is voltooid.
+Met de subselectie van velden kunt u op flexibele wijze de velden definiëren die u wilt retourneren (van het type dat is toegewezen als de
+retourwaarde `addProductsToCart` - `AddProductsToCartOutput` ) nadat de mutatie is voltooid.
 
-Zoals eerder is uitgelegd, beginnen velden die in een GraphQL-schema zijn gedefinieerd, op een hoofdtype voor query&#39;s (doorgaans aangeduid als een `Query`). Op dezelfde manier bestaat er een ander worteltype voor mutaties (die typisch als worden bedoeld `Mutation`). `addProductsToCart` is een veld op dat basistype.
+Zoals eerder is uitgelegd, beginnen velden die zijn gedefinieerd in een GraphQL-schema op een hoofdtype voor query&#39;s (worden doorgaans een `Query` genoemd). Op dezelfde manier
+er is een ander hoofdtype voor mutaties (wordt meestal `Mutation` genoemd). `addProductsToCart` is een veld
+op dat basistype.
 
 Een paar andere opmerkingen over het bovenstaande voorbeeld:
 
-* De `!` achtervoegsel teken `String` en `CartItemInput` Hiermee wordt aangegeven dat de variabele verplicht is.
-* De vierkante haakjes (`[]`) rond de `CartItemInput` type opgegeven voor `$cartItems` Geef een lijst van dat type op in plaats van één waarde.
+* De tekens `!` achtervoegsel `String` en `CartItemInput` geven aan dat de variabele verplicht is.
+* De vierkante haakjes (`[]`) rondom het `CartItemInput` type dat is opgegeven voor `$cartItems` , geven een lijst aan
+van dat type in plaats van één enkele waarde.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

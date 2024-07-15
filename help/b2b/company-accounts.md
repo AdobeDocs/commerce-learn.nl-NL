@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 source-git-commit: 9eb66d4d0da8aa0e26183dea2459fa6e923c430b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Bedrijfsaccounts beheren
 
-Voor B2B-handelaren: _[!UICONTROL Companies]_op de pagina worden alle huidige bedrijfsrekeningen en hun status weergegeven. U kunt hier uw bedrijfsaccounts beheren en eventuele aanvragen voor goedkeuring die in behandeling zijn, worden boven aan de lijst weergegeven. Met de standaardbesturingselementen op de werkplek kunt u de lijst filteren, de kolomlay-out wijzigen, weergaven opslaan en gegevens exporteren.
+Voor B2B-handelaren worden op de pagina _[!UICONTROL Companies]_alle lopende bedrijfsaccounts en hun status weergegeven. U kunt hier uw bedrijfsaccounts beheren en eventuele aanvragen voor goedkeuring die in behandeling zijn, worden boven aan de lijst weergegeven. Met de standaardbesturingselementen op de werkplek kunt u de lijst filteren, de kolomlay-out wijzigen, weergaven opslaan en gegevens exporteren.
 
 {{b2b-feature}}
 
@@ -36,5 +36,5 @@ Voor B2B-handelaren: _[!UICONTROL Companies]_op de pagina worden alle huidige be
 
 ## Aanvullende bronnen
 
-- [Bedrijfsrekeningen](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Bedrijfsaccounts beheren](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [ De Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html) {target="_blank"}
+- [ beheer de Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html) {target="_blank"}

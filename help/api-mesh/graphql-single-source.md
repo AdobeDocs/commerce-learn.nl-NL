@@ -1,8 +1,8 @@
 ---
 title: Eén GraphQL-bronnet maken in API-net
-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
-landing-page-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
-short-description: Ontdek hoe u API Mesh kunt gebruiken in Adobe Commerce en  [!DNL Adobe App Builder]. Meer informatie over het maken van een net met één bron.
+description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en  [!DNL Adobe App Builder] . Meer informatie over het maken van een net met één bron.
+landing-page-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en  [!DNL Adobe App Builder] . Meer informatie over het maken van een net met één bron.
+short-description: Ontdek hoe u API Mesh kunt gebruiken op Adobe Commerce en  [!DNL Adobe App Builder] . Meer informatie over het maken van een net met één bron.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 12%
+source-wordcount: '237'
+ht-degree: 0%
 
 ---
 
 # Een net met één bron maken
 
-Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen maken in API Mesh voor Adobe Developer App Builder. Voor dit basisvoorbeeld om te werken zoals verwacht, hebt u een openbaar toegankelijke API of het eindpunt van GraphQL nodig. In de video wordt ook uitgelegd hoe u een eenvoudig `mesh.json` bestand voor gebruik met uw instantie Commerce. Ga voor meer informatie en codevoorbeelden naar [Een net maken](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen maken in API Mesh for Adobe Developer App Builder. Voor dit basisvoorbeeld om te werken zoals verwacht, hebt u een openbaar toegankelijke API of het eindpunt van GraphQL nodig. In de video wordt ook uitgelegd hoe u een eenvoudig `mesh.json` -bestand kunt maken voor gebruik met uw Commerce-instantie. Voor meer details en codesteekproeven, leidt het bezoek [ tot een netwerk ](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1) {target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -39,7 +39,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen
 
 ## Het JSON-configuratiebestand maken
 
-API Mesh gebruikt een JSON-configuratiebestand om uw bronhandlers te definiëren. Het JSON-bestand bevat een `sources` array die de bronnen voor het net bevat. Hier is een voorbeeld van een net met één bron.
+API Mesh gebruikt een JSON-configuratiebestand om uw bronhandlers te definiëren. Het JSON-bestand bevat een `sources` -array die de bronnen voor uw net bevat. Hier is een voorbeeld van een net met één bron.
 
 ```json
 {

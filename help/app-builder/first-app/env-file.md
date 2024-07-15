@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Het .env-bestand genereren en configureren {#env-file}
 
-De `.env` is een speciaal bestand dat geen deel uitmaakt van de voorbeeldmodule, maar dat belangrijk is voor gebruik in uw Adobe Developer App Builder-toepassing. Dit bestand bevat geheimen en andere informatie. Wijs dit bestand niet toe aan een opslagplaats voor code.
+`.env` is een speciaal bestand dat geen deel uitmaakt van de voorbeeldmodule, maar dat belangrijk is voor gebruik in uw Adobe Developer App Builder-toepassing. Dit bestand bevat geheimen en andere informatie. Wijs dit bestand niet toe aan een opslagplaats voor code.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken de Adobe App Builder die meer willen weten over de `.env` bestand.
+* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce, gebruiken Adobe App Builder die meer informatie over het bestand `.env` wil.
 
 ## Video-inhoud
 
@@ -55,7 +55,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Deze statische waarden worden gebruikt in de voorbeeldmodule in het bestand `actions/commerce.index.js`.
+Deze statische waarden worden gebruikt in de voorbeeldmodule in bestand `actions/commerce.index.js` .
 
 ```javascript
         const oauth = getCommerceOauthClient(

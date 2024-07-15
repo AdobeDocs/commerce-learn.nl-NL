@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Betalingsservices voor Adobe Commerce configureren
 
-Als je wilt beginnen met het gebruik van Betalingsservices voor Adobe Commerce en Magento Open Source, moet je een paar instapstappen uitvoeren. Kijk naar de _Betalingsservices voor Adobe Commerce configureren_ video voor voorbeelden van hoe u aan de slag kunt gaan.
+Als je wilt beginnen met het gebruik van Betalingsservices voor Adobe Commerce en Magento Open Source, moet je een paar instapstappen uitvoeren. Bekijk _vormen de Diensten van de Betaling voor Adobe Commerce_ video voor voorbeelden van hoe te begonnen worden.
 
 ## Voor wie is deze video?
 
@@ -32,6 +33,6 @@ Als je wilt beginnen met het gebruik van Betalingsservices voor Adobe Commerce e
 
 ## Aanvullende bronnen
 
-- [On-board betalingsservices](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [Handleiding voor betalingsservices](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [ De Diensten van de Betaling aan boord ](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html) {target="_blank"}
+- [ Gids van de Diensten van de Betaling ](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html) {target="+blank"}
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html) {target="+blank"}

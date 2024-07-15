@@ -1,7 +1,7 @@
 ---
 title: De map Handelingen
 description: Leer meer over de bestandstypen in de map actions voor deze voorbeeldtoepassing.
-landing-page-description: Meer informatie over de Adobe Developer App Builder die met Adobe Commerce wordt gebruikt en over de bestandstypen die in de map actions staan.
+landing-page-description: Meer informatie over Adobe Developer App Builder die wordt gebruikt met Adobe Commerce en over de bestandstypen die worden weergegeven in de map actions.
 kt: 12422
 doc-type: tutorial
 audience: all
@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Meer informatie over de map Handelingen {#actions-folder}
 
-De `actions` de map voor deze voorbeeldapp bevat enkele JavaScript-bestanden en een map met de naam `commerce`. Het weergegeven JavaScript is een uitstekend voorbeeldbestand dat opnieuw kan worden gebruikt als dit van belang is voor uw werk. Deze map kan u tijd besparen bij de ontwikkeling wanneer u verbinding maakt met de Adobe Commerce-toepassing met OAuth en REST.
+De map `actions` voor deze voorbeeldapp bevat enkele JavaScript-bestanden en één map met de naam `commerce` . De getoonde JavaScript is een uitstekend voorbeeldbestand dat opnieuw kan worden gebruikt als het relevant is voor uw werk. Deze map kan u tijd besparen bij de ontwikkeling wanneer u verbinding maakt met de Adobe Commerce-toepassing met OAuth en REST.
 
 De daadwerkelijke namen van mappen in dit voorbeeld zijn willekeurig, maar als u de namen van de mappen kent, kunt u de voorbeeldcode beter interpreteren. Door een zinvolle naamgevingsconventie te gebruiken, kunt u verwarring voorkomen als de toepassing complexer wordt.
 
@@ -30,9 +30,9 @@ De daadwerkelijke namen van mappen in dit voorbeeld zijn willekeurig, maar als u
 
 ## Video-inhoud
 
-* Inleiding tot App Builder en de voorbeeldmodule die zich richt op de `actions` map
+* Inleiding tot App Builder en de voorbeeldmodule met focus op de map `actions`
 * De map &quot;actions&quot; gebruiken
-* Het doel van het JavaScript-bestand in het dialoogvenster `actions` en `commerce` mappen
+* Het doel van het JavaScript-bestand in de mappen `actions` en `commerce` .
 * Een kort overzicht van de OAuth-verificatiebestanden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)

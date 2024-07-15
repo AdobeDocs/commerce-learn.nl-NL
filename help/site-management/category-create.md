@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ Voordat u producten aan uw catalogus toevoegt, moet u de basiscategoriestructuur
 
 ## Aanvullende bronnen
 
-- [Categorieën maken - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-- [Categoriemachtigingen - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [Navigatie boven - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [ creeer Categorieën -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+- [ Toestemmingen van de Categorie -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+- [ Hoogste Navigatie -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

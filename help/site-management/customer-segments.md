@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ De segmenten van de klant staan u toe om inhoud en bevorderingen aan specifieke 
 
 ## Aanvullende bronnen
 
-- [Klantsegmenten - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [Segmenten van klanten in prijsregels - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [ Segmenten van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [ Segmenten van de Klant in Prijsregels -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

@@ -1,6 +1,6 @@
 ---
 title: Valuta- en belastingregels beheren
-description: Leer hoe u valuta en belastingregels configureert die [!DNL Commerce] gebruik om de passende belasting te berekenen op basis van de klanten- en productklassen.
+description: Leer hoe te om munt en de belastingregels te vormen die  [!DNL Commerce]  gebruikt om de aangewezen belasting volgens de klant en productklassen te berekenen.
 kt: 10542
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ De belastingregels omvatten een combinatie productklasse, klantenklasse, en bela
 
 ## Aanvullende bronnen
 
-- [Belastingregels - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Valuta - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [ de Regels van de Belasting -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [ Valuta -  [!DNL Commerce]  opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

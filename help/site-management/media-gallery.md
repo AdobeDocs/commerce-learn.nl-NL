@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Met Adobe Commerce of Magento Open Source 2.4 kunnen handelaren hun mediabestand
 
 ## Aanvullende bronnen
 
-- [De medialerie - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
-- [Alternatieve mediaopslag - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)
+- [ de Galerij van Media -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [ Afwisselende Opslag van Media -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

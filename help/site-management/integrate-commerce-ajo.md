@@ -20,19 +20,19 @@ ht-degree: 0%
 
 # Adobe Commerce en Adobe Journey Optimizer integreren
 
-Meer informatie over het gebruik van [Gegevensverbinding](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} in Adobe Commerce om de gegevens van de Handel te ontgrendelen en volledige, gepersonaliseerde winkelervaringen in real-time te bieden met behulp van Adobe Journey Optimizer.
+Leer hoe u [ Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html) {target="blank"} in Adobe Commerce kunt gebruiken om de gegevens van Commerce te ontgrendelen en, gepersonaliseerde verkoopervaringen van begin tot eind in real time met de hulp van Adobe Journey Optimizer te leveren.
 
 ## Voor wie is deze video?
 
 - E-Commerce Managers en Verrichtingen geïnteresseerd in het delen van e-commercegegevens en publiek aan de teams van de Marketing
-- Marketing managers die klantgegevens van de Handel willen gebruiken om personalisatie op schaal verder te stimuleren
+- Marketing managers die op zoek zijn naar klantgegevens van Commerce om de personalisatie op schaal verder te verbeteren
 - Marketing Operations die geïnteresseerd zijn in het stimuleren van efficiëntie met de geautomatiseerde gegevensstroom tussen Commerce en Journey Optimizer
 
 ## Video-inhoud
 
 - Oplossing voor problemen met gesiloade gegevens door naadloos gegevens te streamen tussen Adobe Commerce en de Adobe Experience Platform, inclusief Journey Optimizer, met de gegevensverbinding
-- Neem gegevens die in real-time door de Handel worden geleverd om klantentwitten in Journey Optimizer te activeren en te personaliseren
-- Combineer de gegevens van de Handel met gegevens uit extra bronnen. Bouw publiek en richt hen met unieke berichten, ervaringen, of aanbiedingen
+- Maak gebruik van gegevens die Commerce in real-time heeft geleverd om klantreizen in Journey Optimizer te activeren en te personaliseren
+- Combineer Commerce-gegevens met gegevens uit aanvullende bronnen. Bouw publiek en richt hen met unieke berichten, ervaringen, of aanbiedingen
 - Implementeer deze integratie in slechts één uur met de gegevensverbinding, in vergelijking met de typische 20 dagen die nodig zijn voor een aangepaste implementatie
 - In Adobe Journey Optimizer kunt u eenvoudig een-op-een-klantreizen maken en activeren met out-of-box gebeurtenissen die beschikbaar zijn via de gegevensverbinding
 - Neem in real-time contact op met klanten via alle kanalen met behulp van de native communicatiemogelijkheden van Adobe Journey Optimizer
@@ -41,5 +41,5 @@ Meer informatie over het gebruik van [Gegevensverbinding](https://experienceleag
 
 ## Aanvullende bronnen
 
-[Overzicht gegevensverbinding](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
-[Gegevensverbinding installeren](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}
+[ Overzicht van de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html) {target="_blank"}
+[ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html) {target="_blank"}

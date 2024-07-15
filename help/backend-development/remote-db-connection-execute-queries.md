@@ -41,7 +41,7 @@ De aangewezen methode moet een gegevensbestandstortplaats doen en het scrubben o
 
 ## Het Adobe Commerce Cloud CLI-gereedschap gebruiken
 
-Voor het maken van een databasedumpel hebt u de [ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) geïnstalleerd. Ga op uw lokale laptop naar een directory en voer de volgende opdracht uit. Zorg ervoor dat u `your-project-id` met de project-id, vergelijkbaar met `asasdasd45q`. U moet ook vervangen `your-environment-name` met de naam van uw omgeving, zoals `master` of `staging`.
+Creërend een gegevensbestandstortplaats vereist u om [ geïnstalleerde Adobe Commerce Cloud CLI ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) te hebben. Ga op uw lokale laptop naar een directory en voer de volgende opdracht uit. Vervang `your-project-id` door de project-id, die vergelijkbaar is met `asasdasd45q` . U moet `your-environment-name` ook vervangen door de naam van uw omgeving, zoals `master` of `staging` .
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -83,7 +83,8 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## De Adobe Commerce ECE-gereedschappen gebruiken
 
-Als u het Adobe Commerce CLI-gereedschap niet hebt, kunt u `ssh` in uw project en voer de `ece` command `vendor/bin/ece-tools db-dump`: Monsterreactie:
+Als u het Adobe Commerce CLI-gereedschap niet hebt, kunt u `ssh` in uw project opnemen en de opdracht `ece` command `vendor/bin/ece-tools db-dump` uitvoeren:
+Monsterrespons:
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -117,9 +118,9 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-Gebruiken `SFTP` of `rsync` om de gegevensbestandstortplaats aan uw lokale milieu te trekken.
+Gebruik `SFTP` of `rsync` om de databasedumpit naar uw lokale omgeving te verplaatsen.
 
-In het volgende voorbeeld wordt `rsync` om het bestand aan de `~/Downloads/db-tutorial` map.
+In het volgende voorbeeld wordt `rsync` gebruikt om het bestand aan de map `~/Downloads/db-tutorial` toe te voegen.
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -250,7 +251,7 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
   export MAGENTO_CLOUD_RELATIONSHIPS="$(magento-cloud tunnel:info --encode)"
 ```
 
-Vestig een verbinding gebruikend een grafische interface MySQL door te gebruiken `SSH tunnel opened to database at` gebruiken.
+Vestig een verbinding gebruikend een grafische interface MySQL door de `SSH tunnel opened to database at` beveloptie te gebruiken.
 
 ```bash
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
@@ -260,11 +261,11 @@ Nu u de juiste informatie hebt, kunt u deze waarden blijven invoegen in de Cloud
 
 U vindt de hostnaam en gebruikersnaam van SSH via de aanmeldingsgegevens voor de cloud in de Cloud Console.
 
-![logo - Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
+![ embleem - de Console van Adobe Commerce Cloud ](./assets/cloud-ui-screenshot.png " Console van Adobe Commerce Cloud ")
 
 Hier volgt een voorbeeld: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
-De SSH hostname is alles na @ teken: `ssh.us-4.magento.cloud` in dit voorbeeld.
-De gebruikersnaam SSH is alles vóór het @-teken:  `abasrpikfw4123-remote-db-ecpefky—mymagento`
+De SSH-hostnaam is alles na het @-teken: `ssh.us-4.magento.cloud` in dit voorbeeld.
+De SSH-gebruikersnaam is alles vóór het @-teken: `abasrpikfw4123-remote-db-ecpefky—mymagento`
 
 ## Waarden zoeken voor verbinding met de database
 
@@ -276,7 +277,7 @@ Als u rechtstreeks toegang wilt krijgen tot de MariaDB-database, moet u SSH gebr
    magento-cloud ssh
    ```
 
-1. Haal de MySQL aanmeldingsgegevens op van het `database` en `type` eigenschappen in de [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) variabele.
+1. Haal de MySQL login geloofsbrieven van de `database` en `type` eigenschappen in de [$MAGENTO_CLOUD_RELATIONSHIPS ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) variabele terug.
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +315,15 @@ Als u rechtstreeks toegang wilt krijgen tot de MariaDB-database, moet u SSH gebr
 
 Dan gebruik de configuratiewaarden in uw MySQL GUI. In het volgende voorbeeld wordt MySQL Workbench gebruikt, maar elke toepassing die MySQL-verbindingen ondersteunt, heeft vergelijkbare velden.
 
-![logo - Mysql GUI-voorbeeld met Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Mysql GUI-voorbeeld met Mysql Workbench")
+![ embleem - het voorbeeld Mysql GUI die Mysql Workbench ](./assets/mysql-workbench-after-connecting.png " Mysql GUI gebruiken voorbeeld gebruikend Mysql Workbench ")
 
-![logo - Mysql GUI-voorbeeld met TablesPlus](./assets/tablesPlus-db-connection.png " Mysql GUI-voorbeeld met TablesPlus")
+![ embleem - het voorbeeld van Mysql GUI gebruikend TablesPlus ](./assets/tablesPlus-db-connection.png " Mysql GUI voorbeeld gebruikend TablesPlus ")
 
 Nadat alles opstelling is, is het mogelijk om MySQL GUI te gebruiken om vragen op een ver project van Adobe Commerce Cloud in werking te stellen.
 
 ## Direct verbinding maken met de database van het cloudproject om SQL uit te voeren
 
-De volgende methode gebruikt de `magento-cloud` om rechtstreeks verbinding te maken met de mysql-database en SQL uit te voeren, waardoor database sneller kan worden opgezocht. Als u deze database moet kopiëren, raadpleegt u een van de alternatieve methoden om [een databasedumpdump maken](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+De volgende methode gebruikt de `magento-cloud` -cli om rechtstreeks verbinding te maken met de mysql-database en SQL uit te voeren, waardoor de database sneller kan worden opgevraagd. Als u dit gegevensbestand moet kopiëren, verwijs naar één van de alternatieve methodes om [ tot een gegevensbestandstortplaats ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html) te leiden.
 
 ```bash
 magento-cloud db:sql    
@@ -348,7 +349,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-U kunt bijvoorbeeld alle records zoeken in het dialoogvenster `core_config_data` tabel die het woord bevat `secure` als onderdeel van de kolom `path`:
+U kunt bijvoorbeeld alle records in de tabel `core_config_data` vinden die het woord `secure` als onderdeel van de kolom `path` bevatten:
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -382,7 +383,7 @@ MariaDB [main]>
 
 ## Aanvullende bronnen
 
-[ADOBE COMMERCE CLOUD CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[MySQL-service instellen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-[Een externe MySQL-databaseverbinding instellen](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[Database-dump maken op Adobe Commerce op cloudinfrastructuur](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[ Adobe Commerce Cloud CLI ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+[ Opstelling de dienst MySQL ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
+[ Opstelling een verre MySQL gegevensbestandverbinding ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
+[ creeer gegevensbestandstortplaats op Adobe Commerce op wolkeninfrastructuur ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

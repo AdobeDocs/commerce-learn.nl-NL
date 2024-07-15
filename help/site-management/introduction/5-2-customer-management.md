@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] voor zakelijke gebruikers - Klantenbeheer"
-description: Meer informatie over de aanbevolen machtigingen voor de klantenservice en het maken van een klant in de [!DNL Admin], het beheren van klanteninformatie, en het creëren van klantengroepen.
+description: Leer over de geadviseerde toestemmingen voor de klantendienst, creërend een klant in  [!DNL Admin], het leiden van klanteninformatie, en het creëren van klantengroepen.
 kt: 5779
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 In deze video:
 
 - Aanbevolen machtigingen voor een CSR (Customer Service Vertegenwoordiger)
-- Een klant maken in het dialoogvenster [!DNL Admin]
+- Een klant maken in de [!DNL Admin]
 - Klantgegevens beheren
 - Klantengroepen maken
 
@@ -36,6 +36,6 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[Een individuele klantaccount maken - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[ creeer een individuele klantenrekening -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Klantengroepen - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[ de groepen van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

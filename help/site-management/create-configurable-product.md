@@ -1,6 +1,6 @@
 ---
 title: Een configureerbaar product maken
-description: Leer hoe te om een configureerbaar product tot stand te brengen gebruikend REST API en Commerce Admin.
+description: Leer hoe u een configureerbaar product maakt met de REST API en de Commerce Admin.
 kt: 14586
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
 
 ---
-
 
 # Een configureerbaar product maken
 
@@ -30,7 +30,7 @@ In deze zelfstudie leert u hoe u een configureerbaar product kunt maken met de R
 
 Gebruik de REST API om een configureerbaar product te maken:
 
-1. Haal de kenmerken op voor een [kenmerkset](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) om de aantallen van identiteitskaart voor verdere API vraag te gebruiken.
+1. Krijg de attributen voor een [ geplaatst attribuut ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) om de aantallen van identiteitskaart voor verdere API vraag te gebruiken.
 1. Creeer eenvoudige producten voor gebruik in het configureerbare product.
 1. Maak een leeg configureerbaar product en koppel de eenvoudige producten.
 1. Stel de productkenmerken in voor het configureerbare product.
@@ -85,7 +85,7 @@ In dit voorbeeld wordt het gehele kenmerk dat met alle afzonderlijke kenmerken i
 ```
 
 
-Als u de kenmerken-id&#39;s wilt ophalen om het configureerbare product in te stellen, werkt u de `attribute-sets/10/attributes` deel van het volgende cURL-verzoek dat moet worden vervangen `10` met de id van de kenmerkset in uw omgeving. In dit verzoek wordt de methode GET gebruikt.
+Als u de kenmerken-id&#39;s wilt ophalen om het configureerbare product in te stellen, werkt u het `attribute-sets/10/attributes` -gedeelte van de volgende cURL-aanvraag bij om `10` te vervangen door de id van de kenmerkset in uw omgeving. In dit verzoek wordt de methode GET gebruikt.
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -100,8 +100,8 @@ Maak het eerste eenvoudige product met behulp van de API en verzend de volgende 
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
-- Wijzigen `"attribute-set": 10` vervangen `10` met de id van de kenmerkset uit uw omgeving.
-- Wijzigen `"value": "13"` vervangen `13` met de waarde van uw omgeving.
+- Wijzig `"attribute-set": 10` in het vervangen van `10` door de id van de kenmerkset in uw omgeving.
+- Wijzig `"value": "13"` in het vervangen van `13` door de waarde uit de omgeving.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +141,8 @@ Maak het tweede eenvoudige product met behulp van de API en verzend de volgende 
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
-- Wijzigen `"attribute_set_id": 10,` en vervangen `10` met de id van de kenmerkset in uw omgeving.
-- Wijzigen `"value": "14"` en vervangen `14` met de waarde van uw omgeving.
+- Wijzig `"attribute_set_id": 10,` en vervang `10` door de id van de kenmerkset in uw omgeving.
+- Wijzig `"value": "14"` en vervang `14` door de waarde uit de omgeving.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +182,8 @@ Maak het derde eenvoudige product door het volgende verzoek om POST via cURL te 
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
-- Wijzigen `"attribute_set_id": 10,` vervangen `10` met de id van de kenmerkset uit uw omgeving.
-- Wijzigen `"value": "15"` en vervangen `15` met de waarde van uw omgeving.
+- Wijzig `"attribute_set_id": 10,` in het vervangen van `10` door de id van de kenmerkset in uw omgeving.
+- Wijzig `"value": "15"` en vervang `15` door de waarde uit de omgeving.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +223,8 @@ Maak een leeg configureerbaar product door de volgende POST met cURL te verzende
 
 Voordat u de aanvraag verzendt, werkt u het voorbeeld bij met waarden voor de omgeving.
 
-- Wijzigen `"attribute_set_id": 10,` en vervangen `10` met de id van de kenmerkset uit uw omgeving.
-- Wijzigen `"value": "93"` en vervangen `93` met de waarde van uw omgeving.
+- Wijzig `"attribute_set_id": 10,` en vervang `10` door de id van de kenmerkset in uw omgeving.
+- Wijzig `"value": "93"` en vervang `93` door de waarde uit de omgeving.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -254,7 +254,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Stel de beschikbare opties voor het configureerbare product in door het volgende verzoek van de POST via cURL te verzenden.
 
-Voordat u de aanvraag verzendt, wijzigt u `"attribute_id": 93,` vervangen `93` met de kenmerk-id van uw omgeving.
+Voordat u de aanvraag verzendt, wijzigt u `"attribute_id": 93,` in Vervangen door de id van het kenmerk van `93` vanuit de omgeving.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -284,13 +284,13 @@ Als u vergeet om de opties voor het configureerbare product (ouder) te plaatsen,
 
 U hebt nu drie eenvoudige producten gemaakt:
 
-- `"Kids Hawaiian Ukulele Red"`,
+- `"Kids Hawaiian Ukulele Red"` ,
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
 Voeg deze eenvoudige producten als kinderen van het configureerbare product toe door het volgende verzoek van de POST te verzenden. Voor elk product een afzonderlijk verzoek indienen.
 
-Werk voor elke aanvraag de `childSKU` waarde met de waarde voor het onderliggende product dat u toevoegt. In het volgende voorbeeld wordt het eenvoudige product toegewezen `kids-Hawaiian-Ukulele-red` aan het configureerbare product met SKU `Kids-Hawaiian-Ukulele-red`.
+Werk voor elke aanvraag de waarde `childSKU` bij met de waarde voor het onderliggende product dat u toevoegt. In het volgende voorbeeld wordt het eenvoudige product `kids-Hawaiian-Ukulele-red` toegewezen aan het configureerbare product met de SKU `Kids-Hawaiian-Ukulele-red` .
 
 
 ```bash
@@ -347,7 +347,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Aanvullende bronnen
 
-- [Een configureerbare zelfstudie voor het product maken](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Configureerbaar product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
-- [Adobe Developer REST-zelfstudies](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [ creeer een configureerbare productleerprogramma ](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/) {target="_blank"}
+- [ Configureerbaar Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html) {target="_blank"}
+- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/) {target="_blank"}
+- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products) {target="_blank"}

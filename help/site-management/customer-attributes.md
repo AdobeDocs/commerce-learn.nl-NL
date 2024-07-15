@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ De attributen van de klant verstrekken de informatie die wordt vereist om de ord
 
 ## Aanvullende bronnen
 
-- [Eigenschappen van klantkenmerken - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [Een individuele klantaccount maken - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- {de eigenschappen van het attribuut van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)[
+- [ creeer een Individuele Rekening van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

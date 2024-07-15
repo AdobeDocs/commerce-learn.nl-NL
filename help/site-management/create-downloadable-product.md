@@ -34,7 +34,7 @@ Leer hoe u een downloadbaar product maakt met de REST API en de Adobe Commerce A
 
 ## Toegestane downloadbare domeinen
 
-U moet opgeven welke domeinen zijn toegestaan voor downloaden. Domeinen worden toegevoegd aan het project `env.php` bestand via de opdrachtregel. De `env.php` bestandsgegevens over de domeinen die downloadbare inhoud mogen bevatten. Er treedt een fout op als een downloadbaar product wordt gemaakt met de REST API _voor_  de `php.env` bestand is bijgewerkt:
+U moet opgeven welke domeinen zijn toegestaan voor downloaden. Domeinen worden via de opdrachtregel toegevoegd aan het `env.php` -bestand van het project. In het `env.php` -bestand worden de domeinen beschreven die downloadbare inhoud mogen bevatten. Een fout komt voor als een downloadbaar product gebruikend REST API _wordt gecreeerd alvorens_ het `php.env` dossier wordt bijgewerkt:
 
 ```bash
 {
@@ -44,7 +44,7 @@ U moet opgeven welke domeinen zijn toegestaan voor downloaden. Domeinen worden t
 
 Maak verbinding met de server om het domein in te stellen: `bin/magento downloadable:domains:add www.example.com`
 
-Wanneer dat voltooid is, `env.php` wordt gewijzigd binnen de _downloadbaar_domeinen_ array.
+Zodra dat volledig is, wordt `env.php` gewijzigd binnen de _downloadable_domain_ serie.
 
 ```php
     'downloadable_domains' => [
@@ -52,18 +52,18 @@ Wanneer dat voltooid is, `env.php` wordt gewijzigd binnen de _downloadbaar_domei
     ],
 ```
 
-Nu wordt het domein toegevoegd aan de `env.php`kunt u een downloadbaar product maken in de Adobe Commerce Admin of met de REST API.
+Nu het domein aan `env.php` wordt toegevoegd, kunt u een downloadbaar product in Adobe Commerce Admin of door REST API te gebruiken tot stand brengen.
 
-Zie [Configuratieverwijzing](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) voor meer informatie.
+Zie [ Verwijzing van de Configuratie ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) om meer te leren.
 
 >[!IMPORTANT]
->In sommige versies van Adobe Commerce kan de volgende fout optreden wanneer een product wordt bewerkt in Adobe Commerce Admin. Het product wordt gemaakt met de REST API, maar de gekoppelde download heeft een `null` prijs.
+>In sommige versies van Adobe Commerce kan de volgende fout optreden wanneer een product wordt bewerkt in Adobe Commerce Admin. Het product wordt gemaakt met de REST API, maar de gekoppelde download heeft een prijs `null` .
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-Gebruik de API voor bijwerken van koppelingen om deze fout te corrigeren: `POST V1/products/{sku}/downloadable-links.`
+Gebruik de API voor bijwerken om deze fout te corrigeren: `POST V1/products/{sku}/downloadable-links.`
 
-Zie de [Een productdownloadkoppeling bijwerken met cURL](#update-downloadable-links) voor meer informatie.
+Zie [ een verbinding van de productdownload bijwerken gebruikend cURL ](#update-downloadable-links) sectie voor meer info.
 
 ## Een downloadbaar product maken met cURL (downloaden vanaf externe server)
 
@@ -116,20 +116,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 In dit voorbeeld wordt getoond hoe u cURL gebruikt om een downloadbaar product te maken van de Adobe Commerce Admin wanneer het bestand wordt opgeslagen op dezelfde server als de Adobe Commerce-toepassing.
 
-In dit geval kiest de beheerder die de catalogus beheert `upload file`, wordt het bestand overgebracht naar de `pub/media/downloadable/files/links/` directory.  Met Automatisering worden de bestanden op basis van het volgende patroon gemaakt en verplaatst naar de respectievelijke locaties:
+In dit geval wordt het bestand overgebracht naar de map `pub/media/downloadable/files/links/` wanneer de beheerder van de catalogus `upload file` kiest.  Met Automatisering worden de bestanden op basis van het volgende patroon gemaakt en verplaatst naar de respectievelijke locaties:
 
 - Elk geüpload bestand wordt opgeslagen in een map op basis van de eerste twee tekens van de bestandsnaam.
 - Wanneer het uploaden wordt gestart, maakt of gebruikt de Commerce-toepassing bestaande mappen om het bestand over te brengen.
-- Wanneer u het bestand downloadt, wordt `link_file` van het pad gebruikt het deel van het pad dat aan het pad is toegevoegd `pub/media/downloadable/files/links/` directory.
+- Wanneer u het bestand downloadt, gebruikt de sectie `link_file` van het pad het gedeelte van het pad dat aan de map `pub/media/downloadable/files/links/` is toegevoegd.
 
-Als het geüploade bestand bijvoorbeeld een naam heeft `download-example.zip`:
+Als het geüploade bestand bijvoorbeeld de naam `download-example.zip` heeft:
 
-- Het bestand wordt geüpload naar het pad `pub/media/downloadable/files/links/d/o/`.
-De submappen `/d` en `/d/o` worden gemaakt als deze niet bestaan.
+- Het bestand wordt geüpload naar het pad `pub/media/downloadable/files/links/d/o/` .
+De submappen `/d` en `/d/o` worden gemaakt als ze niet bestaan.
 
-- Het laatste pad naar het bestand is `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+- Het laatste pad naar het bestand is `/pub/media/downloadable/files/links/d/o/download-example.zip` .
 
-- De `link_url` waarde voor dit voorbeeld is `d/o/download-example.zip`
+- De `link_url` -waarde voor dit voorbeeld is `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,7 +182,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 ## Het product bijwerken met Postman {#update-downloadable-links}
 
 Het eindpunt gebruiken `rest/all/V1/products/{sku}/downloadable-links`
-De `SKU` Dit is de product-id die is gegenereerd toen het product werd gemaakt. In het onderstaande codevoorbeeld is dit bijvoorbeeld het nummer 39, maar zorg ervoor dat dit wordt bijgewerkt zodat de id van uw website wordt gebruikt. Hiermee werkt u de koppelingen naar de downloadbare producten bij.
+De `SKU` is de product-id die is gegenereerd toen het product werd gemaakt. In het onderstaande codevoorbeeld is dit bijvoorbeeld het nummer 39, maar zorg ervoor dat dit wordt bijgewerkt zodat de id van uw website wordt gebruikt. Hiermee werkt u de koppelingen naar de downloadbare producten bij.
 
 ```json
 {
@@ -207,7 +207,7 @@ De `SKU` Dit is de product-id die is gegenereerd toen het product werd gemaakt. 
 
 ## Een productdownloadkoppeling bijwerken met CURL
 
-Wanneer u een koppeling voor het downloaden van een product bijwerkt via cURL, bevat de URL de SKU voor het product dat wordt bijgewerkt.  In het volgende codevoorbeeld, SKU is `abcd12345`. Als u de opdracht verzendt, wijzigt u de waarde zodat deze overeenkomt met de SKU voor het product dat u wilt bijwerken.
+Wanneer u een koppeling voor het downloaden van een product bijwerkt via cURL, bevat de URL de SKU voor het product dat wordt bijgewerkt.  In het volgende codevoorbeeld, is SKU `abcd12345`. Als u de opdracht verzendt, wijzigt u de waarde zodat deze overeenkomt met de SKU voor het product dat u wilt bijwerken.
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
@@ -236,7 +236,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Aanvullende bronnen
 
-- [Downloadbaar producttype](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
-- [Configuratiegids voor downloadbare domeinen](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
-- [Adobe Developer REST-zelfstudies](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [ Downloadbaar Type van Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html) {target="_blank"}
+- [ Downloadbare Gids van de Configuratie van Domeinen ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) {target="_blank"}
+- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/) {target="_blank"}
+- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products) {target="_blank"}

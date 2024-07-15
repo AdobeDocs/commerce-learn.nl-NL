@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Categorieplaatsing"
+title: "[!DNL Commerce] voor zakelijke gebruikers - Categoriepositionering"
 description: Plaats producten binnen categorieën zodat de klanten de producten bij de bovenkant zien die u hen wilt zien.
 kt: 5776
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 499b4ba1-c0b3-4961-8b03-6f8cbe965ca7
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] voor zakelijke gebruikers - Positie in categorieën
+# [!DNL Commerce] voor zakelijke gebruikers - Categoriepositionering
 
 In deze video:
 
@@ -31,10 +31,10 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Toewijzingen van producten in de categorie - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+[ het producttaken van de Categorie -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)

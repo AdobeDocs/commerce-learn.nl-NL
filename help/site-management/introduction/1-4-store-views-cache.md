@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,6 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[Websites, winkels en weergaven - [!DNL Commerce] Aan de slag](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[ Websites, opslag, en meningen -  [!DNL Commerce]  Begonnen Gids ](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html) krijgen
 
-[Cachebeheer - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[ beheer van het Geheime voorgeheugen -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

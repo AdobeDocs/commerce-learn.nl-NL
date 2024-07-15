@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence - SQL-Report Builder
-description: Leer hoe te om de SQL Report Builder van de Intelligentie van de Handel te gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
-landing-page-description: Bekijk deze video om te leren hoe de SQL-Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis rechtstreeks te vragen, de resultaten te bekijken en deze snel om te zetten in een grafiek.
-short-description: Bekijk deze video om te leren hoe de SQL-Report Builder van de Intelligentie van de Handel gebruikt om uw gegevenspakhuis rechtstreeks te vragen, de resultaten te bekijken en deze snel om te zetten in een grafiek.
+description: Leer hoe te om de Report Builder van Commerce Intelligence SQL te gebruiken om uw gegevenspakhuis direct te vragen, de resultaten te bekijken, en hen snel om te zetten in een grafiek.
+landing-page-description: Bekijk deze video om te leren hoe u de Commerce Intelligence SQL-Report Builder gebruikt om rechtstreeks query's uit te voeren op uw gegevenspakhuis, de resultaten weer te geven en deze snel om te zetten in een grafiek.
+short-description: Bekijk deze video om te leren hoe u de Commerce Intelligence SQL-Report Builder gebruikt om rechtstreeks query's uit te voeren op uw gegevenspakhuis, de resultaten weer te geven en deze snel om te zetten in een grafiek.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Commerce Intelligence
@@ -16,7 +16,7 @@ level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ In deze video:
 
 >[!TIP]
 >
->Als je nog geen ervaring hebt met de Commerce Intelligence, [Adobe Commerce Intelligence-gebruikersgids](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} verstrekt een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u aan Commerce Intelligence nieuw bent, verstrekt de [ Gids van de Gebruiker van Adobe Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) {target="_blank"} een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 
@@ -50,6 +50,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[Gebruikend de SQL Report Builder - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[ Gebruikend de SQL Report Builder - de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Creërend Visualisaties van SQL Vragen - de Gids van de Gebruiker van de Intelligentie van de Handel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[ Creërend Visualisaties van SQL Vragen - de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

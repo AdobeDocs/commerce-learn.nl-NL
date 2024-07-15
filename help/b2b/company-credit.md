@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Bedrijfskrediet beheren
 
-Voor bedrijven die _[!UICONTROL Payment on Account]_en beschikken over bedrijfskrediet, kunnen zij aankopen op hun rekening doen tot het toegestane kredietbedrag. Met deze functie kunnen klanten de status van hun bedrijfskrediet controleren vanaf het dashboard van hun account.
+Voor bedrijven die _[!UICONTROL Payment on Account]_hebben ingeschakeld en bedrijfskrediet beschikbaar hebben, kunnen ze aankopen op hun account doen tot het toegestane maximum. Met deze functie kunnen klanten de status van hun bedrijfskrediet controleren vanaf het dashboard van hun account.
 
 U kunt de volgende kredietgerelateerde parameters instellen voor elk bedrijfsprofiel:
 
@@ -43,5 +43,5 @@ U kunt de volgende kredietgerelateerde parameters instellen voor elk bedrijfspro
 
 ## Aanvullende bronnen
 
-- [Betaling op account configureren](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [Bedrijfskrediet beheren](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [ vorm betaling op rekening ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [ beheer Bedrijfskrediet ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

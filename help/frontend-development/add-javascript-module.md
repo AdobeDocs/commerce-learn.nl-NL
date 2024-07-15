@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module 
 ## Stappen
 
 - Een module maken
-- Een `requirejs-config.js` en een JavaScript-modulebestand
+- Een `requirejs-config.js` - en een JavaScript-modulebestand maken
 - Lay-outupdate maken voor het toevoegen van een sjabloon die de JS-module inschakelt
 - Sjabloonbestand maken
 - Voeg de module toe en test het
@@ -38,5 +38,5 @@ Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module 
 
 ## Nuttige bronnen
 
-- [JavaScript-ontwikkelaarshandleiding](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [JavaScript aanroepen en initialiseren](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [ de ontwikkelaarsgids van JavaScript ](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [ het roepen van en het initialiseren van JavaScript ](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

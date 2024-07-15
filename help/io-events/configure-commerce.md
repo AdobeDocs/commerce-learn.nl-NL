@@ -14,24 +14,24 @@ level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce configureren
 
-Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. Aanvullende documentatie gevonden op [Adobe I/O-gebeurtenissen installeren voor Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/) {target="_blank"}.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog niet bekend zijn met Adobe Commerce en Adobe Developer App Builder, gebruiken I/O-gebeurtenissen en moeten een Adobe App Builder-project maken.
+* Ontwikkelaars die nog niet bekend zijn met Adobe Commerce en Adobe Developer App Builder gebruiken I/O-gebeurtenissen en moeten een Adobe App Builder-project maken.
 
 ## Video-inhoud {#video-content}
 
-* Configuratie van de Adobe I/O-gebeurtenissen in de Commerce-administratie
-* Een persoonlijke sleutel opslaan in de Commerce-administratie
-* Het opslaan van het unieke herkenningsteken in Admin van de Handel
+* Configuratie van de Adobe I/O-gebeurtenissen in de Commerce-beheerder
+* Een persoonlijke sleutel opslaan in de Commerce-beheerder
+* De unieke id opslaan in de Commerce-beheerder
 * Een gebeurtenisprovider maken
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

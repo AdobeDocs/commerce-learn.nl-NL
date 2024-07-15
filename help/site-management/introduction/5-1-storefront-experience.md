@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -34,12 +34,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Bereik van klantenaccount - [!DNL Commerce] Handleiding voor klantbeheer](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[ het rekeningswerkingsgebied van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Wish list storefront experience - [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[ de lijststorefront ervaring van de Wenslijst -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

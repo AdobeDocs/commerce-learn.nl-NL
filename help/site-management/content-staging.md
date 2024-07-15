@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ Met Inhoud stapelen kan uw bedrijfsteam eenvoudig een groot aantal inhoudsupdate
 
 ## Aanvullende bronnen
 
-- [Inhoud stapelen - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [Een voorvertoning van een campagne weergeven - [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [ Inhoud die -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp opneemt ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html) {target="_blank"}
+- [ Voorproef een Campagne -  [!DNL Commerce]  Inhoud en de Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html) {target="_blank"}

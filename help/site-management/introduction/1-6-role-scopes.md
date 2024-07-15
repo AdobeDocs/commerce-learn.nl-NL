@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie [releaseopmerkingen](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[Beheerdersaccounts beheren - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[ beheer Admin gebruikersrekeningen -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Gebruikersrollen - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[ de rollen van de Gebruiker -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

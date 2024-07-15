@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Maak een pagina waarop één parameter wordt geretourneerd.
 ## Stappen om een pagina toe te voegen
 
 - Een module maken
-- Voeg een **routes.xml** file
+- Voeg a **routes.xml** dossier toe
 - Een controllerbestand (actiebestand) toevoegen
 
 ## Stappen om een module te maken
 
 - De modulemap maken
-- Maak de `etc/module.xml` file
-- Maak de `registration.php` file
-- Voer de `bin/magento setup:upgrade` script om de nieuwe module te installeren
+- Het `etc/module.xml` -bestand maken
+- Het `registration.php` -bestand maken
+- Voer het script van `bin/magento setup:upgrade` uit om de nieuwe module te installeren
 - Controleren of de module werkt
 
 ## Video-inhoud
@@ -44,4 +44,4 @@ Maak een pagina waarop één parameter wordt geretourneerd.
 
 ## Nuttige bronnen
 
-[Hulplijn voor ontwikkelaars voorzijde](https://developer.adobe.com/commerce/frontend-core/guide/)
+[ Voorste ontwikkelaarsgids ](https://developer.adobe.com/commerce/frontend-core/guide/)

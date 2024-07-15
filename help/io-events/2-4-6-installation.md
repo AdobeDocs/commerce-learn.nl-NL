@@ -15,18 +15,18 @@ level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Installatie van Adobe Commerce 2.4.6
 
-Leer hoe u verschillende nieuwe modules in Adobe Commerce installeert met Composer for versie 2.4.6. Aanvullende documentatie gevonden op [Adobe I/O-gebeurtenissen installeren voor Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Leer hoe u verschillende nieuwe modules in Adobe Commerce installeert met Composer for versie 2.4.6. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/) {target="_blank"}.
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog geen ervaring hebben met Adobe Commerce en Adobe Developer App Builder, gebruiken I/O-gebeurtenissen.
+* Ontwikkelaars die nog niet bekend zijn met Adobe Commerce en Adobe Developer App Builder gebruiken I/O Events.
 
 ## Video-inhoud {#video-content}
 
@@ -56,7 +56,7 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`:
+Commerce Cloud `.magento.env.yaml` :
 
 ```yaml
 stage:

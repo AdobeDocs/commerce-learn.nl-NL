@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # Een productkenmerk maken
 
-Het toevoegen van een productkenmerk is een van de populairste bewerkingen in [!DNL Commerce]. Kenmerken zijn een krachtige manier om veel praktische taken met betrekking tot een product op te lossen. Er is een eenvoudig proces om een dropdown-type attribuut aan een product toe te voegen.
+Het toevoegen van een productkenmerk is een van de meest gebruikte bewerkingen in [!DNL Commerce] . Kenmerken zijn een krachtige manier om veel praktische taken met betrekking tot een product op te lossen. Er is een eenvoudig proces om een dropdown-type attribuut aan een product toe te voegen.
 
 In deze video:
 
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Als uw module het Verklarende Schema gebruikt, en de meesten sinds 2.3.0 hebben zou u setup_version moeten weglaten. Nochtans als u sommige erfenisprojecten hebt kunt u deze gebruikte methode zien.  Zie [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} voor meer informatie .
+>Als uw module het Verklarende Schema gebruikt, en de meesten sinds 2.3.0 hebben zou u setup_version moeten weglaten. Nochtans als u sommige erfenisprojecten hebt kunt u deze gebruikte methode zien.  Zie [ developer.adobe.com ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file) {target="_blank"} voor meer informatie.
 
 
 ```xml
@@ -229,6 +229,6 @@ class InstallData implements InstallDataInterface
 
 ## Nuttige bronnen
 
-[Een productkenmerk maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
+[ creeer een productattribuut ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Een aangepast tekstveldkenmerk toevoegen](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[ voeg een attribuut van het douanetekstgebied ](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/) toe

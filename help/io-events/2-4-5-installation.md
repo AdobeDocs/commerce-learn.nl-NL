@@ -15,14 +15,14 @@ level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Installatie van Adobe Commerce 2.4.5
 
-Leer hoe u verschillende nieuwe modules in Adobe Commerce installeert met Composer for versie 2.4.5. Hiermee worden de vereiste modules ingesteld die in de Adobe Commerce-toepassing moeten worden gebruikt. Aanvullende documentatie gevonden op [Adobe I/O-gebeurtenissen installeren voor Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Leer hoe u verschillende nieuwe modules in Adobe Commerce installeert met Composer for versie 2.4.5. Hiermee worden de vereiste modules ingesteld die in de Adobe Commerce-toepassing moeten worden gebruikt. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/) {target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -65,7 +65,7 @@ composer update
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`:
+Commerce Cloud `.magento.env.yaml` :
 
 ```yaml
 stage:

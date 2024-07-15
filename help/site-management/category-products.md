@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Het organiseren van uw producten in categorieën is belangrijk voor het beheer v
 
 ## Aanvullende bronnen
 
-- [Toewijzingen van producten in de categorie - [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [Categorievoorschriften voor handelswaar - [!DNL Commerce] Handleiding Handelsbemiddeling en speciale acties](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [ het producttaken van de Categorie -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [ de regels van de Categorie voor het verhandelen -  [!DNL Commerce]  Gids van Verkoop en Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

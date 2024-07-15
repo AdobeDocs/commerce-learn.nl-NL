@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Handelszelfstudies {#videos}
+# Commerce-zelfstudies {#videos}
 
-Welkom bij de [!DNL Commerce] video&#39;s en zelfstudies. Deze bronnen samen met de [documentatie](https://experienceleague.adobe.com/docs/commerce.html), biedt een mogelijkheid om te leren hoe u Adobe Commerce en Magento Open Source kunt gebruiken om uw e-commercehandel te ondersteunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
+Welkom bij de verzameling video&#39;s en zelfstudies van [!DNL Commerce] . Gebruikend deze middelen, samen met de [ documentatie ](https://experienceleague.adobe.com/docs/commerce.html), biedt een kans om te leren hoe te om Adobe Commerce en Magento Open Source te gebruiken om uw e-commercezaken te steunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,10 +27,10 @@ Welkom bij de [!DNL Commerce] video&#39;s en zelfstudies. Deze bronnen samen met
 
 >[!TIP]
 >
->De [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) ruimte biedt toegang tot opgenomen inhoud van gebeurtenissen die u op verzoek kunt bekijken.
+>De [ Gebeurtenissen van Commerce ](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) ruimte verleent toegang tot geregistreerde gebeurtenisinhoud die u op bestelling kunt letten.
 
 ## Aanvullende bronnen
 
-- [Handelsdocumentatie](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
-- [Documentatie ontwikkelaar](https://developer.adobe.com/commerce)
-- [Adobe Digital Learning Services - Adobe Commerce-cursuscatalogus](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
+- [ Merchant documentatie ](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+- [ documentatie van de Ontwikkelaar ](https://developer.adobe.com/commerce)
+- [ de Digitale Lerende Diensten van de Adobe - de cursuscatalogus van Adobe Commerce ](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
