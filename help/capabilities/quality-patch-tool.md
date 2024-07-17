@@ -9,14 +9,18 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 5a2a757bc97c5af25070e448abf119e2e657b6c8
+source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
 
-# Wat te verwachten van het bekijken van deze video
+# Adobe Commerce-patch
+
+Leer hoe u de patch voor de kwaliteit kunt gebruiken bij het diagnosticeren van een probleem, het zoeken naar een oplossing en het toepassen van een patch in de bestaande lijst met beschikbare patches.
+
+## Wat te verwachten van het bekijken van deze video
 
 Leer hoe u een probleem kunt oplossen en gebruik vervolgens enkele basistechnieken om een kwaliteitspatch te zoeken om een oplossing toe te passen.
 
