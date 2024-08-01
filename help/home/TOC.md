@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: c515ff321849045ba1abed2b3b5f6d3795854f91
+source-git-commit: 4445a494d0d84c8ececba27c976d06fe0f54fb70
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---
@@ -45,6 +45,11 @@ ht-degree: 2%
       + [Cadeauproduct](../site-management/create-gift-card-product.md)
    + Startkit voor de integratie van back office {#back-office-integration-starter-kit}
       + [demonstratie van de startkit](../back-office-integrations/starter-kit-demo.md)
+      + [Integraties](../back-office-integrations/integrations.md)
+      + [Source Code Organisation](../back-office-integrations/source-code-organization.md)
+      + [Integratie van vorige kilometer](../back-office-integrations/last-mile-integration.md)
+      + [WebHaak-opname](../back-office-integrations/webhook-ingestion.md)
+      + [mechanisme voor opnieuw proberen](../back-office-integrations/retry-mechanism.md)
 + Webinars en gebeurtenissen {#webinars-and-events}
    + Enablement Series {#enablement-series}
       + [Inhoudsopgave voor Commerce-integratie verlagen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
