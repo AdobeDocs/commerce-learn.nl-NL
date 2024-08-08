@@ -1,5 +1,5 @@
 ---
-title: Het vormen van, het opstellen van, en het aanpassen van een ingestitiewebhaak voor het integreren van Commerce met een derdesysteem
+title: Vorm, opstellend, en pas een Ingestie Webhaak aan
 description: Leer hoe u een ingesloten webhaak instelt en aanpast om de communicatie tussen Commerce en een extern back-office systeem te vergemakkelijken.
 landing-page-description: Leer hoe u de Commerce Integration Starter Kit kunt gebruiken om Commerce te integreren met een extern back-office systeem met behulp van een ingestion webhaak.
 kt: 15870
@@ -11,14 +11,14 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Het vormen, het opstellen, en het aanpassen van een ingestitiewebhaak
+# Vorm, stel, en pas een ingeschrevenwebhaak op
 
 Meer informatie over het instellen en aanpassen van een ingesettenwebhaak voor de integratie van Commerce met een extern back-office systeem. &#x200B; Deze video verklaart hoe webhaak beperkingen in gebeurtenismededeling tussen systemen kan richten door een openbaar beschikbaar eindpunt te verstrekken om berichten van het derdesysteem aan de Adobe IO Eventing API aan te passen. Het proces bestaat uit het configureren van de webhaak in het `actions.config.yaml` -bestand, het inschakelen ervan in het `app.config.yaml` -bestand en het implementeren ervan om de juiste functionaliteit te garanderen.
 
