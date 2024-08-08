@@ -1,6 +1,6 @@
 ---
-title: Meer informatie over het patch-programma voor kwaliteit
-description: Verbeter de stabiliteit en veiligheid van uw e-commerceplatform door kwaliteitspatches toe te passen. Blijf up-to-date, behandel problemen en optimaliseer de prestaties met dit essentiële hulpmiddel.
+title: Gereedschap Kwaliteitspatroon
+description: Leer hoe u de patch voor de kwaliteit kunt gebruiken bij het diagnosticeren van een probleem, het zoeken naar een oplossing en het toepassen van een patch in de bestaande lijst met beschikbare patches.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce-patch
+# Kwaliteitspatroon, gereedschap
 
 Leer hoe u de patch voor de kwaliteit kunt gebruiken bij het diagnosticeren van een probleem, het zoeken naar een oplossing en het toepassen van een patch in de bestaande lijst met beschikbare patches.
 
@@ -24,7 +25,7 @@ Leer hoe u de patch voor de kwaliteit kunt gebruiken bij het diagnosticeren van 
 
 Leer hoe u een probleem kunt oplossen en gebruik vervolgens enkele basistechnieken om een kwaliteitspatch te zoeken om een oplossing toe te passen.
 
-## Voor wie is deze video?
+## Publiek
 
 * Ontwikkelaars die leren hoe ze problemen kunnen vinden en deze tool kunnen gebruiken voor het toepassen van GIT-patches voor bekende problemen
 
@@ -40,7 +41,7 @@ Deze patches worden ontwikkeld door Adobe Developers and Magento Open Source com
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## Waarom het hulpmiddel van het kwaliteitspatch gebruiken?
+## Waarom het gereedschap Kwaliteitspatch gebruiken
 
 U kunt het gereedschap Kwaliteitspatches voor Adobe Commerce of Magento Open Source gebruiken als u het volgende wilt:
 
