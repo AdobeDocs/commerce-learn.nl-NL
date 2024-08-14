@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Setup voor waarschuwingsberichten van New Relic
 
-Leer hoe u waarschuwingen kunt vinden, wat is beleid en doelen in New Relic. Houd bij hoe eenvoudig het is om een e-mail toe te voegen aan een bestaand beleid.
+Leer hoe u waarschuwingen, beleid, workflows en doelen kunt zoeken in New Relic. Houd bij hoe eenvoudig het is om een e-mail toe te voegen aan een bestaand beleid.
 
 ## Voor wie is deze video?
 
