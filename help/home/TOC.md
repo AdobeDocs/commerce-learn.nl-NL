@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 4445a494d0d84c8ececba27c976d06fe0f54fb70
+source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '687'
 ht-degree: 2%
 
 ---
@@ -157,6 +157,7 @@ ht-degree: 2%
    + [Gereedschap Kwaliteitspatroon](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Een kwaadaardig IP-bestand zoeken](../new-relic/malicious-ip.md)
+      + [Alarmmeldingsinstellingen](../new-relic/new-relic-alert-notification-setup.md)
 + Commerce Intelligence {#mbi}
    + [Aan de slag](../business-intelligence/getting-started.md)
    + [Integraties en configuraties](../business-intelligence/integrations-configurations.md)
