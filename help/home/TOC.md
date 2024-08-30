@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '712'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 2%
       + [Inzet, testen, toezicht en beveiliging](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-aanbod, support en communicatie en volgende stappen](../cloud/saas-offerings-support-communications-next-steps.md)
    + Aanbevolen werkwijzen {#commerce-cloud-best-practices}
+      + [Ondersteuningsverzoek](../cloud/best-practices/support-request.md)
       + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Aan de slag {#getting-started}
    + Algemene referentiearchitectuur {#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 2%
       + [Integratie van vorige kilometer](../back-office-integrations/last-mile-integration.md)
       + [WebHaak-opname](../back-office-integrations/webhook-ingestion.md)
       + [mechanisme voor opnieuw proberen](../back-office-integrations/retry-mechanism.md)
+   + Help en ondersteuning {#help-and-support}
+      + [Een ondersteuningsticket maken](../help-and-support/create-a-support-ticket.md)
+      + [Zoek, spoor, commentaren en escaleer steunkaartje](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [Bewakers toevoegen en verwijderen, een ticket sluiten en opnieuw openen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Webinars en gebeurtenissen {#webinars-and-events}
    + Enablement Series {#enablement-series}
       + [Inhoudsopgave voor Commerce-integratie verlagen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
