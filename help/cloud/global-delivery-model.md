@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 278
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 2d1118ce273c7d641486f6878b6737bc5c3b2d4f
+source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe Commerce is een hybride cloud e-Commerce-platform dat verkrijgbaar is op A
 ## Video-inhoud
 
 - Schaalbare en veilige infrastructuur.  Leer meer over de volledig redundante multi-cloud infrastructuur op AWS en Azure, zodat u beschikt over optimale prestaties, veerkracht en elastische schaalbaarheid met hoge beveiligings- en compatibiliteitsnormen.
-- Geavanceerde AI-services. U zult inzicht voor de intelligente, API-eerste diensten zoals levende onderzoek, op AI-Gebaseerde productaanbevelingen, en catalogusdiensten krijgen om klantenervaring en operationele efficiency te verbeteren. &#x200B;
-- Uitgebreide ontwikkelaarsgereedschappen. Leer meer over de suite van tools voor ontwikkelaars zonder clouds, zoals API Mesh en App Builder, die naadloze integratie en aanpassing mogelijk maakt om de commerciële functionaliteit uit te breiden. &#x200B;
+- Geavanceerde AI-services. U zult inzicht voor de intelligente, API-eerste diensten zoals levende onderzoek, op AI-Gebaseerde productaanbevelingen, en catalogusdiensten krijgen om klantenervaring en operationele efficiency te verbeteren.
+- Uitgebreide ontwikkelaarsgereedschappen. Leer meer over de suite van tools voor ontwikkelaars zonder clouds, zoals API Mesh en App Builder, die naadloze integratie en aanpassing mogelijk maakt om de commerciële functionaliteit uit te breiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
