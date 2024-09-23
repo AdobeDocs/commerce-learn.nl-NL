@@ -8,9 +8,9 @@ doc-type: Technical Video
 duration: 189
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
+source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ Door AI te integreren met Adobe Commerce wordt middelenbeheer gecentraliseerd, w
 
 ## Video-inhoud
 
-- Verbeterde efficiëntie en snelheid. &#x200B;
-- Naadloze synchronisatie tussen producten en elementen. &#x200B;
-- Volledige levenscycluscontrole inclusief goedkeuring, verwijdering en vervaldatum. &#x200B;
+- Verbeterde efficiëntie en snelheid.
+- Naadloze synchronisatie tussen producten en elementen.
+- Volledige levenscycluscontrole inclusief goedkeuring, verwijdering en vervaldatum.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
