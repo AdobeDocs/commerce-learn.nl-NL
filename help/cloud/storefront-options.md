@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16193
-source-git-commit: 4d6ce5b07990001441a8d7fb41a3c73e1029c200
+source-git-commit: 1dd8c4ea80732d68b44d1d200ddcb331551ea224
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Het integreert naadloos met de digitale ervaringshulpmiddelen van de Adobe, toel
 
 - Bedrijven en e-commerci&#39;s die hun online winkeliers willen verbeteren.
 - IT-leiders, -ontwikkelaars en -marketers.
-- Bedrijven die de prestaties van sites willen verbeteren, het organische verkeer willen verhogen en persoonlijke boodschappenervaringen willen bieden.
+- Bedrijven die de prestaties van sites willen verbeteren, het biologische verkeer willen verhogen en persoonlijke boodschappenervaringen willen bieden.
 
 ## Video-inhoud
 
