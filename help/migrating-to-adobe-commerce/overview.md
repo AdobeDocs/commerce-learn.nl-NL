@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,8 @@ Welkom bij deze uitgebreide Adobe Commerce-zelfstudie over migratie. Deze zelfst
 * Systeemintegrators die hun migratieprocessen willen stroomlijnen.
 
 ## Video-inhoud {#video-content}
+
+* Ontdek de belangrijkste stappen en aanbevolen procedures voor een geslaagde migratie naar Adobe Commerce.
+* Evalueer en optimaliseer douanecode, derdemodules, en begrijp zeer belangrijke concepten QA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
