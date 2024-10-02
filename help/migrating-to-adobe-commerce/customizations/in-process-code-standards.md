@@ -5,14 +5,13 @@ feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Beginner, Intermediate
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-thumbnail: KT-15994.jpeg
-source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
+source-git-commit: a73d0038ac844805f4fda689da329d891e5b8320
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 Leer enkele essentiële coderingsstandaarden en tips en trucs voor PHP, JavaScript en aanpassingen. Of u nu ontwikkelaar of bedrijf bent, deze set zelfstudies helpen u de complexe migraties naar Adobe Commerce te doorlopen en zorgen voor een soepele en succesvolle overgang.
 
-## Voor wie is deze videoreeks?
+## Voor wie is deze video?
 
 * Ontwikkelaars: hun vaardigheden op het gebied van migratie en coderingsnormen voor Adobe Commerce willen verbeteren.
 * Bedrijven die een migratie naar Adobe Commerce plannen en op zoek zijn naar best practices.
