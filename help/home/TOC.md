@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 1414bc22653f63a4cf19654f319116bea149ef08
+source-git-commit: 08e07add8628146271cf09e3cd6370f31521c726
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '765'
 ht-degree: 2%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 2%
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
    + Problemen oplossen {#troubleshooting}
       + [Ongeldige SSL](../cloud/troubleshooting/invalid-ssl.md)
+      + [2 veelvoorkomende sitefouten triggeren en oplossen](../cloud/troubleshooting/triage-two-common-site-errors.md)
    + [Marketectuur](../cloud/marketecture.md)
    + [Globaal leveringsmodel](../cloud/global-delivery-model.md)
    + [Beheerdersrollen](../cloud/admin-roles.md)
@@ -27,9 +28,9 @@ ht-degree: 2%
    + [Leidingsgegevens en promoties van ervaring](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [ Migreer van een zelf-ontvangen oplossing ](../cloud/overview.md)
-   + Technische onboarding en hardwareoverdracht {#technical-onboarding-hardware-handoff}
+   + Technisch instapniveau en hardwareoverdracht {#technical-onboarding-hardware-handoff}
       + [Best practices op het gebied van infrastructuur en ontwikkeling](../cloud/infrastructure-development-best-practices.md)
-      + [snellen](../cloud/fastly.md)
+      + [Snel](../cloud/fastly.md)
       + [Configuratie en foutopsporing](../cloud/configuration-and-debugging.md)
       + [Inzet, testen, toezicht en beveiliging](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-aanbod, support en communicatie en volgende stappen](../cloud/saas-offerings-support-communications-next-steps.md)
@@ -50,7 +51,7 @@ ht-degree: 2%
       + [Globale referentiearchitectuur gebruiken](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Globale referentiearchitectuur implementeren](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Commerce-mogelijkheden {#capabilities}
+   + Commerce Capabilities {#capabilities}
       + [Gegevensverbinding](../capabilities/data-connection.md)
       + [Volledige demonstratie van Live Search](../capabilities/live-search-full-demonstration.md)
       + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
@@ -75,7 +76,7 @@ ht-degree: 2%
       + [Zoek, spoor, commentaren en escaleer steunkaartje](../help-and-support/search-track-comment-escalate-support-ticket.md)
       + [Bewakers toevoegen en verwijderen, een ticket sluiten en opnieuw openen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Webinars en gebeurtenissen {#webinars-and-events}
-   + Reeks inschakelen {#enablement-series}
+   + Enablement Series {#enablement-series}
       + [Inhoudsopgave voor Commerce-integratie verlagen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [De moderne Adobe Commerce-implementatie plannen](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Starten, na starten, bewaken en oplossen van problemen](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
@@ -87,19 +88,19 @@ ht-degree: 2%
    + [Schema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Inleiding tot App Builder](../app-builder/introduction-to-app-builder.md)
-   + [Uitbreidbaarheidsframework voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+   + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
-   + [ Technisch overzicht voor de Bouwer van de App ](../app-builder/app-builder-technical-overview.md)
-   + [App indienen bij de Marketplace](../app-builder/submit-app-process.md)
+   + [ Technisch overzicht voor App Builder ](../app-builder/app-builder-technical-overview.md)
+   + [Een app indienen bij de Marketplace](../app-builder/submit-app-process.md)
    + Uw eerste app voor App Builder maken {#first-app}
       + [Overzicht](../app-builder/first-app/overview.md)
       + [ produceer en vorm het .env- dossier ](../app-builder/first-app/env-file.md)
       + [ Beschrijving en gebruik van het app.config.yaml- dossier ](../app-builder/first-app/app-config-yaml-file.md)
-      + [Meer informatie over de map actions](../app-builder/first-app/actions-folder.md)
+      + [Meer informatie over de map Handelingen](../app-builder/first-app/actions-folder.md)
       + [Meer informatie over de testmap](../app-builder/first-app/test-folder.md)
-      + [Ontdek het doel van de web-src map](../app-builder/first-app/web-src-folder.md)
+      + [Ontdek het doel van de web-src omslag](../app-builder/first-app/web-src-folder.md)
       + [Lokaal testen](../app-builder/first-app/testing-locally.md)
-      + [Testen met URL van App Builder](../app-builder/first-app/testing-app-builder-url.md)
+      + [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusie](../app-builder/first-app/conclusion.md)
       + [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples) {target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
@@ -129,7 +130,7 @@ ht-degree: 2%
       + [Commerce Services Connector configureren](../site-management/configure-adobe-commerce-services-connector.md)
       + [Betalingsservices configureren](../site-management/configure-adobe-payment-services.md)
       + [Betalingsservices gebruiken](../site-management/payment-services.md)
-+ Klantbeheer {#customers}
++ Klantenbeheer {#customers}
    + [Klantsegmenten maken](../site-management/customer-segments.md)
    + [Klantengroepen maken](../site-management/customer-groups.md)
    + [Klantkenmerken maken](../site-management/customer-attributes.md)
@@ -204,7 +205,7 @@ ht-degree: 2%
    + [MySQL-querycache](../backend-development/mysql-query-cache.md)
    + [Samenvatting van PT-query](../backend-development/pt-query-digest.md)
    + [Verbinding maken met de Adobe Commerce-database en deze downloaden](../backend-development/remote-db-connection-execute-queries.md)
-+ Native ontwikkeling van Luma aan voorzijde {#frontend-development}
++ Native Luma-ontwikkeling aan de voorzijde {#frontend-development}
    + Page Builder voor ontwikkelaars {#page-builder}
       + [1 - Inleiding](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuratie en inhoud](../frontend-development/page-builder/2-config-create-content.md)
@@ -214,8 +215,8 @@ ht-degree: 2%
       + [6 - Aangepaste inhoudstypen](../frontend-development/page-builder/6-custom-content-types.md)
    + [Een JavaScript-module toevoegen](../frontend-development/add-javascript-module.md)
    + [Een pagina maken](../frontend-development/create-page.md)
-+ Headless architectuur {#headless-architecture}
-   + Inleiding tot headless {#introduction-to-headless}
++ Hoofdloze architectuur {#headless-architecture}
+   + Introductie tot zonder kop {#introduction-to-headless}
       + [ Hoofdloze Architectuur - Zitting 1 ](../headless/session-1.md)
    + Inleiding tot PWA Studio {#introduction}
       + [1 - Overzicht](../pwa/introduction/1-overview.md)
