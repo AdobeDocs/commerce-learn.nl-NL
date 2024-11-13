@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 659
 last-substantial-update: 2024-11-08T00:00:00Z
 jira: KT-16429
-source-git-commit: f4f3faf22899fb58cb99dc8555b2d6279817b1a8
+exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
+source-git-commit: 4904cb706e56debb24a86d4611e863431416464e
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-
-# Leer waar de configuratiewaarden worden gevestigd
+# Configuratiewaarden
 
 Deze handleiding biedt een uitgebreid overzicht van het zoeken, valideren en beheren van configuratiewaarden in Adobe Commerce. Het behandelt basismethodes zoals het vragen van de core_config_data lijst en het gebruiken van bevelen CLI, evenals geavanceerde technieken die de dossiers van XML en milieu-specifieke configuraties impliceren. Leer beste praktijken voor het handhaven van consistentie over verschillende milieu&#39;s en hoe te om hulpmiddelen zoals de admin UI van Adobe Commerce Cloud en .magento.app.yaml voor het plaatsen van milieuvariabelen te gebruiken.
 
@@ -36,10 +36,10 @@ Deze handleiding biedt een uitgebreid overzicht van het zoeken, valideren en beh
 
 ## Documentatie over verwant Experience League
 
-[ de Configuratie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-[ de Montages van Config van de Opheffing ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-[ Vastgestelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-[ Config verwijzing config.php ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-[ Config gids technische details ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
-[ Vergrendelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-[ Bewaarde waarden op env.php ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+- [ de Configuratie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+- [ met voeten treden Montages Config ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+- [ vastgestelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+- [ Config verwijzing config.php ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+- [ Config gids technische details ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+- [ Vergrendelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+- [ Bewaarde waarden op env.php ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
