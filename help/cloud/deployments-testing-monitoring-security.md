@@ -38,7 +38,7 @@ Leer over de de plaatsingsstrategieën van Adobe Commerce Cloud, het testen best
 - [ SWAT plaats-brede het Hulpmiddel van de Analyse ](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [ ECE hulpmiddelen slimme tovenaar ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [ Scannen van de Veiligheid ](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html) de Snelle Firewall van de Toepassing van het Web van WAF [
+- [ de Snelle Firewall van de Toepassing van het Web van WAF ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
 - [ overzicht van de Dienst van New Relic ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

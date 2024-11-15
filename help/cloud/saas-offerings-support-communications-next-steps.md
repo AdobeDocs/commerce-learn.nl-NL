@@ -37,7 +37,7 @@ Meer informatie over het Adobe Commerce Cloud SaaS-aanbod, de ondersteuning en a
 +++Acroniem woordenboek
 
 - SAM-accountmanager voor oplossingen
-- Technische adviseur van CTA-klant
+- Technische adviseur voor CTA-klanten
 - PaaS-platform als service
 - IaaS-infrastructuur als een service
 - CPU centrale verwerkingseenheid
