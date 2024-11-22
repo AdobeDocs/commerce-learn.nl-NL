@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 2a9c0602a94613173e975bf53d80f3465e9c7c25
+source-git-commit: 8368cfb640c532e9ab2c1322900e151e0f0afea6
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '771'
 ht-degree: 2%
 
 ---
@@ -126,6 +126,7 @@ ht-degree: 2%
    + [Een winkel-URL wijzigen](../site-management/change-store-url.md)
    + [De URI van de beheerder opnieuw instellen](../site-management/reset-admin-uri.md)
    + [Verzendmethoden en leveringsmethoden](../site-management/shipping-delivery.md)
+   + [Rasters en filters beheren](../site-management/admin-grids-and-filters.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
    + Adobe Commerce Services {#adobe-commerce-services}
       + [Commerce Services Connector configureren](../site-management/configure-adobe-commerce-services-connector.md)
