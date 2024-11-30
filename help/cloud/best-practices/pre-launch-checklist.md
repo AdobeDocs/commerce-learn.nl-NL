@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 Het volgende is een synopsis van de Adobe Commerce [ documentatie van de lancering van de Plaats ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview) {target="_blank"}.
 
-Deze controlelijst is bedoeld als hulp bij het plannen en uitvoeren van een geslaagde start van de Adobe Commerce Cloud-site. Werk samen met uw systeemintegrator voor Adobe Commerce Cloud om ervoor te zorgen dat alle configuratietaken en controlelijstitems worden voltooid en geverifieerd. Als u problemen ondervindt met checklist-items of vragen hebt, neemt u contact op met de aangewezen technisch adviseur van de klant of met de succesvolle technicus van de klant. Als uw rekening geen toegewezen CTA/CSE heeft, kunt u een steunkaartje voor hulp tot stand brengen.
+Deze controlelijst is bedoeld als hulp bij het plannen en uitvoeren van een geslaagde start van de Adobe Commerce Cloud-site. Werk samen met uw systeemintegrator voor Adobe Commerce Cloud om ervoor te zorgen dat alle configuratietaken en controlelijstitems worden voltooid en geverifieerd. Als u problemen ondervindt met checklist-items of vragen hebt, neemt u contact op met de aangewezen technisch adviseur van de klant of met de succesvolle technicus van de klant. Als uw account geen toegewezen CTA/CSE heeft, kunt u een ondersteuningsticket voor hulp maken.
 
-Als u CTA/CSE hebt die aan de rekening wordt toegewezen, contacteer hen en de Manager van de Rekening minstens 4 weken voorafgaand aan het lanceren van de nieuwe plaats van Adobe Commerce Cloud om hen van uw **te informeren bedoeling** om te lanceren.
+Als u een CTA/CSE hebt die aan de rekening wordt toegewezen, contacteer hen en de Manager van de Rekening minstens 4 weken voorafgaand aan het lanceren van de nieuwe plaats van Adobe Commerce Cloud om hen van uw **bedoeling** op de hoogte te brengen om te lanceren.
 
 - Sommige controles worden benadrukt met [!BADGE  Blocker ]{type=caution tooltip="Potentiële blokkering"}
 - Zorg ervoor dat u met uw ontwikkelaar- of systeemintegratiepartner samenwerkt om deze uit te lijnen met uw implementatiebenadering.
@@ -43,7 +43,7 @@ Als u CTA/CSE hebt die aan de rekening wordt toegewezen, contacteer hen en de Ma
 3. Eindgebruiker/handelaar voerde UAT (het Testen van de Erkenning van de Gebruiker), met inbegrip van backendverrichtingen uit.
 4. Het team van de systeemintegrator heeft UAT van begin tot eind op het opvoeren en de productie uitgevoerd. Verwijs naar de [ Documentatie van het Experience League ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production) {target="_blank"}.
 5. Bevestig codeplaatsing en het testen in het opvoeren en productiemilieu&#39;s ([ las meer ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production) {target="_blank"}).
-6. De productiecluster is permanent vergroot tot de contractueel vastgelegde dagelijkse basislijn. Spreek aan toegewezen CTA/CSE voor meer details, of breng een steunkaartje op.
+6. De productiecluster is permanent vergroot tot de contractueel vastgelegde dagelijkse basislijn. Spreek naar de toegewezen CTA/CSE voor meer informatie of geef een ondersteuningsticket op.
 
 ## 2. Huidige configuraties
 
@@ -177,16 +177,16 @@ Als u om het even welke problemen ontmoet die u verhinderen tijdens de cutover t
 - US Gratis: (+1) 800 685 3620 (druk in het eerste menu op 7 voor de Adobe Commerce P1-hotline)
 - US Lokaal: (+1) 408 537 8777
 
-## 11. Post Go-Live
+## 11. Na introductie
 
-Zodra de site live is, stuurt u een e-mail naar de toegewezen technische advies (Customer Technical Advisory), CSE (Customer Success Engineer) en AM (Account Manager). Nochtans, als u geen rekeningsmanager hebt die aan het project wordt toegewezen, kunt u een steunkaartje tot stand brengen vragend om de controle van Hoge SLA wordt toegelaten zodra de plaats live is gegaan. De CTA/CSE voert de volgende taken uit zodra de plaats wordt geverifieerd om met Fastly wordt toegelaten en caching:
+Zodra de site live is, stuurt u een e-mail naar de toegewezen CTA (Customer Technical Advisory), CSE (Customer Success Engineer) en AM (Account Manager). Als u echter geen accountmanager hebt toegewezen aan het project, kunt u een ondersteuningsticket maken waarin u wordt gevraagd om High SLA-bewaking in te schakelen zodra de site live is gegaan. De CTA/CSE voert de volgende taken uit zodra is geverifieerd dat de site is gestart met Snelingeschakeld en in cache plaatsen:
 
-- Label de cluster als live en maak een ondersteuningsticket om High SLA (Service Level Agreements)-controle te activeren.
+- Label de cluster als live en maak een ondersteuningsticket om de controle op hoog SLA (Service Level Agreements) te activeren.
 - Activeer New Relic Synthetics voor uptime controle.
 
 >[!MORELIKETHIS]
 > 
-> - [ Readiness Overzicht van de Lancering van de Lancering - Playbook van de Implementatie ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview) {target="_blank"}
+> - [ Readiness Overzicht van de Lancering van de Lancering - Playbook van de Implementatie ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview) {target="_blank"}
 > - [ Checklist van de Lancering - de Gids van de Gebruiker ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist) {target="_blank"}
 > - [ Prelaunch Checklist - de Gids van Admin van de Manager van de Plaats/Commerce ](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist) {target="_blank"}
 > - [ Gedeeld model van de verantwoordelijkheidsveiligheid ](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility) {target="_blank"}
