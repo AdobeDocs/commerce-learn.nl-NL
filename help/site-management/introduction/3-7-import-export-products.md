@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Producten importeren en exporteren"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Producten importeren en exporteren'
 description: Leer hoe u uw catalogusproducten kunt importeren en exporteren.
 kt: 5773
 doc-type: video

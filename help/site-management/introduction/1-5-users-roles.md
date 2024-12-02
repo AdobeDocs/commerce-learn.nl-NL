@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Gebruikers en rollen"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Gebruikers en rollen'
 description: Leer de grondbeginselen over  [!DNL Admin]  gebruikersrekeningen en gebruikersrollen die toestemmingen bepalen.
 kt: 5762
 doc-type: video

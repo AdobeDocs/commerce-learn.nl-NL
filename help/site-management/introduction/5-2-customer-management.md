@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Klantenbeheer"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Klantenbeheer'
 description: Leer over de geadviseerde toestemmingen voor de klantendienst, creërend een klant in  [!DNL Admin], het leiden van klanteninformatie, en het creëren van klantengroepen.
 kt: 5779
 doc-type: video

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor bedrijfsgebruikers -  [!DNL Admin]  menu's"
+title: '[!DNL Commerce] voor bedrijfsgebruikers -  [!DNL Admin]  menu''s'
 description: Overzicht van functionele menu's in  [!DNL Commerce]  v2.3  [!DNL Admin].
 landing-page-description: Bekijk deze videoreeks om aan de slag te gaan met de basisbeginselen van Adobe Commerce en om in de Admin te werken.
 short-description: Bekijk deze videoreeks om aan de slag te gaan met de basisbeginselen van Adobe Commerce en om in de Admin te werken.

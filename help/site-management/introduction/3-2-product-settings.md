@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Productinstellingen"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Productinstellingen'
 description: Leer hoe u producten maakt, instellingen configureert en kenmerken gebruikt.
 kt: 5768
 doc-type: video

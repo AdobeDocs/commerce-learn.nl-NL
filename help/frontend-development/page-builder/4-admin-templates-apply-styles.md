@@ -1,6 +1,6 @@
 ---
 title: Page Builder voor ontwikkelaars - sjablonen en stijlen
-description: "[!DNL Admin] en werkgebiedthematietaken. Creeer  [!DNL Admin]  malplaatjes ​. Pas stijlen toe op inhoudstypen in het werkgebied (live voorvertoning)."
+description: '[!DNL Admin] en taken voor werkgebiedthema. Creeer  [!DNL Admin]  malplaatjes ​. Pas stijlen toe op inhoudstypen in het werkgebied (live voorvertoning).'
 kt: 5653
 doc-type: video
 activity: use

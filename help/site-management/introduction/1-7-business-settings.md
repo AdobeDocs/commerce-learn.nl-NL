@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Opslaginstellingen"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Winkelinstellingen'
 description: Leer meer over landinstellingen, opslaginformatie, beveiligde en onveilige URL's, websitetitel, logo, copyrightinformatie, communicatie-e-maillogo's, e-mailadressen van winkels, valutaopties en valutatarieven.
 kt: 5764
 doc-type: video

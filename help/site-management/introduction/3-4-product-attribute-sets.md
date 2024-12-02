@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - kenmerksets"
+title: '[!DNL Commerce] voor zakelijke gebruikers - kenmerksets'
 description: Meer informatie over productkenmerksets en hoe u deze kunt gebruiken in de catalogus.
 kt: 5770
 doc-type: video

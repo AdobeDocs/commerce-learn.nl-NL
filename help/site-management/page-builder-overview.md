@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Page Builder] overview'
+title: '[!DNL Page Builder] overzicht'
 description: Leer hoe te om pagina's  [!DNL Commerce]  opslagpagina's in Admin te bouwen gebruikend  [!DNL Page Builder].
 kt: 5563
 doc-type: feature video

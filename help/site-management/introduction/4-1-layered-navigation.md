@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Gelaagde navigatie"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Gelaagde navigatie'
 description: Laat gelaagde navigatie in uw  [!DNL Commerce]  opslag toe zodat de klanten producten gemakkelijk en snel kunnen vinden.
 kt: 5775
 doc-type: video

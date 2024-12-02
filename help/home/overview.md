@@ -1,5 +1,5 @@
 ---
-title: '''[!DNL Commerce] Video''s en Tutorials'
+title: '[!DNL Commerce] Video''s en Tutorials'
 description: Een verzameling video's en zelfstudies voor Adobe Commerce en Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder

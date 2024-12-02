@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Productcategorieën"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Productcategorieën'
 description: Leer hoe u uw productcatalogus kunt beheren door rubrieken in te stellen.
 kt: 5765
 doc-type: videos

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Producttypen"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Producttypen'
 description: Leer over de  [!DNL Commerce]  producttypes en de opties voor elk.
 kt: 5767
 doc-type: video

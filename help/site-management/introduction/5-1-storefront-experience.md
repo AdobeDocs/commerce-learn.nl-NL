@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Winefront"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Winefront'
 description: Meer informatie over de ervaring van klanten op de winkel, zoals het maken van accounts, wenslijsten en het toevoegen van wenslijstonderdelen aan de winkelwagentje
 kt: 5778
 doc-type: video

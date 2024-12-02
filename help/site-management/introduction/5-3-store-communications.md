@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - E-mailcommunicatie"
+title: '[!DNL Commerce] voor zakelijke gebruikers - E-mailcommunicatie'
 description: Communiceer met uw klanten door middel van transactie-e-mails die worden geactiveerd door hun acties in de winkel. Pas en vorm de e-mailmalplaatjes voor uw opslag aan.
 kt: 5780
 doc-type: video

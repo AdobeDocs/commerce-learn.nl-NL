@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Attributen"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Attributen'
 description: Meer informatie over aangepaste en systeemkenmerken voor producten.
 kt: 5769
 doc-type: video

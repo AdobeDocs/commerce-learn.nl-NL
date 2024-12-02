@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Eenvoudige producten"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Eenvoudige producten'
 description: Leer hoe u een eenvoudig product maakt met behulp van productkenmerksets.
 kt: 5771
 doc-type: video

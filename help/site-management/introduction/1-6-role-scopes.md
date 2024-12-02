@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Rolbereik en machtigingen"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Rolbereik en machtigingen'
 description: Leer hoe u het rolbereik (exclusief voor Adobe Commerce) en de bijbehorende machtigingen per site of winkel definieert.
 kt: 5763
 doc-type: video

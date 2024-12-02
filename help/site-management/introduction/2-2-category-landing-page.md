@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Landing pages"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Openingspagina''s'
 description: Leer hoe u een landingspagina voor categorieën instelt en de vormgeving regelt.
 kt: 5766
 doc-type: video

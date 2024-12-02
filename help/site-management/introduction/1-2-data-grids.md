@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Gegevensrasters"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Gegevensrasters'
 description: Leer hoe te met gegevensnetten in  [!DNL Commerce Admin] te werken.
 kt: 5759
 doc-type: video

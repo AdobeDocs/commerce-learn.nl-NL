@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Winkelweergaven en cache wissen"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Winkelweergaven en cache wissen'
 description: Leer hoe u winkelweergaven maakt en de cache wist.
 kt: 5761
 doc-type: video

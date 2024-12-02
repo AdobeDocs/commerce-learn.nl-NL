@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Sites, winkels en weergaven"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Sites, winkels en weergaven'
 description: Leer de grondbeginselen van de  [!DNL Commerce]  architectuur, met inbegrip van de verschillen tussen websites, opslag, opslagmeningen, en toepassingswerkingsgebied. Indexering en caching begrijpen.
 kt: 5760
 doc-type: video

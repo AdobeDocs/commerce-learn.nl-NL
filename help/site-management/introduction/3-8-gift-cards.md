@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Cadeaukaarten"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Cadeaukaarten'
 description: Leer hoe te om cadeaukaarten in uw  [!DNL Commerce]  opslag te omvatten.
 kt: 5774
 doc-type: video

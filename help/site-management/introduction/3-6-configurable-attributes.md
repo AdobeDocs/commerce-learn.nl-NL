@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Configureerbare kenmerken"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Configureerbare kenmerken'
 description: Leer hoe u configureerbare productkenmerken kunt instellen.
 kt: 5772
 doc-type: video

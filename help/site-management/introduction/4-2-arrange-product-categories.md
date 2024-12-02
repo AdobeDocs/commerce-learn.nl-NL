@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] voor zakelijke gebruikers - Categoriepositionering"
+title: '[!DNL Commerce] voor zakelijke gebruikers - Categoriepositionering'
 description: Plaats producten binnen categorieën zodat de klanten de producten bij de bovenkant zien die u hen wilt zien.
 kt: 5776
 doc-type: video

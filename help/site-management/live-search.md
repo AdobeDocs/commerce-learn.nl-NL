@@ -1,6 +1,6 @@
 ---
-title: "Introductie tot  [!DNL Live Search]"
-description: "Leer hoe te om  [!DNL Live Search]  aan uw opslag toe te voegen en hoogst aansprekende, relevante, en gepersonaliseerde het winkelen ervaringen te produceren."
+title: Inleiding tot  [!DNL Live Search]
+description: Leer hoe te om  [!DNL Live Search]  aan uw opslag toe te voegen en hoogst aansprekende, relevante, en gepersonaliseerde het winkelen ervaringen te produceren.
 doc-type: feature video
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
