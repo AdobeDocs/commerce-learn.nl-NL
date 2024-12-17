@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # Productkenmerken gebruiken voor winkelwagentjes
 
-In de transcriptie toont de ontwikkelaar Ali van het merk Acme hoe hij het winkelwagentje van Adobe Commerce kan aanpassen en uitbreiden. Ali richt drie projectvereisten: het tonen van leveringschronologie voor achterordeproducten, het tonen van terugkeerbare en definitieve verkoopberichten, en het toepassen van een korting van 25% voor wortels met een subtotaal van $75 of meer. Door gebruik te maken van productkenmerken en sleuven, integreert Ali deze functies met succes in het winkelwagentje, waardoor de algehele gebruikerservaring wordt verbeterd en aan alle projectvereisten wordt voldaan.
+Leer hoe u het winkelwagentje van Adobe Commerce kunt aanpassen en uitbreiden. In deze demonstratie zijn er drie updates.  De demo begint met het weergeven van leveringstermijnen voor back-order producten, het tonen van retournerbare en verkoopberichten en het toepassen van een korting van 25% voor winkelwagentjes met een subtotaal van 75 dollar of meer. Door de productkenmerken en sleuven te benutten, kunt u deze functies toevoegen aan het winkelwagentje, waardoor de gebruiker meer ervaring heeft.
 
 ## Wat te verwachten van het bekijken van deze video
 
