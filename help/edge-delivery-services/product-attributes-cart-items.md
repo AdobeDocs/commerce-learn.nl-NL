@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services winkelwagentjes
 description: Meer informatie over Adobe Edge Delivery Services en hoe u productkenmerken kunt gebruiken om nieuwe informatie voor winkelwagentjes weer te geven.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +39,8 @@ Leer hoe u het neerzetten van Adobe Commerce-winkelwagentjes kunt gebruiken en d
 * Het gebruiken van productattributen en Sleuven om de het winkelwagentfunctionaliteit uit te breiden en aan te passen, die ervoor zorgen dat aan alle projectvereisten wordt voldaan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## Aanvullende documentatie
+
+* [ voeg de lijnen van het Product aan wortel toe ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
