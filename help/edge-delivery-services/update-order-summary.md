@@ -1,6 +1,6 @@
 ---
-title: Overzicht van bestellingen Edge Delivery Services
-description: Meer informatie over Adobe Edge Delivery Services en over het bijwerken van het overzichtsgedeelte voor bestellingen van de Commerce-drop-in.
+title: Overzicht van bestellingen van Edge Delivery Services bij afrekenen
+description: Meer informatie over Adobe Edge Delivery Services en hoe u het overzichtsgedeelte voor bestellingen van de Commerce-drop-in bij het afrekenen kunt bijwerken.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Het overzicht van het winkelwagentje bijwerken
+# Het overzicht van het winkelwagentje bijwerken bij het uitchecken
 
 Leer hoe u wijzigingen aanbrengt in het orderoverzicht van het neerzetten van de Adobe Commerce-winkelwagentje voor Edge Delivery Services.  Er zijn verscheidene voorbeelden voor hoe te om de lay-out of informatie snel te verbeteren die aan een klant bij kassa wordt verstrekt.
 
