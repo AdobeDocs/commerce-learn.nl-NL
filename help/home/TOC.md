@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
+source-git-commit: 16aac3305ed52ab29eb003abf39dba0bc882029d
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '809'
 ht-degree: 2%
 
 ---
@@ -87,6 +87,7 @@ ht-degree: 2%
       + [Productkenmerken gebruiken voor winkelwagentjes](../edge-delivery-services/product-attributes-cart-items.md)
       + [Het overzicht met bestellingen bijwerken bij het uitchecken](../edge-delivery-services/update-order-summary.md)
       + [BOPIS toevoegen aan uitchecken](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [Uitchecken aanpassen](../edge-delivery-services/customize-checkout.md)
 + Webinars en gebeurtenissen {#webinars-and-events}
    + Enablement Series {#enablement-series}
       + [Inhoudsopgave voor Commerce-integratie verlagen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
