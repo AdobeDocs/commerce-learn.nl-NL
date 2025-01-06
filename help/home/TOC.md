@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
+source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '807'
 ht-degree: 2%
 
 ---
@@ -72,10 +72,15 @@ ht-degree: 2%
       + [Integratie van vorige kilometer](../back-office-integrations/last-mile-integration.md)
       + [WebHaak-opname](../back-office-integrations/webhook-ingestion.md)
       + [mechanisme voor opnieuw proberen](../back-office-integrations/retry-mechanism.md)
-   + Help en ondersteuning {#help-and-support}
-      + [Een ondersteuningsticket maken](../help-and-support/create-a-support-ticket.md)
-      + [Zoek, spoor, commentaren en escaleer steunkaartje](../help-and-support/search-track-comment-escalate-support-ticket.md)
-      + [Bewakers toevoegen en verwijderen, een ticket sluiten en opnieuw openen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Algemene referentiearchitectuur {#global-reference-architecture-implementation-techniques}
+   + [Overzicht](../global-reference-architecture/overview.md)
+   + [Git splitsen](../global-reference-architecture/split-git.md)
+   + [Bulkpakketten](../global-reference-architecture/bulk-packages.md)
+   + [ Afzonderlijke pakketten ](../global-reference-architecture/separate-packages.md)
++ Help en ondersteuning {#help-and-support}
+   + [Een ondersteuningsticket maken](../help-and-support/create-a-support-ticket.md)
+   + [Zoek, spoor, commentaren en escaleer steunkaartje](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Bewakers toevoegen en verwijderen, een ticket sluiten en opnieuw openen](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
    + Aan de slag {#getting-started}
       + [Transactiestroom wijzigen](../edge-delivery-services/transactional-flow.md)
