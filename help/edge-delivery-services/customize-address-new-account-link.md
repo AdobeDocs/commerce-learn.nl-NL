@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# UpdateEnhancing E-commerce Checkout: Custom Address Form Layout and Google Address Lookup Integration
+# Indeling van aangepaste adresformulieren en integratie van Google-adresopzoekingen
 
 Leer hoe u de indeling van het adresformulier bij het uitchecken aanpast om ervoor te zorgen dat alle velden 50% breed zijn, met uitzondering van het tekstgebied. Leer een aanpak voor het gebruik van een geïntegreerde API van derden, met name de Google-adres-API, om het automatisch opzoeken en valideren van adressen in het adresformulier in te schakelen. &#x200B; Leer hoe u een nieuw menu-item op het zijpaneel toevoegt aan het dashboard van de gebruikersaccount en koppelt aan een aangepaste pagina voor een locator van de winkel.
 
