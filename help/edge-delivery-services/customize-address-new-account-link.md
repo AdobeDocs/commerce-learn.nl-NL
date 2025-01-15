@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # Indeling van aangepaste adresformulieren en integratie van Google-adresopzoekingen
 
@@ -36,7 +38,7 @@ Projectmanagers die de voortgang van ontwikkelingstaken moeten volgen en de tech
 * Consistente veldbreedten in Checkout Forms om het adresformulier bij de kassa aan te passen aan alle velden.
 * Integratie van de Google-API voor adresgegevens om automatisch adressen op te zoeken en in te vullen, fouten in gebruikersinvoer te reduceren en het afrekenproces te stroomlijnen.
 * Validatie en foutafhandeling voor de invoervelden van het adres, zodat gebruikers direct feedback ontvangen over onjuiste of onvolledige invoer, hetgeen de gebruikerservaring ten goede komt.
-* Uitbreiding van het dashboard Gebruikersaccount waarmee een nieuw menu-item op het zijpaneel wordt toegevoegd aan het dashboard van de gebruikersaccount
+* Uitbreiding van het dashboard Gebruikersaccount waarmee een nieuw menu-item op het zijpaneel wordt toegevoegd aan het dashboard van de gebruikersaccount.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
