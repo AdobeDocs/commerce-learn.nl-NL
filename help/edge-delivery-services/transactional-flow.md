@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Leer hoe u de transactiesnelheid voor afrekenen aanpast met de drop-in voor Edge Delivery Services winkelwagentje.
 
-## Wat te verwachten van het bekijken van deze video
+## Wat u gaat leren
 
 U krijgt meer inzicht in hoe u het neerzetten van Adobe Commerce-winkelwagentjes kunt gebruiken en hoe u de transactiesnelheid kunt aanpassen om klanten een nieuwe set functies te laten zien door een aantal coderegels te wijzigen.  Leer ook hoe te om deze veranderingen om te zetten die van SharePoint moeten worden beheerd om AB het testen te voeren.
 

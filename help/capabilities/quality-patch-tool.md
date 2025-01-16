@@ -10,9 +10,9 @@ duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Leer hoe u de patch voor de kwaliteit kunt gebruiken bij het diagnosticeren van een probleem, het zoeken naar een oplossing en het toepassen van een patch in de bestaande lijst met beschikbare patches.
 
-## Wat te verwachten van het bekijken van deze video
+## Wat u gaat leren
 
 Leer hoe u een probleem kunt oplossen en gebruik vervolgens enkele basistechnieken om een kwaliteitspatch te zoeken om een oplossing toe te passen.
 

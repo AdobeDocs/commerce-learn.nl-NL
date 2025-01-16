@@ -10,9 +10,9 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Leer hoe u het winkelwagentje van Adobe Commerce kunt aanpassen en uitbreiden. In deze demonstratie zijn er drie updates.  De demo begint met het weergeven van leveringstermijnen voor back-order producten, het tonen van retournerbare en verkoopberichten en het toepassen van een korting van 25% voor winkelwagentjes met een subtotaal van 75 dollar of meer. Door de productkenmerken en sleuven te benutten, kunt u deze functies toevoegen aan het winkelwagentje, waardoor de gebruiker meer ervaring heeft.
 
-## Wat te verwachten van het bekijken van deze video
+## Wat u gaat leren
 
 Leer hoe u het neerzetten van Adobe Commerce-winkelwagentjes kunt gebruiken en de transactiesnelheid kunt aanpassen om klanten een nieuwe set functies te laten zien door een aantal coderegels te wijzigen.  Leer ook hoe te om deze veranderingen om te zetten die van SharePoint moeten worden beheerd om AB het testen te voeren.
 
