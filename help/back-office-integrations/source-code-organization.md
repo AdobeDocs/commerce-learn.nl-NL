@@ -11,7 +11,8 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
+source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -38,6 +39,6 @@ Ontdek de logica achter de broncodestructuur en geef in detail aan hoe de mappen
 * Leer het belang om de code in de `starter-kit-info` omslag niet te veranderen, die een runtime actie bevat die door Adobe wordt gebruikt om projectplaatsingen te volgen die op de startuitrusting worden gebaseerd. &#x200B;
 * Begrijp de `scripts` -map die automatiseringsscripts zoals `commerce-event-subscribe` en `onboarding` bevat, die gebeurtenisconfiguratie, leveranciersinstellingen en de configuratie van de Adobe I/O Events-module in Commerce automatiseren. &#x200B;
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
