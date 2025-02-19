@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
+source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Maak eerst de benodigde mappen, xml- en PHP-bestanden:
 - app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/installData.php
+- app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
@@ -64,7 +64,9 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Als uw module het Verklarende Schema gebruikt, en de meesten sinds 2.3.0 hebben zou u setup_version moeten weglaten. Nochtans als u sommige erfenisprojecten hebt kunt u deze gebruikte methode zien.  Zie [ developer.adobe.com ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file) {target="_blank"} voor meer informatie.
+>Als uw module het Verklarende Schema gebruikt, en de meesten sinds 2.3.0 hebben zou u setup_version moeten weglaten. Nochtans als u sommige erfenisprojecten hebt kunt u deze gebruikte methode zien.  Zie [ developer.adobe.com ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file) {target="_blank"} voor meer informatie.\
+>OPMERKING: voor het werken van deze voorbeeldcode moet u setup_version opnemen anders wordt InstallData.php niet uitgevoerd.
+
 
 
 ```xml
@@ -76,6 +78,10 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+
+>[!NOTE]
+>
+>Ben zeker om kenmerkenreeks te gebruiken identiteitskaart die in uw project is, in dit voorbeeld is het aantal 9.
 
 ```php
 <?php
@@ -161,7 +167,7 @@ class Material extends AbstractSource
 }
 ```
 
-### app/code/Learning/ClothingMaterial/Setup/installData.php
+### app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ```php
 <?php
@@ -205,7 +211,7 @@ class InstallData implements InstallDataInterface
             Product::ENTITY,
             'clothing_material',
             [
-                'group'         => 'General',
+                'group'         => 'Product Details',
                 'type'          => 'varchar',
                 'label'         => 'Clothing Material',
                 'input'         => 'select',
@@ -228,7 +234,5 @@ class InstallData implements InstallDataInterface
 ```
 
 ## Nuttige bronnen
-
-[ creeer een productattribuut ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
 [ voeg een attribuut van het douanetekstgebied ](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/) toe
