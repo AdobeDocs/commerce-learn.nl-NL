@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services passen het adres aan, inclusief automatisch aanvullen
+title: Edge Delivery Services past adres aan inclusief automatisch aanvullen
 description: Leer hoe u formulieren voor e-commercecontrole kunt aanpassen en Google Address Lookup kunt integreren voor een verbeterde gebruikerservaring en minder invoerfouten.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Indeling van aangepaste adresformulieren en integratie van Google-adresopzoekingen
+# Een adreslay-out aanpassen
 
 Leer hoe u de indeling van het adresformulier bij het uitchecken aanpast om ervoor te zorgen dat alle velden 50% breed zijn, met uitzondering van het tekstgebied. Leer een aanpak voor het gebruik van een geïntegreerde API van derden, met name de Google-adres-API, om het automatisch opzoeken en valideren van adressen in het adresformulier in te schakelen. &#x200B; Leer hoe u een nieuw menu-item op het zijpaneel toevoegt aan het dashboard van de gebruikersaccount en koppelt aan een aangepaste pagina voor een locator van de winkel.
 

@@ -3,15 +3,15 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 2%
 
 ---
 
 
-# Adobe Commerce-video&#39;s en -Tutorials {#tutorials}
+# Adobe Commerce-video&#39;s en zelfstudies {#tutorials}
 
 + [[!DNL Commerce] Tutorials](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -89,7 +89,7 @@ ht-degree: 2%
       + [Het overzicht met bestellingen bijwerken bij het uitchecken](../edge-delivery-services/update-order-summary.md)
       + [BOPIS toevoegen aan uitchecken](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Uitchecken aanpassen](../edge-delivery-services/customize-checkout.md)
-      + [Adres aanpassen, inclusief automatisch aanvullen en nieuwe koppeling naar mijn account](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Een adreslay-out aanpassen](../edge-delivery-services/customize-address-new-account-link.md)
 + Webinars en gebeurtenissen {#webinars-and-events}
    + Enablement Series {#enablement-series}
       + [Inhoudsopgave voor Commerce-integratie verlagen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -128,7 +128,7 @@ ht-degree: 2%
       + [Voorwaardelijke Adobe Commerce-gebeurtenissen](../io-events/conditional-events.md)
    + API-net {#api-mesh}
       + [Aan de slag met API-net](../api-mesh/getting-started-api-mesh.md)
-      + [Adobe-IO en netplug-in installeren](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Adobe IO en netplug-in installeren](../api-mesh/installing-aio-mesh-plugin.md)
       + [Werken met projecten en werkruimten](../api-mesh/aio-projects-workspaces.md)
       + [GraphQL API-net met één bron maken](../api-mesh/graphql-single-source.md)
       + [Meerdere GraphQL API-bronnetten maken](../api-mesh/graphql-multiple-source.md)
@@ -172,7 +172,7 @@ ht-degree: 2%
    + [Regels voor catalogusprijzen maken](../site-management/catalog-price-rules.md)
    + [Lijnen met winkelprijzen maken](../site-management/cart-price-rules.md)
    + [Regels voor verwante producten beheren](../site-management/related-product-rules.md)
-   + [Product Recommendations instellen](../site-management/product-recommendations.md)
+   + [Productaanbevelingen instellen](../site-management/product-recommendations.md)
    + [Inleiding tot Live zoeken](../site-management/live-search.md)
    + [ Levend Onderzoek naar aanbevelingen ](../site-management/live-search-recommendations.md)
    + [Commerce integreren met AJO](../site-management/integrate-commerce-ajo.md)
@@ -206,8 +206,8 @@ ht-degree: 2%
    + [Integraties en configuraties](../business-intelligence/integrations-configurations.md)
    + [Rapporten en dashboards](../business-intelligence/reports-and-dashboards.md)
    + [Filtersets](../business-intelligence/filter-sets.md)
-   + [Cohort-Report Builder](../business-intelligence/cohort-report-builder.md)
-   + [SQL-Report Builder](../business-intelligence/sql-report-builder.md)
+   + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [ Prepping voor de Toekomst ](../business-intelligence/prepare-for-future.md)
 + Commerce-upgrades {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2-4-upgrade-workshop.md)
@@ -237,7 +237,7 @@ ht-degree: 2%
       + [ Hoofdloze Architectuur - Zitting 1 ](../headless/session-1.md)
    + Inleiding tot PWA Studio {#introduction}
       + [1 - Overzicht](../pwa/introduction/1-overview.md)
-      + [2 - Gereedschappen voor PWA Studio&#39;s](../pwa/introduction/2-pwa-studio-tools.md)
+      + [2 - PWA Studio-gereedschappen](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Starten](../pwa/introduction/3-launch.md)
       + [4 - UPWARD](../pwa/introduction/4-upward.md)
       + [5 - Aan de slag](../pwa/introduction/5-getting-started.md)
