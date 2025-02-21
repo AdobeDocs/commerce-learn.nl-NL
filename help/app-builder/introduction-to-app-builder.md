@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 241f99eaed68488b952e8ed76186499ca1a20417
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 5%
+source-wordcount: '728'
+ht-degree: 6%
 
 ---
 
@@ -27,9 +27,9 @@ Adobe Commerce-ontwikkeling heeft in het verleden gebruikgemaakt van procesrekba
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
 
-Adobe Developer App Builder is een serverloos uitbreidbaarheidsplatform voor het integreren en creëren van douaneervaringen om Adobe oplossingen uit te breiden, en het is nu beschikbaar voor Adobe Commerce. Met App Builder kunt u veilige en schaalbare toepassingen maken die de eigen Commerce-functionaliteit uitbreiden en integreren met oplossingen van derden. Als ontwikkelaar kunt u nu profiteren van de uitbreidbaarheid buiten het proces met Adobe Commerce en die op zijn beurt directe en langetermijnvoordelen biedt.
+Adobe Developer App Builder is een serverloos uitbreidbaarheidsplatform voor het integreren en creëren van aangepaste ervaringen om Adobe-oplossingen uit te breiden. Het is nu beschikbaar voor Adobe Commerce. Met App Builder kunt u veilige en schaalbare toepassingen maken die de eigen Commerce-functionaliteit uitbreiden en integreren met oplossingen van derden. Als ontwikkelaar kunt u nu profiteren van de uitbreidbaarheid buiten het proces met Adobe Commerce en die op zijn beurt directe en langetermijnvoordelen biedt.
 
-App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste toepassingen die [!DNL Adobe Commerce] uitbreiden. Aangezien dit uitbreidbaarheidskader is gebaseerd op de infrastructuur van de Adobe, kunnen ontwikkelaars aangepaste microservices bouwen en [!DNL Adobe Commerce] uitbreiden en integreren in andere Adobe-oplossingen en integratie met derden.
+App Builder biedt een geïntegreerd extern uitbreidingsframework voor het integreren en maken van aangepaste toepassingen die [!DNL Adobe Commerce] uitbreiden. Aangezien dit uitbreidingsframework is gebaseerd op de Adobe-infrastructuur, kunnen ontwikkelaars aangepaste microservices bouwen en [!DNL Adobe Commerce] uitbreiden en integreren in andere Adobe-oplossingen en integratie met andere bedrijven.
 
 App Builder biedt klanten een manier om [!DNL Adobe Commerce] in verschillende gebruiksgevallen uit te breiden:
 
@@ -54,8 +54,8 @@ Andere voordelen zijn:
 Adobe Developer App Builder biedt in plaats van een out-of-the-box oplossing een gemeenschappelijk, consistent en gestandaardiseerd ontwikkelingsplatform voor het uitbreiden van Adobe Cloud-oplossingen zoals Adobe Commerce, met inbegrip van:
 
 * Adobe Developer Console wordt gebruikt voor de ontwikkeling van aangepaste microservices en extensies. Ontwikkel en beheer projecten terwijl de toegang tot van alle hulpmiddelen en APIs nodig om stoppen en integratie tot stand te brengen.
-* Open-source-gereedschappen, SDK&#39;s en bibliotheken om aangepaste extensies en integratie te maken. Gebruik React Spectrum (UI toolkit van Adobe) om één gemeenschappelijke UI voor alle Adobe apps te hebben.
-* services zoals I/O-runtime voor het hosten van infrastructuren op het serverplatform van de Adobe en I/O-gebeurtenissen voor op gebeurtenissen gebaseerde integratie. Adobe biedt ook out-of-the-box ondersteuning voor het opslaan van gegevens en bestanden.
+* Open-source-gereedschappen, SDK&#39;s en bibliotheken om aangepaste extensies en integratie te maken. Gebruik de React Spectrum (de toolkit van de UI van Adobe) om één gemeenschappelijke UI voor alle Adobe apps te hebben.
+* services zoals I/O-runtime voor het hosten van infrastructuur op Adobe Server-serverplatform en I/O-gebeurtenissen voor op gebeurtenissen gebaseerde integratie. Adobe biedt ook offline ondersteuning voor het opslaan van gegevens en bestanden.
 * Adobe Experience Cloud waar u extensies en integratie verzendt die u wilt publiceren in uw Experience Cloud Org. Systeembeheerders kunnen deze extensies controleren, beheren en goedkeuren. Nadat u de aangepaste App Builder-extensies en -gereedschappen hebt gepubliceerd, zijn deze beschikbaar naast andere Adobe Experience Cloud-apps.
 
 In het volgende diagram ziet u hoe een standaardtoepassing die op App Builder is gebouwd deze functies gebruikt:
@@ -64,25 +64,13 @@ In het volgende diagram ziet u hoe een standaardtoepassing die op App Builder is
 
 Voor meer details over de architectuur van App Builder, zie het [ Overzicht van de Architectuur ](https://developer.adobe.com/app-builder/docs/guides/) {target="_blank"}.
 
-## Amazon Sales Channel-extensie {#amazon-sales-channel-extension}
-
->[!IMPORTANT]
->
->De verlenging van de Sales Channel van Amazon is nog in ontwikkeling en is nog niet officieel vrijgegeven.  Deze video&#39;s en zelfstudies zijn bedoeld om u te laten zien hoe u Adobe Developer App Builder kunt gebruiken voor een praktische toepassing.
-
-De volgende zelfstudies tonen hoe u Adobe Commerce met een App Builder-extensie kunt verbinden met een Amazon-Sales Channel.
-
-* [technisch overzicht App Builder](../app-builder/app-builder-technical-overview.md)
-* [uitbreidbaarheidskader](../app-builder/extensibility-framework-commerce-eventing.md)
-* [functionele demonstratie App Builder](../app-builder/app-builder-functional-demonstration.md)
-
 ## Aan de slag met App Builder {#additional-resources}
 
 Een overzicht van de composable commerce strategie, die de aanvankelijke opstelling omvat, kan door het volgende blogbericht te lezen worden gevonden:
 
 [ hoe de hulp van App Builder bedrijfs behendigheid voor uw handelsplatform ](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy) {target="_blank"} drijft
 
-Om u te helpen aan de slag te gaan met App Builder, heeft Adobe de volgende documentatie gemaakt:
+Adobe heeft de volgende documentatie gemaakt om u te helpen aan de slag te gaan met App Builder:
 
 * [ App Builder die ](https://developer.adobe.com/app-builder/docs/getting_started/) {target="_blank"} wordt begonnen
 
@@ -101,6 +89,6 @@ Klaar om te beginnen met ontwikkelen? De volgende koppeling bevat voorbeeldtoepa
 
 ## Ondersteuning {#support}
 
-Voor de verzoeken van de ontwikkelaarsteun, gebruik het [ forum van het Experience League ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) {target="_blank"} voor hulp.
+Voor de verzoeken van de ontwikkelaarsteun, gebruik het [ forum van Experience League ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) {target="_blank"} voor hulp.
 
 {{$include /help/_includes/app-builder-related-links.md}}
