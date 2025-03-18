@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: a33687b152162db94cd434c4de8a717ab332e51d
+source-git-commit: 98c1b61b6fec015c03a34b92f81acc530ebfa92b
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '826'
 ht-degree: 2%
 
 ---
@@ -75,6 +75,8 @@ ht-degree: 2%
       + [Integratie van vorige kilometer](../back-office-integrations/last-mile-integration.md)
       + [WebHaak-opname](../back-office-integrations/webhook-ingestion.md)
       + [mechanisme voor opnieuw proberen](../back-office-integrations/retry-mechanism.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+   + [Overzicht](../adobe-commerce-optimizer/overview.md)
 + Algemene referentiearchitectuur {#global-reference-architecture-implementation-techniques}
    + [Overzicht](../global-reference-architecture/overview.md)
    + [Git splitsen](../global-reference-architecture/split-git.md)
