@@ -9,14 +9,15 @@ doc-type: Feature Video
 duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
-source-git-commit: 544a33f7464ec988a8132010962a73715fa83686
+exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
+source-git-commit: 313dd669c38dc6b6bcca4e67dff98409e4061d8f
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Overzicht Adobe Commerce Optimizer
+# Overzicht van Adobe Commerce Optimizer
 
 Adobe Commerce Optimizer verbetert bestaande handelsplatforms door krachtige, koploze winkel te verstrekken die organisch verkeer bevordert en koopvaardijhulpmiddelen zoals het testen A/B steunt. Het richt zich op het verhogen van het verkeer en de omzettingspercentages van de winkelier, het verhogen van de productiviteit van de handelaars, het schrapen van digitale verrichtingen, en het vereenvoudigen van beheer voor lagere kosten en snellere innovatie. Deze oplossing integreert naadloos met bestaande systemen, die de diensten van de storefront migratie, stop-and-play catalogusintegratie, en verenigde catalogusorkest aanbieden, die het voor ondernemingen ideaal maakt die opbrengsten willen groeien en winkelervaringen willen optimaliseren zonder het hervormen.
 
