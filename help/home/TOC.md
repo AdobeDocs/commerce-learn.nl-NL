@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 3f6d35a8c11e86524b5e97b19bd481d2b715fdbe
+source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '853'
 ht-degree: 2%
 
 ---
@@ -31,33 +31,33 @@ ht-degree: 2%
    + [Leidingsgegevens en promoties van ervaring](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [ Migreer van een zelf-ontvangen oplossing ](../cloud/overview.md)
-   + Technisch instapniveau en hardwareoverdracht {#technical-onboarding-hardware-handoff}
+   + Technisch instapsysteem en hardwareoverdracht {#technical-onboarding-hardware-handoff}
       + [Best practices op het gebied van infrastructuur en ontwikkeling](../cloud/infrastructure-development-best-practices.md)
       + [Snel](../cloud/fastly.md)
       + [Configuratie en foutopsporing](../cloud/configuration-and-debugging.md)
       + [Inzet, testen, toezicht en beveiliging](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS-aanbod, support en communicatie en volgende stappen](../cloud/saas-offerings-support-communications-next-steps.md)
-   + Aanbevolen werkwijzen {#commerce-cloud-best-practices}
+   + Aanbevolen procedures {#commerce-cloud-best-practices}
       + [Ondersteuningsverzoek](../cloud/best-practices/support-request.md)
       + [Pre-Launch checklist](../cloud/best-practices/pre-launch-checklist.md)
 + Aan de slag {#getting-started}
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Overzicht](../commerce-as-a-cloud-service/overview.md)
       + [Architectuur](../commerce-as-a-cloud-service/architecture.md)
-   + Migreren naar Adobe Commerce {#migrating-to-adobe-commerce}
+   + Migreren naar Adobe Commerce{#migrating-to-adobe-commerce}
       + [Overzicht](../migrating-to-adobe-commerce/overview.md)
-      + Voorbereiding {#preparation}
+      + Voorbereiding{#preparation}
          + [Evalueer het team en het project](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-      + Aanpassingen {#customizations}
+      + Aanpassingen{#customizations}
          + [Codestandaarden tijdens het proces](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA{#qa}
          + [Code bevriezen](../migrating-to-adobe-commerce/qa/code-freeze.md)
-   + Algemene referentiearchitectuur {#global-reference-architecture}
+   + Algemene referentiearchitectuur{#global-reference-architecture}
       + [Algemene referentiearchitectuur](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Globale referentiearchitectuur gebruiken](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Architect GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Globale referentiearchitectuur implementeren](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Commerce Capabilities {#capabilities}
+   + Commerce-mogelijkheden {#capabilities}
       + [Gegevensverbinding](../capabilities/data-connection.md)
       + [Volledige demonstratie van Live Search](../capabilities/live-search-full-demonstration.md)
       + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
@@ -98,12 +98,18 @@ ht-degree: 2%
       + [Uitchecken aanpassen](../edge-delivery-services/customize-checkout.md)
       + [Een adreslay-out aanpassen](../edge-delivery-services/customize-address-new-account-link.md)
       + [Schopperervaring](../edge-delivery-services/shopper-experience.md)
-+ Webinars en gebeurtenissen {#webinars-and-events}
++ Webinars en evenementen {#webinars-and-events}
    + Enablement Series {#enablement-series}
       + [Inhoudsopgave voor Commerce-integratie verlagen](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [De moderne Adobe Commerce-implementatie plannen](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Starten, na starten, bewaken en oplossen van problemen](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
       + [Edge Delivery Services met Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+   + Commerce-gesprekken {#commerce-conversations}
+      + [Wat is een deskundig succes?](../commerce-conversations/what-is-expert-success.md)
+      + [Commerce-supportinvoegtoepassingen](../commerce-conversations/commerce-support-add-ons.md)
+      + [Wat ultieme successen is](../commerce-conversations/what-is-ultimate-success.md)
+      + [Succesvolle versnellers technische gereedheid](../commerce-conversations/success-accelerators-technical-readiness.md)
+      + [Goedkeuring en activering van versnellers](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
 + GraphQL en REST {#graphql-rest}
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
    + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
@@ -125,7 +131,7 @@ ht-degree: 2%
       + [Lokaal testen](../app-builder/first-app/testing-locally.md)
       + [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusie](../app-builder/first-app/conclusion.md)
-      + [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples) {target="_blank"}
+      + [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
       + [Aan de slag met IO-gebeurtenissen](../io-events/getting-started-io-events.md)
       + [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
@@ -140,7 +146,7 @@ ht-degree: 2%
       + [Werken met projecten en werkruimten](../api-mesh/aio-projects-workspaces.md)
       + [GraphQL API-net met één bron maken](../api-mesh/graphql-single-source.md)
       + [Meerdere GraphQL API-bronnetten maken](../api-mesh/graphql-multiple-source.md)
-+ Beheer van opslag {#admin}
++ Winkelbeheer {#admin}
    + [Gebruikersrollen en -machtigingen beheren](../site-management/users-roles-permissions.md)
    + [Verificatie met twee factoren](../site-management/two-factor-authentication.md)
    + [Valuta- en belastingregels beheren](../site-management/currency-tax-rules.md)
@@ -169,14 +175,14 @@ ht-degree: 2%
    + [URL-herschriften beheren voor SEO](../site-management/seo-url-rewrites.md)
    + [AR Viewer](../site-management/augmented-reality.md)
    + [Catalogus importeren en bijwerken](../site-management/catalog-import.md)
-+ Inhoudsbeheer {#content}
++ Inhoud beheren {#content}
    + [Overzicht van Page Builder](../site-management/page-builder-overview.md)
    + [Statische en dynamische blokken maken](../site-management/static-dynamic-blocks.md)
    + [Widgets maken](../site-management/widgets.md)
    + [Inhoudssjablonen gebruiken](../site-management/content-templates.md)
    + [Inhoud stapelen](../site-management/content-staging.md)
    + [De medialerie beheren](../site-management/media-gallery.md)
-+ Marketinggereedschappen {#marketing}
++ Marketingtools {#marketing}
    + [Regels voor catalogusprijzen maken](../site-management/catalog-price-rules.md)
    + [Lijnen met winkelprijzen maken](../site-management/cart-price-rules.md)
    + [Regels voor verwante producten beheren](../site-management/related-product-rules.md)
@@ -184,7 +190,7 @@ ht-degree: 2%
    + [Inleiding tot Live zoeken](../site-management/live-search.md)
    + [ Levend Onderzoek naar aanbevelingen ](../site-management/live-search-recommendations.md)
    + [Commerce integreren met AJO](../site-management/integrate-commerce-ajo.md)
-+ Bestellingen en afhandeling {#orders}
++ Bestellingen en uitvoering {#orders}
    + [Overzicht van winkeluitvoering](../orders-and-fulfillment/store-fulfillment.md)
    + [Status van bestelling beheren](../orders-and-fulfillment/order-status.md)
    + [Status van voorraad controleren](../orders-and-fulfillment/checking-inventory-status.md)
@@ -193,7 +199,7 @@ ht-degree: 2%
    + [Gedeelde catalogi beheren](../b2b/shared-catalogs.md)
    + [Bedrijfskrediet beheren](../b2b/company-credit.md)
    + [Aankooporders en goedkeuringen](../b2b/purchase-orders.md)
-   + Citaat {#b2b-quote}
+   + Offerte {#b2b-quote}
       + [Verkoopvertegenwoordiger initieert prijsopgave](../b2b/sales-rep-initiates-quote.md)
       + [Offertevalidatie door beheerder](../b2b/quote-validation-admin-panel.md)
       + [Verkoopvertegenwoordiger start de REST-API](../b2b/sales-rep-initiates-quote-api.md)
@@ -201,7 +207,7 @@ ht-degree: 2%
       + [Opmerkingen bij itemregels van prijsopgave](../b2b/quote-line-item-notes.md)
       + [Afkorting van prijsopgave voor object GraphQL](../b2b/quote-graphql-line-item-discount.md)
       + [REST API voor aanhalingstekenregelitemkorting](../b2b/quote-rest-api-line-item-notes.md)
-+ Gereedschappen en externe services {#tools}
++ Hulpmiddelen en externe diensten {#tools}
    + [Dashboard voor het gereedschap Analyse voor de hele site](../tools/site-wide-analysis-tool.md)
    + [Waarneming voor Adobe Commerce](../tools/observation-tool.md)
    + [Gereedschap Kwaliteitspatroon](../tools/quality-patch-tool.md)
@@ -221,7 +227,7 @@ ht-degree: 2%
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2-4-upgrade-workshop.md)
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
-+ Ontwikkeling op de achtergrond {#backend-development}
++ Achterwaartse ontwikkeling {#backend-development}
    + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
@@ -241,7 +247,7 @@ ht-degree: 2%
    + [Een JavaScript-module toevoegen](../frontend-development/add-javascript-module.md)
    + [Een pagina maken](../frontend-development/create-page.md)
 + Hoofdloze architectuur {#headless-architecture}
-   + Introductie tot zonder kop {#introduction-to-headless}
+   + Inleiding tot headless {#introduction-to-headless}
       + [ Hoofdloze Architectuur - Zitting 1 ](../headless/session-1.md)
    + Inleiding tot PWA Studio {#introduction}
       + [1 - Overzicht](../pwa/introduction/1-overview.md)
