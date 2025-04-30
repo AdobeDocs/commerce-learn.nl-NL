@@ -10,10 +10,11 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+badgePaas: label="Alleen PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Is alleen van toepassing op Adobe Commerce op Cloud-projecten (door Adobe beheerde PaaS-infrastructuur) en op projecten in het veld."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
+source-git-commit: efb067d8595079cc33a9af0c15eb1e60e0dd5796
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,5 +36,5 @@ Met Inhoud stapelen kan uw bedrijfsteam eenvoudig een groot aantal inhoudsupdate
 
 ## Aanvullende bronnen
 
-- [ Inhoud die -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp opneemt ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html) {target="_blank"}
-- [ Voorproef een Campagne -  [!DNL Commerce]  Inhoud en de Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html) {target="_blank"}
+- [ Inhoud die -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp opneemt ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [ Voorproef een Campagne -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
