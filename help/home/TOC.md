@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
+source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '857'
 ht-degree: 2%
 
 ---
@@ -110,6 +110,7 @@ ht-degree: 2%
       + [Wat ultieme successen is](../commerce-conversations/what-is-ultimate-success.md)
       + [Succesvolle versnellers technische gereedheid](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [Goedkeuring en activering van versnellers](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
+      + [Gereedheid van de organisatie voor Succesvolle versnellers](../commerce-conversations/success-accelerators-organizational-readiness.md)
 + GraphQL en REST {#graphql-rest}
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
    + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
