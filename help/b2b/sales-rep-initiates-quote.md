@@ -31,6 +31,6 @@ Leer hoe de verkoper het citaat van het admin paneel kan in werking stellen, fil
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430578?learn=on&captions=dut)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

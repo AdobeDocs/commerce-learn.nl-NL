@@ -30,7 +30,7 @@ Leer hoe u een eenvoudig product maakt met de REST API en de Adobe Commerce Admi
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443908?learn=on&captions=dut)
 
 ## Een product maken met krullen
 

@@ -35,4 +35,4 @@ Leer hoe u Adobe Commerce Data Connection gebruikt in combinatie met enkele basi
 * Het publiek van Real-Time CDP werkt en wijzigt segmentatie in real time bij gebaseerd op browser gegevens, server-zijgegevens (met inbegrip van ordegeschiedenis), en gegevens uit andere bronnen (d.w.z., loyaliteitsgegevens).
 * Real-Time CDP-publiek gebruiken om de regels voor de kartonprijs en de dynamische blokken in Adobe Commerce aan te passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453824?learn=on&captions=dut)

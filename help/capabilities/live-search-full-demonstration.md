@@ -40,4 +40,4 @@ Leer hoe u Adobe Live Search-configuraties en -instellingen gebruikt. Krijg een 
 * Op regels gebaseerde rangordetypen worden uitgelegd
 * GraphQL API Introspection
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454462?learn=on&captions=dut)

@@ -38,7 +38,7 @@ Leer hoe u het neerzetten van Adobe Commerce-winkelwagentjes kunt gebruiken en d
 * Couponkorting die wordt weergegeven met behulp van de regels voor het winkelwagentje en voettekstsleuven om deze informatie effectief weer te geven.
 * Het gebruiken van productattributen en Sleuven om de het winkelwagentfunctionaliteit uit te breiden en aan te passen, die ervoor zorgen dat aan alle projectvereisten wordt voldaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441122?learn=on&captions=dut)
 
 
 ## Aanvullende documentatie

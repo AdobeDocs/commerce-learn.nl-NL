@@ -32,7 +32,7 @@ Leer hoe u twee veelvoorkomende fouten in Adobe Commerce Cloud-projecten kunt tr
 - Onderhoudsmodus beheren
 - Tips voor efficiënte probleemoplossing
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447699?learn=on&captions=dut)
 
 
 ## Opdrachten die in de video worden gebruikt

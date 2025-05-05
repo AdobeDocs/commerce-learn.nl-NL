@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Leer hoe u de URI van de beheerder opnieuw instelt met de opdracht Adobe Commerce Cloud cli. Dit is handig als de admin-URL is gewijzigd ten opzichte van de beheerder, maar er een fout is gemaakt en u geen toegang meer hebt tot de admin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439698/?learn=on&captions=dut)
 
 ## Enkele opdrachten die in de zelfstudie worden gebruikt
 

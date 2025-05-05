@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430759?quality=12&learn=on&captions=dut)
 
 
 ## Aanvullende bronnen

@@ -43,4 +43,4 @@ Hoe u effectief door de functies van de Adobe Commerce-winkel kunt navigeren en 
 * Begrijp hoe te om orden te beheren, met inbegrip van het toevoegen van punten aan de kar, het uitchecken als gast, het annuleren van orden, en het opnieuw ordenen van punten.
 * Bekijk meer informatie over het bijwerken van accountgegevens, het samenvoegen van gasten- en klantenkaarten en het zorgen voor een vloeiende afrekenervaring.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446768?learn=on&captions=dut)

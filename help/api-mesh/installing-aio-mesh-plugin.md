@@ -34,7 +34,7 @@ Voor installatieinstructies en eerste vereisten, bezoek het API Netwerk [ Begonn
 * Adobe I/O Runtime CLI installeren (opdrachtregelinterface)
 * De API Mesh-insteekmodule installeren
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430773?quality=12&learn=on&captions=dut)
 
 ## De plug-in `aio` CLI en API Mesh installeren
 

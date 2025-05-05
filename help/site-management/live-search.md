@@ -30,7 +30,7 @@ Dit is een korte inleiding op [!DNL Live Search] uit Adobe Commerce. [!DNL Live 
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452575?learn=on&captions=dut)
 
 
 ## Aanvullende bronnen

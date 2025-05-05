@@ -37,7 +37,7 @@ Leer hoe u [ Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/c
 - In Adobe Journey Optimizer kunt u eenvoudig een-op-een-klantreizen maken en activeren met out-of-box gebeurtenissen die beschikbaar zijn via de gegevensverbinding
 - Neem in real-time contact op met klanten via alle kanalen met behulp van de native communicatiemogelijkheden van Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452475/?learn=on&captions=dut)
 
 ## Aanvullende bronnen
 

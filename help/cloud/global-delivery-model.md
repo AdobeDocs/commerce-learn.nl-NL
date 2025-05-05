@@ -33,4 +33,4 @@ Adobe Commerce is een hybride cloud e-Commerce-platform dat verkrijgbaar is op A
 - Geavanceerde AI-services. U zult inzicht voor de intelligente, API-eerste diensten zoals levende onderzoek, op AI-Gebaseerde productaanbevelingen, en catalogusdiensten krijgen om klantenervaring en operationele efficiency te verbeteren.
 - Uitgebreide ontwikkelaarsgereedschappen. Leer meer over de suite van tools voor ontwikkelaars zonder clouds, zoals API Mesh en App Builder, die naadloze integratie en aanpassing mogelijk maakt om de commerciële functionaliteit uit te breiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433506?learn=on&captions=dut)

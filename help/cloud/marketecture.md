@@ -35,4 +35,4 @@ Extensiegereedschappen zoals API Mesh en Unified Event Management stroomlijnen d
 - Adobe Commerce biedt Composable Services zoals Live Search, AI-aanbevelingen en flexibele betalingsoplossingen.
 - Geavanceerde integratie, waaronder API Mesh, Unified Event Management en naadloze Adobe Experience Platform-integratie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433441?learn=on&captions=dut)

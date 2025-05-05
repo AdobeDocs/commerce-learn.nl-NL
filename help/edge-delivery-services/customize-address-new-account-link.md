@@ -40,7 +40,7 @@ Projectmanagers die de voortgang van ontwikkelingstaken moeten volgen en de tech
 * Validatie en foutafhandeling voor de invoervelden van het adres, zodat gebruikers direct feedback ontvangen over onjuiste of onvolledige invoer, hetgeen de gebruikerservaring ten goede komt.
 * Uitbreiding van het dashboard Gebruikersaccount waarmee een nieuw menu-item op het zijpaneel wordt toegevoegd aan het dashboard van de gebruikersaccount.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442912?learn=on&captions=dut)
 
 ## Aanvullende documentatie
 

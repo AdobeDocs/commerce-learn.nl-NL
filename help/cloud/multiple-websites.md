@@ -32,4 +32,4 @@ Met Adobe Commerce kunnen bedrijven meerdere winkels, merken of websites beheren
 - Lokalisatie en aanpassing
 - Schaalbaarheid en flexibiliteit
 
->[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434033?learn=on&captions=dut)

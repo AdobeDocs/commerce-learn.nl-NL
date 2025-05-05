@@ -32,7 +32,7 @@ Leer hoe u een ondersteuningsticket maakt in Experience League voor Adobe Commer
 * Leer hoe de aanbevolen artikelen veranderen afhankelijk van de informatie die in het formulier wordt gebruikt
 * Begrijpen hoe de plaatsaanduidingstekst in de formuliervelden helpt bij het begrijpen van het type informatie dat nodig is voor een goede ondersteuningsaanvraag
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449559?learn=on&captions=dut)
 
 ## Handleiding voor Commerce Knowledge Base Help Center
 

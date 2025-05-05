@@ -26,7 +26,7 @@ Leer hoe u verbinding maakt met een Adobe Commerce op een cloud-project, een dat
 * Leer hoe u snel verbinding maakt met een extern Adobe Commerce Cloud-project met een hulpprogramma zoals MysqlWorkbench of TablesPlus.
 * Leer hoe u snel verbinding kunt maken met het Adobe Commerce-project om SQL via de opdrachtregel uit te voeren
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450042?learn=on&captions=dut)
 
 Leer hoe u verbinding maakt met een Adobe Commerce op een cloud-project, een database dumpt voor gebruik buiten de site en PII maskeert en deze verwijdert.
 

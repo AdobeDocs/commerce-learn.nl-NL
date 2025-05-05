@@ -32,4 +32,4 @@ Door AI te integreren met Adobe Commerce wordt middelenbeheer gecentraliseerd, w
 - Naadloze synchronisatie tussen producten en elementen.
 - Volledige levenscycluscontrole inclusief goedkeuring, verwijdering en vervaldatum.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434082?learn=on&captions=dut)

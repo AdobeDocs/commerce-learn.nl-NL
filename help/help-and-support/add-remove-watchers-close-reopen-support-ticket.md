@@ -31,7 +31,7 @@ Leer hoe u horloges toevoegt en verwijdert, en hoe u een ondersteuningsticket sl
 * Leer hoe u een ondersteuningsticket sluit
 * Leid hoe te om een steunkaartje opnieuw te openen
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441358?learn=on&captions=dut)
 
 ## Handleiding voor Commerce Knowledge Base Help Center
 

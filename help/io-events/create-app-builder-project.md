@@ -33,7 +33,7 @@ Leer hoe u een Adobe Developer App Builder-project kunt maken om evenementen van
 * Adobe Developer Console gebruiken
 * Adobe I/O gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430629?quality=12&learn=on&captions=dut)
 
 ## Nuttige opdrachten {#useful-commands}
 

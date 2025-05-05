@@ -43,7 +43,7 @@ Maak eerst de eenvoudige producten wanneer u gegroepeerde producten maakt met Ad
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454044?learn=on&captions=dut)
 
 ## Instellen voor het gegroepeerde product
 

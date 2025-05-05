@@ -35,7 +35,7 @@ Leer hoe u gebeurtenissen registreert, ondersteunde gebeurtenissen zoekt en hoe 
 * Leer hoe u gebeurtenissen kunt registreren in de Commerce-instanties `app/etc/config.php`
 * Leer hoe u uw abonnement op een gebeurtenis opzegt
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430653?quality=12&learn=on&captions=dut)
 
 ## Nuttige opdrachten {#useful-commands}
 

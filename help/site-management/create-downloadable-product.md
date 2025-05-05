@@ -30,7 +30,7 @@ Leer hoe u een downloadbaar product maakt met de REST API en de Adobe Commerce A
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453950?learn=on&captions=dut)
 
 ## Toegestane downloadbare domeinen
 

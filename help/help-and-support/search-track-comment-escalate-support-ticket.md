@@ -31,7 +31,7 @@ Leer hoe u een zoekopdracht maakt, een ondersteuningsticket in Experience League
 * Leer hoe u een opmerking toevoegt aan een open ondersteuningsticket
 * Leer hoe en sommige redenen om een steunkaartje te stijgen
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445317?learn=on&captions=dut)
 
 ## Handleiding voor Commerce Knowledge Base Help Center
 

@@ -30,4 +30,4 @@ Leer over de verschillende opties van de rapportbouwer, en hoe te om de originel
 
 ## Adobe Commerce Intelligence-rapporten en -dashboards
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453149?learn=on&captions=dut)

@@ -33,4 +33,4 @@ Het document behandelt ook het proces van het synchroniseren van lijsten aan de 
 
 ## Integraties en configuraties
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452696?learn=on&captions=dut)

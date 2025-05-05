@@ -34,7 +34,7 @@ Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. D
 * De unieke id opslaan in de Commerce-beheerder
 * Een gebeurtenisprovider maken
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430612?quality=12&learn=on&captions=dut)
 
 ## Nuttige opdrachten {#useful-commands}
 

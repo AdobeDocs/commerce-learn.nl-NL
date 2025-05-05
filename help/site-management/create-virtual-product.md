@@ -30,7 +30,7 @@ Leer hoe u een virtueel product maakt met de REST API en de Adobe Commerce Admin
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444870?learn=on&captions=dut)
 
 ## Een virtueel product maken met krullen
 

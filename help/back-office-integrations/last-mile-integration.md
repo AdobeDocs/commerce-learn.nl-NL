@@ -43,6 +43,6 @@ Leer over het belang van naverwerkingsactiviteiten door de naverwerkingshaak, di
 * Leer de rol van de transformatiehaak in het omzetten van gegevensvoorwerpen tussen de oorsprong en bestemmingssystemen.
 * Leer over het belang van de send haak in het vergemakkelijken van de daadwerkelijke gegevens die naar het bestemmingssysteem verzenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451928?learn=on&captions=dut)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

@@ -35,7 +35,7 @@ Aan de voorkant kan de ervaring met implementaties zonder kop het proces vereenv
 * Leer wat vooruitstrevende en achterste Overwegingen.
 * Plan een soepele migratie door bestaande modules te evalueren, kerntoepassingen te upgraden en met andere oplossingen voor Adobe te integreren.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447451/?learn=on&captions=dut)
 
 ## Gerelateerde documentatie
 

@@ -27,7 +27,7 @@ Een demonstratie voor om, configuratiewaarden met Commerce CLI te bekijken, te p
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439976?&learn=on&captions=dut)
 
 ## Enkele opdrachten die in de zelfstudie worden gebruikt
 

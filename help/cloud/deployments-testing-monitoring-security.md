@@ -30,7 +30,7 @@ Leer over de de plaatsingsstrategieën van Adobe Commerce Cloud, het testen best
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432829?learn=on&captions=dut)
 
 ## Documentatie voor Experiencen League die in de video wordt vermeld
 

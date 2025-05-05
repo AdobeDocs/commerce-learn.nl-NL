@@ -36,7 +36,7 @@ Leer hoe u Adobe Commerce-winkelwagentjes kunt gebruiken en de kartonervaring ku
 * Leer hoe u een totaal opgeslagen bedrag opneemt voor het overzicht van het winkelwagentje.
 * Begrijp hoe te om lijnen in het kartsamenvatting in één doen ineenstorten sectie samen te voegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441191?learn=on&captions=dut)
 
 ## Aanvullende documentatie
 

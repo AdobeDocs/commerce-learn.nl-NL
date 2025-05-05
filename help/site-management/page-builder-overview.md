@@ -40,7 +40,7 @@ Leer in deze video hoe u:
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447899?quality=12&learn=on&captions=dut)
 
 ## Aanvullende bronnen
 

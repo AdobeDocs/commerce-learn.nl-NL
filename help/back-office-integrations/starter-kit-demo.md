@@ -37,4 +37,4 @@ Meer informatie over de Adobe Commerce back office integratiestartkit. In deze v
 * I/O-gebeurtenissen configureren
 * Verbinding maken met derden om gegevens te synchroniseren
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452020?learn=on&captions=dut)

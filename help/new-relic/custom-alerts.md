@@ -33,4 +33,4 @@ Leer hoe u in New Relic aangepaste waarschuwingen maakt voor het controleren van
 * Begrijpen hoe drempelwaarden voor waarschuwingen kunnen worden ingesteld op basis van gegevensaggregatie.
 * Vorm alarm met strengheidsniveaus en toegewezen aan bestaand beleid om berichtwerkschema&#39;s en bestemmingen te controleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440777?learn=on&captions=dut)

@@ -32,6 +32,6 @@ Leer hoe u de korting op regelobjecten gebruikt en bekijk de waarden met de Adob
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445591?learn=on&captions=dut)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

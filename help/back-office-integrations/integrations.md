@@ -35,7 +35,7 @@ Leer hoe u Adobe Commerce kunt integreren met externe systemen en praktische inz
 * Scripts uitvoeren om gebeurtenisproviders en -abonnementen te maken en configureren.
 * Gebeurtenissen bijwerken in Commerce en App Builder voor synchronisatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452776?learn=on&captions=dut)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

@@ -32,6 +32,6 @@ Leer hoe de verkoper de prijsopgave van de Adobe Commerce REST API kan initiëre
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432479?learn=on&captions=dut)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

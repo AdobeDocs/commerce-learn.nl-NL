@@ -38,4 +38,4 @@ Adobe Commerce as a Cloud Service biedt een flexibele, schaalbare en efficiënte
 * Vereenvoudigde provisioning voor aan boord nemen en zelfbediening voor snelle en efficiënte installatie van sandbox- of productieinstanties.
 * Composable architectuur voor onafhankelijke plaatsing, het schrapen, en het bijwerken van de diensten met API-eerste rekbaarheid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443317?learn=on&captions=dut)

@@ -30,6 +30,6 @@ Leer hoe u de notities voor regelitems voor een Adobe Commerce B2B-aanhalingstek
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443491?learn=on&captions=dut)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

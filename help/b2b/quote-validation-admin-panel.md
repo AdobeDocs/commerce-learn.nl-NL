@@ -30,6 +30,6 @@ Leer de validatiestappen en -gebieden die door de Adobe Commerce B2B Offerte-fun
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432481?learn=on&captions=dut)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

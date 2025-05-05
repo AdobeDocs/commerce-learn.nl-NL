@@ -32,4 +32,4 @@ Leer hoe u een verlopen SSL-certificaat kunt identificeren en hoe u een certific
 - Identificeer wanneer tijdens het proces een nieuw certificaat wordt gecreeerd.
 - Valideer het nieuwe certificaat werkt zoals u had verwacht. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439765?learn=on&captions=dut)

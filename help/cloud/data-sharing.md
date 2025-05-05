@@ -33,4 +33,4 @@ Naadloos integreren met Adobe Experience Cloud-producten om persoonlijke winkelr
 - Betrokkenheid van de Klant en Loyalty verhogen
 - Naadloze integratie en Unified Customer View
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433575?learn=on&captions=dut)

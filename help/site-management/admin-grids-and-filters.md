@@ -31,4 +31,4 @@ Leer hoe u filters kunt zoeken en aanpassen voor gebruik in de Adobe Commerce-be
 * Begrijp hoe te om een filter te gebruiken om de resultaten van een admin net te beperken
 * Leer hoe filters andere beheerders in de Admin Console van Adobe Commerce beïnvloeden
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440388?learn=on&captions=dut)

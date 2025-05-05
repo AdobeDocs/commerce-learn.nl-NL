@@ -37,7 +37,7 @@ Leer hoe u Adobe Commerce-winkelwagentje van Edge Delivery Services kunt gebruik
 * Wisselen tussen levering en in-store ophalen
 * Ophaallocaties ophalen
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441706?learn=on&captions=dut)
 
 ## Aanvullende documentatie
 

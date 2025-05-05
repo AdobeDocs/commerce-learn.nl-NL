@@ -35,7 +35,7 @@ Leer voorbeelden voor het aanpassen van het karretje van Edge Delivery Services 
 * Uitvoering van meerfasenafhandeling &#x200B;
 * Bestaande code en aanbevolen procedures opnieuw gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442656?learn=on&captions=dut)
 
 ## Aanvullende documentatie
 

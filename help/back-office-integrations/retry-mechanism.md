@@ -37,7 +37,7 @@ Leer hoe het mechanisme voor opnieuw proberen functioneert binnen de context van
 * Visuele indicatoren in de ontwikkelaarsconsole, zoals waarschuwingspictogrammen voor ontbroken gebeurtenissen en cirkelpijlpictogrammen voor opnieuw geprobeerd gebeurtenissen.
 * De runtimeacties van de &#39;consument&#39; spelen een cruciale rol bij het bepalen van de juiste statuscodes voor HTTP-reacties voor gebeurtenisafhandeling.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449079?learn=on&captions=dut)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

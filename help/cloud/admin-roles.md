@@ -33,4 +33,4 @@ Leer het proces van het aanmelden bij de Adobe Commerce Admin Portal met behulp 
 - Krijg een goed inzicht in de rolverwezenlijking en het beheer
 - Begrijp de gebruikerstaak en toegangsniveaus. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433519?learn=on&captions=dut)

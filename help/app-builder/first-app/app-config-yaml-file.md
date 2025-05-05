@@ -31,7 +31,7 @@ Dit bestand bepaalt de configuratie voor de toepassing.
 * Het besproken bestand `app.config.yaml`
 * Hoe zijn definities gekoppeld aan andere `.js` -bestanden
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430844?quality=12&learn=on&captions=dut)
 
 ## Codevoorbeeld
 

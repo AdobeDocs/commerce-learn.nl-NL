@@ -35,4 +35,4 @@ Het integreert naadloos met de digitale ervaringshulpmiddelen van de Adobe, toel
 - In real time personalisatie en efficiënt beheer van digitale middelen mogelijk maken
 - Machtiging van niet-technische gebruikers
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448392?learn=on&captions=dut)

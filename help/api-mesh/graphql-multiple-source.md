@@ -34,7 +34,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen 
 * Hoe te om fouten, zoals naamconflicten, schemabeschikbaarheid, en andere kwesties van de schemasyntaxis problemen op te lossen
 * Het net bijwerken met een gewijzigde configuratie
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430767?quality=12&learn=on&captions=dut)
 
 ## Het JSON-configuratiebestand maken
 

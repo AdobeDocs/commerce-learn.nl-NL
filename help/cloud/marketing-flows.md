@@ -33,4 +33,4 @@ _ Nieuwe en bestaande klanten die de levering van Adobe Commerce Edge verkennen.
 - Verbeter inzicht in optimalisatie door A/B Testen.
 - Leer een paar geavanceerde hulpmiddelen en AI integratie om inhoud te verfijnen, variaties te produceren, en de algemene promotiestrategie te verbeteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433538?learn=on&captions=dut)

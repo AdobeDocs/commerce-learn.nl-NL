@@ -37,7 +37,7 @@ U krijgt meer inzicht in hoe u het neerzetten van Adobe Commerce-winkelwagentjes
 * Flexibiliteit voor tests A/B. Configuraties zijn mogelijk gemaakt via SharePoint, zodat marketers deze functies kunnen beheren en testen.
 * Verbeterde marketingcontrole. Configuraties eenvoudig beheren en testen, waardoor de gebruikerservaring en de marketingeffectiviteit worden verbeterd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442357?learn=on&captions=dut)
 
 ## Aanvullende documentatie
 

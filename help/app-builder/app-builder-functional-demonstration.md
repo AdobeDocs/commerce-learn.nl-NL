@@ -25,6 +25,6 @@ Als je meer wilt weten over het gebruik van Adobe Commerce met App Builder, beki
 
 ## App Builder voor Adobe Commerce {#app-builder-functional-demonstration}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450097?learn=on&captions=dut)
 
 {{$include /help/_includes/app-builder-related-links.md}}

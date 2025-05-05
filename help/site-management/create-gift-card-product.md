@@ -31,7 +31,7 @@ Leer hoe u een cadeaukaartproduct maakt met de REST API en de Adobe Commerce Adm
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453083?learn=on&captions=dut)
 
 ## Een cadeaukaart maken met een eenvoudige lading
 

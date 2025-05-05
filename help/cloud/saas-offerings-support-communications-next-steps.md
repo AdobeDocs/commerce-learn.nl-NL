@@ -30,7 +30,7 @@ Meer informatie over het Adobe Commerce Cloud SaaS-aanbod, de ondersteuning en a
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432838?learn=on&captions=dut)
 
 ## Afkorting
 

@@ -30,7 +30,7 @@ Leer over de belangrijkste dossiers Yaml die in Adobe Commerce Cloud voor config
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432817?learn=on&captions=dut)
 
 ## Documentatie voor Experiencen League die in de video wordt vermeld
 
