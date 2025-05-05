@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## Aanvullende bronnen
 
-- [ Inleiding aan  [!DNL Live Search] ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-- [[!DNL Live Search]  overzicht ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [ Inleiding aan Product Recommendations ](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [ Inleiding aan  [!DNL Live Search] ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=nl-NL)
+- [[!DNL Live Search]  overzicht ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=nl-NL)
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=nl-NL)
+- [ Inleiding aan Product Recommendations ](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=nl-NL)

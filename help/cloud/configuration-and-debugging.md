@@ -34,17 +34,17 @@ Leer over de belangrijkste dossiers Yaml die in Adobe Commerce Cloud voor config
 
 ## Documentatie voor Experiencen League die in de video wordt vermeld
 
-- [ vorm Xdebug ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
+- [ vorm Xdebug ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=nl-NL)
 - [ de Docker van de Wolk vormt Xdebug ](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [ het Zuiveren beste praktijken ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
-- [ Overzicht van de dossiers van de Configuratie ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
-- [ ECE-Hulpmiddelen ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
-- [ werk het ECE-Hulpmiddel pakket ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html) bij
-- [ overzicht van New Relic ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
-- [ Mening en beheer logboekdossiers ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
-- [ het logboekbeheer van New Relic ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
-- [ het hulpmiddel van het Reparatie van de Kwaliteit ](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [ het flardhulpmiddelgebruik van het Kwaliteit ](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
+- [ het Zuiveren beste praktijken ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=nl-NL)
+- [ Overzicht van de dossiers van de Configuratie ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=nl-NL)
+- [ ECE-Hulpmiddelen ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=nl-NL)
+- [ werk het ECE-Hulpmiddel pakket ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=nl-NL) bij
+- [ overzicht van New Relic ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=nl-NL)
+- [ Mening en beheer logboekdossiers ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=nl-NL)
+- [ het logboekbeheer van New Relic ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=nl-NL)
+- [ het hulpmiddel van het Reparatie van de Kwaliteit ](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=nl-NL)
+- [ het flardhulpmiddelgebruik van het Kwaliteit ](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=nl-NL)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

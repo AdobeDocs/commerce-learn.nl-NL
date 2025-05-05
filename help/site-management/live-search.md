@@ -35,7 +35,7 @@ Dit is een korte inleiding op [!DNL Live Search] uit Adobe Commerce. [!DNL Live 
 
 ## Aanvullende bronnen
 
-- [ Levende volledige demonstratie van het Onderzoek ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"} 
-- [[!DNL Live Search]  voor aanbevelingen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"} 
-- [[!DNL Live Search]  overzicht ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"} 
-- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"} 
+- [ Levende volledige demonstratie van het Onderzoek ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=nl-NL){target="_blank"} 
+- [[!DNL Live Search]  voor aanbevelingen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=nl-NL){target="_blank"} 
+- [[!DNL Live Search]  overzicht ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=nl-NL){target="_blank"} 
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=nl-NL){target="_blank"} 

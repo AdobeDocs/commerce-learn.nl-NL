@@ -43,4 +43,4 @@ Leer hoe u het neerzetten van Adobe Commerce-winkelwagentjes kunt gebruiken en d
 
 ## Aanvullende documentatie
 
-* [ voeg de lijnen van het Product aan wortel toe ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [ voeg de lijnen van het Product aan wortel toe ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=nl-NL)

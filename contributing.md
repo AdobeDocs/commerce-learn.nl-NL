@@ -40,4 +40,4 @@ We houden van bijdragen van onze gemeenschap! Als u een stap verder wilt gaan da
 
 ## Beveiligingsproblemen
 
-Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. In plaats daarvan, [een probleem indienen bij onze beveiligingsexperts](https://helpx.adobe.com/security/alertus.html)
+Beveiligingsproblemen moeten niet worden gerapporteerd in deze Issue Tracker. In plaats daarvan, [een probleem indienen bij onze beveiligingsexperts](https://helpx.adobe.com/nl/security/alertus.html)

@@ -39,4 +39,4 @@ Leer voorbeelden voor het aanpassen van het karretje van Edge Delivery Services 
 
 ## Aanvullende documentatie
 
-* [ Uitchecken van de multi-step gast ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [ Uitchecken van de multi-step gast ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=nl-NL)

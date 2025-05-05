@@ -33,5 +33,5 @@ Handelaars met één winkel kunnen opslagplaatsen, winkels, ophaallocaties, verl
 
 ## Aanvullende bronnen
 
-- [ Gids van Inventory management ](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [ Gids van Inventory management ](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=nl-NL)
 - [ Inventory management - de documentatie van het REST van de Ontwikkelaar ](https://developer.adobe.com/commerce/webapi/rest/inventory/)

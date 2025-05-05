@@ -34,6 +34,6 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[ Websites, opslag, en meningen -  [!DNL Commerce]  Begonnen Gids ](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html) krijgen
+[ Websites, opslag, en meningen -  [!DNL Commerce]  Begonnen Gids ](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=nl-NL) krijgen
 
-[ beheer van het Geheime voorgeheugen -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[ beheer van het Geheime voorgeheugen -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html?lang=nl-NL)

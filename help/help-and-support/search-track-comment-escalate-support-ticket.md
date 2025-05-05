@@ -35,4 +35,4 @@ Leer hoe u een zoekopdracht maakt, een ondersteuningsticket in Experience League
 
 ## Handleiding voor Commerce Knowledge Base Help Center
 
-[ voorlegt een steungeval ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[ voorlegt een steungeval ](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

@@ -43,10 +43,10 @@ Deze video biedt een snel overzicht van de end-to-end BOPIS-ervaring van de Uitv
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release van Store Fulfillment Solution 1.0 die is geïnstalleerd op een winkel met Adobe Commerce 2.4. Zie de [ Gids van de Gebruiker van de Afhandeling van de Opslag ](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) voor de meest bijgewerkte informatie.
+>De inhoud in de video weerspiegelt de release van Store Fulfillment Solution 1.0 die is geïnstalleerd op een winkel met Adobe Commerce 2.4. Zie de [ Gids van de Gebruiker van de Afhandeling van de Opslag ](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html?lang=nl-NL) voor de meest bijgewerkte informatie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[ Gids van de Gebruiker van de Afhandeling van de Opslag ](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[ Gids van de Gebruiker van de Afhandeling van de Opslag ](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html?lang=nl-NL)

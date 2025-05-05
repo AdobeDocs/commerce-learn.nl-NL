@@ -36,10 +36,10 @@ Deze handleiding biedt een uitgebreid overzicht van het zoeken, valideren en beh
 
 ## Documentatie over verwant Experience League
 
-- [ de Configuratie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-- [ met voeten treden Montages Config ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-- [ vastgestelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-- [ Config verwijzing config.php ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-- [ Config gids technische details ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
-- [ Vergrendelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-- [ Bewaarde waarden op env.php ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+- [ de Configuratie van de Uitvoer ](https://experienceleague.adobe.com/nl/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+- [ met voeten treden Montages Config ](https://experienceleague.adobe.com/nl/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+- [ vastgestelde configuratiewaarden ](https://experienceleague.adobe.com/nl/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+- [ Config verwijzing config.php ](https://experienceleague.adobe.com/nl/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+- [ Config gids technische details ](https://experienceleague.adobe.com/nl/docs/commerce-operations/configuration-guide/deployment/technical-details)
+- [ Vergrendelde configuratiewaarden ](https://experienceleague.adobe.com/nl/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+- [ Bewaarde waarden op env.php ](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

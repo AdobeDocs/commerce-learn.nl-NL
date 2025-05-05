@@ -128,5 +128,5 @@ als we echter de derde decimaal laten vallen , zou dat laten zien dat er $3,98 i
 
 ## Aanvullende bronnen
 
-- [ creeer een Regel van de Prijs van de Kar -  [!DNL Commerce]  Gids van Verkoop en Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [ Codes van de Coupon -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [ creeer een Regel van de Prijs van de Kar -  [!DNL Commerce]  Gids van Verkoop en Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=nl-NL)
+- [ Codes van de Coupon -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=nl-NL)

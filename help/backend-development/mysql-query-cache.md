@@ -38,6 +38,6 @@ Leer wat MySQL vraaggeheime voorgeheugen en wat basisbegrip voor hoe het werkt. 
 
 ## Nuttige bronnen
 
-- [ Algemene richtlijnen MySQL ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"} 
-- [ Deadlocks in MySQL ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"} 
-- [ replicatie Galera en langzame vragen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"} 
+- [ Algemene richtlijnen MySQL ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=nl-NL){target="_blank"} 
+- [ Deadlocks in MySQL ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=nl-NL){target="_blank"} 
+- [ replicatie Galera en langzame vragen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=nl-NL){target="_blank"} 

@@ -34,5 +34,5 @@ Een blok is een modulaire inhoudseenheid die overal op de pagina kan worden gepl
 
 ## Aanvullende bronnen
 
-- [ Blokken -  [!DNL Commerce]  Inhoud en de Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [ Dynamische Blokken -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [ Blokken -  [!DNL Commerce]  Inhoud en de Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=nl-NL)
+- [ Dynamische Blokken -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=nl-NL)

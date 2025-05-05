@@ -31,11 +31,11 @@ Elke website in een Adobe Commerce- of Magento Open Source-installatie heeft een
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.1.0. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [ opslag URLs -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [ Gebruik een douaneAdmin URL -  [!DNL Commerce]  de Gids van de Ervaring van de Opslag en van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [ opslag URLs -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=nl-NL)
+- [ Gebruik een douaneAdmin URL -  [!DNL Commerce]  de Gids van de Ervaring van de Opslag en van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=nl-NL#use-a-custom-admin-url)

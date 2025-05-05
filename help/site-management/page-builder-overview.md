@@ -44,5 +44,5 @@ Leer in deze video hoe u:
 
 ## Aanvullende bronnen
 
-- [ Gids van de Gebruiker van de Bouwer van de Pagina ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [ Gids van de Gebruiker van de Bouwer van de Pagina ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=nl-NL)
 - [ Gids van de Ontwikkelaar van de Bouwer van de Pagina ](https://developer.adobe.com/commerce/frontend-core/page-builder/)

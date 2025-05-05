@@ -36,5 +36,5 @@ Voor B2B-handelaren worden op de pagina _[!UICONTROL Companies]_&#x200B;alle lop
 
 ## Aanvullende bronnen
 
-- [ De Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"} 
-- [ beheer de Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"} 
+- [ De Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=nl-NL){target="_blank"} 
+- [ beheer de Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=nl-NL){target="_blank"} 

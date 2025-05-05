@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Adobe Commerce en Adobe Journey Optimizer integreren
 
-Leer hoe u [ Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html) {target="blank"} in Adobe Commerce kunt gebruiken om de gegevens van Commerce te ontgrendelen en, gepersonaliseerde verkoopervaringen van begin tot eind in real time met de hulp van Adobe Journey Optimizer te leveren.
+Leer hoe u [ Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=nl-NL) {target="blank"} in Adobe Commerce kunt gebruiken om de gegevens van Commerce te ontgrendelen en, gepersonaliseerde verkoopervaringen van begin tot eind in real time met de hulp van Adobe Journey Optimizer te leveren.
 
 ## Voor wie is deze video?
 
@@ -41,5 +41,5 @@ Leer hoe u [ Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/c
 
 ## Aanvullende bronnen
 
-[ Overzicht van de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} 
-[ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"} 
+[ Overzicht van de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=nl-NL){target="_blank"} 
+[ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=nl-NL){target="_blank"} 

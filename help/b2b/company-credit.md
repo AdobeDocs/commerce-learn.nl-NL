@@ -43,5 +43,5 @@ U kunt de volgende kredietgerelateerde parameters instellen voor elk bedrijfspro
 
 ## Aanvullende bronnen
 
-- [ vorm betaling op rekening ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [ beheer Bedrijfskrediet ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [ vorm betaling op rekening ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=nl-NL#configure-payment-on-account)
+- [ beheer Bedrijfskrediet ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=nl-NL)

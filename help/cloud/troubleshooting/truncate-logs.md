@@ -89,4 +89,4 @@ Wijzig de map `var/log` nadat u het juiste project en de juiste omgeving hebt in
 
 ## Gerelateerde documentatie
 
-- [ de berichten van de Gezondheid ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"} 
+- [ de berichten van de Gezondheid ](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"} 

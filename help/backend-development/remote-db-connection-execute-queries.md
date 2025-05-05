@@ -40,7 +40,7 @@ De aangewezen methode moet een gegevensbestandstortplaats doen en het scrubben o
 
 ## Het Adobe Commerce Cloud CLI-gereedschap gebruiken
 
-Creërend een gegevensbestandstortplaats vereist u om [ geïnstalleerde Adobe Commerce Cloud CLI ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) te hebben. Ga op uw lokale laptop naar een directory en voer de volgende opdracht uit. Vervang `your-project-id` door de project-id, die vergelijkbaar is met `asasdasd45q` . U moet `your-environment-name` ook vervangen door de naam van uw omgeving, zoals `master` of `staging` .
+Creërend een gegevensbestandstortplaats vereist u om [ geïnstalleerde Adobe Commerce Cloud CLI ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=nl-NL) te hebben. Ga op uw lokale laptop naar een directory en voer de volgende opdracht uit. Vervang `your-project-id` door de project-id, die vergelijkbaar is met `asasdasd45q` . U moet `your-environment-name` ook vervangen door de naam van uw omgeving, zoals `master` of `staging` .
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -276,7 +276,7 @@ Als u rechtstreeks toegang wilt krijgen tot de MariaDB-database, moet u SSH gebr
    magento-cloud ssh
    ```
 
-1. Haal de MySQL login geloofsbrieven van de `database` en `type` eigenschappen in de [$MAGENTO_CLOUD_RELATIONSHIPS ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) variabele terug.
+1. Haal de MySQL login geloofsbrieven van de `database` en `type` eigenschappen in de [$MAGENTO_CLOUD_RELATIONSHIPS ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=nl-NL#relationships) variabele terug.
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -322,7 +322,7 @@ Nadat alles opstelling is, is het mogelijk om MySQL GUI te gebruiken om vragen o
 
 ## Direct verbinding maken met de database van het cloudproject om SQL uit te voeren
 
-De volgende methode gebruikt de `magento-cloud` -cli om rechtstreeks verbinding te maken met de mysql-database en SQL uit te voeren, waardoor de database sneller kan worden opgevraagd. Als u dit gegevensbestand moet kopiëren, verwijs naar één van de alternatieve methodes om [ tot een gegevensbestandstortplaats ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html) te leiden.
+De volgende methode gebruikt de `magento-cloud` -cli om rechtstreeks verbinding te maken met de mysql-database en SQL uit te voeren, waardoor de database sneller kan worden opgevraagd. Als u dit gegevensbestand moet kopiëren, verwijs naar één van de alternatieve methodes om [ tot een gegevensbestandstortplaats ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=nl-NL) te leiden.
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +382,7 @@ MariaDB [main]>
 
 ## Aanvullende bronnen
 
-[ Adobe Commerce Cloud CLI ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[ Opstelling de dienst MySQL ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-[ Opstelling een verre MySQL gegevensbestandverbinding ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[ creeer gegevensbestandstortplaats op Adobe Commerce op wolkeninfrastructuur ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[ Adobe Commerce Cloud CLI ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=nl-NL)
+[ Opstelling de dienst MySQL ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=nl-NL)
+[ Opstelling een verre MySQL gegevensbestandverbinding ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=nl-NL)
+[ creeer gegevensbestandstortplaats op Adobe Commerce op wolkeninfrastructuur ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=nl-NL)

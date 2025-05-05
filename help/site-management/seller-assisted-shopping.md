@@ -33,5 +33,5 @@ Klanten hebben soms hulp nodig om een aankoop te voltooien. Sommige klanten will
 
 ## Aanvullende bronnen
 
-- [ verstrekt Hulp Shopper -  [!DNL Commerce]  opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [ die hulp Shopping -  [!DNL Commerce]  opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [ verstrekt Hulp Shopper -  [!DNL Commerce]  opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=nl-NL)
+- [ die hulp Shopping -  [!DNL Commerce]  opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=nl-NL#shopping-assistance)

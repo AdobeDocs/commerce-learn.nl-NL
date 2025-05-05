@@ -32,5 +32,5 @@ Met sjablonen bespaart u tijd en moeite bij het maken van inhoud (of het vervang
 
 ## Aanvullende bronnen
 
-- [[!DNL Page Builder]  Malplaatjes -  [!DNL Page Builder]  Gids van de Gebruiker ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder]  Malplaatjes -  [!DNL Page Builder]  Gids van de Gebruiker ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=nl-NL)
 - [ voegt malplaatjes toe -  [!DNL Page Builder]  Gids van de Ontwikkelaar ](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

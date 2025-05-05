@@ -33,5 +33,5 @@ Klantgroepen bepalen welke kortingen beschikbaar zijn en welke belastingklasse a
 
 ## Aanvullende bronnen
 
-- [ Groepen van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [ Groepen van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=nl-NL)
 - [ de groepsbeperkingen van de Klant door websites -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

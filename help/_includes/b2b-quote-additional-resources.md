@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ## Aanvullende bronnen
 
-- [ het Overzicht van citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"} 
-- [ vormen Citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"} 
-- [ Verzoek om citaat ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"} 
-- [ onderhandelt a citaat ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"} 
-- [ Mijn Citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"} 
+- [ het Overzicht van citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html?lang=nl-NL){target="_blank"} 
+- [ vormen Citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html?lang=nl-NL){target="_blank"} 
+- [ Verzoek om citaat ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html?lang=nl-NL){target="_blank"} 
+- [ onderhandelt a citaat ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html?lang=nl-NL){target="_blank"} 
+- [ Mijn Citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html?lang=nl-NL){target="_blank"} 
 - [ beheer onderhandelbare citaten ](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"} 
 - [ integreer met de module NegotiableQuote ](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"} 

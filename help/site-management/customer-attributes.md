@@ -33,5 +33,5 @@ De attributen van de klant verstrekken de informatie die wordt vereist om de ord
 
 ## Aanvullende bronnen
 
-- &lbrace;de eigenschappen van het attribuut van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant [&#128279;](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [ creeer een Individuele Rekening van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- &lbrace;de eigenschappen van het attribuut van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant [&#128279;](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=nl-NL)
+- [ creeer een Individuele Rekening van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=nl-NL)

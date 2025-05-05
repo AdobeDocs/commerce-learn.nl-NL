@@ -33,6 +33,6 @@ Het beheer van uw verzend- en leveringsmethodes is van essentieel belang om ervo
 
 ## Aanvullende bronnen
 
-- [ Verzendmontages -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [ Basis leveringsmethodes -  [!DNL Commerce]  Slaat en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods) op
-- [ Verzenddrager opstelling -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [ Verzendmontages -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=nl-NL)
+- [ Basis leveringsmethodes -  [!DNL Commerce]  Slaat en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=nl-NL#basic-delivery-methods) op
+- [ Verzenddrager opstelling -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=nl-NL)

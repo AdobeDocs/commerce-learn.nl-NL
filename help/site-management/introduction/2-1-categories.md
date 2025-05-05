@@ -33,4 +33,4 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[ Categorieën -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[ Categorieën -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html?lang=nl-NL)
