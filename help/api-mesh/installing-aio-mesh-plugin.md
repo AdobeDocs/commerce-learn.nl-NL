@@ -22,11 +22,11 @@ ht-degree: 0%
 # Adobe I/O Runtime CLI- en netplug-in installeren
 
 Voordat u begint met het gebruik van API Mesh voor Adobe Developer App Builder, moet u de insteekmodule `aio` CLI en API Mesh installeren.
-Voor installatieinstructies en eerste vereisten, bezoek het API Netwerk [ Begonnen het worden ](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) {target="_blank"} pagina.
+Voor installatieinstructies en eerste vereisten, bezoek het API Netwerk [ Begonnen het worden ](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}  pagina.
 
 ## Voor wie is deze video?
 
-* De ontwikkelaars nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [ Adobe I/O Runtime ](https://developer.adobe.com/runtime/docs/guides/overview/) gebruiken {target="_blank"} en het Net van API.
+* De ontwikkelaars nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [ Adobe I/O Runtime ](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} gebruiken  en het Net van API.
 
 ## Video-inhoud
 

@@ -57,9 +57,9 @@ Nadat de bezoeker de QR-code met het apparaat heeft gescand, wordt het item over
 
 ## Nuttige bronnen
 
-[ AR Kijker voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html) {target="_blank"}
-[ beheer product 3D modellen met de AR Kijker voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html) {target="_blank"}
+[ AR Kijker voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"} 
+[ beheer product 3D modellen met de AR Kijker voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"} 
 
 ## Adobe Commerce Marketplace-extensie
 
-[ de kijker van AR ](https://commercemarketplace.adobe.com/magento-module-arviewer.html) {target="_blank"}
+[ de kijker van AR ](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"} 

@@ -206,6 +206,6 @@ In om het even welke GraphQL-bewuste cliënt die u voor het testen (zoals Altair
 
 Zoals u ziet dat de feitelijke HTTP-aanvraag voor een GraphQL-query de hoofdtekst van de query &#39;&#39;query: `{string}`&#39;&#39; bevat, bevat elke aanvraag met een Variables-woordenboek gewoon een extra &#39;variables: `{json}`&#39; in dezelfde hoofdtekst, waarbij `{json}` de JSON-tekenreeks met de variabelenwaarden is.
 
-De nieuwe vraag gebruikt ook a _fragment_ (`productDetails`) om de zelfde gebiedsselectie op veelvoudige plaatsen opnieuw te gebruiken. [ las meer over fragmenten ](https://graphql.org/learn/queries/#fragments) {target="_blank"} in de documentatie van GraphQL.
+De nieuwe vraag gebruikt ook a _fragment_ (`productDetails`) om de zelfde gebiedsselectie op veelvoudige plaatsen opnieuw te gebruiken. [ las meer over fragmenten ](https://graphql.org/learn/queries/#fragments){target="_blank"}  in de documentatie van GraphQL.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

@@ -41,5 +41,5 @@ Met de vereiste toestemmingen voor hun rol, kunnen de klanten B2B opstelling goe
 
 ## Aanvullende bronnen
 
-- [ Inkooporders voor Bedrijven ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html) {target="_blank"}
-- [ Regels van de Goedkeuring van de Inkooporder ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html) {target="_blank"}
+- [ Inkooporders voor Bedrijven ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"} 
+- [ Regels van de Goedkeuring van de Inkooporder ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"} 

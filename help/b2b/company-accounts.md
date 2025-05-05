@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Bedrijfsaccounts beheren
 
-Voor B2B-handelaren worden op de pagina _[!UICONTROL Companies]_alle lopende bedrijfsaccounts en hun status weergegeven. U kunt hier uw bedrijfsaccounts beheren en eventuele aanvragen voor goedkeuring die in behandeling zijn, worden boven aan de lijst weergegeven. Met de standaardbesturingselementen op de werkplek kunt u de lijst filteren, de kolomlay-out wijzigen, weergaven opslaan en gegevens exporteren.
+Voor B2B-handelaren worden op de pagina _[!UICONTROL Companies]_&#x200B;alle lopende bedrijfsaccounts en hun status weergegeven. U kunt hier uw bedrijfsaccounts beheren en eventuele aanvragen voor goedkeuring die in behandeling zijn, worden boven aan de lijst weergegeven. Met de standaardbesturingselementen op de werkplek kunt u de lijst filteren, de kolomlay-out wijzigen, weergaven opslaan en gegevens exporteren.
 
 {{b2b-feature}}
 
@@ -36,5 +36,5 @@ Voor B2B-handelaren worden op de pagina _[!UICONTROL Companies]_alle lopende bed
 
 ## Aanvullende bronnen
 
-- [ De Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html) {target="_blank"}
-- [ beheer de Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html) {target="_blank"}
+- [ De Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"} 
+- [ beheer de Rekeningen van het Bedrijf ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"} 

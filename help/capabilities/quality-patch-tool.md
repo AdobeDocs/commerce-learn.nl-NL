@@ -71,7 +71,7 @@ Voordat u patches toepast, is het van cruciaal belang dat u ze in een testomgevi
 
 ## Verwante artikelen en video&#39;s
 
-* {het zoeken van de Hulpmiddelen van het Reparatie van 0} Kwaliteit ](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)[
+* {het zoeken van de Hulpmiddelen van het Reparatie van 0} Kwaliteit [&#128279;](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 * [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [ Github voor flarden ](https://github.com/magento/quality-patches/blob/master/patches/os/)
 * [ Gebruik van het hulpmiddel van het kwaliteitspatch ](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)

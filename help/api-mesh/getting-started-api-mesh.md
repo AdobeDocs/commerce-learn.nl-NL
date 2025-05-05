@@ -27,11 +27,11 @@ Als u nog geen ervaring hebt met API Mesh for Adobe Developer App Builder, raadt
 
 API-net combineert meerdere gegevensbronnen voor één antwoord dat uw toepassing kan gebruiken.
 
-[ Mening de volledige documentatie van het Netwerk van API ](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/) {target="_blank"}
+[ Mening de volledige documentatie van het Netwerk van API ](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"} 
 
 ## Voor wie is deze video?
 
-* Om het even welke ontwikkelaar nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [ Adobe I/O Runtime ](https://developer.adobe.com/runtime/docs/guides/overview/) {target="_blank"} en het Net van API gebruiken.
+* Om het even welke ontwikkelaar nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [ Adobe I/O Runtime ](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}  en het Net van API gebruiken.
 
 ## Video-inhoud
 
@@ -50,7 +50,7 @@ Uw Commerce-toepassing heeft een REST API en een GraphQL-eindpunt. U kunt bijvoo
 
 Als ontwikkelaar die Adobe App Builder en API Net gebruikt, is het niet noodzakelijk om te begrijpen wat een omgekeerde volmacht is. Nochtans, als u in de algemene functionaliteit geinteresseerd bent aangezien het betrekking heeft op Adobe App Builder, gebruik de volgende middelen:
 
-* [ wat een omgekeerde volmacht is ](https://www.imperva.com/learn/performance/reverse-proxy/) {target="_blank"}
-* [ wat een omgekeerde volmacht is en waarom het ](https://blog.hubspot.com/website/reverse-proxy) {target="_blank"} van belang is
+* [ wat een omgekeerde volmacht is ](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"} 
+* [ wat een omgekeerde volmacht is en waarom het ](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}  van belang is
 
 {{$include /help/_includes/api-mesh-related-links.md}}

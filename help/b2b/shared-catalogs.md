@@ -36,5 +36,5 @@ Als de functie Gedeelde catalogus in de configuratie is ingeschakeld, blijft de 
 
 ## Aanvullende bronnen
 
-- [ Werkend met Gedeelde Catalogi ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html) {target="_blank"}
-- [ creeer een Gedeelde Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html) {target="_blank"}
+- [ Werkend met Gedeelde Catalogi ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"} 
+- [ creeer een Gedeelde Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"} 

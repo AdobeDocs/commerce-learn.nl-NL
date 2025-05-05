@@ -39,4 +39,4 @@ Veel van de problemen voor Adobe Commerce zijn te traceren via New Relic. Als u 
 
 >[!MORELIKETHIS]
 > 
-> - ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide) {target="_blank"} de Gids van de Gebruiker van de Hulp van Adobe Commerce[
+> - [&#128279;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}  de Gids van de Gebruiker van de Hulp van Adobe Commerce

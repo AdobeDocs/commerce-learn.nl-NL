@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ## Adobe Developer-documentatie
 
-* [ Adobe I/O Gebeurtenissen voor het Overzicht van Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/) {target="_blank"}
+* [ Adobe I/O Gebeurtenissen voor het Overzicht van Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/){target="_blank"} 

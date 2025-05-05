@@ -223,7 +223,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Aanvullende bronnen
 
-- [ creeer en beheer gegroepeerde producten ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) {target="_blank"}
-- [ Gegroepeerd Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html) {target="_blank"}
-- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/) {target="_blank"}
-- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products) {target="_blank"}
+- [ creeer en beheer gegroepeerde producten ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"} 
+- [ Gegroepeerd Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"} 
+- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"} 
+- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"} 

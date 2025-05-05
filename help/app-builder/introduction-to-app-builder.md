@@ -62,33 +62,33 @@ In het volgende diagram ziet u hoe een standaardtoepassing die op App Builder is
 
 ![ Architectuur ](/help/assets/app-builder/app-builder-architecture.jpeg)
 
-Voor meer details over de architectuur van App Builder, zie het [ Overzicht van de Architectuur ](https://developer.adobe.com/app-builder/docs/guides/) {target="_blank"}.
+Voor meer details over de architectuur van App Builder, zie het [ Overzicht van de Architectuur ](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"} .
 
 ## Aan de slag met App Builder {#additional-resources}
 
 Een overzicht van de composable commerce strategie, die de aanvankelijke opstelling omvat, kan door het volgende blogbericht te lezen worden gevonden:
 
-[ hoe de hulp van App Builder bedrijfs behendigheid voor uw handelsplatform ](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy) {target="_blank"} drijft
+[ hoe de hulp van App Builder bedrijfs behendigheid voor uw handelsplatform ](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}  drijft
 
 Adobe heeft de volgende documentatie gemaakt om u te helpen aan de slag te gaan met App Builder:
 
-* [ App Builder die ](https://developer.adobe.com/app-builder/docs/getting_started/) {target="_blank"} wordt begonnen
+* [ App Builder die ](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}  wordt begonnen
 
 ## Doorgaan met leren met documentatie {#appbuilder-documentation}
 
 App Builder biedt video&#39;s en documentatie voor ontwikkelaars, waaronder handleidingen en documentatie voor naslagwerken om uw eigen aangepaste toepassingen te helpen ontwikkelen:
 
-* [ documentatie van App Builder ](https://developer.adobe.com/app-builder/docs/overview/) {target="_blank"}
-* [ de video&#39;s van App Builder ](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o) {target="_blank"}
+* [ documentatie van App Builder ](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"} 
+* [ de video&#39;s van App Builder ](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"} 
 
 ## Een van de voorbeeldtoepassingen uitproberen {#appbuilder-codesamples}
 
 Klaar om te beginnen met ontwikkelen? De volgende koppeling bevat voorbeeldtoepassingen waarmee u aan de slag kunt gaan:
 
-* [ de Etiketten van de Code van App Builder op de Website van Adobe Developer ](https://developer.adobe.com/app-builder/docs/resources/) {target="_blank"}
+* [ de Etiketten van de Code van App Builder op de Website van Adobe Developer ](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"} 
 
 ## Ondersteuning {#support}
 
-Voor de verzoeken van de ontwikkelaarsteun, gebruik het [ forum van Experience League ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) {target="_blank"} voor hulp.
+Voor de verzoeken van de ontwikkelaarsteun, gebruik het [ forum van Experience League ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"}  voor hulp.
 
 {{$include /help/_includes/app-builder-related-links.md}}

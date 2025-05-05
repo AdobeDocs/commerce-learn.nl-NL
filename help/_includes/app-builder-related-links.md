@@ -17,6 +17,6 @@ ht-degree: 0%
 * [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
 * [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
 * [Een app indienen bij de Marketplace](../app-builder/submit-app-process.md)
-* [ voltooi het overzicht van uitbreidingsinformatie ](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/) {target="_blank"}
-* [ Sales Channel van Amazon op App Builder ](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/) {target="_blank"}
-* [ Admin UI SDK ](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/) {target="_blank"}
+* [ voltooi het overzicht van uitbreidingsinformatie ](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"} 
+* [ Sales Channel van Amazon op App Builder ](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"} 
+* [ Admin UI SDK ](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"} 

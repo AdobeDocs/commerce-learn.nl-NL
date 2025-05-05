@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Bedrijfskrediet beheren
 
-Voor bedrijven die _[!UICONTROL Payment on Account]_hebben ingeschakeld en bedrijfskrediet beschikbaar hebben, kunnen ze aankopen op hun account doen tot het toegestane maximum. Met deze functie kunnen klanten de status van hun bedrijfskrediet controleren vanaf het dashboard van hun account.
+Voor bedrijven die _[!UICONTROL Payment on Account]_&#x200B;hebben ingeschakeld en bedrijfskrediet beschikbaar hebben, kunnen ze aankopen op hun account doen tot het toegestane maximum. Met deze functie kunnen klanten de status van hun bedrijfskrediet controleren vanaf het dashboard van hun account.
 
 U kunt de volgende kredietgerelateerde parameters instellen voor elk bedrijfsprofiel:
 

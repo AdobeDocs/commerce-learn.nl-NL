@@ -23,7 +23,7 @@ ht-degree: 0%
 
 De Commerce Services Connector is een configuratie die is ontwikkeld door Adobe en die verschillende SaaS-functionaliteit ontgrendelt. Als u de betalingsservices voor Adobe Commerce en Magento Open Source wilt gebruiken, moet u een verbinding tot stand brengen met uw Commerce-instantie met de API-sleutels voor productie en sandbox en de gegevensruimte opgeven in de configuratie voor installatie.
 
-Bekijk _vormt de 1} video van de Verbinding van de Diensten van Adobe Commerce {om u opstelling de Diensten van de Betaling te helpen._
+Bekijk _vormt de 1&rbrace; video van de Verbinding van de Diensten van Adobe Commerce &lbrace;om u opstelling de Diensten van de Betaling te helpen._
 
 ## Voor wie is deze video?
 

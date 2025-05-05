@@ -34,4 +34,4 @@ Uw winkel wordt geladen met plaatsen waar u trefwoordrijke metagegevens kunt inv
 
 ## Aanvullende bronnen
 
-{de gegevens van 0} Meta -  [!DNL Commerce]  Handelaren en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)[
+{de gegevens van 0} Meta -  [!DNL Commerce]  Handelaren en Gids van Bevorderingen [&#128279;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

@@ -41,5 +41,5 @@ Leer hoe u [ Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/c
 
 ## Aanvullende bronnen
 
-[ Overzicht van de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html) {target="_blank"}
-[ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html) {target="_blank"}
+[ Overzicht van de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} 
+[ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"} 

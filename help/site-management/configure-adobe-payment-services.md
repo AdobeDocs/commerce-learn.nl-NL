@@ -33,6 +33,6 @@ Als je wilt beginnen met het gebruik van Betalingsservices voor Adobe Commerce e
 
 ## Aanvullende bronnen
 
-- [ De Diensten van de Betaling aan boord ](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html) {target="_blank"}
+- [ De Diensten van de Betaling aan boord ](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"} 
 - [ Gids van de Diensten van de Betaling ](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html) {target="+blank"}
 - [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html) {target="+blank"}

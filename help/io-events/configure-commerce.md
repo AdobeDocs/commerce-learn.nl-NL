@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe Commerce configureren
 
-Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/) {target="_blank"}.
+Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"} .
 
 ## Voor wie is deze video?
 

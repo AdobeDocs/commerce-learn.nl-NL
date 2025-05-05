@@ -105,7 +105,7 @@ type Mutation {
 }
 ```
 
-U kunt in [ de documentatie van GraphQL ](https://graphql.org/learn/schema/) {target="_blank"} delven om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren hier niet vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de structuur heen, totdat u eenvoudige scalaire typen krijgt, zoals `String` .
+U kunt in [ de documentatie van GraphQL ](https://graphql.org/learn/schema/){target="_blank"}  delven om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren hier niet vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de structuur heen, totdat u eenvoudige scalaire typen krijgt, zoals `String` .
 
 De declaratie `input` is in alle opzichten hetzelfde als een declaratie `type` , maar definieert een type dat kan worden gebruikt als invoer voor een argument. Noteer ook de declaratie `interface` . Dit dient een functie min of meer dezelfde als interfaces in PHP. Andere types erven van deze interface.
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 * [Lokaal testen](../app-builder/first-app/testing-locally.md)
 * [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
 * [Conclusie](../app-builder/first-app/conclusion.md)
-* [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples) {target="_blank"}
+* [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples){target="_blank"} 
