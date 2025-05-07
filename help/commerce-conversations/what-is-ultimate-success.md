@@ -1,6 +1,6 @@
 ---
-title: Wat is Ultimate Success
-description: Adobe Commerce Ultimate Success biedt proactieve ondersteuning en strategische begeleiding voor hoogwaardige digitale ervaringen.
+title: Wat is Ultimate Success?
+description: Meer informatie over proactieve ondersteuning van Adobe Commerce Ultimate Success en strategische begeleiding voor hoogwaardige digitale ervaringen.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,13 +9,13 @@ doc-type: Value Video
 duration: 240
 last-substantial-update: 2025-04-15T00:00:00Z
 jira: KT-17798
-source-git-commit: 4859c557dac8a855940a217ae8ab60ff8f3fce02
+exl-id: 8c920d49-183a-4a2e-a4b9-5dfdc1cf3476
+source-git-commit: b1ebf4b54253bf19e4d15e089737bc94c0c83615
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # Wat is Ultimate Success
 
@@ -34,4 +34,3 @@ Adobe Commerce Ultimate Success is ontworpen om bedrijven te verbeteren en te on
 * Prioritair probleemoplossing en escalatiebeheer: biedt snellere responstijden en deskundige analyse voor kritieke problemen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457644/?learn=on&enablevpops)
-
