@@ -1,6 +1,6 @@
 ---
 title: Gereedheid van organisatie voor succesversnelling
-description: De organisatie van Adobe Commerce Success Accelerator helpt met strategische planning, workflows, wijzigingsbeheer en digitale revisie.
+description: Meer informatie over succesversnellers van Adobe voor de gereedheid van de organisatie. De organisatie van Commerce Success Accelerator helpt met strategische planning, workflows, wijzigingsbeheer en digitale revisie.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,17 +9,17 @@ doc-type: Value Video
 duration: 107
 last-substantial-update: 2025-04-29T00:00:00Z
 jira: KT-17904
-source-git-commit: 1f3a1357026c31fb99ff5d3ee6de565242abec80
+exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
+source-git-commit: 46647d0be34b804a59dcaebaabe68630dc7051ac
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
 # Succesvolle versnellers organisatorische gereedheid
 
-Leer over Adobe die succesversnellers voor organisatorische gereedheid . Een paar voorbeelden zijn de strategische cyclusplanning en de ontwikkeling van routekaarten om verrichtingen met bedrijfsstrategie, werkschema en werkend modeloptimalisering voor het goedkeuren van de oplossingen van Adobe te richten. Daarnaast zijn er wijzigingsbeheer- en communicatiestrategieën voor digitale transformatie, en digitale revisie en benchmarking om digitale ervaringen te beoordelen en te verbeteren aan de hand van industriestandaarden.
+Meer informatie over succesversnellers van Adobe voor de gereedheid van de organisatie. Een paar voorbeelden zijn de strategische cyclusplanning en de ontwikkeling van routekaarten om verrichtingen met bedrijfsstrategie, werkschema en werkend modeloptimalisering voor het goedkeuren van de oplossingen van Adobe te richten. Daarnaast zijn er wijzigingsbeheer- en communicatiestrategieën voor digitale transformatie, en digitale revisie en benchmarking om digitale ervaringen te beoordelen en te verbeteren aan de hand van industriestandaarden.
 
 ## Voor wie is deze video?
 
