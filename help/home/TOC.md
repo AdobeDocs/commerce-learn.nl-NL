@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
+source-git-commit: 7af996c024ded08890ffc8ab88444bce2c26428d
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '859'
 ht-degree: 2%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 2%
       + [Succesvolle versnellers technische gereedheid](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [Goedkeuring en activering van versnellers](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
       + [Gereedheid van de organisatie voor Succesvolle versnellers](../commerce-conversations/success-accelerators-organizational-readiness.md)
+      + [Gedeelde verantwoordelijkheid](../commerce-conversations/shared-responsibility.md)
 + GraphQL en REST {#graphql-rest}
    + [Basisbegrippen voor GraphQL](../graphql-rest/intro-graphql.md)
    + [Zoekopdrachten](../graphql-rest/graphql-queries.md)
@@ -132,7 +133,7 @@ ht-degree: 2%
       + [Lokaal testen](../app-builder/first-app/testing-locally.md)
       + [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusie](../app-builder/first-app/conclusion.md)
-      + [ Bron code van de Module van de Steekproef](https://github.com/magento/app-builder-samples){target="_blank"}
+      + [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
       + [Aan de slag met IO-gebeurtenissen](../io-events/getting-started-io-events.md)
       + [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
@@ -229,7 +230,7 @@ ht-degree: 2%
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
 + Achterwaartse ontwikkeling {#backend-development}
-   + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=nl-NL)
+   + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
