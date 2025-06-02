@@ -37,7 +37,7 @@ Adobe Commerce biedt een HIPAA-klaar oplossing die wordt ontworpen om gezondheid
 
 ## Aanvullende documentatie
 
-* [ HIPAA Bereidheid - de Verbinding van Gegevens ](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
-* [ Gereedheid HIPAA - Naleving ](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
+* [ HIPAA Bereidheid - de Verbinding van Gegevens ](https://experienceleague.adobe.com/nl/docs/commerce/data-connection/hipaa-readiness)
+* [ Gereedheid HIPAA - Naleving ](https://experienceleague.adobe.com/nl/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/nl/docs/commerce/data-connection/fundamentals/install)
 
