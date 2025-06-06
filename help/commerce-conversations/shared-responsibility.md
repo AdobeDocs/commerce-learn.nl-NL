@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 152
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
-source-git-commit: 3dd00fba9c51b7bd636008aa341206c71b4ac6c5
+exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
+source-git-commit: bd2ae796c91bbec5b07e3f9aaf4967e67f31ceb7
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Gedeelde verantwoordelijkheid
 
@@ -34,3 +34,10 @@ Leer hoe Adobe en handelaren de verantwoordelijkheid delen om Adobe Commerce Clo
 * Beste praktijken: Adobe adviseert beste praktijken voor handelaren, met inbegrip van het toelaten van tweefasenauthentificatie, vestiging veilige admintoegang, en het volgen van het beginsel van minste voorrecht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+
+## Aanvullende documentatie
+
+* [ de flardversie van de Veiligheid nota&#39;s ](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [ kanalen van het Bericht ](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [ bulletins van de Veiligheid van Adobe ](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [ Beveilig uw handelsplaats en infrastructuur ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
