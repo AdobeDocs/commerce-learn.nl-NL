@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 2%
 
 ---
@@ -138,7 +138,7 @@ ht-degree: 2%
       + [Lokaal testen](../app-builder/first-app/testing-locally.md)
       + [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusie](../app-builder/first-app/conclusion.md)
-      + [ Bron code van de Module van de Steekproef](https://github.com/magento/app-builder-samples){target="_blank"}
+      + [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
       + [Aan de slag met IO-gebeurtenissen](../io-events/getting-started-io-events.md)
       + [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
@@ -147,12 +147,13 @@ ht-degree: 2%
       + [Adobe Commerce configureren](../io-events/configure-commerce.md)
       + [ de moduleontwikkeling van Adobe Commerce ](../io-events/commerce-module-development.md)
       + [Voorwaardelijke Adobe Commerce-gebeurtenissen](../io-events/conditional-events.md)
-   + API-net {#api-mesh}
-      + [Aan de slag met API-net](../api-mesh/getting-started-api-mesh.md)
-      + [Adobe IO en netplug-in installeren](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Werken met projecten en werkruimten](../api-mesh/aio-projects-workspaces.md)
-      + [GraphQL API-net met één bron maken](../api-mesh/graphql-single-source.md)
-      + [Meerdere GraphQL API-bronnetten maken](../api-mesh/graphql-multiple-source.md)
++ API-net {#api-mesh}
+   + [API-startkit voor net met GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+   + [Aan de slag met API-net](../api-mesh/getting-started-api-mesh.md)
+   + [Adobe IO en netplug-in installeren](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Werken met projecten en werkruimten](../api-mesh/aio-projects-workspaces.md)
+   + [GraphQL API-net met één bron maken](../api-mesh/graphql-single-source.md)
+   + [Meerdere GraphQL API-bronnetten maken](../api-mesh/graphql-multiple-source.md)
 + Winkelbeheer {#admin}
    + [Gebruikersrollen en -machtigingen beheren](../site-management/users-roles-permissions.md)
    + [Verificatie met twee factoren](../site-management/two-factor-authentication.md)
@@ -235,7 +236,7 @@ ht-degree: 2%
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
 + Achterwaartse ontwikkeling {#backend-development}
-   + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=nl-NL)
+   + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 2%
       + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
    + [PWA Docker Development](../pwa/pwa-docker-development.md)
    + [Venia instellen voor ontwikkeling](../pwa/set-up-venia-for-dev.md)
-
