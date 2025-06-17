@@ -36,7 +36,7 @@ In deze video:
 >
 >Deze inhoud komt overeen met de release van Page Builder 1.0.0 voor Adobe Commerce 2.3.1. Voor informatie over updates in recentere versies, zie de [ de versienota&#39;s van de Bouwer van de Pagina ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=nl-NL).
 
->[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430906?quality=12&learn=on&captions=dut)
 
 ## Nuttige bronnen
 
