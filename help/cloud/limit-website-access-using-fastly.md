@@ -43,6 +43,6 @@ if ( !(client.ip ~ allowlist) && !req.http.Fastly-FF) { error 403 "Forbidden";}
 
 ## Verwante documentatie
 
-* [ ontdekt kwaadwillig IP adres ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
-* [ Douane VCL voor het toestaan van verzoeken ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
-* [ Douane VCL voor het blokkeren van verzoeken ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
+* [ ontdekt kwaadwillig IP adres ](https://experienceleague.adobe.com/nl/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
+* [ Douane VCL voor het toestaan van verzoeken ](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
+* [ Douane VCL voor het blokkeren van verzoeken ](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
