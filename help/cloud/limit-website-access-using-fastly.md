@@ -31,7 +31,7 @@ Toegang tot Adobe Commerce-sites beperken met snel Edge ACL&#39;s en aangepaste 
 * Adobe Commerce Developer
 * Site Reliability Engineer
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464785/?learn=on&enablevpops&captions=dut)
 
 ## Codevoorbeeld
 
