@@ -37,6 +37,6 @@ Leer hoe u een Adobe Commerce Optimizer-instantie beheert om de naam en beschrij
 
 ## Gerelateerde inhoud
 
-* [ wat is Adobe Commerce Optimizer ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [ Overzicht van Adobe Commerce Optimizer ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [ krijgen Begonnen met Adobe Commerce Optimizer ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [ wat is Adobe Commerce Optimizer ](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}
+* [ Overzicht van Adobe Commerce Optimizer ](https://experienceleague.adobe.com/nl/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [ krijgen Begonnen met Adobe Commerce Optimizer ](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/get-started){target="_blank"}
