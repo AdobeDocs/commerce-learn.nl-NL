@@ -33,7 +33,7 @@ Leer hoe u een Adobe Commerce Optimizer-instantie beheert om de naam en beschrij
 * Naam en beschrijvingen bijwerken
 * Belangrijke eindpunten en id&#39;s voor integratie zoeken
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470238?learn=on&enablevpops&captions=dut)
 
 ## Gerelateerde inhoud
 
