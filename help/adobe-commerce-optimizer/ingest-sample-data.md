@@ -33,7 +33,7 @@ Leer hoe u de voorbeeldgegevens voor uw Adobe Commerce Optimizer-exemplaar kunt 
 * Beleid maken.
 * Catalogusweergaven maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470480?learn=on&enablevpops&captions=dut)
 
 ## Gerelateerde inhoud
 
