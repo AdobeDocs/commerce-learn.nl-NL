@@ -33,7 +33,7 @@ Leer hoe u uw eerste Adobe Commerce Optimizer-exemplaar maakt van begin tot eind
 * Kies de juiste omgeving en regio voor uw instantie.
 * Implementeer en maak voorbereidingen voor catalogusinstallatie in toekomstige zelfstudies.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469884?learn=on&enablevpops&captions=dut)
 
 ## Gerelateerde inhoud
 
