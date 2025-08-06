@@ -9,13 +9,13 @@ doc-type: Tutorial
 duration: 97
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18610
-source-git-commit: 25082c5dea237d7ce1b325fbe7d0eb709d112008
+exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
+source-git-commit: b65f10c09df2487f9ec566dad83f475fc757b5e3
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Maak je eerste exemplaar van Adobe Commerce Optimizer
 
@@ -33,9 +33,9 @@ Leer hoe u uw eerste Adobe Commerce Optimizer-exemplaar maakt van begin tot eind
 * Kies de juiste omgeving en regio voor uw instantie.
 * Implementeer en maak voorbereidingen voor catalogusinstallatie in toekomstige zelfstudies.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469884?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
 
 ## Gerelateerde inhoud
 
-* [ wat is Adobe Commerce Optimizer ](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}
-* [ Overzicht van Adobe Commerce Optimizer ](https://experienceleague.adobe.com/nl/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [[!DNL Adobe Commerce Optimizer]  Gids ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [ Overzicht van Adobe Commerce Optimizer ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
