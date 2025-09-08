@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: edb8212ae0052f079192fb0f7bd60f7a1e46ad62
+source-git-commit: 2f6bbab8db0a4223424673fed346d089d11ef351
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '910'
 ht-degree: 2%
 
 ---
@@ -144,7 +144,7 @@ ht-degree: 2%
       + [Lokaal testen](../app-builder/first-app/testing-locally.md)
       + [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusie](../app-builder/first-app/conclusion.md)
-      + [ Bron code van de Module van de Steekproef](https://github.com/magento/app-builder-samples){target="_blank"}
+      + [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
       + [Aan de slag met IO-gebeurtenissen](../io-events/getting-started-io-events.md)
       + [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
@@ -206,7 +206,6 @@ ht-degree: 2%
    + [ Levend Onderzoek naar aanbevelingen ](../site-management/live-search-recommendations.md)
    + [Commerce integreren met AJO](../site-management/integrate-commerce-ajo.md)
 + Bestellingen en uitvoering {#orders}
-   + [Overzicht van winkeluitvoering](../orders-and-fulfillment/store-fulfillment.md)
    + [Status van bestelling beheren](../orders-and-fulfillment/order-status.md)
    + [Status van voorraad controleren](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B voor Adobe Commerce {#b2b}
@@ -243,7 +242,7 @@ ht-degree: 2%
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
 + Achterwaartse ontwikkeling {#backend-development}
-   + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=nl-NL)
+   + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
