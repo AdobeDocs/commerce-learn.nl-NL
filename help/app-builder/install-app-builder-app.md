@@ -30,4 +30,4 @@ Leer hoe u Adobe Commerce App Builder-toepassingen kunt zoeken, installeren en v
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471530/?learn=on&enablevpops&captions=dut)
