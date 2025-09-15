@@ -1,5 +1,5 @@
 ---
-title: Commerce as a Cloud Service - overzicht
+title: Adobe Commerce as a Cloud Service - overzicht
 description: Meer weten over Adobe Commerce as a Cloud Service? Een flexibele, schaalbare en efficiënte oplossing voor dynamische digitale bewerkingen met een composable architectuur.
 kt: 17219
 doc-type: Technical Video
@@ -10,14 +10,14 @@ topic: Architecture, Commerce, Headless, Performance
 role: Admin, Leader, User
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
-source-git-commit: b29dd601b59e289f89ede03d33df8dadc3e7b19f
+source-git-commit: ae0d2892e7b3499be1270fd183fca0e4bdf2aef4
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce als serviceoverzicht
+# Adobe Commerce as a Cloud Service - overzicht
 
 Adobe Commerce as a Cloud Service biedt een flexibele, schaalbare en efficiënte oplossing voor bedrijven met cloudnative mogelijkheden zoals elastische automatische schaling en automatische updates. Het vereenvoudigt het aan boord gaan met zelfbediening levering en omvat een composable architectuur voor onafhankelijke de dienstplaatsing en API-eerste rekbaarheid. Vooraf geconfigureerde services en continue levering van nieuwe functies zorgen voor optimale prestaties en gebruiksgemak, waardoor deze ideaal zijn voor dynamische en groeiende bedrijven
 
@@ -39,8 +39,8 @@ Adobe Commerce as a Cloud Service biedt een flexibele, schaalbare en efficiënte
 * Vereenvoudigde provisioning voor aan boord nemen en zelfbediening voor snelle en efficiënte installatie van sandbox- of productieinstanties.
 * Composable architectuur voor onafhankelijke plaatsing, het schrapen, en het bijwerken van de diensten met API-eerste rekbaarheid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443317?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## Gerelateerde documentatie
 
-* [ de Gids van as a Cloud Service van Adobe Commerce ](https://experienceleague.adobe.com/nl/docs/commerce/cloud-service/overview)
+* [ de Gids van as a Cloud Service van Adobe Commerce ](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
