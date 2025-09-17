@@ -38,6 +38,6 @@ Leer hoe u Adobe Commerce Cloud kunt gebruiken om projecten en omgevingen te beh
 
 ## Gerelateerde inhoud en documentatie
 
-* [ beheer de Toegang van de Gebruiker ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [ Veilige verbinding aan verre milieu&#39;s ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [ het infrastructuurproject van de Wolk ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [ beheer de Toegang van de Gebruiker ](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/project/user-access)
+* [ Veilige verbinding aan verre milieu&#39;s ](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [ het infrastructuurproject van de Wolk ](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/project/overview)
