@@ -34,7 +34,7 @@ Leer hoe u Adobe Commerce Cloud kunt gebruiken om projecten en omgevingen te beh
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474967/?learn=on&enablevpops&captions=dut)
 
 ## Gerelateerde inhoud en documentatie
 
