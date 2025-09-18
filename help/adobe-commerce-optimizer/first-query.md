@@ -30,7 +30,7 @@ Leer hoe u via GraphQL query&#39;s uitvoert op gegevens in een Adobe Commerce Op
 * Query-gegevens uitvoeren met GraphQL
 * De jq gebruiken om de json beter leesbaar te maken
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470806?learn=on&enablevpops&captions=dut)
 
 ## Codevoorbeelden
 
