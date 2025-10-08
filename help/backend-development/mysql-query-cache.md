@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 608196b8f68fcd299059907981ec673f2cc60e42
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,9 @@ Leer wat MySQL vraaggeheime voorgeheugen en wat basisbegrip voor hoe het werkt. 
 - Zie hoe de SQL wordt opgeslagen en gebruikt bij het zoeken naar een overeenkomende querycache
 - Enkele tips voor configuratie-instellingen
 
->[!VIDEO](https://video.tv.adobe.com/v/3432374?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Nuttige bronnen
 
-- [ Algemene richtlijnen MySQL ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=nl-NL){target="_blank"} 
-- [ Deadlocks in MySQL ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=nl-NL){target="_blank"} 
-- [ replicatie Galera en langzame vragen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=nl-NL){target="_blank"} 
+- [ Algemene richtlijnen MySQL ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [ replicatie Galera en langzame vragen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
