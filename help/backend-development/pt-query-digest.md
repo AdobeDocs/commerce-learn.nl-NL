@@ -1,6 +1,6 @@
 ---
 title: Leer hoe Toolkit pt-vraag-samenvatting van Percona werkt en waarom het wordt gebruikt
-description: Analyseer MySQL vragen van langzame, algemene, en binaire logboekdossiers. Het kan vragen van &grave; SHOW PROCESSLIST' en MySQL protocolgegevens van tcpdump ook analyseren.
+description: Analyseer MySQL vragen van langzame, algemene, en binaire logboekdossiers. Het kan vragen van ` SHOW PROCESSLIST' en MySQL protocolgegevens van tcpdump ook analyseren.
 kt: 13846
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Leer waarom u de pt-vraag-samenvatting en sommige echte voorbeelden gebruikt hel
 - Meer informatie over de voordelen en tekortkomingen van deze Percona Toolkit-functie
 - Begrijp de resultaten en leer welke mogelijke prestatiesstappen zouden moeten worden overwogen
 
->[!VIDEO](https://video.tv.adobe.com/v/3452300?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## Codeverwijzingen
 
@@ -45,5 +45,4 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 
 ## Nuttige bronnen
 
-- [ Toolkit Percona ](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"} 
-- [ Deadlocks in MySQL ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=nl-NL){target="_blank"} 
+- [ Toolkit Percona ](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
