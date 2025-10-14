@@ -35,4 +35,4 @@ Adobe Commerce maakt het voor bedrijven gemakkelijker om te groeien door hen te 
 * Met App Builder-uitbreidbaarheid kunt u aangepaste logica loskoppelen in serverloze functies voor eenvoudig onderhoud.
 * Verbeteringen in de winkel verbeteren de prestaties en het maken van inhoud met inbelcomponenten en randlevering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475754/?learn=on&enablevpops&captions=dut)
