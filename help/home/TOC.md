@@ -3,9 +3,9 @@ user-guide-title: Video's en tutorials
 user-guide-description: Leer meer over Adobe Commerce en Magento Open Source door middel van video's en tutorials.
 breadcrumb-title: Video's en tutorials
 auto-video-transcripts: true
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '922'
 ht-degree: 2%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 2%
    + [Meerdere websites](../cloud/multiple-websites.md)
    + [Leidingsgegevens en promoties van ervaring](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
-   + [&#x200B; Migreer van een zelf-ontvangen oplossing &#x200B;](../cloud/overview.md)
+   + [ Migreer van een zelf-ontvangen oplossing ](../cloud/overview.md)
    + [Toegang beperken met Snelheid](../cloud/limit-website-access-using-fastly.md)
    + Technisch instapsysteem en hardwareoverdracht {#technical-onboarding-hardware-handoff}
       + [Best practices op het gebied van infrastructuur en ontwikkeling](../cloud/infrastructure-development-best-practices.md)
@@ -66,11 +66,11 @@ ht-degree: 2%
       + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
       + [Gereedschap Kwaliteitspatch](../capabilities/quality-patch-tool.md)
    + Producten maken {#create-products}
-      + [&#x200B; Eenvoudig product &#x200B;](../site-management/create-simple-product.md)
-      + [&#x200B; Virtueel product &#x200B;](../site-management/create-virtual-product.md)
+      + [ Eenvoudig product ](../site-management/create-simple-product.md)
+      + [ Virtueel product ](../site-management/create-virtual-product.md)
       + [Downloadbaar product](../site-management/create-downloadable-product.md)
-      + [&#x200B; Gegroepeerd product &#x200B;](../site-management/create-grouped-product.md)
-      + [&#x200B; Configureerbaar product &#x200B;](../site-management/create-configurable-product.md)
+      + [ Gegroepeerd product ](../site-management/create-grouped-product.md)
+      + [ Configureerbaar product ](../site-management/create-configurable-product.md)
       + [Bundel](../site-management/create-bundle-product.md)
       + [Cadeauproduct](../site-management/create-gift-card-product.md)
    + Startkit voor de integratie van back office {#back-office-integration-starter-kit}
@@ -106,6 +106,10 @@ ht-degree: 2%
       + [Een adreslay-out aanpassen](../edge-delivery-services/customize-address-new-account-link.md)
       + [Schopperervaring](../edge-delivery-services/shopper-experience.md)
 + Webinars en evenementen {#webinars-and-events}
+   + Zakelijke groei {#business-growth}
+      + [AI-innovatie](../business-growth/ai-innovation.md)
+      + [Uitzicht naar voren](../business-growth/vision-forward.md)
+      + [Productacceptatie](../business-growth/product-adoption.md)
    + De toekomst van Commerce {#future-of-commerce}
       + [Nieuwe productaankondigingen](../future-of-commerce/new-product-announcements.md)
       + [Kosten drastisch verlagen](../future-of-commerce/drastically-cut-costs.md)
@@ -134,25 +138,25 @@ ht-degree: 2%
    + [Inleiding tot App Builder](../app-builder/introduction-to-app-builder.md)
    + [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
-   + [&#x200B; Technisch overzicht voor App Builder &#x200B;](../app-builder/app-builder-technical-overview.md)
+   + [ Technisch overzicht voor App Builder ](../app-builder/app-builder-technical-overview.md)
    + Uw eerste app voor App Builder maken {#first-app}
       + [Overzicht](../app-builder/first-app/overview.md)
-      + [&#x200B; produceer en vorm het .env- dossier &#x200B;](../app-builder/first-app/env-file.md)
-      + [&#x200B; Beschrijving en gebruik van het app.config.yaml- dossier &#x200B;](../app-builder/first-app/app-config-yaml-file.md)
+      + [ produceer en vorm het .env- dossier ](../app-builder/first-app/env-file.md)
+      + [ Beschrijving en gebruik van het app.config.yaml- dossier ](../app-builder/first-app/app-config-yaml-file.md)
       + [Meer informatie over de map Handelingen](../app-builder/first-app/actions-folder.md)
       + [Meer informatie over de testmap](../app-builder/first-app/test-folder.md)
       + [Ontdek het doel van de web-src omslag](../app-builder/first-app/web-src-folder.md)
       + [Lokaal testen](../app-builder/first-app/testing-locally.md)
       + [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusie](../app-builder/first-app/conclusion.md)
-      + [&#x200B; Bron code van de Module van de Steekproef](https://github.com/magento/app-builder-samples){target="_blank"}
+      + [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples){target="_blank"}
    + IO-gebeurtenissen voor Adobe Commerce {#io-events}
       + [Aan de slag met IO-gebeurtenissen](../io-events/getting-started-io-events.md)
       + [Installatie van Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installatie van Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [&#x200B; creeer een project van App Builder &#x200B;](../io-events/create-app-builder-project.md)
+      + [ creeer een project van App Builder ](../io-events/create-app-builder-project.md)
       + [Adobe Commerce configureren](../io-events/configure-commerce.md)
-      + [&#x200B; de moduleontwikkeling van Adobe Commerce &#x200B;](../io-events/commerce-module-development.md)
+      + [ de moduleontwikkeling van Adobe Commerce ](../io-events/commerce-module-development.md)
       + [Voorwaardelijke Adobe Commerce-gebeurtenissen](../io-events/conditional-events.md)
 + API-net {#api-mesh}
    + [API-startkit voor net met GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
@@ -204,7 +208,7 @@ ht-degree: 2%
    + [Regels voor verwante producten beheren](../site-management/related-product-rules.md)
    + [Productaanbevelingen instellen](../site-management/product-recommendations.md)
    + [Inleiding tot Live zoeken](../site-management/live-search.md)
-   + [&#x200B; Levend Onderzoek naar aanbevelingen &#x200B;](../site-management/live-search-recommendations.md)
+   + [ Levend Onderzoek naar aanbevelingen ](../site-management/live-search-recommendations.md)
    + [Commerce integreren met AJO](../site-management/integrate-commerce-ajo.md)
 + Bestellingen en uitvoering {#orders}
    + [Status van bestelling beheren](../orders-and-fulfillment/order-status.md)
@@ -237,13 +241,13 @@ ht-degree: 2%
    + [Filtersets](../business-intelligence/filter-sets.md)
    + [Cohort Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [&#x200B; Prepping voor de Toekomst &#x200B;](../business-intelligence/prepare-for-future.md)
+   + [ Prepping voor de Toekomst ](../business-intelligence/prepare-for-future.md)
 + Commerce-upgrades {#upgrade}
    + [Workshop Adobe Commerce 2.4-upgrade](../upgrade/2-4-upgrade-workshop.md)
    + [Overzicht van het hulpprogramma Compatibiliteit bijwerken](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Upgrade Compatibility Tool gebruiken in PHP Storm](../upgrade/uct-phpstorm.md)
 + Achterwaartse ontwikkeling {#backend-development}
-   + [&#x200B; Beste praktijken voor het wijzigen van gegevensbestandlijsten &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=nl-NL)
+   + [ Beste praktijken voor het wijzigen van gegevensbestandlijsten ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Een module maken](../backend-development/create-module.md)
    + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
    + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
@@ -263,7 +267,7 @@ ht-degree: 2%
    + [Een pagina maken](../frontend-development/create-page.md)
 + Hoofdloze architectuur {#headless-architecture}
    + Inleiding tot headless {#introduction-to-headless}
-      + [&#x200B; Hoofdloze Architectuur - Zitting 1 &#x200B;](../headless/session-1.md)
+      + [ Hoofdloze Architectuur - Zitting 1 ](../headless/session-1.md)
    + Inleiding tot PWA Studio {#introduction}
       + [1 - Overzicht](../pwa/introduction/1-overview.md)
       + [2 - PWA Studio-gereedschappen](../pwa/introduction/2-pwa-studio-tools.md)

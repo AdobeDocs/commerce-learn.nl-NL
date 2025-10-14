@@ -1,5 +1,5 @@
 ---
-title: Hoe Adobe een composable Commerce maakt
+title: Hoe Adobe composable Commerce maakt
 description: Leer over composable handel, die een API-eerste benadering voorrang geeft en een modulaire en dienst-georiënteerde architectuur uitvoert.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 De composable handel is een architecturale benadering in e-commerce die de front-end presentatielaag van de achterste-eind handelfunctionaliteit impliceert loskoppelen. &#x200B; Het staat ondernemingen toe om de beste componenten of modules te selecteren en te combineren om een aangepaste oplossing tot stand te brengen. Deze aanpak houdt in dat het traditionele monolitische e-commerceplatform wordt onderverdeeld in kleinere, onafhankelijke diensten of microdiensten die samen kunnen worden samengesteld. Composable commerce biedt voordelen zoals flexibiliteit, scalability, aanpassing, behendigheid, en de capaciteit voor gemakkelijkere integratie met andere systemen en technologieën.
 
-Adobe Commerce biedt tal van mogelijkheden en instrumenten om handelaren te ondersteunen bij het invoeren en implementeren van composable commerce. Adobe Commerce biedt een composable commerce methodologie en hybride headless en non-headless front-end ervaringen. Met de uit procesrekbaarheid in mening, biedt de Adobe API Net voor het integreren van de veelvoudige diensten, en Adobe App Builder voor het creëren van de diensten van douanemicroters.
+Adobe Commerce biedt tal van mogelijkheden en instrumenten om handelaren te ondersteunen bij het invoeren en implementeren van composable commerce. Adobe Commerce biedt een composable commerce methodologie en hybride headless en non-headless front-end ervaringen. Met het oog op de uitbreidbaarheid zonder proces biedt Adobe API Mesh voor de integratie van meerdere services en Adobe App Builder voor het maken van aangepaste microservices.
 
 ## Waarom is samengestelde handel belangrijk
 
@@ -59,7 +59,7 @@ Adobe Commerce biedt verschillende mogelijkheden om handelaren te ondersteunen b
 
 **API Net:** Adobe Commerce API Net vereenvoudigt de integratie van veelvoudige microdiensten, derdehulpmiddelen, en toepassingen in één enkel API eindpunt voor front-end ontwikkelaars. Het staat ontwikkelaars toe om veelvoudige gegevensbronnen in één enkel eindpunt van GraphQL te combineren, die ingewikkeldheid vermindert en de ontwikkeling en het onderhoud van nieuwe eigenschappen en ervaringen stroomlijnt.
 
-**Adobe App Builder:** de Adobe App Builder is een serverloos rekbaarheidsplatform dat verkopers toestaat om douanemicrodiensten tot stand te brengen, douaneervaringen te bouwen, en Adobe oplossingen uit te breiden. Met App Builder kunnen handelaren veilige en schaalbare apps ontwikkelen die de eigen functionaliteit van Adobe Commerce uitbreiden en integreren met oplossingen van derden. Dit elimineert de behoefte voor verkopers om hun eigen infrastructuur voor aanpassingen en microdiensten te bouwen en te handhaven, die ingewikkeldheid verminderen en de totale kosten van eigendom verminderen.
+**Adobe App Builder:** Adobe App Builder is een serverloos rekbaarheidsplatform dat handelaars toestaat om douanemicrodiensten tot stand te brengen, douaneervaringen te bouwen, en de oplossingen van Adobe uit te breiden. Met App Builder kunnen handelaren veilige en schaalbare apps ontwikkelen die de eigen functionaliteit van Adobe Commerce uitbreiden en integreren met oplossingen van derden. Dit elimineert de behoefte voor verkopers om hun eigen infrastructuur voor aanpassingen en microdiensten te bouwen en te handhaven, die ingewikkeldheid verminderen en de totale kosten van eigendom verminderen.
 
 Deze mogelijkheden die Adobe Commerce biedt, vereenvoudigen de acceptatie en implementatie van composable commerce, waardoor handelaren de voordelen van flexibiliteit, schaalbaarheid, aanpassing en integratiemogelijkheden kunnen benutten en tegelijkertijd de complexiteit en ontwikkelingsinspanningen kunnen verminderen.
 
@@ -73,7 +73,7 @@ De composable handel is een architecturale benadering in e-commerce die de front
 
 **Overwegingen:** wanneer het overwegen van composable handel, zouden de factoren zoals ingewikkeldheid, interne technische volwassenheid, projectgrootte en structuur, aanpassing versus normalisatie, totale kosten van eigendom, en veiligheid en gegevensprivacy zorgvuldig moeten worden geëvalueerd.
 
-**Adobe Commerce:** Adobe Commerce verstrekt mogelijkheden en hulpmiddelen om handelaren in het goedkeuren van en het uitvoeren van composable handel te steunen. Deze omvatten een composable handels methodologie, eigenschap-rijke functionaliteit, hybride front-end ervaringen, API Netwerk voor integratie, en Adobe App Builder voor de diensten van douane microservices.
+**Adobe Commerce:** Adobe Commerce verstrekt mogelijkheden en hulpmiddelen om handelaren in het goedkeuren van en het uitvoeren van composable handel te steunen. Deze omvatten een composable handels methodologie, eigenschap-rijke functionaliteit, hybride front-end ervaringen, API Netwerk voor integratie, en Adobe App Builder voor de diensten van de douanemicroer.
 
 **BedrijfsEffect:** Composable handel machtigt ondernemingen om een hoogst flexibel, scalable, en klantgericht e-commerceplatform tot stand te brengen. Het laat hen toe om unieke klantenervaringen te leveren, schaal gebaseerd op vraag, met andere systemen te integreren, toekomstbestendig hun verrichtingen, en hefboomwerking ontwikkelaardeskundigheid.
 
