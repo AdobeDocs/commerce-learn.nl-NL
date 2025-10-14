@@ -31,5 +31,5 @@ De injectie van de afhankelijkheid is een ontwerppatroon dat een voorwerp A toes
 
 ## Nuttige bronnen
 
-- [ injectie van de Afhankelijkheid ](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
-- [ PHP ontwikkelaarsgids ](https://developer.adobe.com/commerce/php/development/)
+- [&#x200B; injectie van de Afhankelijkheid &#x200B;](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [&#x200B; PHP ontwikkelaarsgids &#x200B;](https://developer.adobe.com/commerce/php/development/)

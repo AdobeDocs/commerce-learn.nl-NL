@@ -16,6 +16,6 @@ ht-degree: 0%
 * [Uitbreidbaarheidskader voor App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
 * [Functionele demonstratie voor App Builder](../app-builder/app-builder-functional-demonstration.md)
 * [Technisch overzicht voor App Builder](../app-builder/app-builder-technical-overview.md)
-* [ voltooi het overzicht van uitbreidingsinformatie ](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
-* [ Amazon Sales Channel op App Builder ](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
-* [ Admin UI SDK ](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}
+* [&#x200B; voltooi het overzicht van uitbreidingsinformatie &#x200B;](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
+* [&#x200B; Amazon Sales Channel op App Builder &#x200B;](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
+* [&#x200B; Admin UI SDK &#x200B;](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}

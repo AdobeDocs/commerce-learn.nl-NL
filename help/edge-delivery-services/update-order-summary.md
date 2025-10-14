@@ -40,4 +40,4 @@ Leer hoe u Adobe Commerce-winkelwagentjes kunt gebruiken en de kartonervaring ku
 
 ## Aanvullende documentatie
 
-* [ Overzicht van de Orde ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=nl-NL)
+* [&#x200B; Overzicht van de Orde &#x200B;](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=nl-NL)

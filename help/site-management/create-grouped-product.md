@@ -183,10 +183,10 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Een eenvoudig product uit een gegroepeerd product verwijderen
 
-Om [ een eenvoudig product ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) van een gegroepeerd product te schrappen, gebruik: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Om [&#x200B; een eenvoudig product &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) van een gegroepeerd product te schrappen, gebruik: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
 Als u wilt weten wat u als `{type}` wilt gebruiken, gebruikt u xdebug om de aanvraag vast te leggen en de $linkTypes: `related`, `crosssell`, `uupsell` en `associated` te evalueren.
-![ Gegroepeerde de verbindingstypes van Product - alt tekst ](/help/assets/site-management/catalog/grouped-types.png " Gegroepeerde productverbindingstypes die tijdens xdebug zitting ") worden gevangen
+![&#x200B; Gegroepeerde de verbindingstypes van Product - alt tekst &#x200B;](/help/assets/site-management/catalog/grouped-types.png " Gegroepeerde productverbindingstypes die tijdens xdebug zitting ") worden gevangen
 
 Wanneer de eenvoudige producten aan het gegroepeerde product worden gekoppeld, bevatte de lading een paar secties gelijkend op:
 
@@ -223,7 +223,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Aanvullende bronnen
 
-- [ creeer en beheer gegroepeerde producten ](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"} 
-- [ Gegroepeerd Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=nl-NL){target="_blank"} 
-- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"} 
-- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"} 
+- [&#x200B; creeer en beheer gegroepeerde producten &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"} 
+- [&#x200B; Gegroepeerd Product &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; Adobe Developer REST zelfstudies &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"} 
+- [&#x200B; Adobe Commerce REST ReDoc &#x200B;](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"} 

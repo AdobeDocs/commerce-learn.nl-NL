@@ -34,7 +34,7 @@ In deze video:
 
 >[!TIP]
 >
->Als u aan Commerce Intelligence nieuw bent, verstrekt de [ Gids van de Gebruiker van Adobe Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl-NL){target="_blank"}  een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u aan Commerce Intelligence nieuw bent, verstrekt de [&#x200B; Gids van de Gebruiker van Adobe Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl-NL){target="_blank"}  een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 
@@ -47,6 +47,6 @@ In deze video:
 
 ## Nuttige bronnen
 
-[ creeer filterreeksen - de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=nl-NL)
+[&#x200B; creeer filterreeksen - de Gids van de Gebruiker van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=nl-NL)
 
-[ Aanbevolen Dimensionen van Gegevens voor Segmentatie en het Filtreren - de Gids van de Gebruiker van Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=nl-NL)
+[&#x200B; Aanbevolen Dimensionen van Gegevens voor Segmentatie en het Filtreren - de Gids van de Gebruiker van Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=nl-NL)

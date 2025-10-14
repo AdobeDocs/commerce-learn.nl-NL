@@ -26,7 +26,7 @@ Bij het GRA-patroon voor afzonderlijke pakketten wordt één Git-opslagplaats ge
 
 Dit globale referentiearchitectuurpatroon is volledig gebaseerd op composers en is ontworpen om optimaal te profiteren van alle Composer-functies.
 
-![ een diagram dat toont waar de code in een Afzonderlijk patroon van Pakketten GRA ](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![&#x200B; een diagram dat toont waar de code in een Afzonderlijk patroon van Pakketten GRA &#x200B;](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 
@@ -176,7 +176,7 @@ Bovendien bieden sommige privéopslagruimten extra functies, zoals e-mailmelding
 
 De traagheidskwestie is wat voorkomt wanneer u veelvoudige bewaarplaatsen VCS in composer.json hebt. Elke Composer-opslagplaats moet worden gelezen bij upgrades en 50 opslagplaatsen voor 50 pakketten hebben minstens 50 keer de overhead van slechts één Composer-opslagplaats.
 
-![ een diagram dat toont waar de vertraging voorkomt wanneer een composer bewaarplaats ](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"} mist
+![&#x200B; een diagram dat toont waar de vertraging voorkomt wanneer een composer bewaarplaats &#x200B;](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"} mist
 
 Neem een Composer-spiegel op in de vorm van een privécomposer-opslagplaats. De spiegel bevat een kopie van alle pakketten van andere composer-opslagplaatsen en van alle door Git gehoste pakketten. Met een persoonlijke Composer-opslagplaats krijgt u bovendien een fijnkorrelig toegangsbeheer.
 

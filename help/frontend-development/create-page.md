@@ -44,4 +44,4 @@ Maak een pagina waarop één parameter wordt geretourneerd.
 
 ## Nuttige bronnen
 
-[ Voorste ontwikkelaarsgids ](https://developer.adobe.com/commerce/frontend-core/guide/)
+[&#x200B; Voorste ontwikkelaarsgids &#x200B;](https://developer.adobe.com/commerce/frontend-core/guide/)

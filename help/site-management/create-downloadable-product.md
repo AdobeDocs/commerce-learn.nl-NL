@@ -54,7 +54,7 @@ Zodra dat volledig is, wordt `env.php` gewijzigd binnen de _downloadable_domain_
 
 Nu het domein aan `env.php` wordt toegevoegd, kunt u een downloadbaar product in Adobe Commerce Admin of door REST API te gebruiken tot stand brengen.
 
-Zie [ Verwijzing van de Configuratie ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=nl-NL#downloadable_domains) om meer te leren.
+Zie [&#x200B; Verwijzing van de Configuratie &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=nl-NL#downloadable_domains) om meer te leren.
 
 >[!IMPORTANT]
 >In sommige versies van Adobe Commerce kan de volgende fout optreden wanneer een product wordt bewerkt in Adobe Commerce Admin. Het product wordt gemaakt met de REST API, maar de gekoppelde download heeft een prijs `null` .
@@ -63,7 +63,7 @@ Zie [ Verwijzing van de Configuratie ](https://experienceleague.adobe.com/docs/c
 
 Gebruik de API voor bijwerken om deze fout te corrigeren: `POST V1/products/{sku}/downloadable-links.`
 
-Zie [ een verbinding van de productdownload bijwerken gebruikend cURL ](#update-downloadable-links) sectie voor meer info.
+Zie [&#x200B; een verbinding van de productdownload bijwerken gebruikend cURL &#x200B;](#update-downloadable-links) sectie voor meer info.
 
 ## Een downloadbaar product maken met cURL (downloaden vanaf externe server)
 
@@ -236,7 +236,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Aanvullende bronnen
 
-- [ Downloadbaar Type van Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=nl-NL){target="_blank"} 
-- [ Downloadbare Gids van de Configuratie van Domeinen ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=nl-NL#downloadable_domains){target="_blank"} 
-- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"} 
-- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"} 
+- [&#x200B; Downloadbaar Type van Product &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; Downloadbare Gids van de Configuratie van Domeinen &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=nl-NL#downloadable_domains){target="_blank"} 
+- [&#x200B; Adobe Developer REST zelfstudies &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"} 
+- [&#x200B; Adobe Commerce REST ReDoc &#x200B;](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"} 

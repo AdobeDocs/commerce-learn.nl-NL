@@ -37,6 +37,6 @@ Deze sessie introduceert de Adobe Commerce API Mesh Starter Kit, ontworpen om on
 
 ## Gerelateerde documentatie
 
-* [ API de aanzetuitrusting van het netwerkaanzet KitHub repo ](https://github.com/adobe-commerce/api-mesh-starter-kit)
-* [ Adobe Developer docs grafisch-netwerk-gateway ](https://developer.adobe.com/graphql-mesh-gateway/)
-* [ Playlist van de video&#39;s van het Net van API ](https://experienceleague.adobe.com/nl/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [&#x200B; API de aanzetuitrusting van het netwerkaanzet KitHub repo &#x200B;](https://github.com/adobe-commerce/api-mesh-starter-kit)
+* [&#x200B; Adobe Developer docs grafisch-netwerk-gateway &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/)
+* [&#x200B; Playlist van de video&#39;s van het Net van API &#x200B;](https://experienceleague.adobe.com/nl/playlists/commerce-get-started-app-builder-and-api-mesh)

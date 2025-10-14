@@ -30,7 +30,7 @@ In deze zelfstudie leert u hoe u een configureerbaar product kunt maken met de R
 
 Gebruik de REST API om een configureerbaar product te maken:
 
-1. Krijg de attributen voor een [ geplaatst attribuut ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=nl-NL) om de aantallen van identiteitskaart voor verdere API vraag te gebruiken.
+1. Krijg de attributen voor een [&#x200B; geplaatst attribuut &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=nl-NL) om de aantallen van identiteitskaart voor verdere API vraag te gebruiken.
 1. Creeer eenvoudige producten voor gebruik in het configureerbare product.
 1. Maak een leeg configureerbaar product en koppel de eenvoudige producten.
 1. Stel de productkenmerken in voor het configureerbare product.
@@ -347,7 +347,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Aanvullende bronnen
 
-- [ creeer een configureerbare productleerprogramma ](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"} 
-- [ Configureerbaar Product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=nl-NL){target="_blank"} 
-- [ Adobe Developer REST zelfstudies ](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"} 
-- [ Adobe Commerce REST ReDoc ](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"} 
+- [&#x200B; creeer een configureerbare productleerprogramma &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"} 
+- [&#x200B; Configureerbaar Product &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; Adobe Developer REST zelfstudies &#x200B;](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"} 
+- [&#x200B; Adobe Commerce REST ReDoc &#x200B;](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"} 

@@ -41,4 +41,4 @@ Leer hoe u Adobe Commerce-winkelwagentje van Edge Delivery Services kunt gebruik
 
 ## Aanvullende documentatie
 
-* [ koop Online Bestelwagen in opslag ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=nl-NL)
+* [&#x200B; koop Online Bestelwagen in opslag &#x200B;](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=nl-NL)

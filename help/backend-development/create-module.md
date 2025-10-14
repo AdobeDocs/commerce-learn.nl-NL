@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Nuttige bronnen
 
-- [ gids van de Verwijzing van de Module ](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"} 
-- [ Insteekmodules ](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"} 
+- [&#x200B; gids van de Verwijzing van de Module &#x200B;](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"} 
+- [&#x200B; Insteekmodules &#x200B;](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"} 

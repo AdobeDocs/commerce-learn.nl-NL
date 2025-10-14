@@ -34,9 +34,9 @@ Meer informatie over het gebruik van Fastly in de cloud voor Adobe Commerce.
 
 ## Documentatie voor Experiencen League en controle op Fastly Adobe Commerce vermeld in de video
 
-- [ Snelle Controleur ](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-- [ de snelste diensten in Experience League ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=nl-NL)
-- [ Veelgestelde Veelgestelde vragen van WAF de snelste ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=nl-NL)
-- [ Optimalisering van het Beeld ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=nl-NL)
+- [&#x200B; Snelle Controleur &#x200B;](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
+- [&#x200B; de snelste diensten in Experience League &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=nl-NL)
+- [&#x200B; Veelgestelde Veelgestelde vragen van WAF de snelste &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=nl-NL)
+- [&#x200B; Optimalisering van het Beeld &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=nl-NL)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

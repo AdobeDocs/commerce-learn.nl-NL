@@ -32,6 +32,6 @@ Als er anderen op uw team of dienstverleners zijn die toegang nodig hebben, kunt
 
 ## Aanvullende bronnen
 
-[ beheer Admin gebruikersrekeningen -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=nl-NL)
+[&#x200B; beheer Admin gebruikersrekeningen -  [!DNL Commerce]  Gids van Systemen Admin &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=nl-NL)
 
-[ de rollen van de Gebruiker -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=nl-NL)
+[&#x200B; de rollen van de Gebruiker -  [!DNL Commerce]  Gids van Systemen Admin &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=nl-NL)

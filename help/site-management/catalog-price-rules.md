@@ -34,5 +34,5 @@ De catalogusprijsregels kunnen worden gebruikt om producten tegen een verlaagde 
 
 ## Aanvullende bronnen
 
-- [ creeer een Regel van de Prijs van de Catalogus -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=nl-NL)
-- [ de prijsregel van de Catalogus met veelvoudige SKUs -  [!DNL Commerce]  Handelsbemiddeling en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=nl-NL)
+- [&#x200B; creeer een Regel van de Prijs van de Catalogus -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=nl-NL)
+- [&#x200B; de prijsregel van de Catalogus met veelvoudige SKUs -  [!DNL Commerce]  Handelsbemiddeling en Gids van Bevorderingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=nl-NL)

@@ -41,4 +41,4 @@ Leer hoe u Adobe Commerce kunt integreren met externe systemen en praktische inz
 
 ## Codevoorbeelden
 
-* [ pas registraties en gebeurtenissen ](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-registrations-and-events) aan
+* [&#x200B; pas registraties en gebeurtenissen &#x200B;](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-registrations-and-events) aan

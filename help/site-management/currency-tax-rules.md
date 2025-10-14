@@ -33,5 +33,5 @@ De belastingregels omvatten een combinatie productklasse, klantenklasse, en bela
 
 ## Aanvullende bronnen
 
-- [ de Regels van de Belasting -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=nl-NL)
-- [ Valuta -  [!DNL Commerce]  opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=nl-NL)
+- [&#x200B; de Regels van de Belasting -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=nl-NL)
+- [&#x200B; Valuta -  [!DNL Commerce]  opslag en Gids van de Ervaring van de Aankoop &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=nl-NL)

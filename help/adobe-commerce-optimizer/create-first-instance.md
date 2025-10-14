@@ -37,5 +37,5 @@ Leer hoe u uw eerste Adobe Commerce Optimizer-exemplaar maakt van begin tot eind
 
 ## Gerelateerde inhoud
 
-* [[!DNL Adobe Commerce Optimizer]  Gids ](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}
-* [ Overzicht van Adobe Commerce Optimizer ](https://experienceleague.adobe.com/nl/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [[!DNL Adobe Commerce Optimizer]  Gids &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}
+* [&#x200B; Overzicht van Adobe Commerce Optimizer &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)

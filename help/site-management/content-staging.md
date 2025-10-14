@@ -36,5 +36,5 @@ Met Inhoud stapelen kan uw bedrijfsteam eenvoudig een groot aantal inhoudsupdate
 
 ## Aanvullende bronnen
 
-- [ Inhoud die -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp opneemt ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=nl-NL){target="_blank"}
-- [ Voorproef een Campagne -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=nl-NL){target="_blank"}
+- [&#x200B; Inhoud die -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp opneemt &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=nl-NL){target="_blank"}
+- [&#x200B; Voorproef een Campagne -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=nl-NL){target="_blank"}

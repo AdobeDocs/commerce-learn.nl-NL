@@ -38,4 +38,4 @@ In deze video leert u hoe u productaanbevelingen kunt instellen.
 ## Aanvullende bronnen
 
 - {de Gids van Recommendations van het 0} Product [&#128279;](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=nl-NL){target="_blank"} 
-- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; Verbinding van de Diensten van Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=nl-NL){target="_blank"} 

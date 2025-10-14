@@ -35,4 +35,4 @@ Leer hoe u horloges toevoegt en verwijdert, en hoe u een ondersteuningsticket sl
 
 ## Handleiding voor Commerce Knowledge Base Help Center
 
-[ voorlegt een steungeval ](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[&#x200B; voorlegt een steungeval &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

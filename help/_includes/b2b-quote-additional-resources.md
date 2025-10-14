@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ## Aanvullende bronnen
 
-- [ het Overzicht van citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html?lang=nl-NL){target="_blank"} 
-- [ vormen Citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html?lang=nl-NL){target="_blank"} 
-- [ Verzoek om citaat ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html?lang=nl-NL){target="_blank"} 
-- [ onderhandelt a citaat ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html?lang=nl-NL){target="_blank"} 
-- [ Mijn Citaten ](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html?lang=nl-NL){target="_blank"} 
-- [ beheer onderhandelbare citaten ](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"} 
-- [ integreer met de module NegotiableQuote ](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"} 
+- [&#x200B; het Overzicht van citaten &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; vormen Citaten &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; Verzoek om citaat &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; onderhandelt a citaat &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; Mijn Citaten &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; beheer onderhandelbare citaten &#x200B;](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"} 
+- [&#x200B; integreer met de module NegotiableQuote &#x200B;](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"} 

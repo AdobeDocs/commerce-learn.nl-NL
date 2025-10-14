@@ -33,5 +33,5 @@ In deze video leert u hoe u productkenmerken kunt beheren wanneer u een winkel h
 
 ## Aanvullende bronnen
 
-- [ attributen van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=nl-NL)
-- [ PWA Studio - de documentatie van de Ontwikkelaar ](https://developer.adobe.com/commerce/pwa-studio/)
+- [&#x200B; attributen van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=nl-NL)
+- [&#x200B; PWA Studio - de documentatie van de Ontwikkelaar &#x200B;](https://developer.adobe.com/commerce/pwa-studio/)

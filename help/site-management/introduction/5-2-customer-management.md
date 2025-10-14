@@ -36,6 +36,6 @@ In deze video:
 
 ## Aanvullende bronnen
 
-[ creeer een individuele klantenrekening -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=nl-NL)
+[&#x200B; creeer een individuele klantenrekening -  [!DNL Commerce]  Gids van het Beheer van de Klant &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=nl-NL)
 
-[ de groepen van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=nl-NL)
+[&#x200B; de groepen van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=nl-NL)

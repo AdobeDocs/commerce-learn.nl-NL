@@ -31,4 +31,4 @@ ht-degree: 0%
 
 ## Nuttige bronnen
 
-[ Gids van de PWA Studio - de opstelling van Venia ](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+[&#x200B; Gids van de PWA Studio - de opstelling van Venia &#x200B;](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

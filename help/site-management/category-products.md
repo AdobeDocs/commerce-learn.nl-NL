@@ -34,5 +34,5 @@ Het organiseren van uw producten in categorieën is belangrijk voor het beheer v
 
 ## Aanvullende bronnen
 
-- [ het producttaken van de Categorie -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html?lang=nl-NL)
-- [ de regels van de Categorie voor het verhandelen -  [!DNL Commerce]  Gids van Verkoop en Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html?lang=nl-NL)
+- [&#x200B; het producttaken van de Categorie -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html?lang=nl-NL)
+- [&#x200B; de regels van de Categorie voor het verhandelen -  [!DNL Commerce]  Gids van Verkoop en Bevorderingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html?lang=nl-NL)

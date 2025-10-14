@@ -35,5 +35,5 @@ De segmenten van de klant staan u toe om inhoud en bevorderingen aan specifieke 
 
 ## Aanvullende bronnen
 
-- [ Segmenten van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=nl-NL)
-- [ Segmenten van de Klant in Prijsregels -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=nl-NL)
+- [&#x200B; Segmenten van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=nl-NL)
+- [&#x200B; Segmenten van de Klant in Prijsregels -  [!DNL Commerce]  Gids van het Beheer van de Klant &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=nl-NL)

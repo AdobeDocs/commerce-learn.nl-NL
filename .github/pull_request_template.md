@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] volgde u [ Naming Normen ](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] volgde u [&#x200B; Naming Normen &#x200B;](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] De inhoudsopgave en de H1-overeenkomst komen overeen voor elke pagina die wordt gemaakt of bijgewerkt.
 - [ ] TOC en H1 hebben een actie verbonden aan het, bijvoorbeeld: Leer hoe te om tot een trekkingsverzoek te leiden GutHub
 - [ ] Er mag geen vaste spatiëring worden toegepast in H1
 - [ ] Elke paginatitel moet beginnen met een ***C***hoofdletter
 - [ ] Ik heb gecontroleerd of bepaalde video&#39;s hoofdstukken moeten bevatten
 - [ ] Aan alle video&#39;s is een poster toegewezen die de video correct vertegenwoordigt
-- [ ] gebruikte u [ Acrolinx ](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
+- [ ] gebruikte u [&#x200B; Acrolinx &#x200B;](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

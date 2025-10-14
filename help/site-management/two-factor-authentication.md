@@ -31,11 +31,11 @@ Om ongeoorloofde toegang tot uw gegevens te voorkomen, moeten alle gebruikers di
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release van 2.4.0. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
+>De inhoud in de video weerspiegelt de release van 2.4.0. Voor informatie over updates in recentere versies, zie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [ two-factor authentificatie (2FA) - de Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html?lang=nl-NL)
-- [ Vormend twee-factor authentificatie (2FA) - de documentatie van de Ontwikkelaar ](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
+- [&#x200B; two-factor authentificatie (2FA) - de Gids van Systemen Admin &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html?lang=nl-NL)
+- [&#x200B; Vormend twee-factor authentificatie (2FA) - de documentatie van de Ontwikkelaar &#x200B;](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

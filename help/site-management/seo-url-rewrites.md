@@ -35,5 +35,5 @@ Met het gereedschap URL herschrijven kunt u elke URL wijzigen die is gekoppeld a
 
 ## Aanvullende bronnen
 
-- [ URL herschrijft -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=nl-NL)
-- [ Algemeen > Web -  [!DNL Commerce]  Gids van de Verwijzing van de Configuratie ](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=nl-NL)
+- [&#x200B; URL herschrijft -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=nl-NL)
+- [&#x200B; Algemeen > Web -  [!DNL Commerce]  Gids van de Verwijzing van de Configuratie &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=nl-NL)

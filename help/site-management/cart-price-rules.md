@@ -77,7 +77,7 @@ De totale korting van de twee producten nu wanneer samengeteld komt overeen met 
 
 Hier is een schermafbeelding zoals deze in de beheerder zou worden weergegeven voor een volgorde met dit scenario:
 
-![ mening Admin die bevolen punten met verschillende waarden toont ](../assets/commerce-admin-cart-price-rule-values-different.png)
+![&#x200B; mening Admin die bevolen punten met verschillende waarden toont &#x200B;](../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### Andere mogelijke oplossingen en waarom deze niet werden gebruikt
 
@@ -128,5 +128,5 @@ als we echter de derde decimaal laten vallen , zou dat laten zien dat er $3,98 i
 
 ## Aanvullende bronnen
 
-- [ creeer een Regel van de Prijs van de Kar -  [!DNL Commerce]  Gids van Verkoop en Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=nl-NL)
-- [ Codes van de Coupon -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=nl-NL)
+- [&#x200B; creeer een Regel van de Prijs van de Kar -  [!DNL Commerce]  Gids van Verkoop en Bevorderingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=nl-NL)
+- [&#x200B; Codes van de Coupon -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=nl-NL)

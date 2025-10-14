@@ -33,6 +33,6 @@ Adobe Commerce gebruikt kenmerken voor het beheer van de informatie die is gekop
 
 ## Aanvullende bronnen
 
-[ overzicht van de attributen van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=nl-NL)
+[&#x200B; overzicht van de attributen van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=nl-NL)
 
-[ Reeksen van Attributen -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=nl-NL)
+[&#x200B; Reeksen van Attributen -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=nl-NL)

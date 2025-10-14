@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Een App Builder-project maken
 
-Leer hoe u een Adobe Developer App Builder-project kunt maken om evenementen vanuit Adobe Commerce te gebruiken. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"} .
+Leer hoe u een Adobe Developer App Builder-project kunt maken om evenementen vanuit Adobe Commerce te gebruiken. De extra documentatie die bij [&#x200B; wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce &#x200B;](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"} .
 
 ## Voor wie is deze video?
 

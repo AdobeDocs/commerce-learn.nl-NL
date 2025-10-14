@@ -29,7 +29,7 @@ Dit is deel 2 van de reeks voor GraphQL en Adobe Commerce. In deze zelfstudie en
 
 * [Deel 1 GraphQL - Inleiding](../graphql-rest/intro-graphql.md)
 * [Deel 3 GraphQL - Mutaties](../graphql-rest/graphql-mutations.md)
-* [ Deel 4 GraphQL - Schema ](../graphql-rest/graphql-schema.md)
+* [&#x200B; Deel 4 GraphQL - Schema &#x200B;](../graphql-rest/graphql-schema.md)
 
 ## Voorbeeld van GraphQL Syntax
 
@@ -156,7 +156,7 @@ Elke GraphQL-gegevensgrafiek heeft één &#39;root&#39;-type (meestal `Query` ge
 
 Dit concept van geneste velden is ook de reden waarom u argumenten voor `products` (`pageSize` en `currentPage`) kunt doorgeven, net als voor het veld op hoofdniveau `categories` .
 
-![ de Boom van het Gebied van GraphQL ](../assets/graphql-field-tree.png)
+![&#x200B; de Boom van het Gebied van GraphQL &#x200B;](../assets/graphql-field-tree.png)
 
 ## Variabelen
 
@@ -206,6 +206,6 @@ In om het even welke GraphQL-bewuste cliënt die u voor het testen (zoals Altair
 
 Zoals u ziet dat de feitelijke HTTP-aanvraag voor een GraphQL-query de hoofdtekst van de query &#39;&#39;query: `{string}`&#39;&#39; bevat, bevat elke aanvraag met een Variables-woordenboek gewoon een extra &#39;variables: `{json}`&#39; in dezelfde hoofdtekst, waarbij `{json}` de JSON-tekenreeks met de variabelenwaarden is.
 
-De nieuwe vraag gebruikt ook a _fragment_ (`productDetails`) om de zelfde gebiedsselectie op veelvoudige plaatsen opnieuw te gebruiken. [ las meer over fragmenten ](https://graphql.org/learn/queries/#fragments){target="_blank"}  in de documentatie van GraphQL.
+De nieuwe vraag gebruikt ook a _fragment_ (`productDetails`) om de zelfde gebiedsselectie op veelvoudige plaatsen opnieuw te gebruiken. [&#x200B; las meer over fragmenten &#x200B;](https://graphql.org/learn/queries/#fragments){target="_blank"}  in de documentatie van GraphQL.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

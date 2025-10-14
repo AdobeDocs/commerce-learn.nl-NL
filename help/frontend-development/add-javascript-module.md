@@ -38,5 +38,5 @@ Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module 
 
 ## Nuttige bronnen
 
-- [ de ontwikkelaarsgids van JavaScript ](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [ het roepen van en het initialiseren van JavaScript ](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [&#x200B; de ontwikkelaarsgids van JavaScript &#x200B;](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [&#x200B; het roepen van en het initialiseren van JavaScript &#x200B;](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

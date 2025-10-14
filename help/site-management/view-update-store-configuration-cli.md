@@ -63,4 +63,4 @@ Een pagina in terminal weergeven en regelnummers weergeven `cat -n vendor/magent
 ## Aanvullende bronnen
 
 - [&#128279;](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=nl-NL){target="_blank"}  het Hulpmiddel van de Lijn van 0&rbrace; Bevel
-- [ vorm Admin veiligheid ](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; vorm Admin veiligheid &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=nl-NL){target="_blank"} 

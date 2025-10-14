@@ -42,6 +42,6 @@ In deze workshop heeft Adobe Commerce met Merkle samengewerkt om het volgende te
 
 ## Aanvullende bronnen
 
-- [ Gids van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=nl-NL)
-- [ Vrijgegeven versies ](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=nl-NL)
-- [ programma van de Versie ](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=nl-NL)
+- [&#x200B; Gids van de Verbetering &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=nl-NL)
+- [&#x200B; Vrijgegeven versies &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=nl-NL)
+- [&#x200B; programma van de Versie &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=nl-NL)

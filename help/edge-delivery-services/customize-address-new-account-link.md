@@ -44,4 +44,4 @@ Projectmanagers die de voortgang van ontwikkelingstaken moeten volgen en de tech
 
 ## Aanvullende documentatie
 
-* [ Rekening van de Gebruiker ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=nl-NL)
+* [&#x200B; Rekening van de Gebruiker &#x200B;](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=nl-NL)

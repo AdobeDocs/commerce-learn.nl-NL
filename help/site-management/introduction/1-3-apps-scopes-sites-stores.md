@@ -33,12 +33,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[ Websites, opslag, en meningen -  [!DNL Commerce]  Begonnen Gids ](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=nl-NL) krijgen
+[&#x200B; Websites, opslag, en meningen -  [!DNL Commerce]  Begonnen Gids &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=nl-NL) krijgen
 
-[ montages van het Werkgebied  [!DNL Commerce]  Begonnen Gids ](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=nl-NL#scope-settings)
+[&#x200B; montages van het Werkgebied  [!DNL Commerce]  Begonnen Gids &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=nl-NL#scope-settings)

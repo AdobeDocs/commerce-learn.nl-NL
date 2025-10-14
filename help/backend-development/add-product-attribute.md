@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Als uw module het Verklarende Schema gebruikt, en de meesten sinds 2.3.0 hebben zou u setup_version moeten weglaten. Nochtans als u sommige erfenisprojecten hebt kunt u deze gebruikte methode zien.  Zie [ developer.adobe.com ](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}  voor meer informatie.\
+>Als uw module het Verklarende Schema gebruikt, en de meesten sinds 2.3.0 hebben zou u setup_version moeten weglaten. Nochtans als u sommige erfenisprojecten hebt kunt u deze gebruikte methode zien.  Zie [&#x200B; developer.adobe.com &#x200B;](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}  voor meer informatie.\
 >OPMERKING: voor het werken van deze voorbeeldcode moet u setup_version opnemen anders wordt InstallData.php niet uitgevoerd.
 
 
@@ -235,4 +235,4 @@ class InstallData implements InstallDataInterface
 
 ## Nuttige bronnen
 
-[ voeg een attribuut van het douanetekstgebied ](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/) toe
+[&#x200B; voeg een attribuut van het douanetekstgebied &#x200B;](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/) toe

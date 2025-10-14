@@ -41,4 +41,4 @@ U krijgt meer inzicht in hoe u het neerzetten van Adobe Commerce-winkelwagentjes
 
 ## Aanvullende documentatie
 
-* [ vorm Samenvatting van de Kar ](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=nl-NL)
+* [&#x200B; vorm Samenvatting van de Kar &#x200B;](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=nl-NL)

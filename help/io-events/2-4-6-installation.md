@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Installatie van Adobe Commerce 2.4.6
 
-Leer hoe u verschillende nieuwe modules in Adobe Commerce installeert met Composer for versie 2.4.6. De extra documentatie die bij [ wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"} .
+Leer hoe u verschillende nieuwe modules in Adobe Commerce installeert met Composer for versie 2.4.6. De extra documentatie die bij [&#x200B; wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce &#x200B;](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"} .
 
 ## Voor wie is deze video?
 

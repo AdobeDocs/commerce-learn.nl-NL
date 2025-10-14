@@ -34,12 +34,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[ het rekeningswerkingsgebied van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant ](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=nl-NL)
+[&#x200B; het rekeningswerkingsgebied van de Klant -  [!DNL Commerce]  Gids van het Beheer van de Klant &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=nl-NL)
 
-[ de lijststorefront ervaring van de Wenslijst -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop ](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=nl-NL)
+[&#x200B; de lijststorefront ervaring van de Wenslijst -  [!DNL Commerce]  Opslag en Gids van de Ervaring van de Aankoop &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=nl-NL)

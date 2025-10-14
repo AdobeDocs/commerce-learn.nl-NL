@@ -35,6 +35,6 @@ Leer over de werkschema&#39;s GitHub inbegrepen in de de starterkit van het Net 
 
 ## Gerelateerde documentatie
 
-* [ API de aanzetuitrusting van het netwerkaanzet KitHub repo ](https://github.com/adobe-commerce/api-mesh-starter-kit)
-* [ Adobe Developer OAuth server aan de gids van de serverimplementatie ](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [ Playlist van de video&#39;s van het Net van API ](https://experienceleague.adobe.com/nl/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [&#x200B; API de aanzetuitrusting van het netwerkaanzet KitHub repo &#x200B;](https://github.com/adobe-commerce/api-mesh-starter-kit)
+* [&#x200B; Adobe Developer OAuth server aan de gids van de serverimplementatie &#x200B;](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
+* [&#x200B; Playlist van de video&#39;s van het Net van API &#x200B;](https://experienceleague.adobe.com/nl/playlists/commerce-get-started-app-builder-and-api-mesh)

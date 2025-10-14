@@ -37,7 +37,7 @@ Leer hoe u de voorbeeldgegevens voor uw Adobe Commerce Optimizer-exemplaar kunt 
 
 ## Gerelateerde inhoud
 
-* [ Gegevens van de Steekproef van de Bewaarplaats van GitHub ](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [ het gebruiksgeval van Admin ](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [ krijgen Begonnen met Adobe Commerce Optimizer ](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer]  Gids ](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}
+* [&#x200B; Gegevens van de Steekproef van de Bewaarplaats van GitHub &#x200B;](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
+* [&#x200B; het gebruiksgeval van Admin &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [&#x200B; krijgen Begonnen met Adobe Commerce Optimizer &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer]  Gids &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}

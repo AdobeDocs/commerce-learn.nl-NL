@@ -34,4 +34,4 @@ De verwante productregels geven u de capaciteit om de selectie van producten te 
 
 ## Aanvullende bronnen
 
-[ Verwante Regels van het Product -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen ](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=nl-NL)
+[&#x200B; Verwante Regels van het Product -  [!DNL Commerce]  Handelsversie en Gids van Bevorderingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=nl-NL)

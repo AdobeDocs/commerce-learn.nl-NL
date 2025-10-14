@@ -24,7 +24,7 @@ In deze handleiding wordt uitgelegd hoe u Adobe Commerce instelt met het GRA-pat
 
 Het GRA-patroon van bulkpakketten bestaat uit één Git-opslagplaats die alle algemene aanpassingen host. Deze enkele Git-opslagplaats wordt via Composer weergegeven als één composer-pakket, dat meerdere Adobe Commerce-modules bevat.
 
-![ een diagram dat toont waar de code in een bulkpakkettenGRA patroon ](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![&#x200B; een diagram dat toont waar de code in een bulkpakkettenGRA patroon &#x200B;](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 

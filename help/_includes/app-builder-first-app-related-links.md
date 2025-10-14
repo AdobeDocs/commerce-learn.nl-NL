@@ -13,12 +13,12 @@ ht-degree: 0%
 ## App Builder - Uw eerste App-gerelateerde pagina&#39;s maken
 
 * [Overzicht](../app-builder/first-app/overview.md)
-* [De ](../app-builder/first-app/env-file.md)
-* [De ](../app-builder/first-app/app-config-yaml-file.md)
+* [De &#x200B;](../app-builder/first-app/env-file.md)
+* [De &#x200B;](../app-builder/first-app/app-config-yaml-file.md)
 * [&quot;acties&quot;](../app-builder/first-app/actions-folder.md)
 * [&quot;test&quot;](../app-builder/first-app/test-folder.md)
 * [&quot;web-src&quot;](../app-builder/first-app/web-src-folder.md)
 * [Lokaal testen](../app-builder/first-app/testing-locally.md)
 * [Testen met App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
 * [Conclusie](../app-builder/first-app/conclusion.md)
-* [ Bron code van de Module van de Steekproef ](https://github.com/magento/app-builder-samples){target="_blank"} 
+* [&#x200B; Bron code van de Module van de Steekproef &#x200B;](https://github.com/magento/app-builder-samples){target="_blank"} 

@@ -32,5 +32,5 @@ Met Adobe Commerce of Magento Open Source 2.4 kunnen handelaren hun mediabestand
 
 ## Aanvullende bronnen
 
-- [ de Galerij van Media -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/nl/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [ Afwisselende Opslag van Media -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp ](https://experienceleague.adobe.com/nl/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+- [&#x200B; de Galerij van Media -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+- [&#x200B; Afwisselende Opslag van Media -  [!DNL Commerce]  Inhoud en Gids van het Ontwerp &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

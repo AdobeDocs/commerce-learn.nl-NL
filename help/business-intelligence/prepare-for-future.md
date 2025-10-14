@@ -31,7 +31,7 @@ Bekijk deze video&#39;s om u te informeren over de ongekende veranderingen die d
 
 >[!TIP]
 >
->Als u aan Commerce Intelligence nieuw bent, verstrekt de [ Gids van de Gebruiker van Adobe Commerce Intelligence ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl-NL){target="_blank"}  een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
+>Als u aan Commerce Intelligence nieuw bent, verstrekt de [&#x200B; Gids van de Gebruiker van Adobe Commerce Intelligence &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=nl-NL){target="_blank"}  een volledig overzicht voor het drijven van betere bedrijfsinzichten en resultaten door gegevenssamenvoeging, analyse, en visualisatie.
 
 ## Voor wie is deze video?
 

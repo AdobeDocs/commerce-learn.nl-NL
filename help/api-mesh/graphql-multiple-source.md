@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Een net maken met meerdere bronnen
 
-Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh for Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Voor meer details en codesteekproeven, leidt het bezoek [ tot een netwerk ](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"} .
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh for Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Voor meer details en codesteekproeven, leidt het bezoek [&#x200B; tot een netwerk &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"} .
 
 ## Voor wie is deze video?
 
@@ -30,7 +30,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen 
 
 ## Video-inhoud
 
-* Hoe te om [ transformaties ](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"}  te gebruiken om het standaardbronschema te wijzigen
+* Hoe te om [&#x200B; transformaties &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"}  te gebruiken om het standaardbronschema te wijzigen
 * Hoe te om fouten, zoals naamconflicten, schemabeschikbaarheid, en andere kwesties van de schemasyntaxis problemen op te lossen
 * Het net bijwerken met een gewijzigde configuratie
 

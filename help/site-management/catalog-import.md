@@ -30,7 +30,7 @@ Kies een van de onderstaande opties voor meer informatie.
 
 ## De producten handmatig maken {#manual-import}
 
-Als u een beperkte catalogus hebt en updates niet vaak worden uitgevoerd, kunt u deze handmatig maken. Het kost tijd om elk product in te voeren en enige beperkte training voor het gebruik van de Commerce Admin. Handmatig catalogusbeheer is niet de juiste optie voor de meeste winkels, maar in bepaalde situaties kan het zinvol zijn. Om extra documentatie voor dit proces te zien, creeer het bezoek [ een product ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=nl-NL){target="_blank"} . Vergeet niet dat u meerdere methoden kunt gebruiken om uw catalogus te beheren. Handmatige bewerkingen moeten echter beperkt blijven wanneer de catalogus eenmaal is geautomatiseerd. Geautomatiseerde updates hebben de mogelijkheid om wijzigingen die handmatig worden uitgevoerd, te overschrijven en veroorzaken daarom verwarring. Zodra de integratie met Adobe Commerce om de catalogus te beheren automatisering en APIs gebruikt, wordt het geadviseerd om beheer van de catalogus van admin door [ gebruikersrollen en toestemmingen ](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=nl-NL){target="_blank"} te beperken .
+Als u een beperkte catalogus hebt en updates niet vaak worden uitgevoerd, kunt u deze handmatig maken. Het kost tijd om elk product in te voeren en enige beperkte training voor het gebruik van de Commerce Admin. Handmatig catalogusbeheer is niet de juiste optie voor de meeste winkels, maar in bepaalde situaties kan het zinvol zijn. Om extra documentatie voor dit proces te zien, creeer het bezoek [&#x200B; een product &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=nl-NL){target="_blank"} . Vergeet niet dat u meerdere methoden kunt gebruiken om uw catalogus te beheren. Handmatige bewerkingen moeten echter beperkt blijven wanneer de catalogus eenmaal is geautomatiseerd. Geautomatiseerde updates hebben de mogelijkheid om wijzigingen die handmatig worden uitgevoerd, te overschrijven en veroorzaken daarom verwarring. Zodra de integratie met Adobe Commerce om de catalogus te beheren automatisering en APIs gebruikt, wordt het geadviseerd om beheer van de catalogus van admin door [&#x200B; gebruikersrollen en toestemmingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=nl-NL){target="_blank"} te beperken .
 
 ### Wanneer denkt u over deze aanpak
 
@@ -45,7 +45,7 @@ Als u een beperkte catalogus hebt en updates niet vaak worden uitgevoerd, kunt u
 ## CSV-importprogramma voor beheerders {#admin-csv}
 
 Met dit gereedschap kan een eigenaar van een winkel een catalogus importeren met behulp van een CSV-recht van de commercebeheerder.
-[ de Gegevens van de Invoer van Admin van Commerce ](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=nl-NL){target="_blank"} 
+[&#x200B; de Gegevens van de Invoer van Admin van Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=nl-NL){target="_blank"} 
 
 Pros:
 Het uploaden van een CSV van admin is een directe voorwaartse benadering van catalogusbeheer. Zo kunt u sneller productupdates voor catalogi uitvoeren naar een catalogus van gematigde grootte.
@@ -70,7 +70,7 @@ Cons:
 ## Bulk REST API {#bulk-rest-api}
 
 De grote REST API maakt automatisering en frequentere updates mogelijk. Deze API is sneller dan het gebruiken van het admin uploaden van CSV.
-[ Bulk eindpunten documentatie ](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"} 
+[&#x200B; Bulk eindpunten documentatie &#x200B;](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"} 
 
 Pros:
 De mogelijkheid om grote gegevenssets te importeren die niet de CSV-indeling hebben.
@@ -92,7 +92,7 @@ Cons:
 ## ASYNC REST API {#async-rest-api}
 
 Een asynchroon Webeindpunt onderschept berichten aan een Web API en schrijft hen aan de berichtrij. Telkens wanneer het systeem een dergelijke API-aanvraag accepteert, wordt een UUID-id gegenereerd. Adobe Commerce neemt deze UUID op wanneer het bericht aan de wachtrij wordt toegevoegd. Dan, leest een consument de berichten van de rij en voert hen één voor één uit.
-[ Asynchrone documentatie van Webeindpunten ](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"} 
+[&#x200B; Asynchrone documentatie van Webeindpunten &#x200B;](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"} 
 
 Pros:
 
@@ -115,7 +115,7 @@ Cons:
 
 Met deze API-optie is het importeren extreem snel in vergelijking met alle andere native opties.
 
-[ de gegevens van de Invoer REST CSV api ](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"} 
+[&#x200B; de gegevens van de Invoer REST CSV api &#x200B;](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"} 
 Pros:
 
 - Snelste methode om de binnenkomende gegevens te verwerken
@@ -138,7 +138,7 @@ Cons:
 
 ## Aanvullende bronnen
 
-- [ de Gegevens van de Invoer gebruikend nieuwe REST CSV ](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"} 
-- [ de belangrijkste documentatie van de Gegevens van de Invoer ](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=nl-NL){target="_blank"} 
-- [ versie 2.4.6 van Adobe Commerce versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=nl-NL){target="_blank"} 
-- [ Gebruikers, rollen, en toestemmingen ](../site-management/users-roles-permissions.md){target="_blank"}
+- [&#x200B; de Gegevens van de Invoer gebruikend nieuwe REST CSV &#x200B;](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"} 
+- [&#x200B; de belangrijkste documentatie van de Gegevens van de Invoer &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; versie 2.4.6 van Adobe Commerce versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=nl-NL){target="_blank"} 
+- [&#x200B; Gebruikers, rollen, en toestemmingen &#x200B;](../site-management/users-roles-permissions.md){target="_blank"}

@@ -31,12 +31,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[ beheer Admin gebruikersrekeningen -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=nl-NL)
+[&#x200B; beheer Admin gebruikersrekeningen -  [!DNL Commerce]  Gids van Systemen Admin &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=nl-NL)
 
-[ de rollen van de Gebruiker -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=nl-NL)
+[&#x200B; de rollen van de Gebruiker -  [!DNL Commerce]  Gids van Systemen Admin &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=nl-NL)
