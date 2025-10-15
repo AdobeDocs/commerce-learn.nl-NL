@@ -113,7 +113,7 @@ Adobe Commerce Cloud gebruikt een MariaDB Galera-cluster als database voor zowel
    > - E-mailcommunicatie uitschakelen:
    >   Ga naar _Opslag > Configuratie > Geavanceerd > Systeem > het Verzenden van Montages E-mail_.
 
-4. Het testen van de veiligheidspenetratie van de uitvoering op de productieinstantie als deel van het [&#x200B; gedeelde model van de verantwoordelijkheidsveiligheid &#x200B;](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"} . Voor compatibiliteit met PCI (Payment Card Industry) vereist de aangepaste site een penetratietest.
+4. Het testen van de veiligheidspenetratie van de uitvoering op de productieinstantie als deel van het [&#x200B; gedeelde model van de verantwoordelijkheidsveiligheid &#x200B;](https://business.adobe.com/nl/products/magento/secure-ecommerce.html){target="_blank"} . Voor compatibiliteit met PCI (Payment Card Industry) vereist de aangepaste site een penetratietest.
 
 ## 8. Overige configuraties
 
