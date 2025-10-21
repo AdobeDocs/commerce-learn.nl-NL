@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Commerce-zelfstudies {#videos}
 
-Welkom bij de verzameling video&#39;s en zelfstudies van [!DNL Commerce] . Gebruikend deze middelen, samen met de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/commerce.html), biedt een kans om te leren hoe te om Adobe Commerce en Magento Open Source te gebruiken om uw e-commercezaken te steunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
+Welkom bij de verzameling video&#39;s en zelfstudies van [!DNL Commerce] . Gebruikend deze middelen, samen met de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/commerce.html?lang=nl-NL), biedt een kans om te leren hoe te om Adobe Commerce en Magento Open Source te gebruiken om uw e-commercezaken te steunen. De inzameling wordt ontworpen om nuttige inhoud voor achterste ontwikkelaars, voorste ontwikkelaars, systeembeheerders, handelaren, en andere rollen binnen uw organisatie te verstrekken.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,11 +27,11 @@ Welkom bij de verzameling video&#39;s en zelfstudies van [!DNL Commerce] . Gebru
 
 >[!TIP]
 >
->De [&#x200B; Gebeurtenissen van Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) ruimte verleent toegang tot geregistreerde gebeurtenisinhoud die u op bestelling kunt letten.
+>De [&#x200B; Gebeurtenissen van Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=nl-NL) ruimte verleent toegang tot geregistreerde gebeurtenisinhoud die u op bestelling kunt letten.
 
 ## Aanvullende bronnen
 
-- [&#x200B; Merchant documentatie &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+- [&#x200B; Merchant documentatie &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=nl-NL)
 - [&#x200B; documentatie van de Ontwikkelaar &#x200B;](https://developer.adobe.com/commerce)
 - [&#x200B; Adobe Digital Learning Services - Adobe Commerce cursuscatalogus &#x200B;](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 
