@@ -6,10 +6,10 @@ topic: Administration,Commerce,Integrations
 role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 243
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: fa615aab7b8eff3b13908797cd263ec4cdc65eb6
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Leer meer over de architectuur en de functionaliteit van de Commerce Optimizer C
 * Aangepaste SFCC-cartridges en API&#39;s detecteren wijzigingen in de catalogus via delta-export, waardoor een efficiënte gegevenssynchronisatie met Adobe App Builder mogelijk is.
 * App Builder-runtimeacties beheren volledige en delta-syncs, validatie en statustracking om ervoor te zorgen dat Commerce Optimizer correct en zonder conflicten wordt bijgewerkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476057?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
