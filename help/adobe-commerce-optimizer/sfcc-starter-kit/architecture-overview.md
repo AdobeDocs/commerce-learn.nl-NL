@@ -32,4 +32,4 @@ Leer meer over de architectuur en de functionaliteit van de Commerce Optimizer C
 * Aangepaste SFCC-cartridges en API&#39;s detecteren wijzigingen in de catalogus via delta-export, waardoor een efficiënte gegevenssynchronisatie met Adobe App Builder mogelijk is.
 * App Builder-runtimeacties beheren volledige en delta-syncs, validatie en statustracking om ervoor te zorgen dat Commerce Optimizer correct en zonder conflicten wordt bijgewerkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476057?captions=dut&learn=on)

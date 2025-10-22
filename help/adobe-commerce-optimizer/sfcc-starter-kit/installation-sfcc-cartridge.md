@@ -36,4 +36,4 @@ Leer hoe u de Adobe Commerce Optimizer-cartridge voor een Salesforce Commerce Cl
 * Importeer aangepaste object- en taakdefinities ter ondersteuning van bijhouden en synchroniseren.
 * Test een aangepast API-eindpunt om de geslaagde installatie te bevestigen en voor catalogussynchronisatie voor te bereiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476076?captions=dut&learn=on)

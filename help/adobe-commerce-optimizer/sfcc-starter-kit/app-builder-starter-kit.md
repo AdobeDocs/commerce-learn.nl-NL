@@ -33,4 +33,4 @@ Meer informatie over het instellen en implementeren van de App Builder Starter K
 * Clone the App Builder Starter Kit and configure environment files using the Adobe IO CLI.
 * Implementeer de app en bevestig de geslaagde registratie van handelingen en gebeurtenissen in uw werkruimte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476088?captions=dut&learn=on)
