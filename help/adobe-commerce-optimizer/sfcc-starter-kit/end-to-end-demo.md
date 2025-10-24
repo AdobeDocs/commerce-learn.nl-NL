@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: c00df1105c757705faabf51bb31192c2eff64329
+source-git-commit: 2c2484ad679dc1bd46b2093549cb4e0e41545a21
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Bekijk de demo van Salesforce Commerce cloud starter kit
 
-Een demonstratie van einde tot einde waarin de succesvolle installatie en uitvoering van een volledige en delta-synchronisatie tussen Salesforce Commerce en Commerce Optimizer met de startkit wordt getoond. Leer hoe u het succes van de synchronisatie kunt bevestigen via runtimelogboeken en het traceren van gebeurtenissen, en vervolgens de resultaten op een live winkel kunt valideren. Leer hoe de functie voor deltasynchronisatie werkt. Ook worden de stappen besproken zoals het wijzigen van productdetails en prijzen in de SFC-catalogus, en het systeem detecteert en werkt deze wijzigingen automatisch bij in Commerce Optimizer, zodat ze direct in de winkel worden weergegeven.
+Een demonstratie van einde tot einde waarin de succesvolle installatie en uitvoering van een volledige en delta-synchronisatie tussen Salesforce Commerce en Commerce Optimizer met de startkit wordt getoond. Leer hoe u het succes van de synchronisatie kunt bevestigen via runtimelogboeken en het traceren van gebeurtenissen, en vervolgens de resultaten op een live winkel kunt valideren. Leer hoe de functie voor deltasynchronisatie werkt. Ook worden de stappen besproken zoals het wijzigen van productdetails en prijzen in de Salesforce Commerce Cloud-catalogus, en het systeem detecteert en werkt deze wijzigingen automatisch bij in Commerce Optimizer, zodat ze direct in de winkel worden weergegeven.
 
 ## Voor wie is deze video?
 
@@ -34,4 +34,4 @@ Een demonstratie van einde tot einde waarin de succesvolle installatie en uitvoe
 * Wijzigingen in productgegevens en prijzen in de SFC-catalogus worden automatisch gedetecteerd en bijgewerkt in Commerce Optimizer via het Delta Sync-proces.
 * Updates in realtime en demonstratie van naadloze gegevensstroom en synchronisatie tussen systemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476099?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
