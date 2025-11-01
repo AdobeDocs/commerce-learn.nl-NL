@@ -29,7 +29,7 @@ Adobe Cloud Automation Patching Service (CAPS), een functie in het Adobe Commerc
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476253/?captions=dut&learn=on&enablevpops)
 
 ## Verwante documentatie
 
