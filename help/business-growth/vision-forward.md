@@ -1,5 +1,5 @@
 ---
-title: Bedrijfs Groei met de Vooruitblik van Adobe
+title: Zakelijke groei met Adobe Vision Forward Roadmap
 description: Ontdek Adobe Commerce-routekaart voor B2B-winkels, realtime personalisatie, betalingen en door AI aangedreven bedrijfs- en ontwikkelaarservaring.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
 topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 976
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19377
-source-git-commit: 38062ebccf032da93ca27cadf50a7373b2d2a057
+source-git-commit: 58a2c94860a278b1f618c3944b2da1be54623814
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Bedrijfs Groei met de Vooruitblik van Adobe
+# Bedrijfs de groei met Adobe Vision Forward roadmap
 
 Het roadmap van Adobe Commerce voor 2026 schetst een uitvoerige strategie om bedrijfsgroei door innovaties in gegevens in real time te verbeteren delend, gepersonaliseerde klantenervaringen, en gestroomlijnde verrichtingen. Belangrijke ontwikkelingen zijn onder andere de native integratie met Adobe Experience Platform voor het delen en personaliseren van gegevens en de snelle implementatie van B2B-opslagsystemen. Nog een paar belangrijke ontwikkelingen zijn de uitbreiding van de betalingsmogelijkheden en een vernieuwd Merchant Center voor vereenvoudigd beheer. In de routekaart wordt ook de nadruk gelegd op door AI aangedreven hulpmiddelen voor catalogusbeheer, platformgezondheidsbewaking, uitbreidbaarheid voor ontwikkelaars via App Builder en verbeteringen op het gebied van waarneming. Deze updates zijn bedoeld om naadloze, schaalbare en intelligente handelservaring te bieden via B2B- en B2C-kanalen.
 
@@ -35,4 +35,4 @@ Het roadmap van Adobe Commerce voor 2026 schetst een uitvoerige strategie om bed
 * Merchant Center &amp; Admin Experience
 * Verbeteringen op gebied van ontwikkelaarservaring en -waarneming
 
->[!VIDEO](https://video.tv.adobe.com/v/3475712/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
