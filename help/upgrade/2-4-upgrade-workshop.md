@@ -38,10 +38,10 @@ In deze workshop heeft Adobe Commerce met Merkle samengewerkt om het volgende te
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3432520?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [&#x200B; Gids van de Verbetering &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=nl-NL)
-- [&#x200B; Vrijgegeven versies &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=nl-NL)
-- [&#x200B; programma van de Versie &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=nl-NL)
+- [ Gids van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [ Vrijgegeven versies ](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [ programma van de Versie ](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
