@@ -35,5 +35,5 @@ Het hulpprogramma voor analyse van de hele site is een proactief zelfbedieningsh
 
 ## Aanvullende bronnen
 
-- [&#x200B; plaats-brede het Hulpmiddel van de Analyse &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [&#x200B; Mening en beheer logboeken &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+- [&#x200B; plaats-brede het Hulpmiddel van de Analyse &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=nl-NL)
+- [&#x200B; Mening en beheer logboeken &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=nl-NL)

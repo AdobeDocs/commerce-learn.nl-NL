@@ -35,11 +35,11 @@ Leer meer over de cloudinfrastructuur en enkele best practices voor ontwikkeling
 
 ## Experience League-documentatie vermeld in de video
 
-- [&#x200B; Rsync &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
-- [&#x200B; SFTP &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
-- [&#x200B; Commerce Cloud CLI &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-  [&#x200B; de verbetering van Adobe Commerce en het toepassen van flarden &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
-- [&#x200B; Adobe Commerce pre-lancerings checklist &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
-- [&#x200B; Creërend steunkaartjes &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
+- [&#x200B; Rsync &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html?lang=nl-NL#migrate-files-using-rsync)
+- [&#x200B; SFTP &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html?lang=nl-NL#sftp)
+- [&#x200B; Commerce Cloud CLI &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=nl-NL)
+  [&#x200B; de verbetering van Adobe Commerce en het toepassen van flarden &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html?lang=nl-NL)
+- [&#x200B; Adobe Commerce pre-lancerings checklist &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=nl-NL)
+- [&#x200B; Creërend steunkaartjes &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=nl-NL)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

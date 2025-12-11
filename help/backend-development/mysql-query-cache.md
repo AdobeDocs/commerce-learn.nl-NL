@@ -39,5 +39,5 @@ Leer wat MySQL vraaggeheime voorgeheugen en wat basisbegrip voor hoe het werkt. 
 
 ## Nuttige bronnen
 
-- [&#x200B; Algemene richtlijnen MySQL &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
-- [&#x200B; replicatie Galera en langzame vragen &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
+- [&#x200B; Algemene richtlijnen MySQL &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=nl-NL){target="_blank"}
+- [&#x200B; replicatie Galera en langzame vragen &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=nl-NL){target="_blank"}

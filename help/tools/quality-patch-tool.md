@@ -39,5 +39,5 @@ Het Adobe Commerce-ondersteuningsteam en de Magento Open Source-gemeenschap ontw
 
 ## Aanvullende bronnen
 
-- [&#x200B; Hulpmiddel van het Reparatie van de Kwaliteit &#x200B;](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [&#x200B; Hulpmiddel van het Reparatie van de Kwaliteit &#x200B;](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=nl-NL)
 - [&#x200B; het flardhulpmiddel van de Kwaliteit op GitHub &#x200B;](https://github.com/magento/quality-patches)
