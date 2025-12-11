@@ -38,7 +38,7 @@ Als oplossing, indien mogelijk, batch uw grote verrichtingen om de secundaire ge
 - Bulkexecuties vinden alleen plaats op de eerste plaats. Replicaties vinden één voor één plaats
 - Batch uw grote inzet om de replicatie te helpen gelijke tred houden met de primaire
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432453?captions=dut&learn=on)
 
 ## Nuttige bronnen
 

@@ -35,7 +35,7 @@ Als u denkt dat u deze logbestanden nodig hebt, kunt u deze `rsync` gebruiken of
 - Waar enkele veelvoorkomende grote logbestanden worden gevonden
 - Snelle methode om een logbestand af te kappen
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454589?captions=dut&learn=on)
 
 
 ## Opdrachten die in de video worden gebruikt

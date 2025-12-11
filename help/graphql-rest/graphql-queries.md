@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Dit is deel 2 van de reeks voor GraphQL en Adobe Commerce. In deze zelfstudie en video leert u meer over GraphQL-query&#39;s en hoe u deze kunt uitvoeren tegen Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450064?captions=dut&learn=on)
 
 ## Verwante video&#39;s en zelfstudies over GraphQL in deze serie
 

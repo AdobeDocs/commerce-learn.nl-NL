@@ -31,7 +31,7 @@ Meer informatie over het gebruik van Fastly in de cloud voor Adobe Commerce.
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432805?captions=dut&learn=on)
 
 ## Experience League-documentatie en Fastly Adobe Commerce-controle vermeld in de video
 

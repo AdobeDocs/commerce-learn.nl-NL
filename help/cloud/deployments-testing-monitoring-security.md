@@ -31,7 +31,7 @@ Leer meer over de implementatiestrategieën van Adobe Commerce Cloud, het testen
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432829?captions=dut&learn=on)
 
 ## Experience League-documentatie vermeld in de video
 

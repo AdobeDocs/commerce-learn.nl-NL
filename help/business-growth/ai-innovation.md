@@ -34,4 +34,4 @@ Ontdek hoe Adobe Commerce eCommerce revolutioneert met geavanceerde AI-oplossing
 * Wereldwijde uitbreiding versnellen met catalogusinnovatie
 * Verbetering van de winkelervaring dankzij de conversie van Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475701/?captions=dut&learn=on&enablevpops)

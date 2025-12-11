@@ -36,7 +36,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen
 * Een net maken van een JSON-configuratiebestand
 * Het nieuwe GraphQL-eindpunt openen
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430822?captions=dut&quality=12&learn=on)
 
 ## Het JSON-configuratiebestand maken
 

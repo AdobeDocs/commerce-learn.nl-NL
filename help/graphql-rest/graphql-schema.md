@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Dit is deel 4 van de reeks voor GraphQL en Adobe Commerce. De gebruikte query&#39;s en mutaties zijn afhankelijk van een specifieke gegevensgrafiek die op de server wordt geïmplementeerd. De GraphQL-runtime gebruikt deze grafiek om de query op te lossen. De GraphQL-specificatie definieert een agnostische taal voor het uitdrukken van de typen en relaties van de gegevensgrafiek.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446616?captions=dut&learn=on)
 
 ## Verwante video&#39;s en zelfstudies over GraphQL in deze serie
 

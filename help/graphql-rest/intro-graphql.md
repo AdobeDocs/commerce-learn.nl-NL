@@ -25,7 +25,7 @@ Dit is deel 1 van de reeks voor GraphQL en Adobe Commerce. GraphQL is al snel de
 
 Als je nog geen ervaring hebt met GraphQL, richt deze sectie je naar de basisbeginselen en het basisgebruik.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443947?captions=dut&learn=on)
 
 ## Verwante video&#39;s en zelfstudies over GraphQL in deze serie
 

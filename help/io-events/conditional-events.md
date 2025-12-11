@@ -36,7 +36,7 @@ Meer informatie over voorwaardelijke gebeurtenissen in Adobe Commerce die kunnen
 * Regels definiëren voor gebruik in voorwaardelijke gebeurtenissen
 * Leer hoe u gebeurtenissen kunt registreren in de Commerce-instanties `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430659?captions=dut&quality=12&learn=on)
 
 ## Nuttige opdrachten {#useful-commands}
 

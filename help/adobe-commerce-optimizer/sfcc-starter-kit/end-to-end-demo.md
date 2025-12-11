@@ -35,4 +35,4 @@ Bekijk een demonstratie van begin tot eind die de succesvolle opstelling en uitv
 * Wijzigingen in productgegevens en prijzen in de Salesforce Commerce Cloud-catalogus worden automatisch gedetecteerd en bijgewerkt in Commerce Optimizer via het Delta Sync-proces.
 * Updates in realtime en demonstratie van naadloze gegevensstroom en synchronisatie tussen systemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476099?captions=dut&learn=on)

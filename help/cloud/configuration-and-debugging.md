@@ -31,7 +31,7 @@ Leer over de belangrijkste dossiers Yaml die in de Wolk van de Handel van Adobe 
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432817?captions=dut&learn=on)
 
 ## Experience League-documentatie vermeld in de video
 

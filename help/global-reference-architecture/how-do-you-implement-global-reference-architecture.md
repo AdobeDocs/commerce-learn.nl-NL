@@ -39,6 +39,6 @@ Leer hoe u de algemene referentiearchitectuur of GRA voor kort implementeert. Le
 * Global Control Board - waaraan moet worden gewerkt
 * Alternatief concept voor het gebruiken van GRA als modulemarkt
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457214?captions=dut&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

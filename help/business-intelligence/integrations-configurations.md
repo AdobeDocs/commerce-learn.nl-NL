@@ -34,4 +34,4 @@ Het document behandelt ook het synchroniseren van tabellen naar de Data Warehous
 
 ## Integraties en configuraties
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452696?captions=dut&learn=on)

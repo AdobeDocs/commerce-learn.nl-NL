@@ -35,7 +35,7 @@ Leer wat MySQL vraaggeheime voorgeheugen en wat basisbegrip voor hoe het werkt. 
 - Zie hoe de SQL wordt opgeslagen en gebruikt bij het zoeken naar een overeenkomende querycache
 - Enkele tips voor configuratie-instellingen
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432374?captions=dut&learn=on)
 
 ## Nuttige bronnen
 

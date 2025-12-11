@@ -31,7 +31,7 @@ Leer meer over de cloudinfrastructuur en enkele best practices voor ontwikkeling
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432795?captions=dut&learn=on)
 
 ## Experience League-documentatie vermeld in de video
 

@@ -39,7 +39,7 @@ Het gereedschap Kwaliteitspatches is een opdrachtregelprogramma voor Adobe Comme
 
 Deze patches worden ontwikkeld door Adobe Developers en de Magento Open Source-gemeenschap om de stabiliteit en prestaties te verbeteren. Houd er rekening mee dat het niet wordt aangeraden om grote aantallen patches toe te passen, omdat dit toekomstige upgrades kan bemoeilijken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454075?captions=dut&learn=on)
 
 ## Waarom het gereedschap Kwaliteitspatch gebruiken
 

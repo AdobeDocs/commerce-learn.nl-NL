@@ -35,4 +35,4 @@ Leer hoe u waarschuwingen, beleid, workflows en doelen kunt zoeken in New Relic.
 * Meer informatie over meldingen, beleid en workflows
 * Het opslaan van de bestemming en het valideren van de nieuwe e-mail is toegevoegd aan een beleid
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441208?captions=dut&learn=on)

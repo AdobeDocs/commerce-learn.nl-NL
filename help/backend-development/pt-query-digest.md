@@ -34,7 +34,7 @@ Leer waarom u de pt-vraag-samenvatting en sommige echte voorbeelden gebruikt hel
 - Meer informatie over de voordelen en tekortkomingen van deze Percona Toolkit-functie
 - Begrijp de resultaten en leer welke mogelijke prestatiesstappen zouden moeten worden overwogen
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452300?captions=dut&learn=on)
 
 ## Codeverwijzingen
 

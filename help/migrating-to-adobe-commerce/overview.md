@@ -34,4 +34,4 @@ Welkom bij deze uitgebreide Adobe Commerce-zelfstudie over migratie. Deze zelfst
 * Ontdek de belangrijkste stappen en aanbevolen procedures voor een geslaagde migratie naar Adobe Commerce.
 * Evalueer en optimaliseer douanecode, derdemodules, en begrijp zeer belangrijke concepten QA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444326/?captions=dut&learn=on)

@@ -35,7 +35,7 @@ Leer hoe u verschillende nieuwe modules in Adobe Commerce installeert met Compos
 * Opdrachten voor Adobe Commerce Cloud
 * Adobe Commerce Cloud moet worden bewerkt
 
->[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430641?captions=dut&quality=12&learn=on)
 
 ## Nuttige opdrachten {#useful-commands}
 

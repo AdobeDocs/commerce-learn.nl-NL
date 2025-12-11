@@ -33,7 +33,7 @@ Adobe Commerce biedt een HIPAA-klaar oplossing die wordt ontworpen om gezondheid
 * De oplossing omvat verbeterde registratiemechanismen voor PHI en biedt integratiemogelijkheden met zowel interne Adobe-producten als externe services van derden.
 * Adobe Commerce biedt een speciale staging-omgeving voor ondersteuning en probleemoplossing, zodat gevoelige gegevens worden beschermd en de omgeving de productie goed weerspiegelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463183/?captions=dut&learn=on&enablevpops)
 
 ## Aanvullende documentatie
 

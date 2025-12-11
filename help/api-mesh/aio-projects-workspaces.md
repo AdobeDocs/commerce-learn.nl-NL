@@ -37,7 +37,7 @@ In deze zelfstudie worden het maken van een project en een werkruimte besproken 
 * Het veranderen van de geselecteerde Organisatie, het project, of de werkruimte in CLI
 * Eenvoudige opdrachten voor API-net testen
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430777?captions=dut&quality=12&learn=on)
 
 ## Meer informatie over de Adobe Developer Console
 

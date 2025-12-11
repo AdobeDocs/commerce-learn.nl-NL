@@ -33,4 +33,4 @@ Meer informatie over de Commerce Optimizer Salesforce Commerce Cloud Connector, 
 * Meer informatie over het doel van de Salesforce Commerce Cloud integration starter kit.
 * Begrijp waar te installeren starter kit
 
->[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476019?captions=dut&learn=on)
