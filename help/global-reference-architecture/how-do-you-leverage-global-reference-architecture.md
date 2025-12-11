@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-9-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
-source-git-commit: 803b418ec85c907d087f8fe243799b56a281219b
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Globale referentiearchitectuur gebruiken
 
-Leer hoe u de Global Reference Architecture of GRA kort kunt gebruiken. Om een GRA beter voor te bereiden op een geslaagde uitvoering, bespreken de deskundigen van de Adobe de verschillende fasen van het project en gaan zij in detail in op de ontdekkingsfase. De middelen van QA worden besproken en hoe zij een waardevolle middel aan een implementatie GRA zijn.
+Leer hoe u de Global Reference Architecture of GRA kort kunt gebruiken. Om een GRA beter voor te bereiden op een geslaagde uitvoering, bespreken de Adobe-deskundigen de verschillende fasen van het project en gaan ze in detail in op de detectiefase. De middelen van QA worden besproken en hoe zij een waardevolle middel aan een implementatie GRA zijn.
 
 ## Publiek
 
@@ -34,6 +35,6 @@ Leer hoe u de Global Reference Architecture of GRA kort kunt gebruiken. Om een G
 * Vereiste verzamelen
 * Wanneer betrekt u het team QA
 
->[!VIDEO](https://video.tv.adobe.com/v/3456006?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

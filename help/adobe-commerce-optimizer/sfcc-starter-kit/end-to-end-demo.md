@@ -3,13 +3,14 @@ title: End-to-end demo voor de Salesforce Commerce Cloud Connector
 description: Bekijk de end-to-end demo voor de Salesforce Commerce Cloud met Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Bekijk een demonstratie van begin tot eind die de succesvolle opstelling en uitv
 * Wijzigingen in productgegevens en prijzen in de Salesforce Commerce Cloud-catalogus worden automatisch gedetecteerd en bijgewerkt in Commerce Optimizer via het Delta Sync-proces.
 * Updates in realtime en demonstratie van naadloze gegevensstroom en synchronisatie tussen systemen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476099?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

@@ -3,19 +3,19 @@ title: HIPAA-klaar hosten
 description: Leer meer over het ontvangen van bestanden die geschikt zijn voor HIPPA. De HIPAA-klaar oplossing in Adobe Commerce verzekert veilige, volgzame e-handel voor gezondheidszorgondernemingen.
 feature: Cloud, Compliance, System
 topic: Commerce, Security
-role: Admin, Architect, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 268
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-14593
-source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
+exl-id: 60314a97-1922-490f-be18-e5e5998075e2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # HIPAA-hosting in Adobe Commerce
 
@@ -33,11 +33,10 @@ Adobe Commerce biedt een HIPAA-klaar oplossing die wordt ontworpen om gezondheid
 * De oplossing omvat verbeterde registratiemechanismen voor PHI en biedt integratiemogelijkheden met zowel interne Adobe-producten als externe services van derden.
 * Adobe Commerce biedt een speciale staging-omgeving voor ondersteuning en probleemoplossing, zodat gevoelige gegevens worden beschermd en de omgeving de productie goed weerspiegelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463183/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
 
 ## Aanvullende documentatie
 
-* [&#x200B; HIPAA Bereidheid - de Verbinding van Gegevens &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/data-connection/hipaa-readiness)
-* [&#x200B; Gereedheid HIPAA - Naleving &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [&#x200B; installeer de Verbinding van Gegevens &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/data-connection/fundamentals/install)
-
+* [ HIPAA Bereidheid - de Verbinding van Gegevens ](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [ Gereedheid HIPAA - Naleving ](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [ installeer de Verbinding van Gegevens ](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

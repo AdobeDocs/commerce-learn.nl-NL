@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Ontwikkeling Adobe Commerce-module
 
-Leer hoe u gebeurtenissen registreert, ondersteunde gebeurtenissen zoekt en hoe u een nieuw XML-bestand `io_events.xml` gebruikt in aangepaste moduleontwikkeling. De video laat ontwikkelaars ook zien hoe ze geregistreerde gebeurtenissen kunnen vinden die kunnen worden gebruikt en hoe ze het abonnement op gebeurtenissen die al gedefinieerd kunnen zijn, kunnen opzeggen. De extra documentatie die bij [&#x200B; wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce &#x200B;](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"} .
+Leer hoe u gebeurtenissen registreert, ondersteunde gebeurtenissen zoekt en hoe u een nieuw XML-bestand `io_events.xml` gebruikt in aangepaste moduleontwikkeling. De video laat ontwikkelaars ook zien hoe ze geregistreerde gebeurtenissen kunnen vinden die kunnen worden gebruikt en hoe ze het abonnement op gebeurtenissen die al gedefinieerd kunnen zijn, kunnen opzeggen. De extra documentatie die bij [ wordt gevonden installeert Adobe I/O Events voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -35,7 +36,7 @@ Leer hoe u gebeurtenissen registreert, ondersteunde gebeurtenissen zoekt en hoe 
 * Leer hoe u gebeurtenissen kunt registreren in de Commerce-instanties `app/etc/config.php`
 * Leer hoe u uw abonnement op een gebeurtenis opzegt
 
->[!VIDEO](https://video.tv.adobe.com/v/3430653?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## Nuttige opdrachten {#useful-commands}
 

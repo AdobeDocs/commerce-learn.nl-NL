@@ -3,23 +3,24 @@ title: Een overzicht voor migreren naar Adobe Commerce
 description: Een overzicht van voorbereiding, aangepaste code, QA, prestaties en beveiliging bij het migreren naar Adobe Commerce.
 feature: Best Practices
 topic: Commerce, Migration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 4e788b83e64e3ba8c45a7a60e14e551d67b21a88
+exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
 # Migreren naar Adobe Commerce - Overzicht
 
-Welkom bij deze uitgebreide Adobe Commerce-zelfstudie over migratie. Deze zelfstudies zijn ontworpen voor ontwikkelaars en bedrijven en hebben betrekking op essentiële onderwerpen, zoals voorbereiding, evaluatie van aangepaste code, QA, prestaties en beveiliging. Leer beste praktijken en verbeter waardevolle inzichten van gekruiste Adobe deskundigen om een vlotte en succesvolle migratie naar Adobe Commerce te verzekeren.
+Welkom bij deze uitgebreide Adobe Commerce-zelfstudie over migratie. Deze zelfstudies zijn ontworpen voor ontwikkelaars en bedrijven en hebben betrekking op essentiële onderwerpen, zoals voorbereiding, evaluatie van aangepaste code, QA, prestaties en beveiliging. Leer beste praktijken en verbeter waardevolle inzichten van gekruiste Adobe-experts om een vlotte en succesvolle migratie naar Adobe Commerce te verzekeren.
 
 ## Voor wie is deze videoreeks?
 
@@ -33,4 +34,4 @@ Welkom bij deze uitgebreide Adobe Commerce-zelfstudie over migratie. Deze zelfst
 * Ontdek de belangrijkste stappen en aanbevolen procedures voor een geslaagde migratie naar Adobe Commerce.
 * Evalueer en optimaliseer douanecode, derdemodules, en begrijp zeer belangrijke concepten QA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444326/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

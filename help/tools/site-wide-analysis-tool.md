@@ -7,12 +7,13 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer, Admin
+old-role: Architect, Developer
+role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
 duration: 101
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: 12cbb2929137778d82b707376da0e0250dae2c8b
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -34,5 +35,5 @@ Het hulpprogramma voor analyse van de hele site is een proactief zelfbedieningsh
 
 ## Aanvullende bronnen
 
-- [&#x200B; plaats-brede het Hulpmiddel van de Analyse &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=nl-NL)
-- [&#x200B; Mening en beheer logboeken &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=nl-NL)
+- [ plaats-brede het Hulpmiddel van de Analyse ](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [ Mening en beheer logboeken ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

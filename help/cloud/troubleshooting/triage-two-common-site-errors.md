@@ -1,25 +1,26 @@
 ---
-title: Een aantal vaak voorkomende fouten in de Commerce Cloud opsporen en corrigeren
-description: Los twee veelvoorkomende Adobe Cloud-projectfouten op die voorkomen dat de site wordt geladen.
+title: Enkele gangbare Commerce Cloud-fouten opsporen en corrigeren
+description: Los twee algemene Adobe Cloud-projectfouten op die voorkomen dat de site wordt geladen.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
-source-git-commit: 27c1715dd42853013181d9c729549a5a32bc2af0
+exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Service controleren en repareren is niet beschikbaar en er is een fout opgetreden
 
-Leer hoe u twee veelvoorkomende fouten in Adobe Commerce Cloud-projecten kunt triggeren en oplossen.  Begrijp hoe en waarom deze fouten gebeuren en wat zijn de aanbevolen stappen om deze op te lossen.
+Leer hoe u twee veelvoorkomende fouten in Adobe Commerce Cloud-projecten kunt bijsnijden en oplossen.  Begrijp hoe en waarom deze fouten gebeuren en wat zijn de aanbevolen stappen om deze op te lossen.
 
 ## Wie is deze video voor
 
@@ -32,7 +33,7 @@ Leer hoe u twee veelvoorkomende fouten in Adobe Commerce Cloud-projecten kunt tr
 - Onderhoudsmodus beheren
 - Tips voor efficiënte probleemoplossing
 
->[!VIDEO](https://video.tv.adobe.com/v/3447699?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## Opdrachten die in de video worden gebruikt

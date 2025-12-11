@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-3
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
-source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Architect voor GRA
 
-Leer hoe u de algemene referentiearchitectuur of GRA voor korte tijd kunt maken. Om een GRA beter voor te bereiden op een succesvolle uitvoering, bespreken de deskundigen van de Adobe wat wel en wat geen GRA is. Een diepgaande discussie over codebeheer met afzonderlijke pakketten, gesplitste git en monorepo. Andere onderwerpen rond documentatie, hulpmiddelen, en personeelsverwachtingen worden besproken om over hun delen voor een succesvolle implementatie van GRA uit te werken.
+Leer hoe u de algemene referentiearchitectuur of GRA voor korte tijd kunt maken. Om een GRA beter voor te bereiden op een succesvolle uitvoering, bespreken de deskundigen van Adobe wat wel en wat geen GRA is. Een diepgaande discussie over codebeheer met afzonderlijke pakketten, gesplitste git en monorepo. Andere onderwerpen rond documentatie, hulpmiddelen, en personeelsverwachtingen worden besproken om over hun delen voor een succesvolle implementatie van GRA uit te werken.
 
 ## Publiek
 

@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -22,11 +23,11 @@ ht-degree: 0%
 # Adobe I/O Runtime CLI- en netplug-in installeren
 
 Voordat u begint met het gebruik van API Mesh voor Adobe Developer App Builder, moet u de insteekmodule `aio` CLI en API Mesh installeren.
-Voor installatieinstructies en eerste vereisten, bezoek het API Netwerk [&#x200B; Begonnen het worden &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}  pagina.
+Voor installatieinstructies en eerste vereisten, bezoek het API Netwerk [ Aan de slag ](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} pagina.
 
 ## Voor wie is deze video?
 
-* De ontwikkelaars nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [&#x200B; Adobe I/O Runtime &#x200B;](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} gebruiken  en het Net van API.
+* De ontwikkelaars nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [ Adobe I/O Runtime ](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} en het Netwerk van API gebruiken.
 
 ## Video-inhoud
 
@@ -34,7 +35,7 @@ Voor installatieinstructies en eerste vereisten, bezoek het API Netwerk [&#x200B
 * Adobe I/O Runtime CLI installeren (opdrachtregelinterface)
 * De API Mesh-insteekmodule installeren
 
->[!VIDEO](https://video.tv.adobe.com/v/3430773?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## De plug-in `aio` CLI en API Mesh installeren
 

@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -23,13 +24,13 @@ ht-degree: 0%
 
 Dit is deel 2 van de reeks voor GraphQL en Adobe Commerce. In deze zelfstudie en video leert u meer over GraphQL-query&#39;s en hoe u deze kunt uitvoeren tegen Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450064?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Verwante video&#39;s en zelfstudies over GraphQL in deze serie
 
 * [Deel 1 GraphQL - Inleiding](../graphql-rest/intro-graphql.md)
 * [Deel 3 GraphQL - Mutaties](../graphql-rest/graphql-mutations.md)
-* [&#x200B; Deel 4 GraphQL - Schema &#x200B;](../graphql-rest/graphql-schema.md)
+* [ Deel 4 GraphQL - Schema ](../graphql-rest/graphql-schema.md)
 
 ## Voorbeeld van GraphQL Syntax
 
@@ -156,7 +157,7 @@ Elke GraphQL-gegevensgrafiek heeft één &#39;root&#39;-type (meestal `Query` ge
 
 Dit concept van geneste velden is ook de reden waarom u argumenten voor `products` (`pageSize` en `currentPage`) kunt doorgeven, net als voor het veld op hoofdniveau `categories` .
 
-![&#x200B; de Boom van het Gebied van GraphQL &#x200B;](../assets/graphql-field-tree.png)
+![ de Boom van het Gebied van GraphQL ](../assets/graphql-field-tree.png)
 
 ## Variabelen
 
@@ -206,6 +207,6 @@ In om het even welke GraphQL-bewuste cliënt die u voor het testen (zoals Altair
 
 Zoals u ziet dat de feitelijke HTTP-aanvraag voor een GraphQL-query de hoofdtekst van de query &#39;&#39;query: `{string}`&#39;&#39; bevat, bevat elke aanvraag met een Variables-woordenboek gewoon een extra &#39;variables: `{json}`&#39; in dezelfde hoofdtekst, waarbij `{json}` de JSON-tekenreeks met de variabelenwaarden is.
 
-De nieuwe vraag gebruikt ook a _fragment_ (`productDetails`) om de zelfde gebiedsselectie op veelvoudige plaatsen opnieuw te gebruiken. [&#x200B; las meer over fragmenten &#x200B;](https://graphql.org/learn/queries/#fragments){target="_blank"}  in de documentatie van GraphQL.
+De nieuwe vraag gebruikt ook a _fragment_ (`productDetails`) om de zelfde gebiedsselectie op veelvoudige plaatsen opnieuw te gebruiken. [ las meer over fragmenten ](https://graphql.org/learn/queries/#fragments){target="_blank"} in de documentatie van GraphQL.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

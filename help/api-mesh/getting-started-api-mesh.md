@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 16%
@@ -27,11 +28,11 @@ Als u nog geen ervaring hebt met API Mesh for Adobe Developer App Builder, raadt
 
 API-net combineert meerdere gegevensbronnen voor één antwoord dat uw toepassing kan gebruiken.
 
-[&#x200B; Mening de volledige documentatie van het Netwerk van API &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[ Mening de volledige documentatie van het Netwerk van API ](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Voor wie is deze video?
 
-* Om het even welke ontwikkelaar nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [&#x200B; Adobe I/O Runtime &#x200B;](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} en het Netwerk van API gebruiken.
+* Om het even welke ontwikkelaar nieuw aan het Net van API of [!DNL Adobe Commerce] met beperkte ervaring die [ Adobe I/O Runtime ](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} en het Netwerk van API gebruiken.
 
 ## Video-inhoud
 
@@ -50,7 +51,7 @@ Uw Commerce-toepassing heeft een REST API en een GraphQL-eindpunt. U kunt bijvoo
 
 Als ontwikkelaar die Adobe App Builder en API Mesh gebruikt, is het niet nodig om te begrijpen wat een reverse-proxy is. Als u echter geïnteresseerd bent in de algemene functionaliteit die betrekking heeft op Adobe App Builder, gebruikt u de volgende bronnen:
 
-* [&#x200B; wat een omgekeerde volmacht is &#x200B;](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [ wat een omgekeerde volmacht is ](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
 
 
 {{$include /help/_includes/api-mesh-related-links.md}}

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -24,12 +25,12 @@ Deze zelfstudie heeft de volgende voorwaarden:
 
 * Adobe Developer Console-toegang is voltooid
 * Volledige toegang tot of toegang tot een proefversie van App Builder is verleend
-* [&#x200B; de toepassing van Adobe Developer App Builder is gecreeerd &#x200B;](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"} 
-* [&#x200B; het project van Adobe Developer App Builder is gecreeerd &#x200B;](https://developer.adobe.com/console){target="_blank"} 
-* [&#x200B; de werkruimten van Adobe Developer App Builder zijn gecreeerd - Stap 2.6 &#x200B;](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"} 
-* [&#x200B; de AIO CLI bevelen om het project te initialiseren en in werking te stellen zijn uitgevoerd &#x200B;](https://developer.adobe.com/runtime){target="_blank"} 
+* [ de toepassing van Adobe Developer App Builder is gecreeerd ](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
+* [ het project van Adobe Developer App Builder is gecreeerd ](https://developer.adobe.com/console){target="_blank"}
+* [ de werkruimten van Adobe Developer App Builder zijn gecreeerd - Stap 2.6 ](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [ de bevelen AIO CLI om het project te initialiseren en in werking te stellen zijn uitgevoerd ](https://developer.adobe.com/runtime){target="_blank"}
 
-Voor meer informatie bij de bouw van uw eerste toepassing van App Builder, kunt u de volgende blogpost bekijken om met deze aanvankelijke opstelling en configuratie [&#x200B; te helpen hoe de hulp van App Builder bedrijfsbehendigheid voor uw handelsplatform &#x200B;](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}  drijft.
+Voor meer informatie bij de bouw van uw eerste toepassing van App Builder, kunt u de volgende blogpost bekijken om met deze aanvankelijke opstelling en configuratie [ te helpen hoe de hulp van App Builder bedrijfsbehendigheid voor uw handelsplatform ](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"} drijft.
 
 ## Wat moet u verwachten van het lezen van deze zelfstudie
 

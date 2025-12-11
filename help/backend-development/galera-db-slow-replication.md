@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -37,8 +38,8 @@ Als oplossing, indien mogelijk, batch uw grote verrichtingen om de secundaire ge
 - Bulkexecuties vinden alleen plaats op de eerste plaats. Replicaties vinden één voor één plaats
 - Batch uw grote inzet om de replicatie te helpen gelijke tred houden met de primaire
 
->[!VIDEO](https://video.tv.adobe.com/v/3432453?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Nuttige bronnen
 
-- [&#x200B; Cluster Galera &#x200B;](https://galeracluster.com/)
+- [ Cluster Galera ](https://galeracluster.com/)

@@ -3,13 +3,14 @@ title: Adobe Commerce-migratie vereenvoudigen met AI-tools
 description: Leer hoe Adobe Commerce cloudmigratie stroomlijnt met AI-tools, modulaire acceptatie en snellere ontwikkeling voor schaalbare bedrijfsgroei.
 feature: App Builder, Storefront, Extensions, Merchandising
 topic: Artificial Intelligence, Migration, Commerce
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 694
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: a296152e8c8f94bbf4e3b882be6b8de7e4473d95
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Adobe Commerce maakt het voor bedrijven gemakkelijker om te groeien door hen te 
 * Met App Builder-uitbreidbaarheid kunt u aangepaste logica loskoppelen in serverloze functies voor eenvoudig onderhoud.
 * Verbeteringen in de winkel verbeteren de prestaties en het maken van inhoud met inbelcomponenten en randlevering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475754/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)

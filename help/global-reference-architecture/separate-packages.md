@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Bijgedragen door Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Bijgedragen door Tony Evers"
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: e0b11bbcfff830badf471206ead59fc48dd14b7c
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Bij het GRA-patroon voor afzonderlijke pakketten wordt één Git-opslagplaats ge
 
 Dit globale referentiearchitectuurpatroon is volledig gebaseerd op composers en is ontworpen om optimaal te profiteren van alle Composer-functies.
 
-![&#x200B; een diagram dat toont waar de code in een Afzonderlijk patroon van Pakketten GRA &#x200B;](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een Afzonderlijk patroon van Pakketten GRA ](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 
@@ -176,7 +177,7 @@ Bovendien bieden sommige privéopslagruimten extra functies, zoals e-mailmelding
 
 De traagheidskwestie is wat voorkomt wanneer u veelvoudige bewaarplaatsen VCS in composer.json hebt. Elke Composer-opslagplaats moet worden gelezen bij upgrades en 50 opslagplaatsen voor 50 pakketten hebben minstens 50 keer de overhead van slechts één Composer-opslagplaats.
 
-![&#x200B; een diagram dat toont waar de vertraging voorkomt wanneer een composer bewaarplaats &#x200B;](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"} mist
+![ een diagram dat toont waar de vertraging voorkomt wanneer een composer bewaarplaats ](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"} mist
 
 Neem een Composer-spiegel op in de vorm van een privécomposer-opslagplaats. De spiegel bevat een kopie van alle pakketten van andere composer-opslagplaatsen en van alle door Git gehoste pakketten. Met een persoonlijke Composer-opslagplaats krijgt u bovendien een fijnkorrelig toegangsbeheer.
 

@@ -3,13 +3,15 @@ title: Staafstammen afkappen
 description: Leer hoe u een mislukte implementatie kunt triggeren vanwege een volledige harde schijf door grote logbestanden af te kappen.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ Als u denkt dat u deze logbestanden nodig hebt, kunt u deze `rsync` gebruiken of
 - Waar enkele veelvoorkomende grote logbestanden worden gevonden
 - Snelle methode om een logbestand af te kappen
 
->[!VIDEO](https://video.tv.adobe.com/v/3454589?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Opdrachten die in de video worden gebruikt
@@ -89,4 +91,4 @@ Wijzig de map `var/log` nadat u het juiste project en de juiste omgeving hebt in
 
 ## Gerelateerde documentatie
 
-- [&#x200B; de berichten van de Gezondheid &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"} 
+- [ de berichten van de Gezondheid ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

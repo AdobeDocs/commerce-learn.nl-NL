@@ -3,14 +3,14 @@ title: Gereedschap Kwaliteitspatroon
 description: Leer hoe u de patch voor de kwaliteit kunt gebruiken bij het diagnosticeren van een probleem, het zoeken naar een oplossing en het toepassen van een patch in de bestaande lijst met beschikbare patches.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -37,9 +37,9 @@ Het gereedschap Kwaliteitspatches is een opdrachtregelprogramma voor Adobe Comme
 * Pas kwaliteitspatches toe op uw installatie.
 * Indien nodig toegepaste patches herstellen
 
-Deze patches worden ontwikkeld door Adobe Developers and Magento Open Source community om de stabiliteit en de prestaties te verbeteren. Houd er rekening mee dat het niet wordt aangeraden om grote aantallen patches toe te passen, omdat dit toekomstige upgrades kan bemoeilijken.
+Deze patches worden ontwikkeld door Adobe Developers en de Magento Open Source-gemeenschap om de stabiliteit en prestaties te verbeteren. Houd er rekening mee dat het niet wordt aangeraden om grote aantallen patches toe te passen, omdat dit toekomstige upgrades kan bemoeilijken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454075?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Waarom het gereedschap Kwaliteitspatch gebruiken
 
@@ -59,7 +59,7 @@ Hoewel het gereedschap Kwaliteitspatches voordelen biedt, moet u rekening houden
 * Aanpassingen: als u aangepaste wijzigingen in de code hebt aangebracht, kunnen patches een conflict veroorzaken. Controleer de wijzigingen zorgvuldig.
 * Back-up: Maak een back-up van de installatie voordat u patches toepast om gegevensverlies te voorkomen.
 
-Hoewel het gereedschap Kwaliteitspatches handig is voor het toepassen van een beperkt aantal patches, wordt het niet aangeraden een groot aantal patches te verwerken. Het toepassen van te veel patches kan toekomstige upgrades en onderhoud bemoeilijken. Als u veel pleisters moet aanbrengen, kunt u alternatieve benaderingen overwegen of contact opnemen met een specialist in het Magento. 
+Hoewel het gereedschap Kwaliteitspatches handig is voor het toepassen van een beperkt aantal patches, wordt het niet aangeraden een groot aantal patches te verwerken. Het toepassen van te veel patches kan toekomstige upgrades en onderhoud bemoeilijken. Als u veel pleisters moet aanbrengen, kunt u alternatieve benaderingen overwegen of een Magento-specialist raadplegen. 
 
 ## Samenvatting
 
@@ -71,8 +71,8 @@ Voordat u patches toepast, is het van cruciaal belang dat u ze in een testomgevi
 
 ## Verwante artikelen en video&#39;s
 
-* {het zoeken van de Hulpmiddelen van het Reparatie van 0} Kwaliteit [&#128279;](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=nl-NL)
-* [&#x200B; de nota&#39;s van de Versie &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-operations/tools/quality-patches-tool/release-notes)
-* [&#x200B; Github voor flarden &#x200B;](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [&#x200B; Gebruik van het hulpmiddel van het kwaliteitspatch &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [&#x200B; Technische video op QPT &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* {het zoeken van de Hulpmiddelen van het Reparatie van 0} Kwaliteit [](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [ de nota&#39;s van de Versie ](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [ Github voor flarden ](https://github.com/magento/quality-patches/blob/master/patches/os/)
+* [ Gebruik van het hulpmiddel van het kwaliteitspatch ](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [ Technische video op QPT ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

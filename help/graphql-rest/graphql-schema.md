@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Dit is deel 4 van de reeks voor GraphQL en Adobe Commerce. De gebruikte query&#39;s en mutaties zijn afhankelijk van een specifieke gegevensgrafiek die op de server wordt geïmplementeerd. De GraphQL-runtime gebruikt deze grafiek om de query op te lossen. De GraphQL-specificatie definieert een agnostische taal voor het uitdrukken van de typen en relaties van de gegevensgrafiek.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446616?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Verwante video&#39;s en zelfstudies over GraphQL in deze serie
 
@@ -105,7 +106,7 @@ type Mutation {
 }
 ```
 
-U kunt in [&#x200B; de documentatie van GraphQL &#x200B;](https://graphql.org/learn/schema/){target="_blank"}  delven om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren hier niet vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de structuur heen, totdat u eenvoudige scalaire typen krijgt, zoals `String` .
+U kunt in [ de documentatie van GraphQL ](https://graphql.org/learn/schema/){target="_blank"} delven om over de details van het typesysteem, met inbegrip van syntaxis voor sommige concepten te leren niet hier wordt vertegenwoordigd. Het bovenstaande voorbeeld spreekt echter voor zich. (Let ook op hoe vergelijkbaar de syntaxis is met query-syntaxis.) Het definiëren van een GraphQL-schema is eenvoudig een kwestie van het uitdrukken van de beschikbare argumenten en velden van een bepaald type, samen met de typen van die velden. Elk complex veldtype moet zelf een definitie hebben, enzovoort, door de structuur heen, totdat u eenvoudige scalaire typen krijgt, zoals `String` .
 
 De declaratie `input` is in alle opzichten hetzelfde als een declaratie `type` , maar definieert een type dat kan worden gebruikt als invoer voor een argument. Noteer ook de declaratie `interface` . Dit dient een functie min of meer dezelfde als interfaces in PHP. Andere types erven van deze interface.
 

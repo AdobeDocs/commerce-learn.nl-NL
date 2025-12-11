@@ -9,16 +9,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: aed143b96f13a413f85fc461e11f358b4c657015
+exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Laatste kilometer integratie met behulp van de Adobe Starter Kit
+# Integratie van de laatste kilometer met de Adobe Starter Kit
 
 Leer over punten om te overwegen wanneer het beginnen van de laatste-mijl integratie met Adobe Commerce met een nadruk op het gebruiken van rekbaarheidshaken om connectiviteit met derdesystemen te verbeteren. In deze video wordt een gestructureerde aanpak beschreven waarbij verschillende functies, zoals validatie, transformatie, voorbewerking, verzending en naverwerking, zorgen voor naadloze gegevensstroom en systeemsynchronisatie. Elke haak dient een afzonderlijk doel, waaronder:
 
@@ -43,6 +45,6 @@ Leer over het belang van naverwerkingsactiviteiten door de naverwerkingshaak, di
 * Leer de rol van de transformatiehaak in het omzetten van gegevensvoorwerpen tussen de oorsprong en bestemmingssystemen.
 * Leer over het belang van de send haak in het vergemakkelijken van de daadwerkelijke gegevens die naar het bestemmingssysteem verzenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451928?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

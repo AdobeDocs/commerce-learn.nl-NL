@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Bijgedragen door Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Bijgedragen door Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -24,7 +25,7 @@ In deze handleiding wordt uitgelegd hoe u Adobe Commerce instelt met het GRA-pat
 
 Het gesplitste Git GRA-patroon bestaat uit twee Git-opslagplaatsen voor ontwikkeling en één Git-opslagplaats per Adobe Commerce-instantie. In de voorbeelden wordt aangenomen dat elke instantie een uniek merk vertegenwoordigt.
 
-![&#x200B; een diagram dat toont waar de code in een gesplitst patroon GRA &#x200B;](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een gesplitst patroon GRA ](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 
@@ -209,9 +210,9 @@ Voer `composer install` en `bin/magento install` uit voordat u doorgaat.
 
 Er zijn 3 testmodules voor op GitHub:
 
-1. [&#x200B; module-voorbeeld-lokaal &#x200B;](https://github.com/AntonEvers/module-example-local)
-2. [&#x200B; module-voorbeeld-gra &#x200B;](https://github.com/AntonEvers/module-example-gra)
-3. [&#x200B; module-voorbeeld-3rdparty &#x200B;](https://github.com/AntonEvers/module-example-3rdparty)
+1. [ module-voorbeeld-lokaal ](https://github.com/AntonEvers/module-example-local)
+2. [ module-voorbeeld-gra ](https://github.com/AntonEvers/module-example-gra)
+3. [ module-voorbeeld-3rdparty ](https://github.com/AntonEvers/module-example-3rdparty)
 
 ### Een lokale module installeren
 

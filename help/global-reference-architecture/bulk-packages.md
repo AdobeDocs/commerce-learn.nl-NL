@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Bijgedragen door Tony Evers, Sr. Technical Architect, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Bijgedragen door Tony Evers"
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: a182b97b7d9a8bf114944d5d920afb2328adbc18
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -24,7 +25,7 @@ In deze handleiding wordt uitgelegd hoe u Adobe Commerce instelt met het GRA-pat
 
 Het GRA-patroon van bulkpakketten bestaat uit één Git-opslagplaats die alle algemene aanpassingen host. Deze enkele Git-opslagplaats wordt via Composer weergegeven als één composer-pakket, dat meerdere Adobe Commerce-modules bevat.
 
-![&#x200B; een diagram dat toont waar de code in een bulkpakkettenGRA patroon &#x200B;](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een bulkpakkettenGRA patroon ](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 

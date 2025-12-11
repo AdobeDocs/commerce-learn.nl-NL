@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Voorwaardelijke Adobe Commerce-gebeurtenissen
 
-Meer informatie over voorwaardelijke gebeurtenissen in Adobe Commerce die kunnen worden gebruikt in Adobe Developer App Builder. De extra documentatie die bij [&#x200B; wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce &#x200B;](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"} .
+Meer informatie over voorwaardelijke gebeurtenissen in Adobe Commerce die kunnen worden gebruikt in Adobe Developer App Builder. De extra documentatie die bij [ wordt gevonden installeert Adobe I/O Events voor Adobe Commerce ](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -35,7 +36,7 @@ Meer informatie over voorwaardelijke gebeurtenissen in Adobe Commerce die kunnen
 * Regels definiëren voor gebruik in voorwaardelijke gebeurtenissen
 * Leer hoe u gebeurtenissen kunt registreren in de Commerce-instanties `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430659?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 
 ## Nuttige opdrachten {#useful-commands}
 

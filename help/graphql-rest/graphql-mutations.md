@@ -1,18 +1,19 @@
 ---
 title: Een mutatie uitvoeren met GraphQL
-description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
-landing-page-description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
-short-description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend de vraag van de POST.
+description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend POST vraag.
+landing-page-description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend POST vraag.
+short-description: Krijg een inleiding over het uitvoeren van een mutatie gebruikend GraphQL op Adobe Commerce en  [!DNL Magento Open Source]. Voer uw eerste mutatie uit gebruikend POST vraag.
 kt: 13938
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,19 +25,19 @@ ht-degree: 0%
 Dit is deel 3 van de reeks voor GraphQL en Adobe Commerce. Mutaties zijn de mogelijkheid om waarden op te slaan, bij te werken en te retourneren met GraphQL.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441930?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## Verwante video&#39;s en zelfstudies over GraphQL in deze serie
 
 * [Deel 1 GraphQL - Inleiding](../graphql-rest/intro-graphql.md)
 * [Deel 2 GraphQL - Vragen](../graphql-rest/graphql-queries.md)
-* [&#x200B; Deel 4 GraphQL - Schema &#x200B;](../graphql-rest/graphql-schema.md)
+* [ Deel 4 GraphQL - Schema ](../graphql-rest/graphql-schema.md)
 
 ## Voorbeeldmutatie
 
 Elke volledige API-specificatie moet de mogelijkheid bieden om niet alleen query&#39;s uit te voeren, maar ook om gegevens te maken en bij te werken.
 
-REST maakt onderscheid tussen verzoeken die gegevens veranderen en die die niet met het verzoektype of &quot;werkwoord&quot; (GET vs. POST of PUT).
+REST maakt onderscheid tussen verzoeken die gegevens veranderen en verzoeken die niet met het verzoektype of &quot;werkwoord&quot; (GET vs. POST of PUT).
 Bij het gebruik van GraphQL wordt onderscheid gemaakt tussen query&#39;s voor gegevenswijziging en het trefwoord `mutation` dat overeenkomt met een andere query
 hoofdtype in het schema dat op de server is gedefinieerd.
 

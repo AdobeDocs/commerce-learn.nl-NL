@@ -3,13 +3,14 @@ title: De Salesforce Commerce Cloud-cartridge installeren
 description: Maak kennis met de cartridge die in Salesforce met Adobe Commerce Optimizer wordt gebruikt.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -36,4 +37,4 @@ Leer hoe u de Adobe Commerce Optimizer-cartridge voor een Salesforce Commerce Cl
 * Importeer aangepaste object- en taakdefinities ter ondersteuning van bijhouden en synchroniseren.
 * Test een aangepast API-eindpunt om de geslaagde installatie te bevestigen en voor catalogussynchronisatie voor te bereiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476076?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

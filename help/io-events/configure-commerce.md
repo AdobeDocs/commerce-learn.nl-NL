@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Commerce configureren
 
-Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. De extra documentatie die bij [&#x200B; wordt gevonden installeert de Gebeurtenissen van Adobe I/O voor Adobe Commerce &#x200B;](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"} .
+Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. De extra documentatie die bij [ wordt gevonden installeert Adobe I/O Events voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -34,7 +35,7 @@ Leer hoe u Adobe Commerce configureert om gebeurtenissen beschikbaar te maken. D
 * De unieke id opslaan in de Commerce-beheerder
 * Een gebeurtenisprovider maken
 
->[!VIDEO](https://video.tv.adobe.com/v/3430612?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 
 ## Nuttige opdrachten {#useful-commands}
 

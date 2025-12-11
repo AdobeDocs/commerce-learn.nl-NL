@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 608196b8f68fcd299059907981ec673f2cc60e42
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -34,9 +35,9 @@ Leer wat MySQL vraaggeheime voorgeheugen en wat basisbegrip voor hoe het werkt. 
 - Zie hoe de SQL wordt opgeslagen en gebruikt bij het zoeken naar een overeenkomende querycache
 - Enkele tips voor configuratie-instellingen
 
->[!VIDEO](https://video.tv.adobe.com/v/3432374?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Nuttige bronnen
 
-- [&#x200B; Algemene richtlijnen MySQL &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=nl-NL){target="_blank"}
-- [&#x200B; replicatie Galera en langzame vragen &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=nl-NL){target="_blank"}
+- [ Algemene richtlijnen MySQL ](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [ replicatie Galera en langzame vragen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

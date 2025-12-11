@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
+exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 # Vorm, stel, en pas een ingeschrevenwebhaak op
 
-Meer informatie over het instellen en aanpassen van een ingesettenwebhaak voor de integratie van Commerce met een extern back-office systeem. &#x200B; Deze video verklaart hoe webhaak beperkingen in gebeurtenismededeling tussen systemen kan richten door een openbaar beschikbaar eindpunt te verstrekken om berichten van het derdesysteem aan de Adobe IO Eventing API aan te passen. Het proces bestaat uit het configureren van de webhaak in het `actions.config.yaml` -bestand, het inschakelen ervan in het `app.config.yaml` -bestand en het implementeren ervan om de juiste functionaliteit te garanderen.
+Meer informatie over het instellen en aanpassen van een ingesettenwebhaak voor de integratie van Commerce met een extern back-office systeem. &#x200B; In deze video wordt uitgelegd hoe de webhaak beperkingen in gebeurteniscommunicatie tussen systemen kan verhelpen door een openbaar beschikbaar eindpunt op te geven om berichten van het systeem van derden aan de Adobe IO Event-API aan te passen. Het proces bestaat uit het configureren van de webhaak in het `actions.config.yaml` -bestand, het inschakelen ervan in het `app.config.yaml` -bestand en het implementeren ervan om de juiste functionaliteit te garanderen.
 
 De video behandelt de stappen om de code van de website te wijzigen om derdegebeurtenissen in formaten te vertalen compatibel met de geabonneerde gebeurtenistypen van de integratie. Er wordt gesproken over het toevoegen van een `event-mapping.json` -bestand om deze vertaling te vergemakkelijken en het belang van het opnieuw implementeren van de runtimeactie na het aanbrengen van wijzigingen wordt benadrukt. &#x200B; De video benadrukt ook het belang van het valideren en transformeren van inkomende gebeurtenisladingen om zich aan het verwachte schema te richten, die succesvolle verwerking en integratie met Commerce API verzekeren voor het creëren van klanten.
 
@@ -43,5 +45,5 @@ De video behandelt de stappen om de code van de website te wijzigen om derdegebe
 
 ## Codevoorbeelden
 
-* [&#x200B; Web-haak van de Douane Ingesie &#x200B;](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-ingestion-webhook)
-* [&#x200B; voeg binningsplanner &#x200B;](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/add-ingestion-scheduler) toe
+* [ Web-haak van de Douane Ingesie ](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-ingestion-webhook)
+* [ voeg binningsplanner ](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/add-ingestion-scheduler) toe

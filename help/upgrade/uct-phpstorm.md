@@ -10,10 +10,11 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -27,7 +28,7 @@ Het hulpmiddel van de Verenigbaarheid van de Verbetering (UCT) is een vrij hulpm
 In deze video:
 
 - Wat is het Hulpmiddel van de Verenigbaarheid van de Verbetering?
-- Hoe wordt het gebruikt met de Magento PHP Storm plug-in
+- Hoe het te gebruiken met de Magento PHP Storm plug-in
 - Hoe te om tot de resultaten van HTML toegang te hebben helpen modules door strengheid en aantal onverenigbaarheden visualiseren
 
 ## Voor wie is deze video?
@@ -40,6 +41,6 @@ In deze video:
 
 ## Aanvullende bronnen
 
-- [&#x200B; Hulpmiddel van de Verenigbaarheid van de Verbetering &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=nl-NL)
-- [&#x200B; Magento PHP Stamstop &#x200B;](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [&#x200B; Vrijgegeven versies &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=nl-NL)
+- [ Hulpmiddel van de Verenigbaarheid van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [ Magento PHP Storm plugin ](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [ Vrijgegeven versies ](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

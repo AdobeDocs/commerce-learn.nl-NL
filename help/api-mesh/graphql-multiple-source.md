@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Een net maken met meerdere bronnen
 
-Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh for Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Voor meer details en codesteekproeven, leidt het bezoek [&#x200B; tot een netwerk &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"} .
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen kunnen maken in API Mesh for Adobe Developer App Builder. In deze video ziet u hoe u een net met meerdere bronnen maakt en fouten herkent. Voor meer details en codesteekproeven, leidt het bezoek [ tot een netwerk ](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -30,11 +31,11 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met meerdere bronnen 
 
 ## Video-inhoud
 
-* Hoe te om [&#x200B; transformaties &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"}  te gebruiken om het standaardbronschema te wijzigen
+* Hoe te om [ transformaties ](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} te gebruiken om het standaardbronschema te wijzigen
 * Hoe te om fouten, zoals naamconflicten, schemabeschikbaarheid, en andere kwesties van de schemasyntaxis problemen op te lossen
 * Het net bijwerken met een gewijzigde configuratie
 
->[!VIDEO](https://video.tv.adobe.com/v/3430767?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
 ## Het JSON-configuratiebestand maken
 

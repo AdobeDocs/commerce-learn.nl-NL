@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Dit is een eenvoudig voorbeeld dat u kunt uitbreiden om uitgebreide tests voor u
 
 ## Voor wie is deze video?
 
-* Ontwikkelaars die nog niet bekend zijn met Adobe Commerce, maken gebruik van Adobe App Builder die meer informatie wil over de map `test` .
+* Voor nieuwe Adobe Commerce-ontwikkelaars met beperkte ervaring kunt u Adobe App Builder gebruiken die meer informatie wil over de map `test` .
 
 ## Video-inhoud
 

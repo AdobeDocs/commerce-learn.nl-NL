@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Een net met één bron maken
 
-Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen maken in API Mesh for Adobe Developer App Builder. Voor dit basisvoorbeeld om te werken zoals verwacht, hebt u een openbaar toegankelijke API of het eindpunt van GraphQL nodig. In de video wordt ook uitgelegd hoe u een eenvoudig `mesh.json` -bestand kunt maken voor gebruik met uw Commerce-instantie. Voor meer details en codesteekproeven, leidt het bezoek [&#x200B; tot een netwerk &#x200B;](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"} .
+Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen maken in API Mesh for Adobe Developer App Builder. Voor dit basisvoorbeeld om te werken zoals verwacht, hebt u een openbaar toegankelijke API of het eindpunt van GraphQL nodig. In de video wordt ook uitgelegd hoe u een eenvoudig `mesh.json` -bestand kunt maken voor gebruik met uw Commerce-instantie. Voor meer details en codesteekproeven, leidt het bezoek [ tot een netwerk ](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Voor wie is deze video?
 
@@ -35,7 +36,7 @@ Deze video helpt ontwikkelaars te begrijpen hoe ze een net met één bron kunnen
 * Een net maken van een JSON-configuratiebestand
 * Het nieuwe GraphQL-eindpunt openen
 
->[!VIDEO](https://video.tv.adobe.com/v/3430822?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
 ## Het JSON-configuratiebestand maken
 
