@@ -33,5 +33,5 @@ In deze video leert u meer over het observatieprogramma voor Adobe Commerce. Dit
 
 ## Aanvullende bronnen
 
-- [ Waarneming voor Adobe Commerce - artikel van de Steun ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [ Waarneming van het Gebruik voor Adobe Commerce ](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [&#x200B; Waarneming voor Adobe Commerce - artikel van de Steun &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+- [&#x200B; Waarneming van het Gebruik voor Adobe Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

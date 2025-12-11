@@ -31,7 +31,7 @@ Dit is deel 3 van de reeks voor GraphQL en Adobe Commerce. Mutaties zijn de moge
 
 * [Deel 1 GraphQL - Inleiding](../graphql-rest/intro-graphql.md)
 * [Deel 2 GraphQL - Vragen](../graphql-rest/graphql-queries.md)
-* [ Deel 4 GraphQL - Schema ](../graphql-rest/graphql-schema.md)
+* [&#x200B; Deel 4 GraphQL - Schema &#x200B;](../graphql-rest/graphql-schema.md)
 
 ## Voorbeeldmutatie
 

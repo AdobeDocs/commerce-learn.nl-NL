@@ -38,5 +38,5 @@ In deze video:
 
 ## Nuttige bronnen
 
-- [ documentatie van PWA Studio ](https://developer.adobe.com/commerce/pwa-studio/)
-- [ PWA Studio GitHub bewaarplaats ](https://github.com/magento/pwa-studio)
+- [&#x200B; documentatie van PWA Studio &#x200B;](https://developer.adobe.com/commerce/pwa-studio/)
+- [&#x200B; PWA Studio GitHub bewaarplaats &#x200B;](https://github.com/magento/pwa-studio)

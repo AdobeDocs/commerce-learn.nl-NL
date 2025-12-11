@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Voorwaardelijke Adobe Commerce-gebeurtenissen
 
-Meer informatie over voorwaardelijke gebeurtenissen in Adobe Commerce die kunnen worden gebruikt in Adobe Developer App Builder. De extra documentatie die bij [ wordt gevonden installeert Adobe I/O Events voor Adobe Commerce ](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+Meer informatie over voorwaardelijke gebeurtenissen in Adobe Commerce die kunnen worden gebruikt in Adobe Developer App Builder. De extra documentatie die bij [&#x200B; wordt gevonden installeert Adobe I/O Events voor Adobe Commerce &#x200B;](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## Voor wie is deze video?
 

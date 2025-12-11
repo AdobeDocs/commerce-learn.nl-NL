@@ -37,10 +37,10 @@ Deze handleiding biedt een uitgebreid overzicht van het zoeken, valideren en beh
 
 ## Gerelateerde Experience League-documentatie
 
-- [ de Configuratie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-- [ met voeten treden Montages Config ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-- [ vastgestelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-- [ Config verwijzing config.php ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-- [ Config gids technische details ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
-- [ Vergrendelde configuratiewaarden ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-- [ Bewaarde waarden op env.php ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+- [&#x200B; de Configuratie van de Uitvoer &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+- [&#x200B; met voeten treden Montages Config &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+- [&#x200B; vastgestelde configuratiewaarden &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+- [&#x200B; Config verwijzing config.php &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+- [&#x200B; Config gids technische details &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+- [&#x200B; Vergrendelde configuratiewaarden &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+- [&#x200B; Bewaarde waarden op env.php &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

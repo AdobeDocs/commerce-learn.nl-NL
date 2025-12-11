@@ -41,6 +41,6 @@ In deze video:
 
 ## Aanvullende bronnen
 
-- [ Hulpmiddel van de Verenigbaarheid van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [ Magento PHP Storm plugin ](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [ Vrijgegeven versies ](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [&#x200B; Hulpmiddel van de Verenigbaarheid van de Verbetering &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [&#x200B; Magento PHP Storm plugin &#x200B;](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [&#x200B; Vrijgegeven versies &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

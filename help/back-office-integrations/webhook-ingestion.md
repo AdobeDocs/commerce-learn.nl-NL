@@ -45,5 +45,5 @@ De video behandelt de stappen om de code van de website te wijzigen om derdegebe
 
 ## Codevoorbeelden
 
-* [ Web-haak van de Douane Ingesie ](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-ingestion-webhook)
-* [ voeg binningsplanner ](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/add-ingestion-scheduler) toe
+* [&#x200B; Web-haak van de Douane Ingesie &#x200B;](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-ingestion-webhook)
+* [&#x200B; voeg binningsplanner &#x200B;](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/add-ingestion-scheduler) toe

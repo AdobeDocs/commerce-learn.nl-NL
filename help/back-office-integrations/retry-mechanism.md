@@ -45,5 +45,5 @@ Leer hoe het mechanisme voor opnieuw proberen functioneert binnen de context van
 
 ## Gerelateerde documentatie
 
-* [ Webhaak kan een gebeurtenis niet behandelen ](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [ WebHaak neer en duidelijk als instabiel ](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [&#x200B; Webhaak kan een gebeurtenis niet behandelen &#x200B;](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
+* [&#x200B; WebHaak neer en duidelijk als instabiel &#x200B;](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)

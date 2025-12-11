@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Ontwikkeling Adobe Commerce-module
 
-Leer hoe u gebeurtenissen registreert, ondersteunde gebeurtenissen zoekt en hoe u een nieuw XML-bestand `io_events.xml` gebruikt in aangepaste moduleontwikkeling. De video laat ontwikkelaars ook zien hoe ze geregistreerde gebeurtenissen kunnen vinden die kunnen worden gebruikt en hoe ze het abonnement op gebeurtenissen die al gedefinieerd kunnen zijn, kunnen opzeggen. De extra documentatie die bij [ wordt gevonden installeert Adobe I/O Events voor Adobe Commerce ](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Leer hoe u gebeurtenissen registreert, ondersteunde gebeurtenissen zoekt en hoe u een nieuw XML-bestand `io_events.xml` gebruikt in aangepaste moduleontwikkeling. De video laat ontwikkelaars ook zien hoe ze geregistreerde gebeurtenissen kunnen vinden die kunnen worden gebruikt en hoe ze het abonnement op gebeurtenissen die al gedefinieerd kunnen zijn, kunnen opzeggen. De extra documentatie die bij [&#x200B; wordt gevonden installeert Adobe I/O Events voor Adobe Commerce &#x200B;](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Voor wie is deze video?
 

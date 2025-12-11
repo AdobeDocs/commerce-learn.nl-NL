@@ -35,11 +35,11 @@ Leer meer over de implementatiestrategieën van Adobe Commerce Cloud, het testen
 
 ## Experience League-documentatie vermeld in de video
 
-- [ proces van de Plaatsing ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [ SWAT plaats-brede het Hulpmiddel van de Analyse ](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [ ECE hulpmiddelen slimme tovenaar ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [ Scannen van de Veiligheid ](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [ de Snelle Firewall van de Toepassing van het Web van WAF ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [ overzicht van de Dienst van New Relic ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [&#x200B; proces van de Plaatsing &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+- [&#x200B; SWAT plaats-brede het Hulpmiddel van de Analyse &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [&#x200B; ECE hulpmiddelen slimme tovenaar &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+- [&#x200B; Scannen van de Veiligheid &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+- [&#x200B; de Snelle Firewall van de Toepassing van het Web van WAF &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+- [&#x200B; overzicht van de Dienst van New Relic &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

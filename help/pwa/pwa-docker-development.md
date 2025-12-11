@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## Nuttige bronnen
 
-[ Gids van PWA Studio ](https://developer.adobe.com/commerce/pwa-studio/)
+[&#x200B; Gids van PWA Studio &#x200B;](https://developer.adobe.com/commerce/pwa-studio/)

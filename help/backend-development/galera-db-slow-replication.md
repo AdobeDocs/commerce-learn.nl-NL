@@ -42,4 +42,4 @@ Als oplossing, indien mogelijk, batch uw grote verrichtingen om de secundaire ge
 
 ## Nuttige bronnen
 
-- [ Cluster Galera ](https://galeracluster.com/)
+- [&#x200B; Cluster Galera &#x200B;](https://galeracluster.com/)
