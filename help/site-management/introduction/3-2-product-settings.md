@@ -37,14 +37,14 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[ creeer een product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
+[&#x200B; creeer een product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
 
-[ montages van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
+[&#x200B; montages van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
 
-[ overzicht van de attributen van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[&#x200B; overzicht van de attributen van het Product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

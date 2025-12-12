@@ -35,12 +35,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35956?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[ Eenvoudig product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-simple.html)
+[&#x200B; Eenvoudig product -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-simple.html)
 
-[ Reeksen van Attributen -  [!DNL Commerce]  Gids van het Beheer van de Catalogus ](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[&#x200B; Reeksen van Attributen -  [!DNL Commerce]  Gids van het Beheer van de Catalogus &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

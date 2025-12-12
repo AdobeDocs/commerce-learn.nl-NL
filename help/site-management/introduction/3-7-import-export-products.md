@@ -36,12 +36,12 @@ In deze video:
 
 >[!NOTE]
 >
->De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [ versienota&#39;s ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>De inhoud in de video weerspiegelt de release 2.3.1. Voor informatie over updates in recentere versies, zie de [&#x200B; versienota&#39;s &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-[ Invoer -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
+[&#x200B; Invoer -  [!DNL Commerce]  Gids van Systemen Admin &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
 
-[ Uitvoer -  [!DNL Commerce]  Gids van Systemen Admin ](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)
+[&#x200B; Uitvoer -  [!DNL Commerce]  Gids van Systemen Admin &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)
