@@ -33,7 +33,7 @@ Bekijk een live demo van waarneembaarheid in Adobe Commerce. In deze demo wordt 
 * Verklaart de correlatie tussen webhaken en evenementen voor traceerbaarheid
 * Geeft integratie met Grafana en New Relic voor logboeken en sporen weer
 
->[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477873?captions=dut&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
