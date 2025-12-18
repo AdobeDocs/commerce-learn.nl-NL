@@ -39,4 +39,4 @@ Bekijk een live demo van waarneembaarheid in Adobe Commerce. In deze demo wordt 
 
 ## Gerelateerde documentatie
 
-* [ Overzicht van de Waarnemelijkheid ](https://developer.adobe.com/commerce/extensibility/observability/){target="_blank"}
+* [&#x200B; Overzicht van de Waarnemelijkheid &#x200B;](https://developer.adobe.com/commerce/extensibility/observability/){target="_blank"}
