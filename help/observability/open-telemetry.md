@@ -33,7 +33,7 @@ Leer hoe Open Telemetrie de waarneming in logboeken, sporen en metriek standaard
 * Correlatievlogs, sporen en metriek voor snellere analyse van de worteloorzaak
 * Bestaande controlemiddelen behouden en gegevensstromen verenigen
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478329?captions=dut&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

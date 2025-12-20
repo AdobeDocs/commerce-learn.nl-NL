@@ -33,7 +33,7 @@ Leer hoe u in Adobe Commerce en aangepaste toepassingen end-to-end observability
 * Commerce Observability Module gebruiken voor geautomatiseerde signalen
 * Bewaking uitbreiden met IO Live Telemetriebibliotheek voor apps
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478340?captions=dut&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

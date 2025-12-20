@@ -33,7 +33,7 @@ Leer waarom gecentraliseerde observatie essentieel is voor moderne Adobe Commerc
 * Gecentraliseerde waarneming is essentieel: hiermee worden de logbestanden en de meetgegevens voor alle componenten op elkaar afgestemd.
 * Betere afhandelingsprestaties: ontdek snel knelpunten voor een probleemloos winkelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478294?captions=dut&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
