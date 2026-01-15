@@ -39,4 +39,4 @@ Leer meer over de architectuur en de belangrijkste functies van Adobe Commerce a
 * Uitgebreide API-dekking: het platform ondersteunt uitgebreide API-dekking met GraphQL en REST API&#39;s, waardoor naadloze integratie met systemen van derden mogelijk is.
 * Headless Architecture: Dankzij volledig ontkoppelde architectuur kunnen ontwikkelaars verschillende front-end frameworks gebruiken, die flexibiliteit en prestaties bieden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443273?captions=dut&learn=on)
