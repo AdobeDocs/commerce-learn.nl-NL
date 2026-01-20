@@ -38,7 +38,7 @@ Ontdek de krachtige Adobe Commerce-tools voor catalogusbeheer die zijn ontworpen
 - Geavanceerde integratie en aanpassing.
 - Verbeterde functionaliteit voor winkelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434070?captions=dut&learn=on)
 
 ## Live zoeken
 
@@ -50,7 +50,7 @@ Ontdek de geavanceerde zoekmogelijkheden van Adobe Commerce Live Search, aangedr
 - Aanpasbare zoekervaring: dankzij functies zoals geavanceerde zoekregels, synoniemen en facetten kunnen klanten op maat en optimaal zoeken.
 - B2B-integratie: Live zoeken ondersteunt B2B-modellen met gedeelde catalogi en specifieke prijzen, waardoor de veelzijdigheid van deze modellen voor verschillende bedrijfsbehoeften wordt vergroot.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434048?captions=dut&learn=on)
 
 ## Aanbiedingen  
 
@@ -62,5 +62,5 @@ Adobe Commerce biedt winkelmanagers de mogelijkheid om zonder problemen productb
 - Geavanceerde promotiestrategieën.
 - Naadloze integratie met systemen van derden, die flexibiliteit en automatisering bevorderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434059?captions=dut&learn=on)
 >
