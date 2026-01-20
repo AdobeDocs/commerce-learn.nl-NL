@@ -1,5 +1,5 @@
 ---
-title: Het ultieme op ervaring gebaseerd platform voor uitzonderlijke bedrijfsresultaten
+title: Het Ultimate Experience Led Platform voor uitzonderlijke bedrijfsresultaten
 description: Ontdek Adobe Commerce-gericht geavanceerd zoek- en catalogusbeheer, aangedreven door AI, om e-commerceervaringen voor zowel B2B- als B2C-klanten te optimaliseren.
 feature: B2B, Catalog Management, Promotions/Events, Search
 topic: Administration, Architecture, Commerce
@@ -9,17 +9,17 @@ doc-type: Technical Video
 duration: 1227
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
-source-git-commit: 0f8faa05e44b49ade6d09291106ea331afccff18
+exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
+source-git-commit: f7019a524a6978908fdd50d93eb0fbe0b5f032a4
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
 
-
 # Levendige gegevens en promoties  
 
-Meer informatie over de geavanceerde zoekmogelijkheden van Adobe Commerce, die worden aangestuurd door Adobe Sensei, en de robuuste functies voor catalogusbeheer. Lees enkele hooglichten voor door AI gestuurde zoekgereedschappen voor optimalisatie, facettering en merchandising voor een betere gebruikerservaring. &#x200B; Bovendien, leert u over productbundeling, promotiebeheer, en naadloze integratie met derdesystemen, die een uitvoerige oplossing voor zowel B2B als B2C e-commercebehoeften aanbieden.
+Leer meer over de geavanceerde zoekmogelijkheden van Adobe Commerce, aangedreven door Adobe AI, en de robuuste functies voor catalogusbeheer. Lees enkele hooglichten voor door AI gestuurde zoekgereedschappen voor optimalisatie, facettering en merchandising voor een betere gebruikerservaring. &#x200B; Bovendien, leert u over productbundeling, promotiebeheer, en naadloze integratie met derdesystemen, die een uitvoerige oplossing voor zowel B2B als B2C e-commercebehoeften aanbieden.
 
 ## Voor wie is deze video?
 
@@ -38,11 +38,11 @@ Ontdek de krachtige Adobe Commerce-tools voor catalogusbeheer die zijn ontworpen
 - Geavanceerde integratie en aanpassing.
 - Verbeterde functionaliteit voor winkelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434070?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live zoeken
 
-Ontdek de geavanceerde zoekmogelijkheden van Adobe Commerce, aangedreven door Adobe Sensei AI-gestuurde Live Search. &#x200B; Deze robuuste SaaS-oplossing verbetert de e-commerceervaring door snel en efficiënt zeer relevante zoekresultaten te leveren. &#x200B; Merchandisers en marketers kunnen zoekresultaten voor sites optimaliseren met behulp van gereedschappen zoals geavanceerde zoekregels, synoniemen en facetten. Live zoeken biedt suggesties in real-time, intelligente rangschikking en aanpasbare zoekervaringen, zodat klanten weten wat ze nodig hebben. &#x200B; Het steunt ook modellen B2B met gedeelde catalogi en specifieke tarifering, die tot het een veelzijdige oplossing voor alle bedrijfsbehoeften maken.
+Ontdek de geavanceerde zoekmogelijkheden van Adobe Commerce Live Search, aangedreven door Adobe AI. &#x200B; Deze robuuste SaaS-oplossing verbetert de e-commerceervaring door snel en efficiënt zeer relevante zoekresultaten te leveren. &#x200B; Merchandisers en marketers kunnen zoekresultaten voor sites optimaliseren met behulp van gereedschappen zoals geavanceerde zoekregels, synoniemen en facetten. Live zoeken biedt suggesties in real-time, intelligente rangschikking en aanpasbare zoekervaringen, zodat klanten weten wat ze nodig hebben. &#x200B; Het steunt ook modellen B2B met gedeelde catalogi en specifieke tarifering, die tot het een veelzijdige oplossing voor alle bedrijfsbehoeften maken.
 
 ## Video-inhoud live zoeken
 
@@ -50,7 +50,7 @@ Ontdek de geavanceerde zoekmogelijkheden van Adobe Commerce, aangedreven door Ad
 - Aanpasbare zoekervaring: dankzij functies zoals geavanceerde zoekregels, synoniemen en facetten kunnen klanten op maat en optimaal zoeken.
 - B2B-integratie: Live zoeken ondersteunt B2B-modellen met gedeelde catalogi en specifieke prijzen, waardoor de veelzijdigheid van deze modellen voor verschillende bedrijfsbehoeften wordt vergroot.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434048?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Aanbiedingen  
 
@@ -62,5 +62,5 @@ Adobe Commerce biedt winkelmanagers de mogelijkheid om zonder problemen productb
 - Geavanceerde promotiestrategieën.
 - Naadloze integratie met systemen van derden, die flexibiliteit en automatisering bevorderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434059?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

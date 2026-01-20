@@ -11,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-source-git-commit: 4cd68304f60ef6bb0a8f6ba21fc1a8a662225a88
+source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-[!DNL Live Search] van Adobe Commerce biedt een snelle, superrelevante en intuïtieve zoekervaring voor Adobe Commerce zonder extra kosten. [!DNL Live Search] , aangedreven door Adobe Sensei, maakt gebruik van kunstmatige intelligentie- en computerleeralgoritmen om een diepgaande analyse van de geaggregeerde bezoekersgegevens uit te voeren. Deze gegevens, in combinatie met uw Adobe Commerce-catalogus, leiden tot zeer boeiende, relevante en gepersonaliseerde winkelervaringen. Deze video helpt u uit te leggen hoe u live zoekopdrachten kunt gebruiken voor aanbevelingen voor energieproducten en maakte deel uit van een doorlopende webinarserie: &quot;Commerce quick wins&quot;.
+[!DNL Live Search] van Adobe Commerce biedt een snelle, superrelevante en intuïtieve zoekervaring voor Adobe Commerce zonder extra kosten. [!DNL Live Search] , aangedreven door Adobe AI, maakt gebruik van kunstmatige intelligentie- en machineleesalgoritmen om een diepgaande analyse van geaggregeerde bezoekersgegevens uit te voeren. Deze gegevens, in combinatie met uw Adobe Commerce-catalogus, leiden tot zeer boeiende, relevante en gepersonaliseerde winkelervaringen. Deze video helpt u uit te leggen hoe u live zoekopdrachten kunt gebruiken voor aanbevelingen voor energieproducten en maakte deel uit van een doorlopende webinarserie: &quot;Commerce quick wins&quot;.
 
 ## Voor wie is deze video?
 
@@ -31,12 +31,12 @@ ht-degree: 0%
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3430759?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
 
 
 ## Aanvullende bronnen
 
-- [&#x200B; Inleiding aan  [!DNL Live Search] &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=nl-NL)
-- [[!DNL Live Search]  overzicht &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=nl-NL)
-- [&#x200B; Verbinding van de Diensten van Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=nl-NL)
-- [&#x200B; Inleiding aan Product Recommendations &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=nl-NL)
+- [ Inleiding aan  [!DNL Live Search] ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+- [[!DNL Live Search]  overzicht ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [ Inleiding aan de Aanbevelingen van het Product ](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

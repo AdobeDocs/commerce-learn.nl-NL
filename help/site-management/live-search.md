@@ -10,7 +10,7 @@ role: Admin, User
 level: Beginner, Intermediate
 jira: KT-17151
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: 90752025ab3bc5650f871d6a12d907bfa5d22134
+source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Inleiding tot [!DNL Live Search]
 
-Dit is een korte inleiding op [!DNL Live Search] uit Adobe Commerce. [!DNL Live Search] , aangedreven door Adobe Sensei, maakt gebruik van kunstmatige intelligentie- en computerleeralgoritmen om een diepgaande analyse van de geaggregeerde bezoekersgegevens uit te voeren.
+Dit is een korte inleiding op [!DNL Live Search] uit Adobe Commerce. [!DNL Live Search] , aangedreven door Adobe AI, maakt gebruik van kunstmatige intelligentie- en machineleesalgoritmen om een diepgaande analyse van geaggregeerde bezoekersgegevens uit te voeren.
 
 {{ee-feature}}
 
@@ -30,12 +30,12 @@ Dit is een korte inleiding op [!DNL Live Search] uit Adobe Commerce. [!DNL Live 
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3452575?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
 
 
 ## Aanvullende bronnen
 
-- [&#x200B; Levende volledige demonstratie van het Onderzoek &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=nl-NL){target="_blank"} 
-- [[!DNL Live Search]  voor aanbevelingen &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=nl-NL){target="_blank"} 
-- [[!DNL Live Search]  overzicht &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=nl-NL){target="_blank"} 
-- [&#x200B; Verbinding van de Diensten van Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=nl-NL){target="_blank"} 
+- [ Levende volledige demonstratie van het Onderzoek ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
+- [[!DNL Live Search]  voor aanbevelingen ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
+- [[!DNL Live Search]  overzicht ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

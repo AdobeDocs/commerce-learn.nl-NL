@@ -1,5 +1,5 @@
 ---
-title: Product Recommendations instellen
+title: Productaanbevelingen instellen
 description: Klik hier als je wilt weten hoe je productaanbevelingen in je Adobe Commerce-winkel kunt gebruiken.
 doc-type: feature video
 audience: all
@@ -11,18 +11,18 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: fa2a12241e194ec1fbadb71333d05a3bb7fd6bb3
+source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Product Recommendations instellen
+# Productaanbevelingen instellen
 
 {{ee-feature}}
 
-De aanbevelingen van het product zijn een krachtig marketing hulpmiddel dat u kunt gebruiken om omzettingen te verhogen, opbrengst te verhogen, en winkelbetrokkenheid te stimuleren. Adobe Commerce-productaanbevelingen worden aangestuurd door Adobe Sensei, dat kunstmatige intelligentie en computerleeralgoritmen gebruikt om een diepgaande analyse van geaggregeerde bezoekersgegevens uit te voeren. Als deze gegevens worden gecombineerd met uw Adobe Commerce-catalogus, resulteert dit in een zeer aantrekkelijke, relevante en persoonlijke ervaring.
+De aanbevelingen van het product zijn een krachtig marketing hulpmiddel dat u kunt gebruiken om omzettingen te verhogen, opbrengst te verhogen, en winkelbetrokkenheid te stimuleren. Adobe Commerce-productaanbevelingen worden aangestuurd door Adobe AI, die kunstmatige intelligentie en computerleeralgoritmen gebruikt om een diepgaande analyse van geaggregeerde bezoekersgegevens uit te voeren. Als deze gegevens worden gecombineerd met uw Adobe Commerce-catalogus, resulteert dit in een zeer aantrekkelijke, relevante en persoonlijke ervaring.
 
 In deze video leert u hoe u productaanbevelingen kunt instellen.
 
@@ -33,9 +33,9 @@ In deze video leert u hoe u productaanbevelingen kunt instellen.
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3449964?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/343991?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- {de Gids van Recommendations van het 0} Product [&#128279;](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=nl-NL){target="_blank"} 
-- [&#x200B; Verbinding van de Diensten van Commerce &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=nl-NL){target="_blank"} 
+- [ Gids van de Aanbevelingen van het 0} Product](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+- [ Verbinding van de Diensten van Commerce ](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
