@@ -40,7 +40,7 @@ Nu u uw eerste Adobe Developer App Builder-app hebt gemaakt, leert u meer over a
 * [&#x200B; Adobe Developer App Builder &#x200B;](https://developer.adobe.com/app-builder/){target="_blank"}
 * [&#x200B; de proef van Adobe Developer App Builder &#x200B;](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [&#x200B; de documenten van Adobe Developer App Builder &#x200B;](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [&#x200B; de forums van Adobe Developer App Builder &#x200B;](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [&#x200B; de forums van Adobe Developer App Builder &#x200B;](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=nl){target="_blank"}
 * [&#x200B; de bijdragerichtlijnen van Adobe Developer App Builder &#x200B;](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

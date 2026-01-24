@@ -90,6 +90,6 @@ Klaar om te beginnen met ontwikkelen? De volgende koppeling bevat voorbeeldtoepa
 
 ## Ondersteuning {#support}
 
-Voor de verzoeken van de ontwikkelaarsteun, gebruik het [&#x200B; forum van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} voor hulp.
+Voor de verzoeken van de ontwikkelaarsteun, gebruik het [&#x200B; forum van Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=nl){target="_blank"} voor hulp.
 
 {{$include /help/_includes/app-builder-related-links.md}}
