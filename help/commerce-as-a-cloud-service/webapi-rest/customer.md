@@ -32,7 +32,7 @@ Leer nieuwe REST-API&#39;s voor klanten te gebruiken in Adobe Commerce as a Clou
 * De juiste REST API-eindpuntnotatie gebruiken voor Commerce as a Cloud Service
 * Klantenaccounts programmatisch maken en bijwerken met POST- en PUT-verzoeken met de juiste JSON-payloads
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479368/?captions=dut&learn=on&enablevpops)
 
 ## Codevoorbeelden
 
