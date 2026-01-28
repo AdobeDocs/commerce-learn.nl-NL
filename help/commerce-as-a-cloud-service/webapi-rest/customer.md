@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## Verwijzingen
 
-* [&#x200B; de Nota&#39;s van de Versie van Adobe Commerce as a Cloud Service &#x200B;](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+* [&#x200B; de Nota&#39;s van de Versie van Adobe Commerce as a Cloud Service &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/cloud-service/release-notes)
 * [&#x200B; REST API Verwijzing SaaS &#x200B;](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [&#x200B; Gids van de Authentificatie van de Gebruiker &#x200B;](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
