@@ -34,4 +34,4 @@ Adobe Commerce Success Accelerators voor adoptie en enablement omvatten drie bel
 * Coaching aan de zijde van het bureau van meerdere sessies om vaardigheidshiaten te sluiten en zich aan strategische prioriteiten te richten.
 * Creatie van toegang, toestemmingen, en ontwerpbestuur om correcte productgoedkeuring en beste praktijken te verzekeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463084/?captions=dut&learn=on&enablevpops)
