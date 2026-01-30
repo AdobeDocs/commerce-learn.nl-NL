@@ -40,6 +40,6 @@ Ontdek hoe Adobe Commerce bedrijven in staat stelt hun digitale uitbreiding te v
 
 ## Aanvullende video&#39;s in deze reeks
 
-[ Nieuwe Mededelingen van het Product ](./new-product-announcements.md)
-[ drastisch lagere kosten ](./drastically-cut-costs.md)
-[ de omrekeningskoersen van de Opleiding ](./supercharge-conversion-rates.md)
+[&#x200B; Nieuwe Mededelingen van het Product &#x200B;](./new-product-announcements.md)
+[&#x200B; drastisch lagere kosten &#x200B;](./drastically-cut-costs.md)
+[&#x200B; de omrekeningskoersen van de Opleiding &#x200B;](./supercharge-conversion-rates.md)

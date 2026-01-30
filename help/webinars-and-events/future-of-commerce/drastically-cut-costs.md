@@ -38,6 +38,6 @@ Adobe Commerce-cloudplatform stelt bedrijven in staat om operationele kosten te 
 
 ## Aanvullende video&#39;s in deze reeks
 
-[ Nieuwe Mededelingen van het Product ](./new-product-announcements.md)
-[ de omrekeningskoersen van de superlast ](./supercharge-conversion-rates.md)
-[ Snelle spooruitbreiding ](fast-track-expansion.md)
+[&#x200B; Nieuwe Mededelingen van het Product &#x200B;](./new-product-announcements.md)
+[&#x200B; de omrekeningskoersen van de superlast &#x200B;](./supercharge-conversion-rates.md)
+[&#x200B; Snelle spooruitbreiding &#x200B;](fast-track-expansion.md)

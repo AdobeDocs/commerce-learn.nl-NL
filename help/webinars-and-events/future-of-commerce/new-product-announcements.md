@@ -39,6 +39,6 @@ In het eerste van een webinar uit vier delen introduceert Adobe Commerce twee ba
 
 ## Aanvullende video&#39;s in deze reeks
 
-[ drastisch lagere kosten ](./drastically-cut-costs.md)
-[ de omrekeningskoersen van de superlast ](./supercharge-conversion-rates.md)
-[ Snelle spooruitbreiding ](fast-track-expansion.md)
+[&#x200B; drastisch lagere kosten &#x200B;](./drastically-cut-costs.md)
+[&#x200B; de omrekeningskoersen van de superlast &#x200B;](./supercharge-conversion-rates.md)
+[&#x200B; Snelle spooruitbreiding &#x200B;](fast-track-expansion.md)

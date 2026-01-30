@@ -40,6 +40,6 @@ Ontdek hoe Adobe Commerce digitale winkeliers transformeert met geavanceerde too
 
 ## Aanvullende video&#39;s in deze reeks
 
-[ Nieuwe Mededelingen van het Product ](./new-product-announcements.md)
-[ drastisch lagere kosten ](./drastically-cut-costs.md)
-[ Snelle spooruitbreiding ](fast-track-expansion.md)
+[&#x200B; Nieuwe Mededelingen van het Product &#x200B;](./new-product-announcements.md)
+[&#x200B; drastisch lagere kosten &#x200B;](./drastically-cut-costs.md)
+[&#x200B; Snelle spooruitbreiding &#x200B;](fast-track-expansion.md)
