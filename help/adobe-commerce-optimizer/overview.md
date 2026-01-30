@@ -37,4 +37,4 @@ Adobe Commerce Optimizer verbetert bestaande handelsplatforms door krachtige, ko
 
 ## Aanvullende bronnen
 
-[[!DNL Adobe Commerce Optimizer]  Gids &#x200B;](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer]  Gids &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}
