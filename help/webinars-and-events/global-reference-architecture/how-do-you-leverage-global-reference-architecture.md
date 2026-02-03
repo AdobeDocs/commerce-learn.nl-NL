@@ -38,6 +38,6 @@ Leer hoe u de Global Reference Architecture of GRA kort kunt gebruiken. Om een G
 * Vereiste verzamelen
 * Wanneer betrekt u het team QA
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456006?captions=dut&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
