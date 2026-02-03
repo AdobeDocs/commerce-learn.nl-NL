@@ -95,7 +95,7 @@ ht-degree: 2%
 
 + Uitbreidbaarheid {#extensibility}
    + Achterwaartse ontwikkeling {#backend-development}
-      + [&#x200B; Beste praktijken voor het wijzigen van gegevensbestandlijsten &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [&#x200B; Beste praktijken voor het wijzigen van gegevensbestandlijsten &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=nl-NL)
       + [Een module maken](../backend-development/create-module.md)
       + [Een productkenmerk toevoegen](../backend-development/add-product-attribute.md)
       + [Voorbeeld van injectie van afhankelijkheid](../backend-development/dependency-injection.md)
