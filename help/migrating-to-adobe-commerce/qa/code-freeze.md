@@ -10,7 +10,7 @@ duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -18,6 +18,8 @@ ht-degree: 0%
 ---
 
 # Migreren naar Adobe Commerce - Code bevriezen
+
+{{only-for-on-prem-commerce-cloud}}
 
 Het implementeren van een bevriezing van code tijdens de Adobe Commerce-migratie is van cruciaal belang voor een stabiele en succesvolle start. Door nieuwe codeplaatsingen tegen te houden, staat u het team QA, ontwikkelaars, en belanghebbenden toe om met een statische codebase te werken, het vertrouwen te verhogen en het risico van gebreken te verminderen. Dit proces omvat grondig het testen en bevestiging, het richten van hoog-prioritaire insecten, en het verzekeren van alle aspecten van de plaatstaak zoals verwacht. Een goed uitgevoerde code bevriest het volledige project, verhindert kwesties op het laatste ogenblik en verzekert een vlotte overgang aan Adobe Commerce.
 

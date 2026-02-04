@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -21,11 +21,13 @@ ht-degree: 0%
 
 # Het globale patroon van de verwijzingsarchitectuur van Pakketten van het Bulk
 
+{{only-for-on-prem-commerce-cloud}}
+
 In deze handleiding wordt uitgelegd hoe u Adobe Commerce instelt met het GRA-patroon (Bulk Packages Global Reference Architecture).
 
 Het GRA-patroon van bulkpakketten bestaat uit één Git-opslagplaats die alle algemene aanpassingen host. Deze enkele Git-opslagplaats wordt via Composer weergegeven als één composer-pakket, dat meerdere Adobe Commerce-modules bevat.
 
-![&#x200B; een diagram dat toont waar de code in een bulkpakkettenGRA patroon &#x200B;](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een bulkpakkettenGRA patroon ](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 

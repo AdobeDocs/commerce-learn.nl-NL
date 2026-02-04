@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -21,13 +21,15 @@ ht-degree: 0%
 
 # Het globale referentiearchitectuurpatroon van de Afzonderlijke Pakketten
 
+{{only-for-on-prem-commerce-cloud}}
+
 In deze handleiding wordt uitgelegd hoe u Adobe Commerce instelt met het GRA-patroon (Separate Packages Global Reference Architecture).
 
 Bij het GRA-patroon voor afzonderlijke pakketten wordt één Git-opslagplaats gebruikt voor elk gemeenschappelijk pakket en een Git-opslagplaats voor elke Adobe Commerce-instantie. Gemeenschappelijke pakketten worden via Composer weergegeven met een privécomposer-opslagplaats.
 
 Dit globale referentiearchitectuurpatroon is volledig gebaseerd op composers en is ontworpen om optimaal te profiteren van alle Composer-functies.
 
-![&#x200B; een diagram dat toont waar de code in een Afzonderlijk patroon van Pakketten GRA &#x200B;](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een Afzonderlijk patroon van Pakketten GRA ](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 
@@ -177,7 +179,7 @@ Bovendien bieden sommige privéopslagruimten extra functies, zoals e-mailmelding
 
 De traagheidskwestie is wat voorkomt wanneer u veelvoudige bewaarplaatsen VCS in composer.json hebt. Elke Composer-opslagplaats moet worden gelezen bij upgrades en 50 opslagplaatsen voor 50 pakketten hebben minstens 50 keer de overhead van slechts één Composer-opslagplaats.
 
-![&#x200B; een diagram dat toont waar de vertraging voorkomt wanneer een composer bewaarplaats &#x200B;](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"} mist
+![ een diagram dat toont waar de vertraging voorkomt wanneer een composer bewaarplaats ](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"} mist
 
 Neem een Composer-spiegel op in de vorm van een privécomposer-opslagplaats. De spiegel bevat een kopie van alle pakketten van andere composer-opslagplaatsen en van alle door Git gehoste pakketten. Met een persoonlijke Composer-opslagplaats krijgt u bovendien een fijnkorrelig toegangsbeheer.
 

@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -21,11 +21,13 @@ ht-degree: 0%
 
 # Het globale referentiearchitectuurpatroon Splitsen Git
 
+{{only-for-on-prem-commerce-cloud}}
+
 In deze handleiding wordt uitgelegd hoe u Adobe Commerce instelt met het GRA-patroon (Split Git Global Reference Architecture).
 
 Het gesplitste Git GRA-patroon bestaat uit twee Git-opslagplaatsen voor ontwikkeling en één Git-opslagplaats per Adobe Commerce-instantie. In de voorbeelden wordt aangenomen dat elke instantie een uniek merk vertegenwoordigt.
 
-![&#x200B; een diagram dat toont waar de code in een gesplitst patroon GRA &#x200B;](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een gesplitst patroon GRA ](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 
@@ -210,9 +212,9 @@ Voer `composer install` en `bin/magento install` uit voordat u doorgaat.
 
 Er zijn 3 testmodules voor op GitHub:
 
-1. [&#x200B; module-voorbeeld-lokaal &#x200B;](https://github.com/AntonEvers/module-example-local)
-2. [&#x200B; module-voorbeeld-gra &#x200B;](https://github.com/AntonEvers/module-example-gra)
-3. [&#x200B; module-voorbeeld-3rdparty &#x200B;](https://github.com/AntonEvers/module-example-3rdparty)
+1. [ module-voorbeeld-lokaal ](https://github.com/AntonEvers/module-example-local)
+2. [ module-voorbeeld-gra ](https://github.com/AntonEvers/module-example-gra)
+3. [ module-voorbeeld-3rdparty ](https://github.com/AntonEvers/module-example-3rdparty)
 
 ### Een lokale module installeren
 

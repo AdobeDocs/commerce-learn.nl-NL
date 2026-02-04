@@ -11,7 +11,7 @@ duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Migreren naar Adobe Commerce - Coderingsstandaarden in procesversies
+
+{{only-for-on-prem-commerce-cloud}}
 
 Leer enkele essentiële coderingsstandaarden en tips en trucs voor PHP, JavaScript en aanpassingen. Of u nu ontwikkelaar of bedrijf bent, deze set zelfstudies helpen u de complexe migraties naar Adobe Commerce te doorlopen en zorgen voor een soepele en succesvolle overgang.
 
@@ -32,4 +34,4 @@ Leer enkele essentiële coderingsstandaarden en tips en trucs voor PHP, JavaScri
 * Leer de beste praktijken voor PHP, JavaScript, en aanpassingen om een vlotte migratie te verzekeren.
 * Bekijk de inzichten van Adobe-experts over voorbereiding, prestaties en beveiliging voor geslaagde Adobe Commerce-projecten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434863?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

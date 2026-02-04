@@ -9,7 +9,7 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,6 +17,8 @@ ht-degree: 0%
 ---
 
 # Een JavaScript-module toevoegen
+
+{{only-for-on-prem-commerce-cloud}}
 
 Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module die de begroeting &quot;Hello World&quot; biedt.
 
@@ -38,5 +40,5 @@ Deze video biedt een doorloop voor het ontwikkelen van een eenvoudige JS-module 
 
 ## Nuttige bronnen
 
-- [&#x200B; de ontwikkelaarsgids van JavaScript &#x200B;](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [&#x200B; het roepen van en het initialiseren van JavaScript &#x200B;](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [ de ontwikkelaarsgids van JavaScript ](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [ het roepen van en het initialiseren van JavaScript ](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

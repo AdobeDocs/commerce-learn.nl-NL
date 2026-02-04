@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # Implementatietechnieken voor algemene referentiearchitectuur
+
+{{only-for-on-prem-commerce-cloud}}
 
 Er zijn verschillende manieren om code opnieuw te gebruiken met Adobe Commerce. Deze vier implementatietechnieken hebben elk hun eigen voordelen. De voorbeelden in dit artikel zijn van eenvoudige naar complexere volgorde geordend. Kies de strategie die het beste bij uw project en toekomstige routekaart past. Een migratie van de ene strategie naar de andere kan tijdrovend zijn.
 
@@ -39,47 +41,47 @@ In elk van deze scenario&#39;s is het raadzaam te onderzoeken met behulp van mee
 
 Naast &#39;geen GRA-patroon&#39; zijn er vier stijlen van GRA-patronen.
 
-![&#x200B; 5 pictogrammen van patronen GRA: geen GRA, spleet, bulk, scheidt en monorepo.](/help/assets/global-reference-architecture/gra-patterns-horizontal.png){align="center"}
+![ 5 pictogrammen van patronen GRA: geen GRA, spleet, bulk, scheidt en monorepo.](/help/assets/global-reference-architecture/gra-patterns-horizontal.png){align="center"}
 
 ### Geen GRA-patroon
 
-![&#x200B; een pictogram dat &quot;geen GRA&quot;toont &#x200B;](/help/assets/global-reference-architecture/no-gra.png){align="center"}
+![ een pictogram dat &quot;geen GRA&quot;toont ](/help/assets/global-reference-architecture/no-gra.png){align="center"}
 
 Wanneer geen GRA-patroon wordt gebruikt, is elke Adobe Commerce-instantie een unieke toepassing. Er is geen hergebruik van code, behalve door code handmatig van de ene instantie naar de andere te verplaatsen. Deze kopieën lopen altijd uiteen. De hoeveelheid inspanning om ervoor te zorgen dat elke instantie de zelfde veranderingen maar nog werkt zoals verwacht kan overweldigend worden. In dit scenario hebben drie instanties driemaal de onderhoudsinspanning van één instantie nodig.
 
-![&#x200B; een diagram dat 3 opslag toont, waar elk een exemplaar van de vroegere, met unieke ontwikkeling die in alle 3 exemplaren gebeurt.](/help/assets/global-reference-architecture/no-gra-pattern-diagram.png){align="center"}
+![ een diagram dat 3 opslag toont, waar elk een exemplaar van de vroegere, met unieke ontwikkeling die in alle 3 exemplaren gebeurt.](/help/assets/global-reference-architecture/no-gra-pattern-diagram.png){align="center"}
 
 ### Het gesplitste Git GRA-patroon
 
-![&#x200B; een pictogram dat het &quot;gespleten&quot;patroon van GRA &#x200B;](/help/assets/global-reference-architecture/split-git.png){align="center"} toont
+![ een pictogram dat het &quot;gespleten&quot;patroon van GRA ](/help/assets/global-reference-architecture/split-git.png){align="center"} toont
 
 Dit patroon bestaat uit Git-opslagplaatsen voor ontwikkeling en één Git-opslagplaats per instantie. Elk bestand in de instantie wordt onderhouden in een van de opslagplaatsen voor ontwikkelaars. Ze komen samen als een vlecht die de hele GRA vormt. Elke coderegel bestaat alleen in één ontwikkelingsopslagplaats en wordt met behulp van de omschakelingstechniek op de instanties geïnstalleerd, wat leidt tot hergebruik van code.
 
-![&#x200B; een diagram dat toont waar de code in een gesplitst patroon GRA &#x200B;](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een gesplitst patroon GRA ](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ### Het GRA-patroon van bulkpakketten
 
-![&#x200B; een pictogram dat het &quot;bulk&quot;patroon GRA &#x200B;](/help/assets/global-reference-architecture/bulk-packages.png){align="center"} vertegenwoordigt
+![ een pictogram dat het &quot;bulk&quot;patroon GRA ](/help/assets/global-reference-architecture/bulk-packages.png){align="center"} vertegenwoordigt
 
 De Adobe Commerce-kernmodules en modules van derden worden rechtstreeks geïnstalleerd via Composer-opslagruimten. Git-opslagruimten kunnen worden gebruikt als composer-opslagruimten. In dit patroon wordt de gehele gedeelde GRA-codebase gehost in één of enkele Git-opslagruimten en geïnstalleerd via Composer. Het belangrijkste kenmerk is dat meerdere modules, taalpakketten of thema&#39;s in één composerpakket worden ondergebracht, waardoor de ontwikkeling wordt vereenvoudigd.
 
-![&#x200B; een diagram dat toont waar de code in een bulkpakkettenGRA patroon &#x200B;](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een bulkpakkettenGRA patroon ](/help/assets/global-reference-architecture/bulk-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ### Het GRA-patroon van de afzonderlijke pakketten
 
-![&#x200B; een pictogram dat het &quot;afzonderlijke pakketten&quot;patroon GRA &#x200B;](/help/assets/global-reference-architecture/separate-packages.png){align="center"} vertegenwoordigt
+![ een pictogram dat het &quot;afzonderlijke pakketten&quot;patroon GRA ](/help/assets/global-reference-architecture/separate-packages.png){align="center"} vertegenwoordigt
 
 Elke Adobe Commerce-module, taalpakket of elk thema wordt geïnstalleerd als een apart composerpakket. Elke aanpassing heeft een eigen Git-opslagplaats. Dit betekent ultieme flexibiliteit in de samenstelling van de instanties en heeft een betrouwbaar beheer van composerafhankelijkheid. Voor het optimaliseren van prestaties, worden alle pakketten weerspiegeld in één enkele privé composer bewaarplaats.
 
-![&#x200B; een diagram dat toont waar de code in een afzonderlijk patroon van pakkettenGRA &#x200B;](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een afzonderlijk patroon van pakkettenGRA ](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ### Het monorepo GRA-patroon
 
-![&#x200B; een pictogram dat het &quot;monorepo&quot;patroon GRA &#x200B;](/help/assets/global-reference-architecture/monorepo.png){align="center"} vertegenwoordigt
+![ een pictogram dat het &quot;monorepo&quot;patroon GRA ](/help/assets/global-reference-architecture/monorepo.png){align="center"} vertegenwoordigt
 
 Alle ontwikkeling vindt plaats in één enkele codeopslagplaats. Automatisering genereert pakketten voor nieuwe versies en publiceert deze naar een composer-opslagplaats. Het patroon combineert de lage ontwikkelingsoverhead van de bulkpakketaanpak met de flexibiliteit van de afzonderlijke pakketaanpak. Het monorepopatroon is ook ideaal voor het uitvoeren van geautomatiseerde functionele tests.
 
-![&#x200B; een diagram dat toont waar de code in een patroon van monorepo GRA &#x200B;](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![ een diagram dat toont waar de code in een patroon van monorepo GRA ](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Een GRA-patroon kiezen
 
@@ -103,4 +105,4 @@ Gemeenschappelijke projectkenmerken voor elk patroon:
 
 Migratie van het ene patroon naar het andere is mogelijk. In het onderstaande diagram ziet u de mate van impact van de overgang van het ene naar het andere patroon. Groene lijnen tonen een lage impact, gele en amberkleurige lijnen tonen een matig complexe tot complexe migratie.
 
-![&#x200B; een diagram dat gekleurde pijlen tussen alle 4 patronen toont GRA, die op het niveau van moeilijkheid wijzen om zich van één naar andere te bewegen.](/help/assets/global-reference-architecture/wrong-choice.png){align="center"}
+![ een diagram dat gekleurde pijlen tussen alle 4 patronen toont GRA, die op het niveau van moeilijkheid wijzen om zich van één naar andere te bewegen.](/help/assets/global-reference-architecture/wrong-choice.png){align="center"}

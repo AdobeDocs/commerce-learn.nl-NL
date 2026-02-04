@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -22,6 +22,8 @@ ht-degree: 33%
 ---
 
 # Workshop Adobe Commerce 2.4-upgrade
+
+{{only-for-on-prem-commerce-cloud}}
 
 Bekijk dit geregistreerde webinar om de stappen en beste praktijken te leren om te volgen wanneer het voorbereidingen treffen voor uw volgende verbetering aan 2.4.4 of hoger.
 
@@ -39,10 +41,10 @@ In deze workshop heeft Adobe Commerce met Merkle samengewerkt om het volgende te
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/3432520?captions=dut&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Aanvullende bronnen
 
-- [&#x200B; Gids van de Verbetering &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=nl-NL)
-- [&#x200B; Vrijgegeven versies &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=nl-NL)
-- [&#x200B; programma van de Versie &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=nl-NL)
+- [ Gids van de Verbetering ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [ Vrijgegeven versies ](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [ programma van de Versie ](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
