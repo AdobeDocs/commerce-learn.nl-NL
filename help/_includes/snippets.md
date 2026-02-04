@@ -13,13 +13,13 @@ ht-degree: 0%
 ## Alleen EE-functie {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Adobe Commerce-functie" src="../assets/adobe-logo.svg" width="20" height="20" /> De exclusieve eigenschap slechts in Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions"> leert meer </a>)</td></tr>
+<tr><td><img alt="Adobe Commerce-functie" src="../assets/adobe-logo.svg" width="20" height="20" /> De exclusieve eigenschap slechts in Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=nl-NL#product-editions"> leert meer </a>)</td></tr>
 </table>
 
 ## Alleen B2B-functie {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce-functie" src="../assets/b2b.svg" width="20" height="20" /> Exclusieve eigenschap beschikbaar slechts met <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html"> B2B voor Adobe Commerce </a></td></tr>
+<tr><td><img alt="Adobe Commerce-functie" src="../assets/b2b.svg" width="20" height="20" /> Exclusieve eigenschap beschikbaar slechts met <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html?lang=nl-NL"> B2B voor Adobe Commerce </a></td></tr>
 </table>
 
 ## 400 kwesties {#avoid-400-error}
