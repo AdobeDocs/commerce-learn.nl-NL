@@ -34,4 +34,4 @@ Leer enkele essentiële coderingsstandaarden en tips en trucs voor PHP, JavaScri
 * Leer de beste praktijken voor PHP, JavaScript, en aanpassingen om een vlotte migratie te verzekeren.
 * Bekijk de inzichten van Adobe-experts over voorbereiding, prestaties en beveiliging voor geslaagde Adobe Commerce-projecten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434863?captions=dut&learn=on&enablevpops)

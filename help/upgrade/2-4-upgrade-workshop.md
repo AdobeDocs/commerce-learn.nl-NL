@@ -41,7 +41,7 @@ In deze workshop heeft Adobe Commerce met Merkle samengewerkt om het volgende te
 
 ## Video-inhoud
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432520?captions=dut&quality=12&learn=on)
 
 ## Aanvullende bronnen
 
