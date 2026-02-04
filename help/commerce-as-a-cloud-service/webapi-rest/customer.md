@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 225
 last-substantial-update: 2026-01-27T00:00:00Z
 jira: KT-20160
-source-git-commit: cb3fecf5f8b23425311dc31ed526b3b9bfe07b45
+source-git-commit: ad2cfb4b38d739b03e0c2fff8bcd88d77d6e4b12
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -32,11 +32,11 @@ Leer nieuwe REST-API&#39;s voor klanten te gebruiken in Adobe Commerce as a Clou
 * De juiste REST API-eindpuntnotatie gebruiken voor Commerce as a Cloud Service
 * Klantenaccounts programmatisch maken en bijwerken met POST- en PUT-verzoeken met de juiste JSON-payloads
 
->[!VIDEO](https://video.tv.adobe.com/v/3479368/?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
 
 ## Codevoorbeelden
 
-Alvorens te beginnen, verzamel alle vereiste waarden van [&#x200B; Experience Cloud &#x200B;](https://experience.adobe.com) en [&#x200B; Adobe Developer Console &#x200B;](https://developer.adobe.com/console). Als u deze waarden klaar hebt, bent u verzekerd van een vloeiend installatieproces.
+Alvorens te beginnen, verzamel alle vereiste waarden van [ Experience Cloud ](https://experience.adobe.com) en [ Adobe Developer Console ](https://developer.adobe.com/console). Als u deze waarden klaar hebt, bent u verzekerd van een vloeiend installatieproces.
 
 >[!NOTE]
 >
@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## Verwijzingen
 
-* [&#x200B; de Nota&#39;s van de Versie van Adobe Commerce as a Cloud Service &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/cloud-service/release-notes)
-* [&#x200B; REST API Verwijzing SaaS &#x200B;](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-* [&#x200B; Gids van de Authentificatie van de Gebruiker &#x200B;](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+* [ de Nota&#39;s van de Versie van Adobe Commerce as a Cloud Service ](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+* [ REST API Verwijzing SaaS ](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
+* [ Gids van de Authentificatie van de Gebruiker ](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
