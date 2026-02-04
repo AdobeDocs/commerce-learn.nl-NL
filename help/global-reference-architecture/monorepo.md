@@ -27,7 +27,7 @@ In deze handleiding wordt uitgelegd hoe u Adobe Commerce instelt met het GRA-pat
 
 Het patroon van Monorepo GRA omvat één enkele bewaarplaats van de it om alle gemeenschappelijke aanpassingen te ontvangen. Deze afzonderlijke Git-opslagplaats wordt via Composer weergegeven als afzonderlijke composer-pakketten.
 
-![ een diagram dat toont waar de code in een patroon van monorepo GRA ](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"} wordt opgeslagen
+![&#x200B; een diagram dat toont waar de code in een patroon van monorepo GRA &#x200B;](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"} wordt opgeslagen
 
 ## Voordelen en nadelen van dit patroon
 
@@ -188,7 +188,7 @@ In het volgende Git diff ziet u het verschil tussen een schone Adobe Commerce-in
 
 ### Metapakketten gebruiken
 
-Download de voorbeeldcode van [ AntonEvers/gra-meta-stichting ](https://github.com/AntonEvers/gra-meta-foundation) op GitHub om de metapakketten en de steekproefmodules te krijgen die in dit voorbeeld worden gebruikt.
+Download de voorbeeldcode van [&#x200B; AntonEvers/gra-meta-stichting &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) op GitHub om de metapakketten en de steekproefmodules te krijgen die in dit voorbeeld worden gebruikt.
 
 Composer-metapakketten bundelen meerdere composer-pakketten in één pakket. Wanneer een metapakket wordt vereist, worden alle pakketten die het bundelt automatisch geïnstalleerd door Composer vereist sectie van de metapakket.
 
@@ -257,7 +257,7 @@ Metapakketten staan in de monorepo in de map `packages` . In dit geval wordt de 
 
 Modules in de monorepo staan in de map `packages` . Op deze manier kunnen Composer ze vinden via de opslagplaats voor padtypen.
 
-Download de voorbeeldcode van [ AntonEvers/gra-meta-stichting ](https://github.com/AntonEvers/gra-meta-foundation) op GitHub om de metapakketten en de steekproefmodules te krijgen die in dit voorbeeld worden gebruikt.
+Download de voorbeeldcode van [&#x200B; AntonEvers/gra-meta-stichting &#x200B;](https://github.com/AntonEvers/gra-meta-foundation) op GitHub om de metapakketten en de steekproefmodules te krijgen die in dit voorbeeld worden gebruikt.
 
 ```text
 .
@@ -290,33 +290,33 @@ bin/magento test:local
 
 Er zijn meerdere opties voor het automatisch maken van pakketten. Sommige opties zijn:
 
-1. [ Privé Packagist ](https://packagist.com/)
-1. [ Simplyfy Monorepo Builder ](https://github.com/symplify/monorepo-builder)
+1. [&#x200B; Privé Packagist &#x200B;](https://packagist.com/)
+1. [&#x200B; Simplyfy Monorepo Builder &#x200B;](https://github.com/symplify/monorepo-builder)
 1. Bouw uw eigen oplossing
 
-[ Privé Packagist ](https://packagist.com/) automatiseert het erkennen van pakketten in de monorepo van de Git en stelt hen door Composer bloot. Het is compatibel met Adobe Commerce, snel, laag onderhoud en foutgevoelig, en daarom richt deze gids zich op de optie Private Packagist.
+[&#x200B; Privé Packagist &#x200B;](https://packagist.com/) automatiseert het erkennen van pakketten in de monorepo van de Git en stelt hen door Composer bloot. Het is compatibel met Adobe Commerce, snel, laag onderhoud en foutgevoelig, en daarom richt deze gids zich op de optie Private Packagist.
 
-Het is voorbij het werkingsgebied van deze gids om uit te leggen hoe te opstelling Privé Packagist, gelieve te zien [ docs ](https://packagist.com/docs).
+Het is voorbij het werkingsgebied van deze gids om uit te leggen hoe te opstelling Privé Packagist, gelieve te zien [&#x200B; docs &#x200B;](https://packagist.com/docs).
 
 U kunt een pakket veranderen in een monorepo nadat u de organisatie hebt gesynchroniseerd en uw Git-opslagplaatsen automatisch synchroniseren met Private Packagist.
 
 Ga eerst naar het tabblad Pakketten en zoek de monorepo:
 
-![ Privé het schermschot van het Pakket met het monorepo pakket zichtbaar in het pakkettenscherm ](/help/assets/global-reference-architecture/packagist-packages-before-multi-package.png){align="center"}
+![&#x200B; Privé het schermschot van het Pakket met het monorepo pakket zichtbaar in het pakkettenscherm &#x200B;](/help/assets/global-reference-architecture/packagist-packages-before-multi-package.png){align="center"}
 
 Klik op het monorepopakket en klik op &quot;Bewerken&quot; in het detailsscherm. Hiermee gaat u naar de volgende pagina:
 
-![ Privé het schermschot van het Pakket met het monorepo pakket uitgeeft pagina ](/help/assets/global-reference-architecture/packagist-packages-edit.png)
+![&#x200B; Privé het schermschot van het Pakket met het monorepo pakket uitgeeft pagina &#x200B;](/help/assets/global-reference-architecture/packagist-packages-edit.png)
 
 Onder het eerste invoerveld bevindt zich een koppeling met de volgende tekst: Maak een opslagplaats voor meerdere pakketten. Klik op deze koppeling.
 
-![ Privé het schermschot van het Pakket met de multi-pakketconfiguratie ](/help/assets/global-reference-architecture/packagist-packages-multi-package.png)
+![&#x200B; Privé het schermschot van het Pakket met de multi-pakketconfiguratie &#x200B;](/help/assets/global-reference-architecture/packagist-packages-multi-package.png)
 
 Definieer de locatie waar composerpakketten in uw monorepo kunnen worden gevonden. In het voorbeeld is de locatie `packages/**/composer.json` . Wijzig de locatie om te beperken of uit te breiden waar Private Packagist zoekt naar pakketten om te extraheren.
 
 Op het tabblad Pakketten worden na het opslaan alle gevonden pakketten weergegeven. De monorepo zelf is dan niet meer zichtbaar als een Composer-pakket:
 
-![ Privé het schermschot van het Pakket met alle monorepo pakketten zichtbaar in het pakketscherm ](/help/assets/global-reference-architecture/packagist-packages-after-multi-package.png)
+![&#x200B; Privé het schermschot van het Pakket met alle monorepo pakketten zichtbaar in het pakketscherm &#x200B;](/help/assets/global-reference-architecture/packagist-packages-after-multi-package.png)
 
 Voor elk pakket in de monorepo wordt in Composer een versie gemaakt voor elke tag of vertakking die op de monorepo in Git wordt gemaakt.
 
@@ -324,7 +324,7 @@ Voor elk pakket in de monorepo wordt in Composer een versie gemaakt voor elke ta
 
 Volg de instructies van Private Packagist om Private Packagist toe te voegen als een composer-opslagplaats. Private Packagist kan en moet worden gebruikt als spiegel voor al uw Composer-opslagplaatsen en Git-opslagplaatsen, inclusief packagist.org. Op die manier hoeven referenties niet te worden gedeeld met ontwikkelaars en hebt u volledige controle over elk pakket. In dit voorbeeld wordt deze beste praktijk niet gevolgd, omdat de Adobe Commerce-codebase dan openbaar wordt gemaakt.
 
-Download [ GRA Monorepo Merk X ](https://github.com/AntonEvers/gra-monorepo-brand-x) van GitHub om een voorbeeld van een productieopslag te zien.
+Download [&#x200B; GRA Monorepo Merk X &#x200B;](https://github.com/AntonEvers/gra-monorepo-brand-x) van GitHub om een voorbeeld van een productieopslag te zien.
 
 In de productieopslag is er geen map `packages` en worden alle pakketten geïnstalleerd via Composer. Het enige vereiste pakket is:
 

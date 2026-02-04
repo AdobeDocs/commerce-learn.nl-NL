@@ -37,12 +37,12 @@ In deze video:
 
 >[!NOTE]
 >
->Deze inhoud komt overeen met de release van Page Builder 1.0.0 voor Adobe Commerce 2.3.1. Voor informatie over updates in recentere versies, zie de [ de versienota&#39;s van de Bouwer van de Pagina ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Deze inhoud komt overeen met de release van Page Builder 1.0.0 voor Adobe Commerce 2.3.1. Voor informatie over updates in recentere versies, zie de [&#x200B; de versienota&#39;s van de Bouwer van de Pagina &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 
 ## Nuttige bronnen
 
-[ de ontwikkelaarsdocumentatie van de Bouwer van de Pagina ](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[&#x200B; de ontwikkelaarsdocumentatie van de Bouwer van de Pagina &#x200B;](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[ Gids van de Bouwer van de Pagina ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[&#x200B; Gids van de Bouwer van de Pagina &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
