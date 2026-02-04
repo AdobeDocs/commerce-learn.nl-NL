@@ -1,9 +1,9 @@
 ---
 title: Edition-banners
 description: Hergebruikte visuele elementen voor het noteren van een functie of pagina's die op een specifieke uitgave van toepassing zijn
-source-git-commit: 0cf8b11019cbe9d863ef8f281c09e715c1acb4b9
+source-git-commit: 180bfd303df77d95c88fa518253ddff6a67c76d4
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 ## Alleen EE-functie {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Adobe Commerce-functie" src="../assets/adobe-logo.svg" width="20" height="20" /> De exclusieve eigenschap slechts in Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=nl-NL#product-editions"> leert meer </a>)</td></tr>
+<tr><td><img alt="Adobe Commerce-functie" src="../assets/adobe-logo.svg" width="20" height="20" /> De exclusieve eigenschap slechts in Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions"> leert meer </a>)</td></tr>
 </table>
 
 ## Alleen B2B-functie {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce-functie" src="../assets/b2b.svg" width="20" height="20" /> Exclusieve eigenschap beschikbaar slechts met <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html?lang=nl-NL"> B2B voor Adobe Commerce </a></td></tr>
+<tr><td><img alt="Adobe Commerce-functie" src="../assets/b2b.svg" width="20" height="20" /> Exclusieve eigenschap beschikbaar slechts met <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html"> B2B voor Adobe Commerce </a></td></tr>
 </table>
 
 ## 400 kwesties {#avoid-400-error}
@@ -30,6 +30,9 @@ ht-degree: 0%
 > Stel dat het nodig is om alle huidige producten van Adobe Commerce op te vragen. De resulterende URL lijkt op `{{base_url}}rest/V1/products?searchCriteria=all` . Afhankelijk van de grootte van de catalogus die de geretourneerde pagina bevat, is de json mogelijk te groot om door App Builder te worden gebruikt. Gebruik in plaats daarvan paginering en doe een aantal verzoeken om te voorkomen dat `Response is not valid 'message/http'.`
 
 ## Alleen PaaS en Commere Cloud {#only-for-on-prem-commerce-cloud}
+
+
+**Deze informatie is op van toepassing:**
 
 | Op voorgrond | Adobe Commerce Cloud | Adobe Commerce as a Cloud Service | Aobe Commerce Optimizer |
 | --- | --- | --- | --- |
