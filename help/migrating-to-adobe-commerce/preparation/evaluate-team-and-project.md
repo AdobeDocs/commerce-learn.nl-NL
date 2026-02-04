@@ -42,4 +42,4 @@ Aan de voorkant kan de ervaring met implementaties zonder kop het proces vereenv
 
 ## Gerelateerde documentatie
 
-[&#x200B; wat is Adobe Commerce &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[&#x200B; wat is Adobe Commerce &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-admin/start/about)
