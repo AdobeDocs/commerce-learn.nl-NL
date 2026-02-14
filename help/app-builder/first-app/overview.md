@@ -30,7 +30,7 @@ Deze zelfstudie heeft de volgende voorwaarden:
 * [&#x200B; de werkruimten van Adobe Developer App Builder zijn gecreeerd - Stap 2.6 &#x200B;](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [&#x200B; de bevelen AIO CLI om het project te initialiseren en in werking te stellen zijn uitgevoerd &#x200B;](https://developer.adobe.com/runtime){target="_blank"}
 
-Voor meer informatie bij de bouw van uw eerste toepassing van App Builder, kunt u de volgende blogpost bekijken om met deze aanvankelijke opstelling en configuratie [&#x200B; te helpen hoe de hulp van App Builder bedrijfsbehendigheid voor uw handelsplatform &#x200B;](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"} drijft.
+Voor meer informatie bij de bouw van uw eerste toepassing van App Builder, kunt u de volgende blogpost bekijken om met deze aanvankelijke opstelling en configuratie [&#x200B; te helpen hoe de hulp van App Builder bedrijfsbehendigheid voor uw handelsplatform &#x200B;](https://business.adobe.com/nl/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"} drijft.
 
 ## Wat moet u verwachten van het lezen van deze zelfstudie
 

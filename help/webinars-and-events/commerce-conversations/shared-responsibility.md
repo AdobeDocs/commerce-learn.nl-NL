@@ -38,6 +38,6 @@ Leer hoe Adobe en handelaren de verantwoordelijkheid delen om Adobe Commerce Clo
 ## Aanvullende documentatie
 
 * [&#x200B; de flardversie van de Veiligheid nota&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-operations/release/notes/security-patches/overview)
-* [&#x200B; kanalen van het Bericht &#x200B;](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [&#x200B; kanalen van het Bericht &#x200B;](https://business.adobe.com/nl/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
 * [&#x200B; bulletins van de Veiligheid van Adobe &#x200B;](https://helpx.adobe.com/nl/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
 * [&#x200B; Beveilig uw handelsplaats en infrastructuur &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

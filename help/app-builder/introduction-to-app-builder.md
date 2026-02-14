@@ -69,7 +69,7 @@ Voor meer details over de architectuur van App Builder, zie het [&#x200B; Overzi
 
 Een overzicht van de composable commerce strategie, die de aanvankelijke opstelling omvat, kan door het volgende blogbericht te lezen worden gevonden:
 
-[&#x200B; Hoe de hulp van App Builder bedrijfs behendigheid voor uw handelsplatform &#x200B;](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"} drijft
+[&#x200B; Hoe de hulp van App Builder bedrijfs behendigheid voor uw handelsplatform &#x200B;](https://business.adobe.com/nl/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"} drijft
 
 Adobe heeft de volgende documentatie gemaakt om u te helpen aan de slag te gaan met App Builder:
 
