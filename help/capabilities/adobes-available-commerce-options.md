@@ -38,6 +38,6 @@ Meer informatie over de handelsopties van Adobe. Begrijp wat een aantal van de b
 
 ## Verwante documentatie
 
-* [ de Wolk van de Handel van Adobe ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview) {target= &quot;_blank}
-* [ Adobe Commerce as a Cloud Service ](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
-* [ Adobe Commerce Optimizer ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [&#x200B; de Wolk van de Handel van Adobe &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=_blank} 
+* [&#x200B; Adobe Commerce as a Cloud Service &#x200B;](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [&#x200B; Adobe Commerce Optimizer &#x200B;](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
