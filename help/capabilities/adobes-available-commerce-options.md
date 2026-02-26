@@ -8,13 +8,13 @@ feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
+source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Volledige demonstratie Adobe Commerce Data Connection
 
@@ -22,7 +22,7 @@ Meer informatie over de handelsopties van Adobe. Begrijp wat een aantal van de b
 
 ## Voor wie is deze video?
 
-* VP/Director of Trade
+* VP/Director of Commerce
 * Technische leiding
 * DevOps/Platform engineers
 * Marketing Technology Manager
@@ -38,6 +38,6 @@ Meer informatie over de handelsopties van Adobe. Begrijp wat een aantal van de b
 
 ## Verwante documentatie
 
-* [&#x200B; de Wolk van de Handel van Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce-on-cloud/user-guide/overview){target=_blank} 
-* [&#x200B; Adobe Commerce as a Cloud Service &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/cloud-service/overview){target="_blank"}
-* [&#x200B; Adobe Commerce Optimizer &#x200B;](https://experienceleague.adobe.com/nl/docs/commerce/optimizer/overview){target="_blank"}
+* [ de Wolk van de Handel van Adobe ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview) {target= &quot;_blank}
+* [ Adobe Commerce as a Cloud Service ](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [ Adobe Commerce Optimizer ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
