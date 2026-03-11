@@ -32,6 +32,6 @@ Ontdek hoe u met AI-tools aangepaste verzendkosten kunt maken. Deze zelfstudie b
 * Leer hoe het MCP terugkoppel hulpmiddel werkt
 * Begrijp hoe het mogelijk is om Adobe feedback te geven van IDE
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481312?captions=dut&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
